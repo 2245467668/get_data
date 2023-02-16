@@ -30,7 +30,7 @@ def get_detail_raing(url, dic_heders, dic_cookies):
     dic = {}
 
     for item in CommentList:
-        time.sleep(0.1)
+        time.sleep(0.5)
         # item 表示一条评论 li
         for x in item.find_all('div', class_="e_comment_usr_name"):
 

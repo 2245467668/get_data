@@ -34,7 +34,8 @@ def main():
    new_data.rename(columns={'中文名':'景点名称',"Unnamed: 0":"sid"},inplace=True)
 
    data=new_data.pop("景点名称")
-   new_data.insert(0,"景点名称",data)
+   new_data.insert(1,"景点名称",data)
+
 
    new_data.to_csv("../Scene_data/total_data.csv",index=False)
 
