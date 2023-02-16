@@ -1,0 +1,1827 @@
+,景点名称,攻略数量,评分,景区介绍,景点排名,经度,纬度,评论数量,旅游率,中文名,英文名
+0,上海迪士尼度假区Shanghai Disney Resort,73,94.0,中国大陆首座迪士尼度假区，身临其境地感受神奇王国。,1.0,121.671964,31.148267,33374,0.03,上海迪士尼度假区,ShanghaiDisneyResort
+1,上海海洋水族馆Shanghai Ocean Aquarium,17,92.0,观赏各种海洋生物，漫步海底隧道，感受五彩缤纷的海底世界。,1.0,121.508642,31.246459,5244,0.03,上海海洋水族馆,ShanghaiOceanAquarium
+2,上海海昌海洋公园Shanghai Haichang Ocean Park,0,92.0,,,121.910782,30.920947,1944,0.0,上海海昌海洋公园,ShanghaiHaichangOceanPark
+3,长兴岛Changxing Island,1,84.0,,151.0,121.740589,31.385953,134,0.0,长兴岛,ChangxingIsland
+4,武康路Wukang Road,30,94.0,14处优秀历史建筑，电影《色戒》中王佳芝与易先生最后幽会的地点。,55.0,121.4463595607,31.213621164,439,0.01,武康路,WukangRoad
+5,朱家角古镇景区Zhujiajiao Ancient Town Scenic Area,9,88.0,上海周边游览古镇的首选之地，在青砖白墙间感受水乡的静谧。,1.0,121.0603616306,31.1159338962,2447,0.02,朱家角古镇景区,ZhujiajiaoAncientTownScenicArea
+6,外滩The Bund,466,96.0,身倚浦西漫步十里洋场，隔江对望浦东繁华陆家嘴。,2.0,121.4987359133,31.2391219237,48999,0.52,外滩,TheBund
+7,太阳岛旅游度假区Sun Island,1,88.0,,11.0,121.079387,31.043011,136,0.0,太阳岛旅游度假区,SunIsland
+8,蔡浜村Caibang Village,0,80.0,,,120.953336,31.122277,0,0.0,蔡浜村,CaibangVillage
+9,横沙岛Hengsha Island,1,92.0,,647.0,121.860605,31.342956,80,0.0,横沙岛,HengshaIsland
+10,广富林文化遗址Guangfulin Relics Park,2,92.0,,32.0,121.2037403917,31.0689421665,522,0.0,广富林文化遗址,GuangfulinRelicsPark
+11,东方明珠Oriental Pearl Radio & Television Tower,222,92.0,在259米高的全透明观光廊上，360度欣赏申城夜景。,1.0,121.5064146572,31.2453018761,47360,0.29,东方明珠,OrientalPearlRadioTelevisionTower
+12,田子坊Tianzifang,216,88.0,穿梭在上海小弄堂里，逛逛复古小店和文人工作室。,3.0,121.474974,31.214113,3414,0.29,田子坊,Tianzifang
+13,上海海湾国家森林公园Shanghai Haiwan National Forest Park,2,88.0,烧烤、骑马、骑单车，赏梅赏荷观鸟好去处。,249.0,121.6970688369,30.867699394,1128,0.0,上海海湾国家森林公园,ShanghaiHaiwanNationalForestPark
+14,上海城隍庙道观City God Temple of Shanghai,217,92.0,位于市中心的著名道观，是历史悠久的祈福胜地。,4.0,121.499034,31.231472,2101,0.37,上海城隍庙道观,CityGodTempleofShanghai
+15,上海野生动物园Shanghai Wild Animal Park,7,94.0,与世界各地的动物亲密接触，体验亲手投食给羊驼的乐趣。,9.0,121.727995,31.06138,23138,0.0,上海野生动物园,ShanghaiWildAnimalPark
+16,静安寺Jing'an Temple,26,90.0,东部地区少见的融入藏式建筑风格的寺庙，闹市中的有名古刹。,38.0,121.451595,31.229947,890,0.05,静安寺,JinganTemple
+17,金山城市沙滩Jinshan City Beach,2,86.0,上海市内为数不多的海滨沙滩之一，玩沙子、海里游泳，尽情在海边撒欢。,73.0,121.355903,30.714121,590,0.0,金山城市沙滩,JinshanCityBeach
+18,泰晤士小镇Thames Town,5,90.0,教堂、城堡、桥廊，充斥着英伦风情，婚纱写真取景胜地。,1.0,121.204571,31.040178,989,0.01,泰晤士小镇,ThamesTown
+19,上海博物馆Shanghai Museum,50,92.0,观赏西周大克鼎、唐朝《高逸图》，还有众多青铜陶瓷和书画。,14.0,121.482358,31.234149,2402,0.11,上海博物馆,ShanghaiMuseum
+20,中新泾公园Zhongxinjing Park,0,88.0,,,121.372442,31.208113,25,0.0,中新泾公园,ZhongxinjingPark
+21,上海共青森林公园Gongqing National Forest Park,4,92.0,离市区最近的森林公园，踏青秋游、烧烤野营、骑马射箭好去处。,244.0,121.557183,31.325266,972,0.0,上海共青森林公园,GongqingNationalForestPark
+22,1933老场坊1933 Old Millfun,47,90.0,由宰牲场改造的创意园区，时尚餐厅、奢牌秀场汇聚于此。,17.0,121.49833,31.260148,848,0.04,老场坊,OldMillfun
+23,上海天文馆Shanghai Planetarium,0,84.0,,,121.932414,30.918563,2,0.0,上海天文馆,ShanghaiPlanetarium
+24,豫园Yu Garden,183,94.0,市区留存完好的江南古典园林，亭台楼阁雕梁画栋。,7.0,121.49909,31.232431,10378,0.33,豫园,YuGarden
+25,上海科技馆Shanghai Science and Technology Museum,31,94.0,上海最大的科普教育殿堂，体验各种模拟项目，感受科幻场景。,6.0,121.547781,31.224611,6813,0.04,上海科技馆,ShanghaiScienceandTechnologyMuseum
+26,上海环球金融中心Shanghai World Financial Center,48,94.0,登474米高的透明观光厅，平视东方明珠的尖顶、俯瞰全上海。,8.0,121.51346,31.239657,5336,0.12,上海环球金融中心,ShanghaiWorldFinancialCenter
+27,上海自然博物馆Shanghai Natural History Museum,14,96.0,展品十分丰富，“黄河古象”“马门溪龙”是镇馆之宝。,12.0,121.469143,31.241221,2153,0.01,上海自然博物馆,ShanghaiNaturalHistoryMuseum
+28,金山嘴渔村Jinshanzui Fishing Village,1,86.0,,2742.0,121.382644,30.738368,210,0.0,金山嘴渔村,JinshanzuiFishingVillage
+29,南京路步行街Nanjing Road Pedestrian Street,0,94.0,现代建筑夹杂着欧式老楼，竖挂的店铺灯箱连绵不绝。,,121.4907,31.243231,12224,0.0,南京路步行街,NanjingRoadPedestrianStreet
+30,枫泾古镇Fengjing Ancient Town,9,86.0,被誉为“吴越名镇”，游览水乡风貌，欣赏乡村农民画作。,42.0,121.022096,30.893168,821,0.0,枫泾古镇,FengjingAncientTown
+31,上海之巅观光厅Top of Shanghai Observatory,1,94.0,上海最高的观光厅，360度全视角欣赏上海魅力全景，实乃上海之巅。,70.0,121.512114,31.239112,1228,0.0,上海之巅观光厅,TopofShanghaiObservatory
+32,东平国家森林公园Dongping National Forest Park,2,90.0,去环园骑行、滑草、露营，在森林中自助烧烤也很有野趣。,2.0,121.486723,31.689489,1513,0.0,东平国家森林公园,DongpingNationalForestPark
+33,淀山湖风景区Dianshan Lake Scenic Spot,1,86.0,上海最大的天然淡水湖泊，也是母亲河黄浦江的源头，风光秀丽。,246.0,121.019202,31.135379,213,0.0,淀山湖风景区,DianshanLakeScenicSpot
+34,青西郊野公园Qingxi Country Park,1,86.0,,2383.0,121.014809,31.064508,107,0.0,青西郊野公园,QingxiCountryPark
+35,湖心岛公园,0,0.0,,,121.506256,30.938015,0,0.0,湖心岛公园,
+36,崇明岛国家地质公园Chongming Island National Geopark,2,94.0,赏日出日落、观候鸟，是上海城郊环境优美的度假之处。,39.0,121.237953,31.732695,220,0.0,崇明岛国家地质公园,ChongmingIslandNationalGeopark
+37,滴水湖Dishui Lake,9,88.0,俯瞰像一个圆形水滴的人工湖，适合上海及周边游客周末自驾。,111.0,121.9482005048,30.8986923401,498,0.0,滴水湖,DishuiLake
+38,东滩湿地公园Dongtan Wetland Park,6,84.0,漫步于植被丰富的湿地栈道，是观日出和自然摄影的胜地。,1.0,121.955977,31.52401,521,0.0,东滩湿地公园,DongtanWetlandPark
+39,上海中心大厦Shanghai Tower,8,94.0,中国第一、世界第二高楼，在118层观光厅欣赏上海城市美景。,9.0,121.512,31.239168,559,0.0,上海中心大厦,ShanghaiTower
+40,上海汽车博物馆Shanghai Automobile Museum,4,94.0,观赏各种品牌的古董车，了解汽车发展史，体验模拟驾驶。,28.0,121.1766998633,31.2846949817,857,0.0,上海汽车博物馆,ShanghaiAutomobileMuseum
+41,上海影视乐园Shanghai Film Park,3,88.0,老上海影视拍摄地，坐有轨电车或黄包车，体验时光倒流。,2.0,121.319246,31.016544,1907,0.01,上海影视乐园,ShanghaiFilmPark
+42,马勒别墅Hengshan Moller Villa Hotel,14,92.0,浪漫华丽的挪威城堡式建筑，室内装修却又不失中国风情。,18.0,121.462784,31.229144,673,0.03,马勒别墅,HengshanMollerVillaHotel
+43,东方绿舟Oriental Land,1,92.0,适合休闲郊游、素质拓展的大型公园。,578.0,121.017139,31.114697,1110,0.0,东方绿舟,OrientalLand
+44,魔都矩阵Magic Jungle,0,88.0,,,121.504804,31.252651,18,0.0,魔都矩阵,MagicJungle
+45,新天地Xintiandi,3,92.0,上海新地标之一，夜晚穿梭于各个露天酒吧，体验夜上海生活。,59.0,121.4812442093,31.2271646118,1409,0.0,新天地,Xintiandi
+46,南汇新城海滩Nanhuixincheng Beach,0,88.0,,,121.945726,30.871676,9,0.0,南汇新城海滩,NanhuixinchengBeach
+47,淀山湖大道风景区Dianshanhu Dadao Sceneic Area,0,86.0,,844.0,121.0558151016,31.1348304595,7,0.0,淀山湖大道风景区,DianshanhuDadaoSceneicArea
+48,周浦花海Zhoupu Sea of Flowers,1,86.0,不用远赴海外，在沪上就能观赏到异国花海。,397.0,121.650622,31.125903,329,0.0,周浦花海,ZhoupuSeaofFlowers
+49,1192弄老上海风情街1192 Nong Laoshanghai Fengqing Street,0,92.0,,,121.532799,31.234083,134,0.0,弄老上海风情街,NongLaoshanghaiFengqingStreet
+50,前滩休闲公园Qiantan Leisure Park,0,92.0,,2415.0,121.471909,31.156611,53,0.0,前滩休闲公园,QiantanLeisurePark
+51,七宝古镇Qibao Ancient Town,19,88.0,,13.0,121.361199,31.158938,375,0.05,七宝古镇,QibaoAncientTown
+52,南汇嘴观海公园Nanhuizui Guanhai Park,4,86.0,,116.0,121.978055,30.886412,127,0.0,南汇嘴观海公园,NanhuizuiGuanhaiPark
+53,中华艺术宫China Art Museum,51,90.0,原上海世博会中国国家馆，观赏镇馆之宝——多媒体版《清明上河图》。,33.0,121.501334,31.189988,880,0.01,中华艺术宫,ChinaArtMuseum
+54,召稼楼Zhaojialou Ancient Town,2,88.0,坐摇橹船游水巷，去礼园解读召稼楼历史文化。,75.0,121.555614,31.080923,622,0.0,召稼楼,ZhaojialouAncientTown
+55,思南路Sinan Road,24,92.0,漫步思南路，细赏风格迥异的花园洋房，感受老上海的悠悠历史。,88.0,121.476539,31.216219,399,0.02,思南路,SinanRoad
+56,上海薰衣草公园Momchilovtsi Herb Garden,1,94.0,,1741.0,121.681945,31.147702,294,0.0,上海薰衣草公园,MomchilovtsiHerbGarden
+57,迪士尼小镇Disneytown,20,94.0,美食、购物一应俱全，华特迪士尼大剧院坐落于此。,2.0,121.668349,31.145926,1173,0.0,迪士尼小镇,Disneytown
+58,息焉堂,0,90.0,,199.0,121.373575,31.210573,8,0.0,息焉堂,
+59,长兴岛郊野公园Changxing Island Country Park,1,84.0,,5.0,121.720774,31.406121,135,0.0,长兴岛郊野公园,ChangxingIslandCountryPark
+60,佘山国家森林公园Sheshan National Forest Park,2,90.0,上海高峰所在地，佘山天文台是看天文奇观的好去处。,5.0,121.201907,31.100768,489,0.0,佘山国家森林公园,SheshanNationalForestPark
+61,奉贤渔人码头Fisherman's Wharf,1,84.0,,267.0,121.526715,30.819689,21,0.0,奉贤渔人码头,FishermansWharf
+62,西沙明珠湖景区Xisha Mingzhu Lake Park,2,90.0,,6.0,121.2634927397,31.7438824857,237,0.0,西沙明珠湖景区,XishaMingzhuLakePark
+63,碧海金沙Bihai Jinsha Beach,1,90.0,上海最大的“人造”沙滩，沙子细软，不出上海也能与大海亲密接触！,51.0,121.582948,30.831425,689,0.0,碧海金沙,BihaiJinshaBeach
+64,威尼斯小镇Venice Town,0,94.0,,,121.3840526447,31.2364402715,20,0.0,威尼斯小镇,VeniceTown
+65,人民广场People's Square,88,94.0,名副其实的上海地标和交通枢纽，在广场上喂鸽子看喷泉。,26.0,121.481144,31.235297,1903,0.13,人民广场,PeoplesSquare
+66,州桥老街Zhouqiao Old Street,1,90.0,,680.0,121.257881,31.389981,167,0.0,州桥老街,ZhouqiaoOldStreet
+67,上海当代艺术博物馆Power Station of Art,8,90.0,发电厂房改造的博物馆，也是上海双年展的主场馆。可参观各种前卫艺术品。,98.0,121.505082,31.206746,246,0.0,上海当代艺术博物馆,PowerStationofArt
+68,老上海1930风情街Laoshanghai 1930 Fengqing Street,2,84.0,,44.0,121.482317,31.237426,211,0.0,老上海风情街,LaoshanghaiFengqingStreet
+69,陆家嘴Lujiazui,86,94.0,举世闻名的金融中心，乐园和大型商场众多。,15.0,121.508984,31.243812,1300,0.02,陆家嘴,Lujiazui
+70,青浦岑卜村Cenbocun,0,92.0,,1798.0,120.949015,31.06539,3,0.0,青浦岑卜村,Cenbocun
+71,金山公园,0,0.0,,,121.168962672,30.8979034763,0,0.0,金山公园,
+72,上海老街Shanghai Old Street,38,92.0,一条汇集了上海最早的钱庄、金店、银楼、茶馆、戏楼等的老街。,10.0,121.503455,31.231018,734,0.18,上海老街,ShanghaiOldStreet
+73,外白渡桥Garden Bridge,69,92.0,上海标志性建筑之一，老上海题材影视剧取景地。,35.0,121.49699,31.24957,1334,0.11,外白渡桥,GardenBridge
+74,上海滨江森林公园Binjiang Forest Park,2,94.0,观江景、看夕阳，或是在林中漫步，春季赏杜鹃花，夏季可欣赏湿地植物。,569.0,121.534393,31.38897,368,0.0,上海滨江森林公园,BinjiangForestPark
+75,花开海上生态园Huakai Haishang Ecological Park,0,92.0,,,121.122985,30.891863,160,0.0,花开海上生态园,HuakaiHaishangEcologicalPark
+76,钟书阁(松江泰晤士小镇店)Zhongshuge Bookstore,0,94.0,坐落在泰晤士小镇的“最美书店”，对书情有独钟。,,121.201441,31.040223,193,0.0,钟书阁松江泰晤士小镇店,ZhongshugeBookstore
+77,七宝老街Qibao Old Street,4,86.0,参观民俗景点，品尝各色小吃，坐船泛舟水巷，品味古镇风情。,176.0,121.361133,31.157839,1366,0.0,七宝老街,QibaoOldStreet
+78,古猗园Guyi Garden,11,92.0,上海最大的园林，吸引无数摄影爱好者，园内上海古猗园餐厅能吃到正宗南翔小笼。,166.0,121.3229,31.297989,1279,0.0,古猗园,GuyiGarden
+79,上海动物园Shanghai Zoo,5,94.0,中国第二大城市动物园，观察珍稀动物，体验亲手喂食。,23.0,121.3694183532,31.1986780408,3129,0.0,上海动物园,ShanghaiZoo
+80,上海辰山植物园Shanghai Chenshan Botanical Garden,2,94.0,在矿井花园看瀑布，冬天在展馆温室观赏各类珍稀植物。,3.0,121.189078,31.081652,1500,0.0,上海辰山植物园,ShanghaiChenshanBotanicalGarden
+81,新场古镇Xinchang Ancient Town,7,88.0,品味明清老建筑、参观历史陈列馆。电影《色戒》曾在此取景。,85.0,121.652503,31.031093,505,0.0,新场古镇,XinchangAncientTown
+82,崇明长江三角洲国家地质公园Chongming Yangtze River Delta National Geopark,0,0.0,,,121.237948,31.732706,0,0.0,崇明长江三角洲国家地质公园,ChongmingYangtzeRiverDeltaNationalGeopark
+83,陕西南路Shaanxi South Road,2,92.0,,2185.0,121.463239,31.22917,56,0.0,陕西南路,ShaanxiSouthRoad
+84,上海电影博物馆Shanghai Film Museum,3,94.0,观赏各种电影海报和拍摄道具，体验有趣的电影后期制作过程。,43.0,121.444536,31.192501,683,0.0,上海电影博物馆,ShanghaiFilmMuseum
+85,上海植物园Shanghai Botanical Garden,8,90.0,上海市区的大花园，四季植被茂盛，是散步健身、花卉摄影的好去处。,46.0,121.450949,31.153874,1439,0.0,上海植物园,ShanghaiBotanicalGarden
+86,东海大桥Donghai Bridge,4,90.0,,689.0,121.9855053326,30.7265644073,52,0.0,东海大桥,DonghaiBridge
+87,哥伦比亚公园,0,40.0,魔都新晋的摩洛哥风公园，度假感十足,,121.433423,31.216059,2,0.0,哥伦比亚公园,
+88,黄浦江Huangpu River,58,94.0,上海的地标河流，夜晚在江边散步或坐游船看两岸灯火。,101.0,121.4996049926,31.2441202296,1008,0.0,黄浦江,HuangpuRiver
+89,奉浦四季生态园Fengpu Four Seasons Ecological Garden (West Gate),0,90.0,,2386.0,121.476611,30.941056,81,0.0,奉浦四季生态园,FengpuFourSeasonsEcologicalGardenWestGate
+90,思南公馆Sinan Mansions,11,94.0,欣赏成片的花园洋房，感受老上海的洋气。,47.0,121.475006,31.220366,343,0.0,思南公馆,SinanMansions
+91,上海邮政博物馆Shanghai Postal Museum,4,92.0,历史悠久的邮政大楼，了解中国邮政发展史，参观有趣的邮政工具和邮票珍品。,83.0,121.491381,31.25014,445,0.0,上海邮政博物馆,ShanghaiPostalMuseum
+92,淮海路Huaihai Road,26,90.0,在淮海路商业街疯狂购物，夜晚感受霓虹灯下的浪漫情调。,41.0,121.476199,31.224781,610,0.1,淮海路,HuaihaiRoad
+93,上海大观园Shanghai Grand View Garden,4,90.0,漫步大型仿古建筑群，置身《红楼梦》的仿真场景之中。,72.0,120.916634,31.079238,739,0.0,上海大观园,ShanghaiGrandViewGarden
+94,广富林遗址文化公园,3,88.0,"不远的将来, 追寻上海历史之根,探究海派文化之源,品味自然生态的“广富林文化遗址公园”,将成为上海市民人文旅游的重头戏。",156.0,121.204525,31.068189,16,0.0,广富林遗址文化公园,
+95,大淀湖Dadian Lake,1,88.0,,15.0,121.0602410824,31.1238212585,46,0.0,大淀湖,DadianLake
+96,商榻古镇Shangta Ancient Town,1,88.0,,2158.0,120.9303197004,31.1211662292,10,0.0,商榻古镇,ShangtaAncientTown
+97,徐家汇天主教堂St. Ignatius Cathedral,8,90.0,上海最大的天主教堂，欣赏中世纪哥特式建筑和内部精美的装饰。,50.0,121.442629,31.1975,464,0.09,徐家汇天主教堂,StIgnatiusCathedral
+98,南翔古镇Nanxiang Ancient Town,8,88.0,看白墙黑瓦江南水乡，逛上海最大的江南园林古猗园。,62.0,121.313593,31.297143,703,0.0,南翔古镇,NanxiangAncientTown
+99,静安别墅Jing'an Villa,1,92.0,上海最大的新式里弄住宅群，曾有很多名门望族居住于此。,580.0,121.464448,31.233855,326,0.0,静安别墅,JinganVilla
+100,海上花岛生态度假村Qianwei Ecological Village,1,76.0,,2.0,121.516457,31.723174,111,0.0,海上花岛生态度假村,QianweiEcologicalVillage
+101,上海玻璃博物馆Shanghai Museum of Glass,1,88.0,玻璃窑炉车间改建的博物馆，可见各种精美的玻璃艺术品，观看玻璃制作过程。,89.0,121.478542,31.349786,504,0.0,上海玻璃博物馆,ShanghaiMuseumofGlass
+102,长江第一滩First Beach of Yangtze River,0,76.0,,,121.797531,31.352119,7,0.0,长江第一滩,FirstBeachofYangtzeRiver
+103,上海外滩星空艺术馆Starry Gallery of Shanghai,1,84.0,,170.0,121.50497,31.233565,250,0.0,上海外滩星空艺术馆,StarryGalleryofShanghai
+104,愚园路历史风貌保护区Yuyuan Road,3,94.0,繁华中的幽静，凝聚了诸多老上海故事的低调马路。,2393.0,121.444871,31.227868,315,0.0,愚园路历史风貌保护区,YuyuanRoad
+105,东林寺Donglin Temple,1,94.0,七百年来香火长旺，有亚洲最高的室内千手观音圣像。,611.0,121.1723895212,30.9003183241,213,0.0,东林寺,DonglinTemple
+106,广富林郊野公园Guangfulin Jiaoye Park,0,88.0,,,121.186543,31.074869,24,0.0,广富林郊野公园,GuangfulinJiaoyePark
+107,多伦路文化名人街Duolun Road Cultural Street,23,88.0,参观鲁迅、茅盾、郭沫若等名人故居，在复古的洋楼老街散步拍照。,29.0,121.4883520019,31.2680882848,535,0.1,多伦路文化名人街,DuolunRoadCulturalStreet
+108,甜爱路Tian'ai Road,40,88.0,上海最浪漫的马路，在爱心邮筒给你的TA寄出盖有爱心邮戳的信函。,22.0,121.490625,31.274099,536,0.07,甜爱路,TianaiRoad
+109,上海长风海洋世界Changfeng Ocean World,2,86.0,观看大型海洋动物的表演。,5.0,121.403475,31.230932,2334,0.0,上海长风海洋世界,ChangfengOceanWorld
+110,课植园Kezhi Garden,3,88.0,朱家角的园林胜景，漫步于曲径或小憩于水榭，在园林小景中享受恬静惬意。,8.0,121.059973,31.11952,210,0.0,课植园,KezhiGarden
+111,方塔园Songjiang Square Pagoda,2,90.0,环境优雅的园林，可见宋代方塔、明代砖雕照壁、清代天妃宫等景点。,10.0,121.253011,31.010392,331,0.0,方塔园,SongjiangSquarePagoda
+112,EPSON teamLab 无界美术馆EPSON teamLab: teamLab Borderless Shanghai,0,94.0,,,121.504015597,31.2074602994,35,0.0,无界美术馆,EPSONteamLabEPSONteamLabteamLabBorderlessShanghai
+113,玉佛功德园Yufogong Deyuan,0,0.0,,1378.0,120.9885896123,31.0962598617,0,0.0,玉佛功德园,YufogongDeyuan
+114,太阳岛沙滩Sun Island Beach,0,88.0,,494.0,121.0893764751,31.0374584198,1,0.0,太阳岛沙滩,SunIslandBeach
+115,国家会展中心National Exhibition and Convention Center,1,92.0,,269.0,121.3085816472,31.196214201,261,0.0,国家会展中心,NationalExhibitionandConventionCenter
+116,城隍庙旅游区Shanghai City God Temple Tourist Area,61,92.0,参观豫园和老城隍庙，品地道上海小吃和本帮菜。,143.0,121.497994,31.232396,5649,0.0,城隍庙旅游区,ShanghaiCityGodTempleTouristArea
+117,醉白池Zuibaichi Park,2,90.0,上海最古老的园林，参观经典明清建筑，欣赏各种名人石刻。,47.0,121.237508,31.007731,356,0.0,醉白池,ZuibaichiPark
+118,月湖雕塑公园Shanghai Sculpture Park,1,88.0,在错落着艺术雕塑的月湖畔散步，拥有大面积果岭草地，上海的溜宠胜地。,64.0,121.211287,31.107223,474,0.0,月湖雕塑公园,ShanghaiSculpturePark
+119,步高里Bugaoli Scenic Resort,6,86.0,,76.0,121.4691216454,31.2129802704,121,0.0,步高里,BugaoliScenicResort
+120,金茂大厦Jinmao Building,39,94.0,上海第三高楼，著名地标之一，在88层观光厅俯瞰上海城市风光。,24.0,121.512255,31.241027,2672,0.13,金茂大厦,JinmaoBuilding
+121,黄浦江观光区Huangpu River,14,90.0,黄浦江是上海的地标河流，荟萃了上海城市夜景的精华，乘船夜游的好去处。,56.0,121.4992519294,31.2387436143,50,0.04,黄浦江观光区,HuangpuRiver
+122,复旦大学Fudan University,23,94.0,访百年名校复旦大学，仰望光华楼，感受沪上知名学府的人文情怀。,20.0,121.511012,31.301524,698,0.02,复旦大学,FudanUniversity
+123,周公馆Former Residence of Zhou Enlai in Shanghai,2,92.0,保存完好的西班牙式花园洋楼，伟人们在沪展开革命之地。,112.0,121.474868,31.22029,143,0.01,周公馆,FormerResidenceofZhouEnlaiinShanghai
+124,上海鲜花港Shanghai Flower Port,2,88.0,3月底-5月中旬可赏郁金香，姹紫嫣红的花海极美。,558.0,121.909087,30.950741,361,0.0,上海鲜花港,ShanghaiFlowerPort
+125,长风公园Changfeng Park,3,90.0,“勇敢者道路”很受青少年喜爱；长风海洋世界在园内。,93.0,121.406081,31.230871,919,0.0,长风公园,ChangfengPark
+126,武康大楼Wukang Mansion,12,92.0,形似熨斗的上海著名建筑大楼，诸多名人曾入住于此。,133.0,121.44472,31.210733,297,0.0,武康大楼,WukangMansion
+127,江南三民文化村Jiangnan Sanmin Culture Village,0,84.0,富有民俗特色的文化村，踩高跷推铁环玩童年游戏。,3.0,121.5057,31.724771,59,0.0,江南三民文化村,JiangnanSanminCultureVillage
+128,遇见博物馆·上海静安馆,0,88.0,,,121.449386,31.297082,1,0.0,遇见博物馆上海静安馆,
+129,米域•有光MIXPACE,0,86.0,,,121.461038,31.233274,7,0.0,米域有光,MIXPACE
+130,奉贤博物馆Fengxian Museum,1,88.0,,2081.0,121.509324,30.939284,74,0.0,奉贤博物馆,FengxianMuseum
+131,巴金故居Former Residence of Ba Jin,2,90.0,参观巴金生前起居、写作的房间。,2211.0,121.447147,31.215026,228,0.0,巴金故居,FormerResidenceofBaJin
+132,金茂大厦88层观光厅Jinmao Tower Observation Deck,1,94.0,上海著名观景平台，能在高空俯瞰繁华的魔都。,142.0,121.512231,31.241024,1802,0.0,金茂大厦层观光厅,JinmaoTowerObservationDeck
+133,衡复历史文化风貌区Hengshan Leisure Street,16,90.0,,32.0,121.449293,31.206121,320,0.02,衡复历史文化风貌区,HengshanLeisureStreet
+134,徐家汇源,1,100.0,​徐家汇源景区位于上海都市旅游中心圈徐家汇，主要由历史景观风貌、时尚活力购物和绿色休闲娱乐三大板块组成。,608.0,121.443043,31.197086,4,0.0,徐家汇源,
+135,上海寻梦源梦水乡Xunmengyuan Herb Farm,0,84.0,,,121.097122,31.047402,17,0.0,上海寻梦源梦水乡,XunmengyuanHerbFarm
+136,大宁灵石公园Daning Park,4,92.0,不用远赴海外，就能感受到荷兰赏花胜地“库肯霍夫花园”的郁金风情。,121.0,121.45316,31.284678,957,0.0,大宁灵石公园,DaningPark
+137,喜玛拉雅美术馆Shanghai Himalayas Museum,1,88.0,,15.0,121.568386,31.215181,83,0.0,喜玛拉雅美术馆,ShanghaiHimalayasMuseum
+138,上海外滩美术馆Rockbund Art Museum,2,94.0,欣赏各种现代艺术作品，在楼顶露台享受咖啡与美景。,63.0,121.494113,31.246931,399,0.0,上海外滩美术馆,RockbundArtMuseum
+139,上海马戏城Shanghai Circus World,1,90.0,中国马戏第一城，有适合小朋友观看的《欢乐马戏》，也有享誉海外的《ERA时空之旅》。,8.0,121.457945,31.284439,897,0.0,上海马戏城,ShanghaiCircusWorld
+140,上海儿童博物馆Shanghai Children's Museum,2,90.0,寓教于乐的知识殿堂，儿童可在此得到丰富的科普启蒙。,36.0,121.419405,31.199852,161,0.0,上海儿童博物馆,ShanghaiChildrensMuseum
+141,寒山寺,17,88.0,寒山寺已有近374年历史。明朝天启四年，杨军门夫人朱氏自苏州驾小船来到崇明。朱氏在岛上削发为尼，法名颠修，建寺名寒山寺，供寒山拾得二像。原寒山寺北至护城河（现崇明中学马路），南至人民路，西至护城河沿界（农业大楼），东至旧大校场（现向…,77.0,121.4080510142,31.6304013168,6,0.0,寒山寺,
+142,龙美术馆西岸馆Long Museum (West Bund),2,92.0,室内与室外完美结合的开放式美术馆，让艺术更加亲民。,193.0,121.471366,31.190301,239,0.0,龙美术馆西岸馆,LongMuseumWestBund
+143,孔庙Confucian Temple,3,94.0,,636.0,121.4945430417,31.2232846425,31,0.0,孔庙,ConfucianTemple
+144,青溪老街,0,84.0,,,121.5891641954,30.9296540962,0,0.0,青溪老街,
+145,小灶村体验农场Xiaozaocun Tiyan Farm,0,76.0,,,121.284467,31.395217,5,0.0,小灶村体验农场,XiaozaocunTiyanFarm
+146,油罐艺术中心Youguan Art Center,0,86.0,,,121.469743,31.171002,21,0.0,油罐艺术中心,YouguanArtCenter
+147,大莲湖湿地Dalianhu Wetland,0,88.0,,,121.003177,31.069671,9,0.0,大莲湖湿地,DalianhuWetland
+148,浦江郊野公园奇迹花园Pujiang Jiaoye Gongyuan Qiji Garden,0,88.0,,,121.514217,31.060286,175,0.0,浦江郊野公园奇迹花园,PujiangJiaoyeGongyuanQijiGarden
+149,中国兵器博览馆China Ordnance Expo,0,94.0,,1958.0,121.024908,31.109638,23,0.0,中国兵器博览馆,ChinaOrdnanceExpo
+150,富民路Fumin Road,1,84.0,,2014.0,121.4572330595,31.2260704041,15,0.0,富民路,FuminRoad
+151,风车湾Windmill Bay,1,100.0,,2493.0,121.916124,30.860425,2,0.0,风车湾,WindmillBay
+152,古藤园Guteng Garden (East Gate),1,92.0,,2667.0,121.393967,31.007918,62,0.0,古藤园,GutengGardenEastGate
+153,新虹桥中心花园Xinhongqiao Center Park,0,92.0,,2722.0,121.411023,31.20618,68,0.0,新虹桥中心花园,XinhongqiaoCenterPark
+154,古华公园Guhua Park,1,90.0,,2748.0,121.471003,30.923862,256,0.0,古华公园,GuhuaPark
+155,上海宋庆龄故居纪念馆Soong Ching Ling Memorial Residence,1,92.0,繁华淮海路上闹中取静的一处，西式建筑风格优雅别致。,87.0,121.445413,31.210427,243,0.01,上海宋庆龄故居纪念馆,SoongChingLingMemorialResidence
+156,朱家角北大街,0,0.0,"北大街，又称""一线街""，是上海市郊保存得最完整的明清建筑第一街，全长两里多路，其东起放生桥，西至美周弄的三百多米，是最富有代表性的明清建筑精华所在。这里，旧式民宅鳞次栉比，粉墙灰瓦错落有致，窄窄通道曲径通幽，石板条路逶迤不断，老店名…",7.0,121.062171,31.11673,1,0.0,朱家角北大街,
+157,世纪公园Century Park,11,96.0,上海市内最大的生态公园，树木花草众多，休闲漫步的好去处。,64.0,121.558238,31.221747,2173,0.01,世纪公园,CenturyPark
+158,紫藤园Jiading Wistaria Garden,4,92.0,,392.0,121.265131,31.384864,265,0.0,紫藤园,JiadingWistariaGarden
+159,上海交通大学Shanghai Jiao Tong University,20,92.0,文化底蕴深厚、办学传统悠久的全国重点大学，中西合璧的校园建筑和各式博物馆都值得参观拜访。,73.0,121.439021,31.205559,494,0.01,上海交通大学,ShanghaiJiaoTongUniversity
+160,南京西路West Nanjing Road,12,94.0,,23.0,121.4598485479,31.2330771947,38,0.0,南京西路,WestNanjingRoad
+161,上海琉璃艺术博物馆Liuli China Museum,5,90.0,中国甚至亚洲第一个展示琉璃艺术的博物馆，能欣赏古代中国到现代世界的琉璃大作。,51.0,121.476866,31.213867,314,0.0,上海琉璃艺术博物馆,LiuliChinaMuseum
+162,中国航海博物馆China Maritime Museum,2,94.0,国内首座航海专题博物馆，看各种仿真模型和航海设备实物。,61.0,121.926006,30.902445,713,0.0,中国航海博物馆,ChinaMaritimeMuseum
+163,汤连得·多喜温泉（闵行店）,0,82.0,,,121.375454,31.146,0,0.0,汤连得多喜温泉闵行店,
+164,渔港公园,0,0.0,,,121.794606,31.356716,0,0.0,渔港公园,
+165,上海之鱼,0,90.0,,,121.505745,30.938155,4,0.0,上海之鱼,
+166,绿之丘Green Valley,0,90.0,,,121.545418,31.260861,20,0.0,绿之丘,GreenValley
+167,Sky Park 高登公园Sky Park,0,88.0,,,121.402661,31.22908,27,0.0,高登公园,SkyParkSkyPark
+168,南极企鹅馆Antarctic Penguin Encounter,0,94.0,与萌萌哒企鹅亲密接触,,121.911276,30.919863,26,0.0,南极企鹅馆,AntarcticPenguinEncounter
+169,涌泉坊Bubbling Well Lane,0,94.0,,1763.0,121.447498,31.228503,19,0.0,涌泉坊,BubblingWellLane
+170,永福路Yongfu Road,0,96.0,,1779.0,121.4491560182,31.214613935,23,0.0,永福路,YongfuRoad
+171,崇明荷花博览园Lotus Expo Park,1,88.0,,12.0,121.246813,31.735561,38,0.0,崇明荷花博览园,LotusExpoPark
+172,东海观音寺Donghai Guanyin Temple,0,86.0,,2137.0,121.5211799615,30.8215503693,12,0.0,东海观音寺,DonghaiGuanyinTemple
+173,报国寺Qingpu Baoguo Temple,1,78.0,,20.0,120.987832,31.095958,38,0.0,报国寺,QingpuBaoguoTemple
+174,东方明珠259米全透明悬空观光廊Oriental Pearl Transparent Observatory,1,94.0,全球唯一的360度全透明观光廊，以空中漫步的独特方式欣赏申城全景。,119.0,121.5064136561,31.245303876,291,0.0,东方明珠米全透明悬空观光廊,OrientalPearlTransparentObservatory
+175,龙音寺Longyin Temple,0,90.0,,2610.0,121.4372784431,31.0091696319,22,0.0,龙音寺,LongyinTemple
+176,长乐路Changle Road,6,92.0,赶不完的时髦，逛不完的个性创意小店，上海时尚潮流的聚集地。,16.0,121.459751,31.224334,237,0.0,长乐路,ChangleRoad
+177,崇明学宫Chongming Academy,1,86.0,上海著名的孔庙旧址，领略崇明岛民俗风情与历史文化。,17.0,121.408385,31.624979,75,0.0,崇明学宫,ChongmingAcademy
+178,M50创意园M50 Creative Park,7,90.0,去M50看苏州河畔的艺术，感受浓厚的文化气息。,104.0,121.455795,31.254456,293,0.01,创意园,MMCreativePark
+179,上海工艺美术博物馆Shanghai Arts and Crafts Museum,1,90.0,被称为“小白宫”，可以参观雕刻、刺绣等民间艺术制作。,125.0,121.460803,31.216576,173,0.0,上海工艺美术博物馆,ShanghaiArtsandCraftsMuseum
+180,交响音乐博物馆Shanghai Jiaoxiangyinyue Museum,0,96.0,,,121.456346,31.218164,19,0.0,交响音乐博物馆,ShanghaiJiaoxiangyinyueMuseum
+181,田子坊石库门Shikumen,24,92.0,,31.0,121.475066,31.214837,128,0.06,田子坊石库门,Shikumen
+182,张爱玲故居Zhang'ailing Former Residence,3,88.0,,53.0,121.45402,31.2311,194,0.02,张爱玲故居,ZhangailingFormerResidence
+183,中山公园Zhongshan Park,14,90.0,,65.0,121.425578,31.227355,635,0.0,中山公园,ZhongshanPark
+184,鲁迅公园Lu Xun Park,18,90.0,鲁迅先生曾经常来此散步，瞻仰鲁迅先生之墓，了解他的生平。,69.0,121.489991,31.277458,617,0.01,鲁迅公园,LuXunPark
+185,龙华寺Longhua Temple,1,90.0,上海历史最久、规模最大的古刹，祈福十分灵验，还能品尝寺内正宗素斋面。,141.0,121.45827,31.181625,414,0.0,龙华寺,LonghuaTemple
+186,梅赛德斯-奔驰文化中心Mercedes-Benz Arena,4,92.0,国内第一个可变容量的大型室内场馆，形似飞碟，曾举办过超大型演唱会和国际重要赛事。,49.0,121.499864,31.194369,299,0.0,梅赛德斯奔驰文化中心,MercedesBenzArena
+187,外滩情人墙Bund Lover’s Wall,1,90.0,,124.0,121.4971,31.24456,352,0.0,外滩情人墙,BundLoversWall
+188,金罗店美兰湖景区Meilan Lake Scenic Area,2,90.0,,144.0,121.361919,31.405386,120,0.0,金罗店美兰湖景区,MeilanLakeScenicArea
+189,静安公园Jing'an Sculputure Park,2,90.0,,175.0,121.453099,31.228472,362,0.0,静安公园,JinganSculputurePark
+190,泖塔Mao Tower,1,100.0,,624.0,121.09107,31.036254,3,0.0,泖塔,MaoTower
+191,瀛洲公园Yingzhou Park (North Gate),1,86.0,赏丰富多彩的植物造景，漫步江边欣赏落日。,8.0,121.408771,31.622923,83,0.0,瀛洲公园,YingzhouParkNorthGate
+192,文广中心-图书馆,0,0.0,,,121.2826417008,31.1812773945,0,0.0,文广中心图书馆,
+193,太浦河白渔荡湿地,0,100.0,,,120.9792952317,31.0273133328,0,0.0,太浦河白渔荡湿地,
+194,逸景冲浪水上嘉年华,0,20.0,,,121.948757,30.912826,0,0.0,逸景冲浪水上嘉年华,
+195,临港星空之境海绵公园,0,90.0,,,121.938646,30.920956,0,0.0,临港星空之境海绵公园,
+196,MR.ZOO小小动物元（上海崇明万达广场店）,0,0.0,,,121.42439,31.631969,0,0.0,小小动物元上海崇明万达广场店,MRZOO
+197,淮海中路弄堂,0,90.0,,,121.4425418516,31.2088745125,0,0.0,淮海中路弄堂,
+198,衍庆里,0,86.0,,,121.480221,31.245677,1,0.0,衍庆里,
+199,上海西郊淀山湖湿地Shanghai Xijiaodian Shan Hu Wetland,0,86.0,,,121.013213,31.076586,0,0.0,上海西郊淀山湖湿地,ShanghaiXijiaodianShanHuWetland
+200,毛桥村,0,0.0,,,31.4724195568,31.4724809359,0,0.0,毛桥村,
+201,临港当代美术馆Lingang Contemporary Art Museum,0,100.0,,,121.932167,30.902013,1,0.0,临港当代美术馆,LingangContemporaryArtMuseum
+202,韩国街Hanguo Street,0,90.0,,,121.379539,31.174823,13,0.0,韩国街,HanguoStreet
+203,宝龙艺术中心Baolong Art Center,0,94.0,,,121.3634105115,31.1635764563,0,0.0,宝龙艺术中心,BaolongArtCenter
+204,东华大学(松江校区)Donghua University (songjiangxiaoqu),0,0.0,,,121.219569,31.061819,2,0.0,东华大学松江校区,DonghuaUniversitysongjiangxiaoqu
+205,松南郊野公园Songnanjiaoye Park,0,90.0,,,121.2429980307,30.9836361235,9,0.0,松南郊野公园,SongnanjiaoyePark
+206,火山鲨鱼馆Volcano Whale & Shark Pavilion,0,94.0,与拥有“星空之背”的庞大鲸鲨奇妙邂逅,,121.915004,30.91788,20,0.0,火山鲨鱼馆,VolcanoWhaleSharkPavilion
+207,江南造船厂博物馆Jiangnan Zaochuanchang Museum,0,76.0,,,121.76,31.3598,4,0.0,江南造船厂博物馆,JiangnanZaochuanchangMuseum
+208,LIFE PARTYING广场Life Partying Square,0,0.0,,,121.536,31.2267,0,0.0,广场,LIFEPARTYINGLifePartyingSquare
+209,城市公园Chengshi Park,0,90.0,,,121.930468,30.894452,3,0.0,城市公园,ChengshiPark
+210,营房村社区活动中心文化广场Yingfangcun Shequ Culture Square,0,0.0,,,121.7396362201,31.2157541492,0,0.0,营房村社区活动中心文化广场,YingfangcunShequCultureSquare
+211,罗泾水源涵养林Luojing Water Conservation Forest,0,96.0,,,121.368544,31.487105,3,0.0,罗泾水源涵养林,LuojingWaterConservationForest
+212,远香湖Yuanxiang Lake,0,90.0,,,121.273869,31.360426,27,0.0,远香湖,YuanxiangLake
+213,"上海百鸟湖Bainiao Lake, Shanghai",0,90.0,,,121.689706,30.865672,3,0.0,上海百鸟湖,BainiaoLakeShanghai
+214,肇周路Zhaozhou Road,0,88.0,,,121.4875332464,31.2203578949,42,0.0,肇周路,ZhaozhouRoad
+215,浦江郊野公园Pujiang Country Park,1,88.0,,226.0,121.514275,31.054805,157,0.0,浦江郊野公园,PujiangCountryPark
+216,艺仓美术馆Yicang Gallery,3,92.0,,783.0,121.5189942894,31.2221834718,57,0.0,艺仓美术馆,YicangGallery
+217,北水湾体育公园Beishuiwan Tiyu Park,0,88.0,,1010.0,121.24914,31.408359,2,0.0,北水湾体育公园,BeishuiwanTiyuPark
+218,南翔老街Nanxiang Old Street,1,88.0,,1036.0,121.314868,31.296946,71,0.0,南翔老街,NanxiangOldStreet
+219,奉贤海滩Fengxin Beach,0,84.0,,1681.0,121.527668,30.818991,5,0.0,奉贤海滩,FengxinBeach
+220,罗密欧阳台Romeo Terrace,2,78.0,,1760.0,121.4469859816,31.215745888,7,0.0,罗密欧阳台,RomeoTerrace
+221,枫叶岛Maple Island,0,84.0,,1826.0,121.181984,30.782364,43,0.0,枫叶岛,MapleIsland
+222,明清民居,0,0.0,石板老街、黛瓦民宅、深巷幽弄……无不展现朱家角典型的江南民居风貌。,27.0,121.062171,31.11673,0,0.0,明清民居,
+223,上海理工大学,1,90.0,源于1906年创办的沪江大学和1907年创办的德文医工学堂，临江而立，浦江美景尽收眼底。,447.0,121.558505,31.29627,2,0.0,上海理工大学,
+224,长江第一滩,1,0.0,“长江第一滩”位于长兴横沙渔港综合功能区东端，与东岸800米的横沙休闲旅游岛隔江相望，与30公里处的浦东迪斯尼乐园遥相呼应。,2397.0,121.697932,31.397428,0,0.0,长江第一滩,
+225,震旦博物馆Aurora Museum,1,94.0,,409.0,121.506401,31.240127,223,0.0,震旦博物馆,AuroraMuseum
+226,桥乡金泽Jinze Ancient Town,1,88.0,,391.0,120.928882,31.041805,71,0.0,桥乡金泽,JinzeAncientTown
+227,上海展览中心Shanghai Exhibition Center,3,92.0,上海最早的会展场，建筑宏伟华丽，经常举办各种大型展览。,198.0,121.459249,31.230961,442,0.02,上海展览中心,ShanghaiExhibitionCenter
+228,中国共产党第一次全国代表大会会址The site of the first CPC National Congress,3,92.0,中国共产党的诞生地。,86.0,121.481627,31.22608,309,0.01,中国共产党第一次全国代表大会会址,ThesiteofthefirstCPCNationalCongress
+229,南浦大桥Nanpu Bridge,10,92.0,,554.0,121.514786,31.210031,131,0.01,南浦大桥,NanpuBridge
+230,圣母大堂Notre Dame Church,1,88.0,,555.0,121.461843,31.223707,109,0.01,圣母大堂,NotreDameChurch
+231,上海总会,1,96.0,"上海总会（Shanghai Club）又称英国总会，建筑外观呈晚期文艺复兴式，外墙除勒脚、柱为石料外，均为水泥仿石墙面。入口处有塔司干（TUSCAN）立柱，二、三层中部五间有贯通两层的爱奥尼克式的古典立柱。一些局部处理带有巴洛克特征。
+这座建筑室内设…",382.0,121.4978339581,31.2396091486,6,0.01,上海总会,
+232,复兴公园Fuxing Park,2,92.0,,237.0,121.475647,31.222986,366,0.0,复兴公园,FuxingPark
+233,孙中山故居纪念馆Former Residence of Sun Yat-sen,6,92.0,孙中山和宋庆龄唯一共同的住所，老上海小洋房十分精致。,297.0,121.474213,31.222108,235,0.0,孙中山故居纪念馆,FormerResidenceofSunYatsen
+234,豫园点春堂Shanghai Dianchun Hall,3,92.0,,560.0,121.499093,31.2332,85,0.0,豫园点春堂,ShanghaiDianchunHall
+235,上海市历史博物馆Shanghai History Museum (People's Square),4,94.0,,71.0,121.47734738,31.2370712547,230,0.0,上海市历史博物馆,ShanghaiHistoryMuseumPeoplesSquare
+236,鲁迅纪念馆Lu Xun Memorial Hall,7,90.0,参观鲁迅先生生前的衣物、生活用品、手稿书信等珍贵藏品。,562.0,121.490446,31.275502,190,0.0,鲁迅纪念馆,LuXunMemorialHall
+237,丁香花园Shanghai Lilac Garden,1,90.0,晚清北洋大臣李鸿章的私家花园，在上海极负盛名，保存完好。,563.0,121.445551,31.218712,183,0.0,丁香花园,ShanghaiLilacGarden
+238,亚细亚大楼Asia Building,1,92.0,,565.0,121.497823,31.239123,84,0.0,亚细亚大楼,AsiaBuilding
+239,同济大学Tongji University,12,94.0,上海百年名校，也是著名的赏樱胜地。,78.0,121.5078955868,31.2885097222,355,0.0,同济大学,TongjiUniversity
+240,上海大自然野生昆虫馆Shanghai Natural Wild Insect Kingdom,2,90.0,国内首批活体昆虫展示馆之一，投食喂锦鲤，观赏蝴蝶标本。,68.0,121.504313,31.246055,907,0.0,上海大自然野生昆虫馆,ShanghaiNaturalWildInsectKingdom
+241,上海古城墙Shanghai Ancient City Wall,3,92.0,,178.0,121.4899188071,31.2302614115,68,0.0,上海古城墙,ShanghaiAncientCityWall
+242,猫的天空之城概念书店(新天地店)Mo Mi Cafe (Xintiandi),3,92.0,上海十大清新书店之一，可以寄明信片给未来的自己。,219.0,121.481888,31.223776,89,0.0,猫的天空之城概念书店新天地店,MoMiCafeXintiandi
+243,毛泽东旧居Former Residence of Mao Zedong,1,92.0,毛泽东同志在上海居住过的地方。,235.0,121.466975,31.23244,134,0.0,毛泽东旧居,FormerResidenceofMaoZedong
+244,佘山天主教堂Sheshan Basilica,3,90.0,欣赏山顶的巴洛克教堂建筑，感受不对称的设计美感。,12.0,121.198899,31.100616,118,0.0,佘山天主教堂,SheshanBasilica
+245,吴江路Wujiang Road,1,88.0,,377.0,121.467871,31.236492,391,0.0,吴江路,WujiangRoad
+246,上海图书馆Shanghai Library,1,92.0,,146.0,121.451117,31.213841,468,0.0,上海图书馆,ShanghaiLibrary
+247,老码头The Cool Docks,3,88.0,南外滩时尚新地标，将废弃厂房改造成创意工坊，酒吧、餐厅一应俱全。,209.0,121.512289,31.225078,367,0.0,老码头,TheCoolDocks
+248,大清邮局Zhujiajiao Post Office,2,84.0,,4.0,121.060143,31.113177,143,0.0,大清邮局,ZhujiajiaoPostOffice
+249,上海天文博物馆Shanghai Astronomical Museum,1,90.0,了解神奇奥妙的天文知识，体验身临其境漫游宇宙的感觉。,13.0,121.199571,31.100782,73,0.0,上海天文博物馆,ShanghaiAstronomicalMuseum
+250,韩湘水博园Shanghai Hanxiang Water Garden,2,88.0,,274.0,121.3357853989,30.9903439499,248,0.0,韩湘水博园,ShanghaiHanxiangWaterGarden
+251,珠溪园Zhuxi Park,1,86.0,,9.0,121.06774,31.115957,42,0.0,珠溪园,ZhuxiPark
+252,古城公园Gucheng Park,2,90.0,,584.0,121.500454,31.234126,179,0.0,古城公园,GuchengPark
+253,上海徐光启墓Shanghai Xu Guangqi Tomb,3,88.0,,352.0,121.4413592147,31.1954590074,128,0.0,上海徐光启墓,ShanghaiXuGuangqiTomb
+254,大境阁Old City Wall at Dajing Road (Dajing Ge),1,90.0,登上仅存的明代城墙和城楼，感受都市中不可多得的历史气息。,328.0,121.489917,31.230343,170,0.0,大境阁,OldCityWallatDajingRoadDajingGe
+255,民生现代美术馆Minsheng Art Museum,1,92.0,,215.0,121.451661,31.297551,50,0.0,民生现代美术馆,MinshengArtMuseum
+256,天马山公园Tianmashan Park,2,90.0,比佘山更清净，可登高远眺周边地貌，参观著名北宋斜塔。,4.0,121.15945,31.081471,140,0.0,天马山公园,TianmashanPark
+257,金山嘴老街Jinshanzui Old Street,1,88.0,,271.0,121.3827293227,30.738410375,28,0.0,金山嘴老街,JinshanzuiOldStreet
+258,狮语画廊Shiyu Gallery,1,92.0,,619.0,121.445823,31.2131,17,0.0,狮语画廊,ShiyuGallery
+259,桂林公园Guilin Park,2,90.0,,312.0,121.424381,31.171495,497,0.0,桂林公园,GuilinPark
+260,上海民族文化村Shanghai National Culture Village,3,78.0,,652.0,120.9184220314,31.0788458395,28,0.0,上海民族文化村,ShanghaiNationalCultureVillage
+261,二严寺Er Yan Temple,1,84.0,,655.0,121.458649,30.941132,68,0.0,二严寺,ErYanTemple
+262,陈化成纪念馆Chen Huacheng Memorial,1,94.0,,657.0,121.500428,31.415458,18,0.0,陈化成纪念馆,ChenHuachengMemorial
+263,黄炎培故居Huang Yanpei's Former Residence,2,86.0,,308.0,121.7114581862,31.2013378143,63,0.0,黄炎培故居,HuangYanpeisFormerResidence
+264,上海太平天国烈士墓Shanghai Taiping Martyrs Tombs,2,0.0,,661.0,121.5714785776,31.356817013,0,0.0,上海太平天国烈士墓,ShanghaiTaipingMartyrsTombs
+265,上海四行仓库抗战纪念馆Sihang Warehouse Battle Memorial,1,94.0,,129.0,121.477852,31.246263,78,0.0,上海四行仓库抗战纪念馆,SihangWarehouseBattleMemorial
+266,上海青青旅游世界Qingqing Tourism World,1,90.0,,678.0,121.2613883444,31.0735846536,4,0.0,上海青青旅游世界,QingqingTourismWorld
+267,陈化成雕像,1,100.0,抗英民族英雄陈化成的雕像竖立在临江公园里。鸦片战争时，1842年6月英舰进犯吴淞口，陈化成的上司两江总督牛鉴欲向英军求和，陈化成当时任江南提督，铸铜炮、筑炮台、造火药练士兵，在吴淞口积极设防，坚决反对求和。英军来犯，陈化成以67岁高龄率…,691.0,121.4988246918,31.4152256461,0,0.0,陈化成雕像,
+268,圆津禅院Yuanjin Buddhist Temple,1,80.0,,10.0,121.061302,31.116426,69,0.0,圆津禅院,YuanjinBuddhistTemple
+269,上海手工艺朱家角展示馆Shanghai Handicraft Zhujiajiao Exhibition Hall,1,84.0,,11.0,121.061274,31.115426,11,0.0,上海手工艺朱家角展示馆,ShanghaiHandicraftZhujiajiaoExhibitionHall
+270,上海王小慧艺术馆,0,100.0,,,121.391153,31.220062,0,0.0,上海王小慧艺术馆,
+271,随塘河公园,0,0.0,,,121.348226,30.717408,0,0.0,随塘河公园,
+272,前卫1966郊野公园,0,0.0,,,121.7105530118,31.4152189956,0,0.0,前卫郊野公园,
+273,潮帆皮划艇水上运动俱乐部,0,100.0,,,120.957206,31.057324,0,0.0,潮帆皮划艇水上运动俱乐部,
+274,元荡湖,0,0.0,,,120.9121911149,31.0839707451,0,0.0,元荡湖,
+275,藕遇公园,0,60.0,,,121.4015551923,30.8327454126,0,0.0,藕遇公园,
+276,年丰公园,0,0.0,,,121.501756,30.936297,0,0.0,年丰公园,
+277,顾村镇菊泉文化街,0,80.0,,,121.375101,31.363165,0,0.0,顾村镇菊泉文化街,
+278,C3M北外滩艺术馆,0,66.0,,,121.513881,31.258328,1,0.0,北外滩艺术馆,CM
+279,兰香湖,0,90.0,,,121.4782141354,31.0291584658,0,0.0,兰香湖,
+280,枫泾路周末步行街,0,0.0,,,121.5046982777,31.2322652352,0,0.0,枫泾路周末步行街,
+281,宝钢动物园,0,88.0,,,121.4554359822,31.4447909318,0,0.0,宝钢动物园,
+282,星火公园,0,0.0,,,121.5702200661,30.8601397536,0,0.0,星火公园,
+283,上海京剧传习馆,0,94.0,,,121.458781,31.211644,0,0.0,上海京剧传习馆,
+284,横沙垂钓中心,0,0.0,,,121.8256755625,31.3320868749,0,0.0,横沙垂钓中心,
+285,南汇新城主题公园,0,0.0,,,121.928723,30.909275,0,0.0,南汇新城主题公园,
+286,Kalidico奇幻研究所,0,86.0,,,121.505711,31.254969,1,0.0,奇幻研究所,Kalidico
+287,静修寺Jingxiu Temple,0,0.0,,,121.8332627421,31.3578275454,0,0.0,静修寺,JingxiuTemple
+288,魔都1号天台摄影基地Magic City No.1 Rooftop,0,100.0,,,121.4978437277,31.2343329436,0,0.0,魔都号天台摄影基地,MagicCityNoRooftop
+289,上海海事大学海馨广场,0,100.0,,,121.9082010033,30.8815138164,0,0.0,上海海事大学海馨广场,
+290,春花秋色滨水活力区,0,90.0,,,121.957929,30.88961,0,0.0,春花秋色滨水活力区,
+291,金庭动物园Jinting Zoo,0,96.0,,,121.3628750316,31.2102528425,0,0.0,金庭动物园,JintingZoo
+292,松江大学城Songjiang University Town,0,98.0,,,121.202954,31.055879,1,0.0,松江大学城,SongjiangUniversityTown
+293,金刚博物馆Shanghaijingang Museum,0,60.0,,,121.730706,31.0269,1,0.0,金刚博物馆,ShanghaijingangMuseum
+294,南汇新城芦潮港公园Luchaogang Park,0,94.0,,,121.869364,30.874107,8,0.0,南汇新城芦潮港公园,LuchaogangPark
+295,菊泉故里Hometown of Ju Spring,0,78.0,,,121.3811434216,31.3649209518,9,0.0,菊泉故里,HometownofJuSpring
+296,泡泡公园Paopao Park,0,88.0,,,121.507093,30.931542,10,0.0,泡泡公园,PaopaoPark
+297,火山漂流Huo Mountain Drifting,0,94.0,,,121.913909,30.917198,5,0.0,火山漂流,HuoMountainDrifting
+298,亚马逊公园 萌宠乐园,0,0.0,与可爱的小动物们零距离亲密互动,,121.394009,31.1129,1,0.0,亚马逊公园萌宠乐园,
+299,比斯特上海购物村Shanghai Village,0,92.0,,,121.686884,31.145974,46,0.0,比斯特上海购物村,ShanghaiVillage
+300,上海美食街MeiShiJie,0,88.0,,,121.390934,31.261715,6,0.0,上海美食街,MeiShiJie
+301,佘山国家旅游度假区Sheshan National Tourism Resort,0,88.0,,,121.205001,31.096463,3,0.0,佘山国家旅游度假区,SheshanNationalTourismResort
+302,赛梦·微缩世界（陆家嘴正大店）Saimeng Miniature World · Century Bund,0,88.0,,,121.505934,31.242497,46,0.0,赛梦微缩世界陆家嘴正大店,SaimengMiniatureWorldCenturyBund
+303,明珠美术馆Mingzhu Gallery,0,94.0,,,121.379722,31.179901,23,0.0,明珠美术馆,MingzhuGallery
+304,泰平桥Taiping Bridge,0,90.0,,,121.025842,30.89263,1,0.0,泰平桥,TaipingBridge
+305,华东师范大学East China Normal University,0,94.0,,,121.411329,31.233563,30,0.0,华东师范大学,EastChinaNormalUniversity
+306,海底世界馆Undersea World Pavilion,0,92.0,一个充满童趣和梦幻色彩的未来世界,,121.913352,30.917797,12,0.0,海底世界馆,UnderseaWorldPavilion
+307,粉黛乱子草Hairawn Muhly,0,86.0,,,121.2902746577,30.8487306316,7,0.0,粉黛乱子草,HairawnMuhly
+308,崇明东滩鸟类国家级自然保护区Chongming Dongtan Birds National Nature Reserve,0,98.0,,,121.97099,31.514882,3,0.0,崇明东滩鸟类国家级自然保护区,ChongmingDongtanBirdsNationalNatureReserve
+309,宝山滨江公园Baoshan Riverside Park,0,92.0,,,121.502787,31.416768,18,0.0,宝山滨江公园,BaoshanRiversidePark
+310,浦东机场博物馆(浦东机场T2店)Museum of Pudong Airport(Pudong Airport Terminal 2),0,90.0,,,121.8184337997,31.1529857631,36,0.0,浦东机场博物馆浦东机场店,TMuseumofPudongAirportPudongAirportTerminal
+311,国际乒联博物馆和中国乒乓球博物馆Zhongguo Pingpangqiu Museum,0,94.0,,,121.487789,31.198924,29,0.0,国际乒联博物馆和中国乒乓球博物馆,ZhongguoPingpangqiuMuseum
+312,阳豆豆亲子乐园,0,0.0,,,121.458,31.3172,0,0.0,阳豆豆亲子乐园,
+313,芙罗拉教堂Fuluola Church,0,0.0,,,121.515742,31.060538,0,0.0,芙罗拉教堂,FuluolaChurch
+314,乐贝尼主题乐园,0,0.0,,,121.66,31.2727,0,0.0,乐贝尼主题乐园,
+315,南门广场Nanmen Square,0,100.0,,,121.401,31.6236,0,0.0,南门广场,NanmenSquare
+316,"上海滨江森林公园湿生植物观赏区-观景台Observation Deck, Hygrophyte Viewing Area, Shanghai Binjiang Forest Park",0,0.0,,,121.529,31.3909,0,0.0,上海滨江森林公园湿生植物观赏区观景台,ObservationDeckHygrophyteViewingAreaShanghaiBinjiangForestPark
+317,荷花池,0,92.0,,,121.4488579604,31.2809228413,11,0.0,荷花池,
+318,英国领事馆及领事官邸England Consulate and Consular Mansion,0,96.0,,,121.495384,31.24793,5,0.0,英国领事馆及领事官邸,EnglandConsulateandConsularMansion
+319,崇明县义务植树基地Chongmingxian Yiwu Zhishu Base,0,0.0,,,121.482713,31.688666,0,0.0,崇明县义务植树基地,ChongmingxianYiwuZhishuBase
+320,水禽栖息地-休息处,0,0.0,,,121.958,31.5238,0,0.0,水禽栖息地休息处,
+321,"上海市静安区万灵谷Wanling Valley, Jing'an District, Shanghai",0,0.0,,,121.45,31.291,0,0.0,上海市静安区万灵谷,WanlingValleyJinganDistrictShanghai
+322,天天开心乐园,0,0.0,,,121.37,31.4493,0,0.0,天天开心乐园,
+323,徐泾广场Xujing Square,0,80.0,,,121.285,31.1739,0,0.0,徐泾广场,XujingSquare
+324,财府管理处展览厅,0,100.0,,,121.061,31.1154,0,0.0,财府管理处展览厅,
+325,言几又(宝龙城概念店)Yan Ji You (Qibao Baolong Store),0,94.0,,,121.3614638187,31.1630697095,15,0.0,言几又宝龙城概念店,YanJiYouQibaoBaolongStore
+326,上海海洋大学Shanghai Ocean University,0,92.0,,,121.9063910972,30.8920383453,28,0.0,上海海洋大学,ShanghaiOceanUniversity
+327,上海海事大学Shanghai Maritime University,0,96.0,,,121.9118579181,30.8810195923,33,0.0,上海海事大学,ShanghaiMaritimeUniversity
+328,光明生态园Guangming Ecological Park,0,94.0,,553.0,121.677506,31.153317,42,0.0,光明生态园,GuangmingEcologicalPark
+329,华亭湖Huating Lake,0,92.0,,17.0,121.2083530093,31.0390828754,29,0.0,华亭湖,HuatingLake
+330,横沔古镇Hengmian Ancient Town,0,86.0,,817.0,121.6460647355,31.1573159583,1,0.0,横沔古镇,HengmianAncientTown
+331,滴水湖壹号码头Dishuihu No.1 Pier,0,86.0,,1029.0,121.93794801,30.9119596999,12,0.0,滴水湖壹号码头,DishuihuNoPier
+332,四海汝窑艺术馆Sihairuyao Art Museum,0,100.0,,1103.0,121.696504,30.869093,1,0.0,四海汝窑艺术馆,SihairuyaoArtMuseum
+333,鸢尾园Iris Garden,0,92.0,,1129.0,121.192755,31.077749,4,0.0,鸢尾园,IrisGarden
+334,海.渔文化馆Sea · Fishing Culture Museum,0,86.0,,1192.0,121.377944145,30.7412491372,2,0.0,海渔文化馆,SeaFishingCultureMuseum
+335,大邱泾Daqiujing,0,98.0,,1345.0,121.23421,31.051878,10,0.0,大邱泾,Daqiujing
+336,章士钊旧居Former Residence of Zhang Shizhao,0,94.0,,1376.0,121.466793,31.230421,6,0.0,章士钊旧居,FormerResidenceofZhangShizhao
+337,江湾古镇Jiangwan Ancient Town,0,82.0,,1536.0,121.479832,31.310833,44,0.0,江湾古镇,JiangwanAncientTown
+338,荷兰风情小镇Dutch Town,1,88.0,,1724.0,121.585285615,31.3440100003,42,0.0,荷兰风情小镇,DutchTown
+339,闵行滨江湿地公园Minxingbinjiang Wetland Park,0,84.0,,1738.0,121.473817,31.020371,13,0.0,闵行滨江湿地公园,MinxingbinjiangWetlandPark
+340,G+玻璃主题园G+ Glass Theme Park,0,98.0,,241.0,121.4791646732,31.3496990204,13,0.0,玻璃主题园,GGGlassThemePark
+341,上海隧道科技馆Shanghai Tunnel Science and Technology Museum,0,88.0,,1941.0,121.506146,31.22704,83,0.0,上海隧道科技馆,ShanghaiTunnelScienceandTechnologyMuseum
+342,青浦任屯血防陈列馆ShangHaiShi QingPu RenTun XueFang ChenLieGuan,0,80.0,,1999.0,120.9796916051,31.0519887917,2,0.0,青浦任屯血防陈列馆,ShangHaiShiQingPuRenTunXueFangChenLieGuan
+343,黄渡公园Huangdu Park,0,86.0,,2041.0,121.222911,31.274678,51,0.0,黄渡公园,HuangduPark
+344,隆昌公寓Longchang Apartment,1,84.0,,473.0,121.552735,31.277779,51,0.0,隆昌公寓,LongchangApartment
+345,浦东新区陆家嘴图书馆Pudongdiyi Library,0,94.0,,2118.0,121.525469,31.247749,2846,0.0,浦东新区陆家嘴图书馆,PudongdiyiLibrary
+346,西林禅寺Xilinchan Temple,0,90.0,,40.0,121.230679,31.013226,51,0.0,西林禅寺,XilinchanTemple
+347,高桥古镇Gaoqiao Ancient Town,1,84.0,,2136.0,121.58662,31.345033,117,0.0,高桥古镇,GaoqiaoAncientTown
+348,东岳庙YueMiao ShangYeJie,0,86.0,,42.0,121.2398755973,31.0139584781,32,0.0,东岳庙,YueMiaoShangYeJie
+349,山阴路Shanyin Road,3,90.0,,102.0,121.491612,31.274034,81,0.0,山阴路,ShanyinRoad
+350,下沙老街Xiasha Old Street,0,80.0,,315.0,121.5941909559,31.0567626953,29,0.0,下沙老街,XiashaOldStreet
+351,蟠龙古镇Panlong Ancient Town,0,84.0,,2157.0,121.281756,31.194511,51,0.0,蟠龙古镇,PanlongAncientTown
+352,进贤路Jinxian Road,2,88.0,,2174.0,121.4653116587,31.227596283,26,0.0,进贤路,JinxianRoad
+353,永康路Yongkang Road,1,92.0,,2176.0,121.462711,31.216452,46,0.0,永康路,YongkangRoad
+354,泗泾古镇Sijing Ancient Town,1,82.0,,44.0,121.281511,31.116793,91,0.0,泗泾古镇,SijingAncientTown
+355,闻道园Wendao Park,0,84.0,,2187.0,121.359567,31.44298,96,0.0,闻道园,WendaoPark
+356,外滩3号The Bund No.3,1,92.0,,2188.0,121.497388,31.239806,163,0.0,外滩号,TheBundNo
+357,宋子文私宅Song Ziwen Villa,1,94.0,,283.0,121.4559871118,31.2147227585,37,0.0,宋子文私宅,SongZiwenVilla
+358,南翔檀园Nanxiang Tan Garden,1,92.0,,2210.0,121.314677266,31.297586441,256,0.0,南翔檀园,NanxiangTanGarden
+359,蓬莱公园Penglai Park,0,88.0,,2217.0,121.4981139505,31.2119693756,251,0.0,蓬莱公园,PenglaiPark
+360,上海当代艺术馆Shanghai Museum of Contemporary Art,1,90.0,文艺青年喜爱的小众艺术馆，展出当代潮流艺术作品。,232.0,121.479416,31.23735,194,0.0,上海当代艺术馆,ShanghaiMuseumofContemporaryArt
+361,东华大学Donghua University(Yanan Road Campus),1,90.0,,2232.0,121.4210549335,31.2095241547,235,0.0,东华大学,DonghuaUniversityYananRoadCampus
+362,川沙古城墙Chuansha Ancient City Wall Park,1,84.0,,2246.0,121.713411,31.200676,116,0.0,川沙古城墙,ChuanshaAncientCityWallPark
+363,朱家角古弄,0,0.0,古弄的神奇，神妙，不到古镇亲临其镜，是谁也体会不到的。,28.0,121.063209,31.11665,0,0.0,朱家角古弄,
+364,艾伦岛,0,0.0,,54.0,121.208857,31.038025,0,0.0,艾伦岛,
+365,大卫德堡,0,0.0,,55.0,121.208883,31.038543,0,0.0,大卫德堡,
+366,手划船码头,0,0.0,,56.0,121.207763,31.04041,0,0.0,手划船码头,
+367,东平路Dongping Road,2,94.0,,2394.0,121.456259,31.21492,32,0.0,东平路,DongpingRoad
+368,西岸艺术中心West Bund Artistic Center,3,88.0,,167.0,121.4692664533,31.1737088543,59,0.0,西岸艺术中心,WestBundArtisticCenter
+369,乍浦路桥Zhapulu Bridge,1,92.0,,2410.0,121.4941470748,31.2494979191,22,0.0,乍浦路桥,ZhapuluBridge
+370,上海观复博物馆Shanghai Guanfu Museum,3,94.0,,145.0,121.512317,31.239248,223,0.0,上海观复博物馆,ShanghaiGuanfuMuseum
+371,衡山坊Hengshan Lane,1,94.0,,325.0,121.446377,31.202579,81,0.0,衡山坊,HengshanLane
+372,银杏公园Yinxing Park,0,94.0,,2443.0,121.417654,31.016918,14,0.0,银杏公园,YinxingPark
+373,儿童动物园Children Zoo,0,92.0,,427.0,121.369499,31.199674,16,0.0,儿童动物园,ChildrenZoo
+374,苏州河景观步廊Suzhou River Landscape Galley,1,92.0,,2515.0,121.399449,31.223618,79,0.0,苏州河景观步廊,SuzhouRiverLandscapeGalley
+375,宝山寺Baoshan Temple,0,88.0,,2615.0,121.350799,31.42497,64,0.0,宝山寺,BaoshanTemple
+376,四平科技公园Siping Science and Technology Park,0,88.0,,2625.0,121.512754,31.29311,75,0.0,四平科技公园,SipingScienceandTechnologyPark
+377,星愿公园Xingyuan Park,7,94.0,,3.0,121.66966,31.14241,160,0.0,星愿公园,XingyuanPark
+378,上海世博园Shanghai Expo Park,10,90.0,参观后世博时代的世博园区，中华艺术宫看动态“清明上河图”，梅赛德斯奔驰文化中心看大型演唱会。,25.0,121.492949,31.193041,806,0.0,上海世博园,ShanghaiExpoPark
+379,上海戏剧学院,1,90.0,中国表演艺术摇篮之地。,54.0,121.437258,31.217903,9,0.0,上海戏剧学院,
+380,苏州河Suzhou Creek,7,92.0,承载着老上海人诸多回忆的河流，可以夜游苏州河欣赏两岸诸多标志性景点。,132.0,121.493465,31.249829,474,0.0,苏州河,SuzhouCreek
+381,北京东路Beijing East Road,30,88.0,,21.0,121.489885,31.246405,88,0.0,北京东路,BeijingEastRoad
+382,3D幻视艺术馆3D Huanshi Art Museum,0,94.0,,2265.0,121.0639885476,31.1145935059,5,0.0,幻视艺术馆,DDHuanshiArtMuseum
+383,九曲桥Jiuqu Bridge,3,92.0,,177.0,121.498444,31.232402,580,0.0,九曲桥,JiuquBridge
+384,中国农民画村Chinese Folk Art Village,0,78.0,,2741.0,121.021866,30.927123,93,0.0,中国农民画村,ChineseFolkArtVillage
+385,胜强影视基地Shengqiangyingshi Base,1,86.0,,9.0,121.222795,30.997654,12,0.0,胜强影视基地,ShengqiangyingshiBase
+386,练塘古镇Liantang Ancient Town,2,88.0,,2744.0,121.051569,31.013573,46,0.0,练塘古镇,LiantangAncientTown
+387,澹园,3,60.0,澹园是崇明唯一仿古园林佳景，既有传统的花居形式，又有古色古香的苏州园林佳景，有宝岛明珠微型公园之称。园外封闭围墙，飞檐群瓦，朱汀金猷铜环。东西两侧的丰乐楼，重檐八角，一派古风。园内星湖碧水荡漾，宁静堂、卧波榭、清穆轩、映月桥、憩甘…,2752.0,121.4090929343,31.6323763117,1,0.0,澹园,
+388,外滩观光隧道Bund Sightseeing Tunnel,15,78.0,我国第一条越江行人隧道，坐观光车厢“穿越地球”。,11.0,121.497875,31.245464,1777,0.05,外滩观光隧道,BundSightseeingTunnel
+389,陆家嘴中心绿地Lujiazui Central Greenland,4,94.0,,373.0,121.5125350266,31.2435188293,3956,0.03,陆家嘴中心绿地,LujiazuiCentralGreenland
+390,上海世纪大道Century Avenue,19,92.0,,135.0,121.5294112518,31.2365398407,596,0.01,上海世纪大道,CenturyAvenue
+391,人民公园Shanghai People's Park,10,90.0,,164.0,121.479656,31.238252,665,0.01,人民公园,ShanghaiPeoplesPark
+392,鲁迅故居Former Residence of Lu Xun in Shanghai,4,88.0,鲁迅先生生前最后的居所，陈列着许多先生用过的生活用品与写作用具。,128.0,121.491223,31.27179,231,0.01,鲁迅故居,FormerResidenceofLuXuninShanghai
+393,福州路文化街Shanghai Fuzhou Road Cultural Street,1,90.0,,110.0,121.4890665263,31.2396125793,283,0.01,福州路文化街,ShanghaiFuzhouRoadCulturalStreet
+394,大韩民国临时政府旧址Shanghai Former Provisional Government Site of the Republic of Korea,1,92.0,,556.0,121.481214,31.223223,32,0.01,大韩民国临时政府旧址,ShanghaiFormerProvisionalGovernmentSiteoftheRepublicofKorea
+395,上海城市规划展示馆Shanghai Urban Planning Exhibition Hall,1,92.0,观市区全景模型，赏360度环幕动画，让你迅速了解上海的建设历程与未来规划。,210.0,121.482137,31.237364,444,0.0,上海城市规划展示馆,ShanghaiUrbanPlanningExhibitionHall
+396,顾村公园Gucun Park,7,92.0,花木茂盛的公园，每到春天樱花季赏樱游人络绎不绝。,134.0,121.374831,31.344263,1699,0.0,顾村公园,GucunPark
+397,放生桥Fangsheng Bridge,5,88.0,朱家角古镇的标志性景观，站在桥上可将水乡全貌尽收眼底，是摄影好去处。,6.0,121.062459,31.117792,248,0.0,放生桥,FangshengBridge
+398,杨浦大桥Yangpu Bridge,1,94.0,,557.0,121.5522003738,31.261331496,66,0.0,杨浦大桥,YangpuBridge
+399,上海新国际博览中心Shanghai New International Expo Centre,3,88.0,,118.0,121.574486,31.216684,306,0.0,上海新国际博览中心,ShanghaiNewInternationalExpoCentre
+400,外滩气象信号台,2,82.0,气象信号台是外滩标志性建筑之一，列入全国重点保护的建筑物。1884年，法国天主教会创建的徐家汇天文台，在“洋泾浜”外滩（今延安东路外滩）设立气象信号台，信号台是直竖地上的一根长木杆，根据天文台传来的气象信息。1907年，重建圆柱形的气象信…,559.0,121.4953631453,31.2462578744,7,0.0,外滩气象信号台,
+401,陈毅广场Chenyi Square,1,92.0,瞻仰上海第一任市长陈毅塑像，是上海市民热爱的城市广场。,561.0,121.497007,31.244737,346,0.0,陈毅广场,ChenyiSquare
+402,巴金寓所,1,94.0,"著名作家巴金在这幢房子三楼，从1937年起生活了18年，在这里完成了他的代表作《激流》三部曲的后二部《春》、《秋》和名著《寒夜》的写作 。解放后 , 又写出了《我们会见了彭德怀司令员》一文，编写了《英雄的故事》 小说集等。",384.0,121.4663165851,31.2231835472,10,0.0,巴金寓所,
+403,上海图书馆徐家汇藏书楼Shanghai Xujiahui Library,1,90.0,,564.0,121.444168,31.198475,100,0.0,上海图书馆徐家汇藏书楼,ShanghaiXujiahuiLibrary
+404,日清大楼Shanghai Riqing Building,1,92.0,,566.0,121.4971696033,31.2401371002,145,0.0,日清大楼,ShanghaiRiqingBuilding
+405,普济桥Shanghai Puji Bridge,1,82.0,,567.0,120.9282699834,31.0412964406,37,0.0,普济桥,ShanghaiPujiBridge
+406,迎祥桥Yingxiang Bridge,1,90.0,,374.0,120.9266950146,31.0371784722,4,0.0,迎祥桥,YingxiangBridge
+407,多伦现代美术馆,1,100.0,,234.0,121.488541063,31.2697849021,1,0.0,多伦现代美术馆,
+408,胡适故居Hushi Former Residence,3,88.0,,568.0,121.447788,31.232842,75,0.0,胡适故居,HushiFormerResidence
+409,基督教国际礼拜堂International Cathedral,1,90.0,在礼拜日时可入内参观，聆听唱诗班的天籁之音。,299.0,121.4544500021,31.2125738989,123,0.0,基督教国际礼拜堂,InternationalCathedral
+410,上海犹太难民纪念馆Shanghai Jewish Refugees Museum,2,92.0,国内唯一反映二战时期犹太难民生活的历史遗迹。,95.0,121.515776,31.259707,347,0.0,上海犹太难民纪念馆,ShanghaiJewishRefugeesMuseum
+411,上海基督教沐恩堂Mu'en Church,1,90.0,红色哥特式建筑十分显眼，是上海著名基督教堂。,378.0,121.482437,31.239196,174,0.0,上海基督教沐恩堂,MuenChurch
+412,圣三一堂Shanghai Shengsanyi Church,1,92.0,,571.0,121.492776,31.242438,159,0.0,圣三一堂,ShanghaiShengsanyiChurch
+413,黄浦公园Huangpu Park,1,90.0,,572.0,121.497587,31.247448,286,0.0,黄浦公园,HuangpuPark
+414,上海文庙Confucian Temple of Shanghai,1,88.0,漫步在上海市区唯一的孔庙，感受儒家气息。周日旧书市场能让你淘到爱书。,573.0,121.494489,31.223736,293,0.0,上海文庙,ConfucianTempleofShanghai
+415,上海世博展览馆Shanghai World Expo Exhibition and Convention Center,4,90.0,,180.0,121.496501,31.188398,71,0.0,上海世博展览馆,ShanghaiWorldExpoExhibitionandConventionCenter
+416,卢浦大桥Lupu Bridge,1,90.0,,575.0,121.487986,31.193908,213,0.0,卢浦大桥,LupuBridge
+417,秋霞圃Qiuxia Garden,3,90.0,由三座明代私家园林和邑庙合并而成的经典园林，是上海难得的赏枫胜地。,380.0,121.259405,31.392447,247,0.0,秋霞圃,QiuxiaGarden
+418,上海国际时尚中心,2,94.0,,278.0,121.563656178,31.2778581028,8,0.0,上海国际时尚中心,
+419,雁荡路步行休闲街,1,88.0,雁荡路步行休闲街人称“淮海路后花园”，位于上海市卢湾区北部，北起淮海中路，向南经兴安路、南昌路，与复兴公园大道连通，雁荡路北段路面铺设彩色路面砖，两侧现植棕榈树；南段现位于复兴公园内，单侧植梧桐树。是条24小时全天候的步行街。是淮海…,577.0,121.4762702383,31.2253658999,4,0.0,雁荡路步行休闲街,
+420,北大街North Street,1,86.0,,579.0,121.062325,31.117235,96,0.0,北大街,NorthStreet
+421,玉佛禅寺Shanghai Jade Buddha Temple,3,92.0,欣赏慧根法师从缅甸请回的两尊玉佛，烧香祈福十分灵验。,82.0,121.451529,31.247785,279,0.0,玉佛禅寺,ShanghaiJadeBuddhaTemple
+422,鲁迅墓Tomb of Lu Xun,1,92.0,,581.0,121.489056,31.27768,54,0.0,鲁迅墓,TombofLuXun
+423,张学良寓所,1,100.0,张学良将军在1934年、1935年期间，与赵四小姐曾在此居住。1935年在此秘密会晤东北义勇军将领李杜，委托其与中共联系联合抗日。张学良将军在1934年、1935年期间，与赵四小姐曾在此居住。1935年在此秘密会晤东北义勇军将领李杜，委托其与中共联系联合…,376.0,121.4708394354,31.2222254685,0,0.0,张学良寓所,
+424,绍兴路Shaoxing Road,1,92.0,上海最具书香气息的马路，遍布众多知名杂志社和安静神秘的画廊。,187.0,121.470586,31.215514,93,0.0,绍兴路,ShaoxingRoad
+425,上海城市历史发展陈列馆Shanghai History Museum (Pudong),8,92.0,穿越700年寻觅老上海历史风情,90.0,121.506458,31.245391,933,0.0,上海城市历史发展陈列馆,ShanghaiHistoryMuseumPudong
+426,怀恩堂Huai'en Christian Church Shanghai,1,88.0,,582.0,121.4596252799,31.2355060577,16,0.0,怀恩堂,HuaienChristianChurchShanghai
+427,沉香阁Chenxiang Pavilion,3,94.0,上海最大的、最有特色的比丘尼寺院。,583.0,121.4973907044,31.2306979104,237,0.0,沉香阁,ChenxiangPavilion
+428,公元2050/2500未来生活体验馆Red Star Macalline 2050 Future Cosmos,0,90.0,,143.0,121.391403,31.243667,32,0.0,公元未来生活体验馆,RedStarMacallineFutureCosmos
+429,上海蔡元培故居Former Residence of Cai Yuanpei,1,90.0,安静的英式花园洋房，完整保留了蔡元培先生生前居住的陈设。,182.0,121.454125,31.225207,193,0.0,上海蔡元培故居,FormerResidenceofCaiYuanpei
+430,上海外国语大学Shanghai International Studies University(Shongjiang Campus),2,94.0,,395.0,121.2313169632,31.0527267456,78,0.0,上海外国语大学,ShanghaiInternationalStudiesUniversityShongjiangCampus
+431,月星环球港演艺空间Global Harbor,3,92.0,,55.0,121.4184586133,31.238861084,90,0.0,月星环球港演艺空间,GlobalHarbor
+432,上海徐浦大桥Shanghai Xupu Bridge,1,90.0,,593.0,121.4658348434,31.1305261289,14,0.0,上海徐浦大桥,ShanghaiXupuBridge
+433,上海滨海森林公园Shanghai Binhai Forest Park,0,82.0,,594.0,121.917909,30.969464,136,0.0,上海滨海森林公园,ShanghaiBinhaiForestPark
+434,鹤鸣楼Heming Tower,1,82.0,,245.0,121.707411,31.197442,111,0.0,鹤鸣楼,HemingTower
+435,四明公所遗址Siminggongsuo Ruins,1,98.0,,595.0,121.489242,31.231192,11,0.0,四明公所遗址,SiminggongsuoRuins
+436,法华塔Fahuata,2,88.0,,596.0,121.257698,31.389335,155,0.0,法华塔,Fahuata
+437,巨鹿路Julu Road,5,92.0,汇集诸多潮流时尚店铺，陈冠希也将自己的潮牌Juice开在这里，是大陆首家。,109.0,121.456432,31.225679,98,0.0,巨鹿路,JuluRoad
+438,古北新区,2,100.0,"上海市外籍人士高档居住区,东起姚虹路，西至虹许路，南临古羊路，北连虹桥路，紧靠虹桥开发区，於1984年经上海市政府批准开发，如今已发展成一个开发建设成为大型综合型居住区。
+古北新区占地136.6公顷，总建筑面积300万平方米，分三个区、24个街坊…",597.0,121.399080393,31.2005462421,0,0.0,古北新区,
+439,华夏文化旅游区,1,0.0,位于浦东新区东南部，规划面积7.5平方公里，分东西两部分。西部位于川沙镇西，面积2.3平方公里，主要作为文化、居住、娱乐、商业开发区域。位于区域内的华夏文化公园已竣工开放，园内有吴昌硕纪念馆、浦东名人馆、华夏英语角等文化项目。东部为海滨…,598.0,121.6854017072,31.2049255146,1,0.0,华夏文化旅游区,
+440,刘海粟旧居Shanghai Liu Haisu Former Residence,1,86.0,,609.0,121.4779773684,31.2217429038,28,0.0,刘海粟旧居,ShanghaiLiuHaisuFormerResidence
+441,罗店古镇Luodian Ancient Town,1,76.0,,610.0,121.346929,31.417176,53,0.0,罗店古镇,LuodianAncientTown
+442,松江西林塔Songjiang Xilin Tower,1,94.0,,14.0,121.4732124317,31.2302822157,10,0.0,松江西林塔,SongjiangXilinTower
+443,上海东海影视乐园Shanghai Donghai Film Park,8,74.0,,103.0,121.9138297738,30.9579219818,6,0.0,上海东海影视乐园,ShanghaiDonghaiFilmPark
+444,孙桥现代农业开发区,2,86.0,上海孙桥现代农业开发区建于1994年9月6日，是继浦东新区陆家嘴贸易区、外高桥保税区、金桥出口加工区、张江高科技园区后成立的第五个功能开发区，是国内第一个现代农业开发区，也是12个市级现代农业园区的领头羊。开发区的建立旨在加速浦东一流农业…,612.0,121.6368660536,31.1763972716,4,0.0,孙桥现代农业开发区,
+445,江湾体育乐园,1,100.0,"位于上海市淞沪路245号，是一个设施齐全，新颖别致的大型娱乐场所。
+整座乐园与江湾体育场溶为一体，面积25.4公顷。园内有游乐项目20多种。其中有目前国内规模最大的“造波环流游泳池”，每场可容纳4000人。有从日本引进的大型三环滑车和沪港合营的…",149.0,121.5183803066,31.3116832311,3,0.0,江湾体育乐园,
+446,三山会馆San Mountain Association,1,88.0,,613.0,121.50218,31.21097,85,0.0,三山会馆,SanMountainAssociation
+447,唐代陀罗尼经幢,1,80.0,松江唐代陀罗尼经幢建于唐大中十三年（公元859年），是国内现存最古的石经幢。经幢现存21级，高9.3米，幢身八角形，刻有《佛顶尊胜陀罗尼经》全文，并有题记。其余各级如托座、东腰、华盖等部分，均有精致的雕刻，内容为泳龙、卷云、蹲狮宝相莲花、…,615.0,121.2474157828,31.0134315007,1,0.0,唐代陀罗尼经幢,
+448,南汇桃花村Nanhui Peach Blossom Village,1,86.0,,616.0,121.7587,31.066637,154,0.0,南汇桃花村,NanhuiPeachBlossomVillage
+449,龙华烈士陵园Longhua Revolutionary Martyrs' Cemetary,2,90.0,,381.0,121.455712,31.181942,146,0.0,龙华烈士陵园,LonghuaRevolutionaryMartyrsCemetary
+450,上海龙华塔Shanghai Longhua Tower,1,88.0,,617.0,121.4580142427,31.1800942064,115,0.0,上海龙华塔,ShanghaiLonghuaTower
+451,李白烈士故居Li Bai Martyr's Former Residence,3,90.0,,341.0,121.487999,31.273669,54,0.0,李白烈士故居,LiBaiMartyrsFormerResidence
+452,新华路Xinhua Road,3,94.0,长宁区的“万国弄堂”，在梧桐树下漫步上海优秀历史建筑。,618.0,121.430411,31.210265,88,0.0,新华路,XinhuaRoad
+453,太敬机器人科技文化体验馆Taijing Robotics Technology and Culture Experience Center,0,88.0,,89.0,121.38302,31.283953,44,0.0,太敬机器人科技文化体验馆,TaijingRoboticsTechnologyandCultureExperienceCenter
+454,世博中心,2,80.0,,388.0,121.476079496,31.1816028719,6,0.0,世博中心,
+455,上海中医药大学Shanghai University of Traditional Chinese Medicine,1,100.0,创立于1956年的上海中医药大学，是新中国诞生后国家首批建立的四所中医药高等院校之一，也是上海市属高校中唯一的一所医科类重点特色院校。,394.0,121.603337,31.200275,2,0.0,上海中医药大学,ShanghaiUniversityofTraditionalChineseMedicine
+456,松江明刻照壁Songjiang Ming Carved Wall,1,94.0,,620.0,121.2526742274,31.011384577,1,0.0,松江明刻照壁,SongjiangMingCarvedWall
+457,中央公园,1,0.0,位于浦东花木分区，规划轴线大道的终端。被列为市重点工程。浦东中央公园规划用地规模140.3公顷。公园采纳英国LUC公司的总体规划方案。由上海市浦东土地发展（控股）公司与同济大学、园林、市政、水利、等设计单位组成的联合设计组进行施工设计。公…,242.0,121.4896013952,31.2433402112,0,0.0,中央公园,
+458,黄母祠Huangmu Ancestral Temple,1,86.0,,621.0,121.455309,31.156855,21,0.0,黄母祠,HuangmuAncestralTemple
+459,清真女寺Qingzhennv Temple,1,90.0,,622.0,121.496065,31.226981,23,0.0,清真女寺,QingzhennvTemple
+460,上海中共二大和平民女校旧址Site of the Second National Congress of Communist Party of China,2,90.0,,623.0,121.473176,31.230304,27,0.0,上海中共二大和平民女校旧址,SiteoftheSecondNationalCongressofCommunistPartyofChina
+461,嘉定千年银杏Jiading Millenary Ancient Ginkgo Tree,2,96.0,,625.0,121.252043,31.321569,24,0.0,嘉定千年银杏,JiadingMillenaryAncientGinkgoTree
+462,上海旗忠森林网球中心Shanghai Qizhong Forest Sports City Tennis Center,1,100.0,旗忠森林体育城位于上海市西南的马桥镇，用地面积约为508亩，前往观众将有幸在现代化的赛场中欣赏世界顶尖选手的优美泳姿和精湛技术，体验激动人心的现场气氛。,626.0,121.3729118607,31.0499961423,4,0.0,上海旗忠森林网球中心,ShanghaiQizhongForestSportsCityTennisCenter
+463,汤姆熊欢乐世界(新世界店),1,80.0,,248.0,121.480066007,31.2406378575,2,0.0,汤姆熊欢乐世界新世界店,
+464,乾隆古道Qianlong Ancient Path,2,90.0,,627.0,121.207911,31.099817,14,0.0,乾隆古道,QianlongAncientPath
+465,洗心泉,1,0.0,"该泉位于东佘山西坡下，相传由北宋太平天国三年聪道人所凿。此泉相传由北宋兴国三年聪通人所凿，泉农出于佛教“无我”之说，据说，进入佛门必须达到“无我”境界，而要达此境界，必先行。洗心，方可抛弃世间一切俗念而使六根清静，喝了""洗心泉""，便…",629.0,120.4974280396,31.299339318,0,0.0,洗心泉,
+466,上海七宝周氏微雕馆QiBao ZhouShi WeiDiao Guan,1,86.0,,630.0,121.361232127,31.1571251833,18,0.0,上海七宝周氏微雕馆,QiBaoZhouShiWeiDiaoGuan
+467,上海董家渡天主堂Dongjiadu Catholic Church,1,86.0,,631.0,121.511115,31.220315,32,0.0,上海董家渡天主堂,DongjiaduCatholicChurch
+468,上海嘉定叶池Shanghai Jiading Yechi Pond,1,86.0,,632.0,121.2461363515,31.3783912659,11,0.0,上海嘉定叶池,ShanghaiJiadingYechiPond
+469,戚家墩古文化遗址Qijiadun Ancient Cultural Sites,0,78.0,,633.0,121.3626984662,30.7244567871,50,0.0,戚家墩古文化遗址,QijiadunAncientCulturalSites
+470,宋教仁墓Song Jiaoren Tomb,1,88.0,,634.0,121.464435,31.275711,44,0.0,宋教仁墓,SongJiaorenTomb
+471,张闻天故居Former Residence of Zhang Wentian in Shanghai,1,88.0,,243.0,121.769333,31.137576,41,0.0,张闻天故居,FormerResidenceofZhangWentianinShanghai
+472,秀道者古塔Xiudaozhe Guta,3,82.0,,11.0,121.2027693219,31.1016983547,26,0.0,秀道者古塔,XiudaozheGuta
+473,中国左翼作家联盟成立大会会址纪念馆Site of the Inaugural Meeting of the Chinese League of Left-Wing Writers,4,86.0,,635.0,121.487562,31.269353,29,0.0,中国左翼作家联盟成立大会会址纪念馆,SiteoftheInauguralMeetingoftheChineseLeagueofLeftWingWriters
+474,中国社会主义青年团中央机关旧址纪念馆Communist Youth League Central Authority Site Memorial Hall,1,80.0,,637.0,121.474835,31.226445,30,0.0,中国社会主义青年团中央机关旧址纪念馆,CommunistYouthLeagueCentralAuthoritySiteMemorialHall
+475,汇龙潭,1,80.0,汇龙潭于明代万历十六年（1588）所建，自北向南有五条河流汇集而成，应奎山坐落潭中，绿水怀抱，宛如一颗明珠，自古有五龙抢珠之称，汇龙潭因此而得名。,638.0,121.2598063773,31.3887066441,2,0.0,汇龙潭,
+476,上海意大利中心Shanghai Italy Center,1,90.0,,639.0,121.482349,31.189736,146,0.0,上海意大利中心,ShanghaiItalyCenter
+477,上海文化广场Shangqi·shanghai Culture Square,1,92.0,,318.0,121.4687641757,31.218038559,143,0.0,上海文化广场,ShangqishanghaiCultureSquare
+478,沈尹默故居Shenyinmo Former Residence (South Gate),1,82.0,,641.0,121.493991,31.264282,20,0.0,沈尹默故居,ShenyinmoFormerResidenceSouthGate
+479,永新坊(天钥桥路店)Yongxin Square,1,86.0,,319.0,121.4487543858,31.1984534106,41,0.0,永新坊天钥桥路店,YongxinSquare
+480,黄道婆墓与祠,1,0.0,黄道婆又名黄婆、黄四娘、巧姑。生于宋末元初，乌泥泾镇人。早年家境贫困，她十二三岁时，为生活所迫做了童养媳，后又流落在凉州（海南岛）。黄道婆在那里度过了几十个春秋，从黎族民间学会了植棉纺织的技能，晚年返回故乡后她积极从事棉织工业的生…,644.0,121.4546581013,31.131587516,0,0.0,黄道婆墓与祠,
+481,虎树亭,1,0.0,西佘山东麓、秀道者塔旁有一凉亭，名曰虎树亭。据《松江府志》载：宋代有名叫聪道人的苦行僧，苏州人氏，七岁时去杭州出家修行。宋太平兴国二年路经佘山，感到佘山林密山幽，就在此结一草庐住下。他为人善良，医术高明，专为当地人行医治病。相传当…,645.0,121.2031041786,31.1014742365,0,0.0,虎树亭,
+482,中国福利会少年宫(上海小伙伴剧场售票处)Chinese Welfare Association Children's Palace,2,90.0,,646.0,121.450516644,31.2279283269,104,0.0,中国福利会少年宫上海小伙伴剧场售票处,ChineseWelfareAssociationChildrensPalace
+483,崧泽古文化遗址Songze Cultural Ruins,3,86.0,,649.0,121.1712055743,31.1520065958,41,0.0,崧泽古文化遗址,SongzeCulturalRuins
+484,芦潮港Luchao Port,1,82.0,,651.0,121.926135,30.904155,87,0.0,芦潮港,LuchaoPort
+485,吴淞古炮台Shanghai Wusong Ancient Fort,1,94.0,,329.0,121.5003659899,31.414668512,25,0.0,吴淞古炮台,ShanghaiWusongAncientFort
+486,东佘山景区,1,100.0,"东佘山，海拔72.4米，占地850亩，林木葱郁，景冠九峰。
+东佘山园主要景点有：眉公钓鱼矶、狮子岩、骑龙堰、森林浴场等；坐落在南高峰的观光嘹望塔，塔身高22.4米，是游客品茗小憩、登高观景的绝佳之处。
+山上动植物资源丰富。野生梅花鹿、穿山甲及…",653.0,121.2079875283,31.1027663859,3,0.0,东佘山景区,
+487,寿安寺Shou'an Temple,1,86.0,,7.0,121.4279830659,31.620973587,28,0.0,寿安寺,ShouanTemple
+488,景德镇陶瓷上海艺术中心Jingdezhen Ceramics Shanghai Art Center,2,92.0,,654.0,121.4030987004,31.2432183774,5,0.0,景德镇陶瓷上海艺术中心,JingdezhenCeramicsShanghaiArtCenter
+489,青龙塔,1,0.0,青龙塔位于青浦区白鹤乡青龙村，又名青龙寺塔、青龙雁塔。此处原为古青龙镇，是唐宋时期对外贸易港，有“小杭州”之称。唐天宝二年间（743）建报德寺；唐长庆元年（821）改名隆福寺，建塔，北宋庆历年间（1041―1048）重建。清康熙帝南巡，赐名吉云…,656.0,121.1804797853,31.245392708,0,0.0,青龙塔,
+490,上海相东佛像艺术馆Shanghai Xiangdong Buddhist Art Museum,1,86.0,,658.0,121.233263,31.375765,28,0.0,上海相东佛像艺术馆,ShanghaiXiangdongBuddhistArtMuseum
+491,马桥遗址Maqiao Relic Site,1,20.0,,659.0,121.3894382041,31.0408573832,1,0.0,马桥遗址,MaqiaoRelicSite
+492,上海市群众艺术馆ShangHaiShi QunZhong YiShuGuan,1,90.0,,238.0,121.4311278351,31.1920612765,67,0.0,上海市群众艺术馆,ShangHaiShiQunZhongYiShuGuan
+493,福泉山古文化遗址,1,50.0,上海福泉山古文化遗址位于青浦县重固乡钱家经村．虽称之为山，其实是4000余年前人工堆成的一个带椭圆形的土台，高7．5米，东西长94米，南北宽84米。土墩形似覆船，故又名覆船山。1979年来，先后3次发掘，面积约 2150平方米。经清理，在灰黑色土层中…,662.0,121.1823994064,31.2207954164,2,0.0,福泉山古文化遗址,
+494,「 HOME + HOUSE 」2014上海展,0,0.0,颠覆以往设计展概念，选择科技环保、人文、建筑穿插在家的主题，以此构建创新的设计展，籍以推动本土设计走向国际。,663.0,121.504302,31.345916,0,0.0,上海展,HOMEHOUSE
+495,复旦大学江湾校区Fudan University(Jiangwan New Campus),1,94.0,,665.0,121.513724,31.34272,32,0.0,复旦大学江湾校区,FudanUniversityJiangwanNewCampus
+496,金色滩涂,1,100.0,"崇明岛地处江海交界之处，长江下泄泥沙在岛周围形成了巨大的滩涂,此为崇明得天独厚之处。1956到1984年崇明岛共围垦土地612560.7亩。1984年，高度在0米以上的滩涂有42万余亩，其中在吴淞标高2米以上的20.55万亩，标高3.2米以上的13.6万亩，标高3.6米…",666.0,121.5628729233,30.8233645763,1,0.0,金色滩涂,
+497,永乐御碑Yongle Imperial Stele,1,86.0,,667.0,121.588616,31.354417,1,0.0,永乐御碑,YongleImperialStele
+498,金鏊山,1,0.0,在清康熙七年（1668年）时重建，在城东约2.5公里的寿安寺之北。山有九峰，中峰为最高，山下凿玉莲池，砌清远堂等。山上建塔一座，意制止海塌，故名“镇海塔”。在塔之东、南、西三壁分书“安”、“静”、“定”三字以示镇海。1933年，在山旁建筑抗…,668.0,121.4267999181,31.6219943214,0,0.0,金鏊山,
+499,光明瑞华果园Bright Ruihua Orchard,1,86.0,,240.0,121.3359027102,31.8181591034,43,0.0,光明瑞华果园,BrightRuihuaOrchard
+500,华严塔Jinshan Huayan Tower,1,100.0,,669.0,121.251641408,30.9071294068,1,0.0,华严塔,JinshanHuayanTower
+501,华鑫中心Huaxin Business Center,0,0.0,华鑫中心丰盛多彩，是看的见感受的到的自然空间场，把充满自然元素的景观和建筑融为一体，实现了景观建筑的设计构想。,398.0,121.422498,31.179285,0,0.0,华鑫中心,HuaxinBusinessCenter
+502,唐一岑墓祠,1,0.0,县级保护文物。唐一岑系明嘉靖年间崇明县知县，嘉靖三十三年（1554年），知县唐一岑率军民浴血抵抗犯崇倭寇，以身殉国。为表彰其功绩，明嘉靖帝敕赠唐一岑为光禄寺丞，并筑墓建祠以祀之。初建唐一岑墓祠于平洋沙旧城西南隅。1731年（清雍正九年）迁…,670.0,121.4046505531,31.6339619378,0,0.0,唐一岑墓祠,
+503,书隐楼Shuyin Building,1,90.0,,671.0,121.503007,31.224853,49,0.0,书隐楼,ShuyinBuilding
+504,汪公馆Wang Mansion,1,94.0,,672.0,121.4336930787,31.2260103526,22,0.0,汪公馆,WangMansion
+505,潮音庵ChaoYnnAn Buddhist Nunnery,2,86.0,,673.0,121.673731,31.294718,53,0.0,潮音庵,ChaoYnnAnBuddhistNunnery
+506,吴昌硕纪念馆Wuchangshuo Memorial Hall,1,92.0,,282.0,121.5135857233,31.2423540733,461,0.0,吴昌硕纪念馆,WuchangshuoMemorialHall
+507,松郡九峰,0,0.0,"九峰均在海拔100米以下，呈西南---东北走向，逶迤13.2公里，山地面积共约2.35平方公里。依次名为小昆山、横山、机山、天马山、辰山、佘山、薛山、厍公山、凤凰山。
+山体表面林木深秀，森林覆盖率达86%以上。据旧府县志所载，每座山峰均有""八景""、""…",674.0,121.1675933416,31.0802681254,0,0.0,松郡九峰,
+508,黄浦大境关帝庙Huangpu Dajing Guandi Temple,2,92.0,,290.0,121.4919261535,31.2308825622,36,0.0,黄浦大境关帝庙,HuangpuDajingGuandiTemple
+509,昭庆禅寺,1,0.0,在东佘山骑龙堰侧。原名为慈云昭庆禅寺，宋绍兴二年（公元1132年）建，元时毁。明洪武24年，僧德智重建，永乐十二年再建观音藏殿，并西廊，募铸三口钟。是当年名倾江南的寺院。繁盛时，拥有一千多间寺舍禅房。香火鼎盛，显赫一时。寺内有金沙地、芥…,676.0,121.2031041786,31.1014742365,0,0.0,昭庆禅寺,
+510,护珠塔Songjiang Huzhu Tower,1,88.0,,16.0,121.1569083104,31.0799362865,22,0.0,护珠塔,SongjiangHuzhuTower
+511,万寿塔Shanghai Wanshou Tower,0,90.0,,690.0,121.1210704618,31.1474788468,21,0.0,万寿塔,ShanghaiWanshouTower
+512,上海动漫博物馆Shanghai Museum of Animation,1,86.0,,692.0,121.618432,31.217965,80,0.0,上海动漫博物馆,ShanghaiMuseumofAnimation
+513,吴兴寺Wuxing Temple,1,82.0,,327.0,121.1835108897,31.3695986276,38,0.0,吴兴寺,WuxingTemple
+514,廊下郊野公园Langxia Ecological Park,0,80.0,,272.0,121.164712,30.792426,83,0.0,廊下郊野公园,LangxiaEcologicalPark
+515,同乐坊Tongle Lane,0,86.0,,42.0,121.4499936881,31.2431067883,153,0.0,同乐坊,TongleLane
+516,上海荟萃园,1,80.0,荟萃园的南边建有亭廊组合体，园西北是梅山及三友亭，山上广植松、竹、梅岁寒三友。荷花池中小岛上建笠亭，池北建三曲平桥，池内及四周植物按春、夏、秋三季配置。,695.0,121.346595,30.716763,2,0.0,上海荟萃园,
+517,上海国际越野赛车场,0,0.0,,,121.527492,30.830403,0,0.0,上海国际越野赛车场,
+518,季高兔窝窝PANCOAT乐园,0,0.0,,,121.214247,31.106415,0,0.0,季高兔窝窝乐园,PANCOAT
+519,戈登路巡捕房旧址,0,0.0,,,121.4575001086,31.2419815728,0,0.0,戈登路巡捕房旧址,
+520,魔都悬空玻璃剧场,0,0.0,,,121.474166,31.213146,0,0.0,魔都悬空玻璃剧场,
+521,笔墨宫坊,0,0.0,,,121.55704,31.311592,0,0.0,笔墨宫坊,
+522,上海对外经贸大学博物馆,0,0.0,,,121.40586,31.213581,0,0.0,上海对外经贸大学博物馆,
+523,苗棚影视基地,0,0.0,,,121.240712,31.001402,0,0.0,苗棚影视基地,
+524,静安新业坊,0,80.0,,,121.4500534877,31.2967256539,0,0.0,静安新业坊,
+525,黄浦区图书馆,0,100.0,,,121.4852474035,31.2380588397,0,0.0,黄浦区图书馆,
+526,M+马利,0,80.0,,,121.4503329023,31.2444382781,0,0.0,马利,M
+527,南胜村,0,0.0,,,121.486779,30.864527,0,0.0,南胜村,
+528,长寿路桥,0,0.0,,,121.453263,31.251149,0,0.0,长寿路桥,
+529,奉贤生态园,0,0.0,,,121.5644113891,30.8244992426,0,0.0,奉贤生态园,
+530,丰收村,0,0.0,,,121.4969894256,31.0666102269,0,0.0,丰收村,
+531,丰翔绿地,0,0.0,,,121.3660027208,31.3118114177,0,0.0,丰翔绿地,
+532,Lutra Gallery 獭獭画廊,0,86.0,,,121.492056,31.248163,0,0.0,獭獭画廊,LutraGallery
+533,集装箱创客部落,0,0.0,,,121.441534,31.3493,0,0.0,集装箱创客部落,
+534,联合村,0,100.0,,,121.329427,31.412036,0,0.0,联合村,
+535,滨江森林公园二期,0,0.0,,,121.534391,31.388978,0,0.0,滨江森林公园二期,
+536,曹村源园,0,0.0,,,121.4136196153,31.2446771537,0,0.0,曹村源园,
+537,闵行区民防科普馆,0,0.0,,,121.3643593232,31.1685800912,0,0.0,闵行区民防科普馆,
+538,闵行区民法典主题公园,0,0.0,,,121.502981,31.084477,0,0.0,闵行区民法典主题公园,
+539,讴思园,0,0.0,,,121.200572,31.334111,0,0.0,讴思园,
+540,嘉定青少年活动中心 (清河路),0,0.0,,,121.24685,31.38691,0,0.0,嘉定青少年活动中心清河路,
+541,复华公园,0,0.0,,,121.281233,31.388407,0,0.0,复华公园,
+542,汇源公园,0,0.0,,,121.213516,31.421874,0,0.0,汇源公园,
+543,唐家湾公园,0,0.0,,,121.282451,31.414557,0,0.0,唐家湾公园,
+544,松茸园,0,0.0,,,121.295021,31.339347,0,0.0,松茸园,
+545,东礁公园,0,0.0,,,121.348039,30.729243,0,0.0,东礁公园,
+546,永源浜花园,0,0.0,,,121.4483470482,31.2273199119,0,0.0,永源浜花园,
+547,绿洲公园,0,0.0,,,121.6043058243,31.3325745084,0,0.0,绿洲公园,
+548,重固体育公园,0,0.0,,,121.1956215166,31.2088266056,0,0.0,重固体育公园,
+549,明珠广场,0,0.0,,,121.50793743,31.2430149874,0,0.0,明珠广场,
+550,Realpark king sports体育公园,0,0.0,,,121.4110860324,31.0971582124,0,0.0,体育公园,Realparkkingsports
+551,艾青旧居,0,0.0,,,121.479336217,31.2236696164,0,0.0,艾青旧居,
+552,花神广场,0,0.0,,,121.3533337906,31.4205685591,0,0.0,花神广场,
+553,徐家汇圣依纳爵主教座堂Xujiahui Saint Ignatius Cathedral,0,0.0,,,121.442633,31.197464,0,0.0,徐家汇圣依纳爵主教座堂,XujiahuiSaintIgnatiusCathedral
+554,桥头广场,0,0.0,,,121.4807294711,31.1354451115,0,0.0,桥头广场,
+555,马鞭草园,0,0.0,,,121.364151331,31.4893487374,0,0.0,马鞭草园,
+556,上海市民体育公园足球公园,0,0.0,,,121.2465605879,31.3303621704,0,0.0,上海市民体育公园足球公园,
+557,花漾园,0,0.0,,,121.4995403162,31.221087745,0,0.0,花漾园,
+558,终点广场,0,0.0,,,121.4791990362,31.1367373911,0,0.0,终点广场,
+559,唐镇公园,0,0.0,,,121.6520368268,31.216268464,0,0.0,唐镇公园,
+560,陈春路口袋公园,0,0.0,,,121.3215905597,31.0746106121,0,0.0,陈春路口袋公园,
+561,高东生态园-高东体育主题公园,0,0.0,,,121.6438433484,31.3108983199,0,0.0,高东生态园高东体育主题公园,
+562,联民文化广场,0,0.0,,,121.4973843212,31.0466324287,0,0.0,联民文化广场,
+563,方松体育公园,0,0.0,,,121.23844907,31.0473853284,0,0.0,方松体育公园,
+564,新顾城体育公园,0,0.0,,,121.3564901452,31.3495922561,0,0.0,新顾城体育公园,
+565,桂湖园,0,0.0,,,121.2881137075,31.4217001636,0,0.0,桂湖园,
+566,口袋公园,0,0.0,,,121.4649278101,31.2153871254,0,0.0,口袋公园,
+567,薇花园,0,0.0,,,121.4686956472,31.2226931933,0,0.0,薇花园,
+568,体汇+名都体育公园,0,0.0,,,121.4054142539,31.19517399,0,0.0,体汇名都体育公园,
+569,江湾体育场后花园,0,0.0,,,121.523202699,31.3133484668,0,0.0,江湾体育场后花园,
+570,上海少年村旧址,0,0.0,,,121.4356901819,31.3071862506,0,0.0,上海少年村旧址,
+571,口袋公园,0,0.0,,,121.4370916832,31.2195307838,0,0.0,口袋公园,
+572,陈坊公园,0,0.0,,,121.1910522623,31.1045387097,0,0.0,陈坊公园,
+573,青春小游园,0,0.0,,,121.389871143,31.2016021721,0,0.0,青春小游园,
+574,星空公园,0,0.0,,,121.5186817004,30.9318896688,0,0.0,星空公园,
+575,上海公共体育场旧址,0,0.0,,,121.4894585534,31.2186014066,0,0.0,上海公共体育场旧址,
+576,新会花园,0,0.0,,,121.4424414997,31.2430950822,0,0.0,新会花园,
+577,上善广场,0,0.0,,,121.1198480261,31.1695228886,0,0.0,上善广场,
+578,海霞公园,0,0.0,,,121.7541779183,31.1776544439,0,0.0,海霞公园,
+579,娄塘公园,0,0.0,,,121.2207664138,31.4312611988,0,0.0,娄塘公园,
+580,孔详熙故居,0,0.0,,,121.4469542609,31.2288617815,0,0.0,孔详熙故居,
+581,丹巴花园,0,0.0,,,121.3910294372,31.2378745007,0,0.0,丹巴花园,
+582,世纪同框广场,0,60.0,,,121.4959618988,31.249804246,0,0.0,世纪同框广场,
+583,御桥广场,0,0.0,,,121.5758501482,31.1598257857,0,0.0,御桥广场,
+584,祁云绿地街心花园,0,0.0,,,121.3719899851,31.2365481499,0,0.0,祁云绿地街心花园,
+585,开新文体公园,0,0.0,,,121.6525635936,31.0235075342,0,0.0,开新文体公园,
+586,上海玫瑰花园,0,0.0,,,121.4574975742,31.2325078605,0,0.0,上海玫瑰花园,
+587,上海杨林寺,0,0.0,,,121.253879566,31.2619727071,0,0.0,上海杨林寺,
+588,茶陵绿地,0,0.0,,,121.4715397999,31.2038305076,0,0.0,茶陵绿地,
+589,同福花园,0,0.0,,,121.4678906297,31.2369243617,0,0.0,同福花园,
+590,金竹休闲绿地,0,0.0,,,121.3941201221,31.0984057884,0,0.0,金竹休闲绿地,
+591,昌新花园,0,0.0,,,121.4617960265,31.2395338989,0,0.0,昌新花园,
+592,银杏广场,0,0.0,,,121.3925781234,31.2284231236,0,0.0,银杏广场,
+593,阅读花园,0,0.0,,,121.4683407465,31.2222212695,0,0.0,阅读花园,
+594,中房洛克公园,0,0.0,,,121.5194627783,31.14884161,0,0.0,中房洛克公园,
+595,音花园,0,0.0,,,121.4447567227,31.2433835763,0,0.0,音花园,
+596,南园公园,0,0.0,,,121.4816767135,31.1974856127,0,0.0,南园公园,
+597,黄渡文化广场,0,0.0,,,121.224003127,31.2702183714,0,0.0,黄渡文化广场,
+598,彩丘园绿地,0,80.0,,,121.3998532287,31.2879050224,0,0.0,彩丘园绿地,
+599,车墩人口文化广场,0,0.0,,,121.3214888944,31.0204873991,0,0.0,车墩人口文化广场,
+600,奉贤区市民公园,0,0.0,,,121.491465,30.918421,0,0.0,奉贤区市民公园,
+601,锦逸园,0,0.0,,,121.504075,31.084008,0,0.0,锦逸园,
+602,南闸公园,0,0.0,,,121.538214,30.827467,0,0.0,南闸公园,
+603,青年艺术公园,0,0.0,,,121.512081,30.93905,0,0.0,青年艺术公园,
+604,上海九棵树艺术公园,0,0.0,,,121.509759,30.923778,0,0.0,上海九棵树艺术公园,
+605,九华路公园,0,0.0,,,121.463175,30.937022,0,0.0,九华路公园,
+606,锦怡园,0,0.0,,,121.513635,31.076494,0,0.0,锦怡园,
+607,锦园,0,0.0,,,121.504428,31.079402,0,0.0,锦园,
+608,和合社区公园,0,0.0,,,121.492578,30.926185,0,0.0,和合社区公园,
+609,人民桥公园,0,0.0,,,121.534779,30.933102,0,0.0,人民桥公园,
+610,如心公园,0,0.0,,,121.110738,31.149062,0,0.0,如心公园,
+611,四团幸福公园,0,0.0,,,121.74553,30.940372,0,0.0,四团幸福公园,
+612,柘林公园,0,0.0,,,121.473343,30.875752,0,0.0,柘林公园,
+613,浦南运河北岸公园,0,0.0,,,121.534779,30.933102,0,0.0,浦南运河北岸公园,
+614,光明公园,0,0.0,,,121.533781,30.894339,0,0.0,光明公园,
+615,青溪法治公园,0,0.0,,,121.587038,30.933109,0,0.0,青溪法治公园,
+616,红叶公园,0,0.0,,,121.48006,30.906808,0,0.0,红叶公园,
+617,美树里,0,0.0,,,121.498834,31.088694,0,0.0,美树里,
+618,山阳广场,0,0.0,,,121.358569,30.734249,0,0.0,山阳广场,
+619,锦溪园,0,0.0,,,121.517439,31.069058,0,0.0,锦溪园,
+620,江玮绿地,0,0.0,,,121.540504,31.066712,0,0.0,江玮绿地,
+621,锦心园,0,0.0,,,121.504237,31.084893,0,0.0,锦心园,
+622,锦绣园,0,0.0,,,121.499131,31.074252,0,0.0,锦绣园,
+623,锦和园,0,0.0,,,121.501982,31.087216,0,0.0,锦和园,
+624,香雪公园,0,0.0,,,121.113286,31.145534,0,0.0,香雪公园,
+625,正阳中央景观公园,0,0.0,,,121.484237,30.91737,0,0.0,正阳中央景观公园,
+626,景谷园,0,0.0,,,121.407021,31.01908,0,0.0,景谷园,
+627,晨兴公园,0,0.0,,,121.109576,31.148282,0,0.0,晨兴公园,
+628,上海市嘉朱生态桂花园,0,0.0,,,121.167669,31.425689,0,0.0,上海市嘉朱生态桂花园,
+629,华城广场,0,0.0,,,121.4967256068,31.1687508091,0,0.0,华城广场,
+630,花木玉兰广场,0,0.0,,,121.5540645374,31.2131986849,0,0.0,花木玉兰广场,
+631,新桥镇文化休闲广场,0,0.0,,,121.3207577083,31.0691102787,0,0.0,新桥镇文化休闲广场,
+632,上海电气都市工业园区,0,0.0,,,121.553493,31.303092,0,0.0,上海电气都市工业园区,
+633,上海贝嘉葆STEAM儿童主题体验中心,0,0.0,,,121.683641,31.286844,0,0.0,上海贝嘉葆儿童主题体验中心,STEAM
+634,爱普香料植物园,0,0.0,,,121.2748251916,31.4471948011,0,0.0,爱普香料植物园,
+635,百草园,0,0.0,,,121.495301,31.265879,0,0.0,百草园,
+636,离(余庆路店)Lí Gallery,0,0.0,,,121.445376,31.208918,0,0.0,离余庆路店,LGallery
+637,LXcamping（宠物露营地）,0,0.0,,,121.165243,30.790792,0,0.0,宠物露营地,LXcamping
+638,康健绿苑,0,0.0,,,121.4269184653,31.1597774023,0,0.0,康健绿苑,
+639,五里桥街道图书馆,0,0.0,,,121.482335932,31.1997521954,0,0.0,五里桥街道图书馆,
+640,联想未来中心,0,0.0,,,121.5923018825,31.2082597628,0,0.0,联想未来中心,
+641,沪乡记忆馆,0,0.0,,,121.8010133188,31.0296160675,0,0.0,沪乡记忆馆,
+642,中共中央秘书处机关旧址,0,0.0,,,121.455744,31.243942,0,0.0,中共中央秘书处机关旧址,
+643,傅雷旧居,0,0.0,,,121.585924,31.124558,0,0.0,傅雷旧居,
+644,奇幻颠倒馆(莘庄维璟印象城店),0,0.0,,,121.3707126539,31.1369156027,0,0.0,奇幻颠倒馆莘庄维璟印象城店,
+645,红十字文化广场,0,0.0,,,121.3862529321,31.233660882,0,0.0,红十字文化广场,
+646,吕巷水果公园,0,90.0,,,121.220725,30.84005,0,0.0,吕巷水果公园,
+647,玉海棠左岸,0,0.0,,,121.335523,31.770268,0,0.0,玉海棠左岸,
+648,土拨鼠俱乐部(世茂广场店),0,0.0,,,121.4825649032,31.2402489285,0,0.0,土拨鼠俱乐部世茂广场店,
+649,罗店老镇历史风貌区,0,0.0,,,121.3470251429,31.4179422129,0,0.0,罗店老镇历史风貌区,
+650,玉海棠棠果乐园,0,0.0,,,121.338381,31.770505,0,0.0,玉海棠棠果乐园,
+651,玉海棠海棠湖景区,0,0.0,,,121.325181,31.760828,0,0.0,玉海棠海棠湖景区,
+652,廿肆传艺社,0,0.0,,,121.4989450603,31.2310992839,0,0.0,廿肆传艺社,
+653,水岸汇(春申港站店),0,0.0,,,121.4611497566,31.1474591089,0,0.0,水岸汇春申港站店,
+654,南码头路街道图书馆,0,80.0,,,121.5151213574,31.2016712883,0,0.0,南码头路街道图书馆,
+655,M50民防文化艺术创意馆,0,20.0,,,121.4557950349,31.2544559044,0,0.0,民防文化艺术创意馆,M
+656,上海Meland Club(虹桥万象城店),0,0.0,,,121.374166,31.175523,0,0.0,上海虹桥万象城店,MelandClub
+657,大镜堂,0,0.0,,,121.2923413406,30.8069030675,0,0.0,大镜堂,
+658,锦囊妙馆,0,0.0,,,121.315732,31.21537,0,0.0,锦囊妙馆,
+659,水库村,0,80.0,,,121.4030170709,30.8301683714,0,0.0,水库村,
+660,人文松江活动中心展示厅,0,0.0,,,121.2356394115,31.0062538789,0,0.0,人文松江活动中心展示厅,
+661,FIRST POINT元点,0,0.0,,,121.4511515601,31.2554778959,0,0.0,元点,FIRSTPOINT
+662,浦东新区群众文化艺术馆,0,100.0,,,121.54692,31.195732,0,0.0,浦东新区群众文化艺术馆,
+663,上海Meland Club(南翔嘉定印象城),0,0.0,,,121.313638,31.310937,0,0.0,上海南翔嘉定印象城,MelandClub
+664,云间会堂文化艺术中心,0,0.0,,,121.2370789331,31.0063136501,0,0.0,云间会堂文化艺术中心,
+665,龙华民俗传承馆,0,0.0,,,121.4575153316,31.1819516468,0,0.0,龙华民俗传承馆,
+666,徐家汇体育公园,0,100.0,,,121.446061,31.186889,0,0.0,徐家汇体育公园,
+667,漕泾郊野公园,0,0.0,,,121.403236,30.833389,0,0.0,漕泾郊野公园,
+668,米奥艺术中心,0,90.0,,,121.403105,31.077656,0,0.0,米奥艺术中心,
+669,康桥生态园沿北绿地,0,100.0,,,121.599141,31.149043,0,0.0,康桥生态园沿北绿地,
+670,高东镇社区文化活动中心,0,0.0,,,121.6285493859,31.3315485533,0,0.0,高东镇社区文化活动中心,
+671,海关学院图书馆,0,0.0,,,121.5834469997,31.174080226,0,0.0,海关学院图书馆,
+672,顾村镇图书馆,0,86.0,,,121.417245,31.362762,0,0.0,顾村镇图书馆,
+673,W&S Art SpaceW&S Art Space,0,0.0,,,121.376555,31.178649,0,0.0,,WSArtSpaceWSArtSpace
+674,浦东新区青少年活动中心,0,0.0,,,121.5895881222,31.2543416328,0,0.0,浦东新区青少年活动中心,
+675,罗店镇图书馆,0,0.0,,,121.3670805651,31.4107545021,0,0.0,罗店镇图书馆,
+676,安亭新镇奥林匹克体育公园,0,0.0,,,121.1718222815,31.2768829152,0,0.0,安亭新镇奥林匹克体育公园,
+677,gallery All,0,100.0,,,121.4497209509,31.2428306202,0,0.0,,galleryAll
+678,锦尊湿地公园,0,86.0,,,121.539924,31.183872,1,0.0,锦尊湿地公园,
+679,海事塔广场,0,0.0,,,121.4688268006,31.1837119533,0,0.0,海事塔广场,
+680,Xspace,0,0.0,,,121.4816058684,31.2180795049,0,0.0,,Xspace
+681,天时632艺术空间,0,100.0,,,121.511999,31.239185,0,0.0,天时艺术空间,
+682,邹容墓,0,0.0,,,121.451938,31.124893,0,0.0,邹容墓,
+683,YellowKorner(西岸店),0,0.0,,,121.4661226393,31.1698066076,0,0.0,西岸店,YellowKorner
+684,知美居CharmyArt,0,0.0,,,121.4553677904,31.2542480995,0,0.0,知美居,CharmyArt
+685,Choc Choco巧克巧蔻博物馆,0,96.0,,,121.4975142292,31.2323821879,0,0.0,巧克巧蔻博物馆,ChocChoco
+686,漕河泾街道图书馆,0,0.0,,,121.432018,31.17176,0,0.0,漕河泾街道图书馆,
+687,山海艺术馆,0,0.0,,,121.4188307181,31.304000329,0,0.0,山海艺术馆,
+688,洞泾镇社区文化活动中心,0,0.0,,,121.2776879696,31.0886747399,0,0.0,洞泾镇社区文化活动中心,
+689,塘桥社区活动中心图书馆,0,86.0,,,121.535602,31.217465,0,0.0,塘桥社区活动中心图书馆,
+690,七宝镇图书馆,0,0.0,,,121.3496436174,31.158572088,0,0.0,七宝镇图书馆,
+691,北新泾街道图书馆,0,0.0,,,121.375699737,31.2241096411,0,0.0,北新泾街道图书馆,
+692,黄浦区工人文化宫,0,0.0,,,121.5024910549,31.2133348609,0,0.0,黄浦区工人文化宫,
+693,共和新路街道社区文化活动中心,0,0.0,,,121.4524024915,31.2732289789,0,0.0,共和新路街道社区文化活动中心,
+694,上海国际农展中心,0,0.0,,,121.3820483658,31.1968768806,0,0.0,上海国际农展中心,
+695,南翔图书馆,0,0.0,,,121.3161347043,31.3044210448,0,0.0,南翔图书馆,
+696,春申文化广场,0,0.0,,,121.3955940487,31.1113812948,0,0.0,春申文化广场,
+697,高行镇图书馆,0,0.0,,,121.6180474044,31.3020471532,0,0.0,高行镇图书馆,
+698,大桥街道图书馆,0,0.0,,,121.548449468,31.2736446166,0,0.0,大桥街道图书馆,
+699,曹路镇图书馆,0,0.0,,,121.676505279,31.2806636605,0,0.0,曹路镇图书馆,
+700,周浦镇文化中心图书馆,0,86.0,,,121.5957315243,31.1169149218,0,0.0,周浦镇文化中心图书馆,
+701,新川沙图书馆少年儿童图书馆,0,0.0,,,121.7019278452,31.1983993248,0,0.0,新川沙图书馆少年儿童图书馆,
+702,安亭镇图书馆,0,0.0,,,121.1708710164,31.3022535201,0,0.0,安亭镇图书馆,
+703,江湾镇社区文化活动中心,0,86.0,,,121.4866836155,31.3104117044,0,0.0,江湾镇社区文化活动中心,
+704,徐汇区文化馆,0,0.0,,,121.443096,31.140713,0,0.0,徐汇区文化馆,
+705,浦兴路街道图书馆,0,92.0,,,121.607698581,31.2775269187,0,0.0,浦兴路街道图书馆,
+706,南京西路街道图书馆,0,86.0,,,121.4665652947,31.2312884683,0,0.0,南京西路街道图书馆,
+707,飞天自控翼龙,0,0.0,,,121.378774,31.347848,0,0.0,飞天自控翼龙,
+708,苏州河华政段,0,0.0,,,121.4267506612,31.2310905401,0,0.0,苏州河华政段,
+709,中国航海博物馆(上海浦东机场),0,0.0,,,121.8108432802,31.1576268027,0,0.0,中国航海博物馆上海浦东机场,
+710,广福讲寺,0,0.0,,,121.7578229807,31.5242812932,0,0.0,广福讲寺,
+711,沪东来客厅,0,0.0,,,121.5876393071,31.2802553406,0,0.0,沪东来客厅,
+712,薛公馆,0,0.0,,,121.4888709607,31.2681702972,0,0.0,薛公馆,
+713,华藏禅寺,0,0.0,,,121.2617245387,31.4629510066,0,0.0,华藏禅寺,
+714,拉普达艺术中心,0,0.0,,,121.4520533984,31.2249497553,0,0.0,拉普达艺术中心,
+715,虹桥基金小镇,0,0.0,,,121.3953383596,31.1886355254,0,0.0,虹桥基金小镇,
+716,长风冰雪嘉年华,0,0.0,,,121.4018532556,31.2283967499,0,0.0,长风冰雪嘉年华,
+717,樱花岛,0,0.0,,,121.5601169387,31.221518955,0,0.0,樱花岛,
+718,城市不眠书店(杨高中路店),0,86.0,,,121.5634946519,31.2385263274,0,0.0,城市不眠书店杨高中路店,
+719,静安区图书艺术分馆文献中心,0,0.0,,,121.4517935537,31.2979068801,0,0.0,静安区图书艺术分馆文献中心,
+720,与点YUDIAN,0,0.0,,,121.4555182999,31.222553618,0,0.0,与点,YUDIAN
+721,上海市浦东新区青少年活动中心,0,0.0,,,121.5494564164,31.196322375,0,0.0,上海市浦东新区青少年活动中心,
+722,法华禅寺,0,0.0,,,121.3718743985,31.2098765636,0,0.0,法华禅寺,
+723,洛克公园(安亭店),0,0.0,,,121.1703732553,31.3109286677,0,0.0,洛克公园安亭店,
+724,宝山生态园林区公共运动场,0,0.0,,,121.3754176475,31.3388186137,0,0.0,宝山生态园林区公共运动场,
+725,Voyage UCCA LabVoyage UCCA Lab,0,100.0,,,121.4612,31.234634,0,0.0,,VoyageUCCALabVoyageUCCALab
+726,PEARLONA COMMON ROOM大客厅,0,0.0,,,121.4557256145,31.2542219758,0,0.0,大客厅,PEARLONACOMMONROOM
+727,崇庆教寺观音禅院,0,0.0,,,121.5785556978,31.1908148255,0,0.0,崇庆教寺观音禅院,
+728,洛克公园(马陆店),0,0.0,,,121.2836617178,31.325754557,0,0.0,洛克公园马陆店,
+729,申园,0,94.0,,,121.4887939659,31.1888350416,1,0.0,申园,
+730,市北绿地,0,0.0,,,121.4634478337,31.3054185264,0,0.0,市北绿地,
+731,地藏古寺,0,60.0,,,121.2751031295,31.0139235597,0,0.0,地藏古寺,
+732,嘉禧国际艺术中心(JIAXI),0,0.0,,,121.4951669172,31.2462760842,0,0.0,嘉禧国际艺术中心,JIAXI
+733,活力森林区,0,0.0,,,121.5112994113,31.0653462615,0,0.0,活力森林区,
+734,Rink on the Bund | BFC外滩冰之梦,0,80.0,,,121.5040929599,31.2324115805,0,0.0,外滩冰之梦,RinkontheBundBFC
+735,木文化博物馆,0,0.0,,,121.4518269771,31.2548266661,0,0.0,木文化博物馆,
+736,五维空间W-SPACE,0,0.0,,,121.5540069675,31.3144634729,0,0.0,五维空间,WSPACE
+737,苏州河十八湾,0,100.0,,,121.3859815098,31.2258914061,0,0.0,苏州河十八湾,
+738,宝山万达金街,0,0.0,,,121.4523113297,31.3301781028,0,0.0,宝山万达金街,
+739,南翔污水厂公园,0,0.0,,,121.3408284162,31.3366050925,1,0.0,南翔污水厂公园,
+740,世界港口小镇,0,80.0,,,121.4191073749,31.2392653641,0,0.0,世界港口小镇,
+741,林峰国际象棋图书馆,0,0.0,,,121.5269562818,31.2405275315,0,0.0,林峰国际象棋图书馆,
+742,洛克公园(梅州路店),0,0.0,,,121.4110146457,31.0974859663,0,0.0,洛克公园梅州路店,
+743,闵行市民文化广场,0,0.0,,,121.3808728904,31.110800976,0,0.0,闵行市民文化广场,
+744,默空间,0,0.0,,,121.4417210354,31.2288028977,0,0.0,默空间,
+745,5号望江驿,0,0.0,,,121.510921,31.249425,0,0.0,号望江驿,
+746,徐汇区爱国主义教育基地,0,0.0,,,121.4538607776,31.2165201702,0,0.0,徐汇区爱国主义教育基地,
+747,舢板船博物馆,0,0.0,,,121.3804890425,30.7366180126,0,0.0,舢板船博物馆,
+748,广富林水下博物馆,0,94.0,,,121.204593,31.068654,0,0.0,广富林水下博物馆,
+749,浦东新区六一主题园,0,0.0,,,121.6429795865,31.1758351461,0,0.0,浦东新区六一主题园,
+750,丁家花园,0,0.0,,,121.7106628834,31.2010079462,0,0.0,丁家花园,
+751,虹溪公园,0,0.0,,,121.3940688374,31.1811797963,0,0.0,虹溪公园,
+752,康桥生态园汤巷绿地,0,100.0,,,121.6061209565,31.14987576,0,0.0,康桥生态园汤巷绿地,
+753,海派艺术馆,0,0.0,,,121.36478112,31.1664110411,0,0.0,海派艺术馆,
+754,青浦区青少年活动中心(公园路店),0,0.0,,,121.1319280051,31.1562902409,0,0.0,青浦区青少年活动中心公园路店,
+755,M50创意园(武威东路店),0,0.0,,,121.3861103866,31.2832169978,0,0.0,创意园武威东路店,M
+756,孙科故宅,0,100.0,,,121.4334946412,31.2161712578,0,0.0,孙科故宅,
+757,东方尚博时尚园区,0,0.0,,,121.5185221379,31.1945468607,0,0.0,东方尚博时尚园区,
+758,珀德画廊BirdGallery,0,100.0,,,121.4561295311,31.254251302,0,0.0,珀德画廊,BirdGallery
+759,星空梦幻展(豫园店),0,0.0,,,121.4976949863,31.2341524216,0,0.0,星空梦幻展豫园店,
+760,月浦镇图书馆,0,0.0,,,121.4333765029,31.4163867183,0,0.0,月浦镇图书馆,
+761,我嘉书房(双创街店),0,0.0,,,121.2478362898,31.3988410335,0,0.0,我嘉书房双创街店,
+762,张江科学城书房,0,0.0,,,121.6350026218,31.2258751822,0,0.0,张江科学城书房,
+763,粲画廊,0,0.0,,,121.444724844,31.2114472036,0,0.0,粲画廊,
+764,艺博画廊,0,100.0,,,121.5091408028,31.2397635473,0,0.0,艺博画廊,
+765,我嘉书房(外冈邻里中心店),0,0.0,,,121.1839094667,31.3591387636,0,0.0,我嘉书房外冈邻里中心店,
+766,航头镇文化中心图书馆,0,100.0,,,121.5939995875,31.0356758238,0,0.0,航头镇文化中心图书馆,
+767,上海原色艺术空间,0,0.0,,,121.4555471503,31.2542955346,0,0.0,上海原色艺术空间,
+768,世博会展中心,0,0.0,,,121.4801985831,31.1883629607,0,0.0,世博会展中心,
+769,厘米空间CM space,0,100.0,,,121.4554481318,31.2540474502,0,0.0,厘米空间,CMspace
+770,光明田原生态农业园,0,0.0,,,121.4017756321,31.7549210986,0,0.0,光明田原生态农业园,
+771,魔脱喜剧脱口秀(上海广场店),0,0.0,,,121.4844052329,31.2312512432,0,0.0,魔脱喜剧脱口秀上海广场店,
+772,艺space空间,0,0.0,,,121.448494609,31.1986646888,0,0.0,艺空间,space
+773,三茶蝴蝶屋,0,0.0,,,121.6830909286,31.145293754,0,0.0,三茶蝴蝶屋,
+774,Gallery Func,0,86.0,,,121.4574612807,31.2244633741,0,0.0,,GalleryFunc
+775,一见图书馆(碧云馆),0,0.0,,,121.5895587401,31.2457187396,0,0.0,一见图书馆碧云馆,
+776,华泾镇图书馆,0,0.0,,,121.4604326537,31.1256603418,0,0.0,华泾镇图书馆,
+777,九亭图书馆,0,0.0,,,121.3392569374,31.1233617527,0,0.0,九亭图书馆,
+778,多伦文化艺术空间,0,0.0,,,121.4880838978,31.2701369019,0,0.0,多伦文化艺术空间,
+779,五峰书院(大道潍坊店),0,0.0,,,121.5277151914,31.2295968467,0,0.0,五峰书院大道潍坊店,
+780,我嘉书房(安亭新镇店),0,0.0,,,121.1779103773,31.2748408909,0,0.0,我嘉书房安亭新镇店,
+781,静安文化馆尚·空间艺术展厅,0,0.0,,,121.4501192544,31.2252156889,0,0.0,静安文化馆尚空间艺术展厅,
+782,赵巷镇图书馆,0,0.0,,,121.2032369379,31.1576325927,0,0.0,赵巷镇图书馆,
+783,四方俱乐部,0,80.0,,,121.4621620158,31.2283804829,0,0.0,四方俱乐部,
+784,龙马跃影 SIMON MA马兴文艺术作品巡回展,0,0.0,,,121.5184186138,31.2481520665,0,0.0,龙马跃影马兴文艺术作品巡回展,SIMONMA
+785,上海档案馆新馆,0,0.0,,,121.5630474903,31.2060089497,0,0.0,上海档案馆新馆,
+786,颛桥图书馆,0,0.0,,,121.4114207182,31.0757174834,0,0.0,颛桥图书馆,
+787,马陆镇图书馆,0,0.0,,,121.2890177269,31.3369559962,0,0.0,马陆镇图书馆,
+788,悠贝亲子图书馆,0,0.0,,,121.6616756262,31.2204627799,0,0.0,悠贝亲子图书馆,
+789,五峰书院(海科路店),0,0.0,,,121.6160364459,31.1883863033,0,0.0,五峰书院海科路店,
+790,闵行区图书馆,0,88.0,,,121.3956917543,31.1110611271,0,0.0,闵行区图书馆,
+791,新虹图书馆,0,0.0,,,121.3164341682,31.2158466141,0,0.0,新虹图书馆,
+792,北外滩街道图书馆,0,0.0,,,121.5092631102,31.262416877,0,0.0,北外滩街道图书馆,
+793,顾村镇图书馆,0,0.0,,,121.4313039445,31.3521514475,0,0.0,顾村镇图书馆,
+794,静安图书馆(闻喜分馆),0,0.0,,,121.4568085873,31.3146857986,0,0.0,静安图书馆闻喜分馆,
+795,张堰镇图书馆,0,80.0,,,121.2933551455,30.8120536058,0,0.0,张堰镇图书馆,
+796,大场体育中心图书馆,0,80.0,,,121.4184584502,31.303759218,0,0.0,大场体育中心图书馆,
+797,虹口区图书馆(乍浦分馆),0,0.0,,,121.4936156501,31.254545128,0,0.0,虹口区图书馆乍浦分馆,
+798,上海市崇明区图书馆,0,0.0,,,121.434848,31.625456,0,0.0,上海市崇明区图书馆,
+799,陆家嘴社区图书馆,0,0.0,,,121.5273232421,31.2410262364,0,0.0,陆家嘴社区图书馆,
+800,曹炳麟旧居,0,90.0,,,121.4056125451,31.630106744,0,0.0,曹炳麟旧居,
+801,叠翠公园,0,86.0,,,121.4157556719,31.1233068482,0,0.0,叠翠公园,
+802,Mao Space,0,0.0,,,121.4707540227,31.2149828685,0,0.0,,MaoSpace
+803,惠董艺术馆,0,0.0,,,121.4635588316,31.2115410082,0,0.0,惠董艺术馆,
+804,上海科普公园,0,0.0,,,121.4421582494,31.3523911352,0,0.0,上海科普公园,
+805,金矿镇,0,80.0,,,121.22094049,31.1016122936,0,0.0,金矿镇,
+806,江湾民间文化陈列馆,0,0.0,,,121.4890000093,31.3030050931,0,0.0,江湾民间文化陈列馆,
+807,大方禅院,0,0.0,,,121.0556624767,30.9136482139,0,0.0,大方禅院,
+808,又新印刷所旧址,0,0.0,,,121.4845427905,31.2223787346,0,0.0,又新印刷所旧址,
+809,白林寺,0,0.0,,,121.5513682815,31.2797308871,0,0.0,白林寺,
+810,世博文化公园,0,80.0,,,121.483719,31.187285,0,0.0,世博文化公园,
+811,长美绿地,0,90.0,,,121.64797,31.172478,0,0.0,长美绿地,
+812,古美路街道图书馆,0,0.0,,,121.411901,31.148137,0,0.0,古美路街道图书馆,
+813,金山图书馆,0,0.0,,,121.3460659055,30.7481601206,0,0.0,金山图书馆,
+814,佳能影像乐天地,0,0.0,,,121.486264469,31.2316576212,0,0.0,佳能影像乐天地,
+815,高境镇图书馆,0,0.0,,,121.4807796828,31.3288062129,0,0.0,高境镇图书馆,
+816,五角场镇图书馆,0,0.0,,,121.54220209,31.3119276211,0,0.0,五角场镇图书馆,
+817,百禧公园,0,88.0,,,121.4181129154,31.2472790294,0,0.0,百禧公园,
+818,星云文教馆,0,80.0,,,121.3392920551,31.1688706724,0,0.0,星云文教馆,
+819,浩清图书馆,0,0.0,,,121.431441559,31.1786400108,0,0.0,浩清图书馆,
+820,上钢图书馆,0,0.0,,,121.4993674828,31.1814933828,0,0.0,上钢图书馆,
+821,江浦社区图书馆,0,98.0,,,121.5238156809,31.272136888,0,0.0,江浦社区图书馆,
+822,北蔡图书馆,0,100.0,,,121.561817122,31.1799763833,0,0.0,北蔡图书馆,
+823,新江湾城街道图书馆,0,0.0,,,121.5164547239,31.339706326,0,0.0,新江湾城街道图书馆,
+824,沙生植物馆,0,0.0,,,121.1952092409,31.0851854052,0,0.0,沙生植物馆,
+825,延吉新村街道图书馆,0,0.0,,,121.5430896749,31.2950702646,0,0.0,延吉新村街道图书馆,
+826,江桥镇图书馆,0,0.0,,,121.3486205587,31.2590682359,0,0.0,江桥镇图书馆,
+827,主恩堂,0,0.0,,,121.5930204382,31.2859581559,0,0.0,主恩堂,
+828,殷行街道图书馆,0,0.0,,,121.5466110798,31.3259238645,0,0.0,殷行街道图书馆,
+829,长征镇图书馆,0,0.0,,,121.3892827611,31.2471575215,0,0.0,长征镇图书馆,
+830,洋泾社区图书室,0,0.0,,,121.5634175507,31.2507538004,0,0.0,洋泾社区图书室,
+831,淮海中路街道图书馆,0,80.0,,,121.4821438957,31.219699848,0,0.0,淮海中路街道图书馆,
+832,曹家渡街道图书馆,0,0.0,,,121.4409841884,31.2395085121,0,0.0,曹家渡街道图书馆,
+833,四平路街道图书馆,0,0.0,,,121.517169723,31.2842721258,0,0.0,四平路街道图书馆,
+834,金杨社区图书馆,0,90.0,,,121.5790133263,31.2541874125,0,0.0,金杨社区图书馆,
+835,主恩堂,0,0.0,,,121.275866,31.17276,0,0.0,主恩堂,
+836,五角场镇图书馆(长海路街道店),0,92.0,,,121.5224440683,31.3151829051,0,0.0,五角场镇图书馆长海路街道店,
+837,大宁路街道图书馆,0,90.0,,,121.4604146925,31.2761423854,0,0.0,大宁路街道图书馆,
+838,广中路街道图书馆,0,86.0,,,121.4841688881,31.2838908925,0,0.0,广中路街道图书馆,
+839,半淞园路街道图书馆,0,0.0,,,121.4933740005,31.2126560066,0,0.0,半淞园路街道图书馆,
+840,凡音音乐减压小站·团建·培训,0,0.0,,,121.4354526615,31.2397064331,0,0.0,凡音音乐减压小站团建培训,
+841,宝山纺织工业文明展示馆,0,0.0,,,121.4918814966,31.37143626,0,0.0,宝山纺织工业文明展示馆,
+842,礼巴堂艺术空间,0,100.0,,,121.4517349211,31.2166558754,0,0.0,礼巴堂艺术空间,
+843,四川北路文化中心图书馆,0,100.0,,,121.4936659209,31.2639741246,0,0.0,四川北路文化中心图书馆,
+844,樊登书店·咖啡·团建,0,0.0,,,121.613485369,31.2085883102,0,0.0,樊登书店咖啡团建,
+845,莫胖图书馆,0,0.0,,,121.6165872726,31.2500927513,0,0.0,莫胖图书馆,
+846,虹桥街道图书馆,0,0.0,,,121.4172538991,31.2036638793,0,0.0,虹桥街道图书馆,
+847,landblink可见光,0,90.0,,,121.4697867879,31.215016128,0,0.0,可见光,landblink
+848,ART SPACE,0,0.0,,,121.4562245501,31.2543071689,0,0.0,,ARTSPACE
+849,悠贝亲子图书馆(乐荟天地馆),0,0.0,,,121.5150113968,31.1913871126,0,0.0,悠贝亲子图书馆乐荟天地馆,
+850,得到图书馆,0,0.0,,,121.3327575578,31.2004868375,0,0.0,得到图书馆,
+851,fibre,0,0.0,,,121.4487343146,31.2349646373,0,0.0,,fibre
+852,T·HOUSE艺术空间,0,0.0,,,121.4058798967,31.1702123816,0,0.0,艺术空间,THOUSE
+853,纽约视觉艺术学院艺术中心snap,0,0.0,,,121.4961119589,31.2387740736,0,0.0,纽约视觉艺术学院艺术中心,snap
+854,叶美术YE·Fine·Art,0,0.0,,,121.4697763262,31.2156744745,0,0.0,叶美术,YEFineArt
+855,华泾社区文化活动中心,0,0.0,,,121.4606132161,31.125718027,0,0.0,华泾社区文化活动中心,
+856,嘉兴路街道图书馆,0,0.0,,,121.4996956132,31.267768433,0,0.0,嘉兴路街道图书馆,
+857,竹园艺术中心,0,0.0,,,121.5397902202,31.2272242035,0,0.0,竹园艺术中心,
+858,上海路路壹号路亚俱乐部,0,100.0,,,121.5835683908,30.9595985112,0,0.0,上海路路壹号路亚俱乐部,
+859,好好笑HaoHaoLaugh,0,100.0,,,121.4489988055,31.2348875235,0,0.0,好好笑,HaoHaoLaugh
+860,学悦风咏书社,0,100.0,,,121.515099555,31.3139343217,0,0.0,学悦风咏书社,
+861,杨浦区城市规划展览馆,0,0.0,,,121.5307945198,31.2710729546,0,0.0,杨浦区城市规划展览馆,
+862,别克艺术空间,0,0.0,,,121.4786065333,31.2355124258,0,0.0,别克艺术空间,
+863,彭浦新村街道图书馆,0,100.0,,,121.4577182093,31.3137172768,0,0.0,彭浦新村街道图书馆,
+864,浦江镇图书馆,0,0.0,,,121.5186413466,31.0391379934,0,0.0,浦江镇图书馆,
+865,茅台文化体验馆,0,0.0,,,121.475036632,31.221221575,0,0.0,茅台文化体验馆,
+866,吴昌硕文化中心,0,0.0,,,121.3154937825,31.2163454826,0,0.0,吴昌硕文化中心,
+867,我嘉书房(嘉定宝龙广场),0,0.0,,,121.2665120221,31.351860133,0,0.0,我嘉书房嘉定宝龙广场,
+868,永福柒拾,0,0.0,,,121.4499417786,31.2165146697,0,0.0,永福柒拾,
+869,Longlati Foundation,0,100.0,,,121.4921875969,31.2484121942,0,0.0,,LonglatiFoundation
+870,高行文化活动中心,0,0.0,,,121.6182354889,31.3021823594,0,0.0,高行文化活动中心,
+871,界界乐（上海）文化艺术中心,0,0.0,,,121.2330988948,31.1549277238,0,0.0,界界乐上海文化艺术中心,
+872,小灯塔儿童俱乐部LittleLighthouse,0,0.0,,,121.3082831989,31.2780576613,0,0.0,小灯塔儿童俱乐部,LittleLighthouse
+873,凌云路街道图书馆,0,0.0,,,121.4406412281,31.1367011556,0,0.0,凌云路街道图书馆,
+874,役家兵站文化馆,0,0.0,,,121.5000561611,31.3420034974,0,0.0,役家兵站文化馆,
+875,里美艺术空间Limmi Artspace,0,0.0,,,121.4960307506,31.2387518813,0,0.0,里美艺术空间,LimmiArtspace
+876,J&J原版少儿图书馆,0,0.0,,,121.4910515028,31.3004079012,0,0.0,原版少儿图书馆,JJ
+877,微爱公益空间,0,0.0,,,121.4498158003,31.2458139872,0,0.0,微爱公益空间,
+878,金桥镇图书馆,0,0.0,,,121.6167725851,31.2739590719,0,0.0,金桥镇图书馆,
+879,华漕国际社区文化活动中心,0,100.0,,,121.2952121506,31.2158958981,0,0.0,华漕国际社区文化活动中心,
+880,美兰西湖文化活动中心,0,0.0,,,121.357715,31.392103,0,0.0,美兰西湖文化活动中心,
+881,六合IN巷,0,0.0,,,121.4912255504,31.2432365721,0,0.0,六合巷,IN
+882,吉利工坊,0,0.0,,,121.4891929888,31.267949,0,0.0,吉利工坊,
+883,iag艺术院线,0,0.0,,,121.4749936319,31.2266072798,0,0.0,艺术院线,iag
+884,张庙社区文化活动中心,0,0.0,,,121.4506723121,31.3449514895,0,0.0,张庙社区文化活动中心,
+885,漆栖文化体验馆,0,0.0,,,121.4901436909,31.0693341327,0,0.0,漆栖文化体验馆,
+886,坐忘书房(金科路店),0,0.0,,,121.6077872347,31.20930632,0,0.0,坐忘书房金科路店,
+887,K线股道书屋,0,0.0,,,121.4309309594,31.6816405566,0,0.0,线股道书屋,K
+888,爱上海忆生活改革开放四十年主题展,0,0.0,,,121.4817295414,31.2412711642,0,0.0,爱上海忆生活改革开放四十年主题展,
+889,云堡未来市RABORNOVA,0,0.0,,,121.2386018718,31.0960059246,0,0.0,云堡未来市,RABORNOVA
+890,宋庆龄文化展示中心,0,0.0,,,121.7105740774,31.2010707565,0,0.0,宋庆龄文化展示中心,
+891,复旦图书馆,0,0.0,,,121.509390103,31.3029749178,0,0.0,复旦图书馆,
+892,马桥镇文体中心,0,0.0,,,121.3724059025,31.0375340641,0,0.0,马桥镇文体中心,
+893,上海电力学院图书馆(长阳路校区),0,0.0,,,121.5537901633,31.2813823239,0,0.0,上海电力学院图书馆长阳路校区,
+894,杨行镇社区图书馆,0,0.0,,,121.4529989789,31.3847902969,0,0.0,杨行镇社区图书馆,
+895,凉城新村街道图书馆,0,0.0,,,121.4774169566,31.3041677237,0,0.0,凉城新村街道图书馆,
+896,张江图书馆,0,0.0,,,121.6359535059,31.195316687,0,0.0,张江图书馆,
+897,香江画廊(香江画廊),0,0.0,,,121.3763894915,31.1789832917,0,0.0,香江画廊香江画廊,
+898,Oniment,0,0.0,,,121.4691093617,31.2222806222,0,0.0,,Oniment
+899,知阅书房,0,0.0,,,121.4401996696,31.3515099293,0,0.0,知阅书房,
+900,好久不读long time no read,0,96.0,,,121.5683568665,31.2156061176,0,0.0,好久不读,longtimenoread
+901,上海市飞镖运动协会(天钥桥路),0,0.0,,,121.4480450505,31.1937793504,0,0.0,上海市飞镖运动协会天钥桥路,
+902,长风新村街道图书馆,0,0.0,,,121.4057700843,31.2401107268,0,0.0,长风新村街道图书馆,
+903,康乐书院,0,0.0,,,121.4193706231,31.1578981305,0,0.0,康乐书院,
+904,JUZE Gallery,0,0.0,,,121.3951589702,31.2197979216,0,0.0,,JUZEGallery
+905,虹园新虹法制文化主题公园,0,0.0,,,121.3184170361,31.2179121491,0,0.0,虹园新虹法制文化主题公园,
+906,彭浦新村58号社区文化活动中心,0,0.0,,,121.4577956124,31.3139545042,0,0.0,彭浦新村号社区文化活动中心,
+907,龙华街道图书馆,0,0.0,,,121.4560198195,31.1745631373,0,0.0,龙华街道图书馆,
+908,神兽之间(博荟店),0,0.0,,,121.486618,31.202719,0,0.0,神兽之间博荟店,
+909,罗泾农家风情展示馆,0,100.0,,,121.3258842525,31.4974750738,0,0.0,罗泾农家风情展示馆,
+910,城事机密魔术馆,0,0.0,,,121.6121482556,31.2667650399,0,0.0,城事机密魔术馆,
+911,杉达学院图书馆,0,0.0,,,121.6643167004,31.2751068009,0,0.0,杉达学院图书馆,
+912,李政道图书馆,0,0.0,,,121.4327444376,31.0316253885,0,0.0,李政道图书馆,
+913,通河新村街道图书馆,0,0.0,,,121.4504701001,31.3449563196,0,0.0,通河新村街道图书馆,
+914,程家桥街道图书馆,0,76.0,,,121.3750557775,31.200402741,0,0.0,程家桥街道图书馆,
+915,外滩街道图书馆,0,0.0,,,121.4907077618,31.2461265889,0,0.0,外滩街道图书馆,
+916,黄炎培职业教育展示馆,0,0.0,,,121.5552047385,31.0785549036,0,0.0,黄炎培职业教育展示馆,
+917,枫林路街道图书馆,0,0.0,,,121.4554301769,31.1867701279,0,0.0,枫林路街道图书馆,
+918,仙霞新村街道图书馆,0,0.0,,,121.3998790545,31.2119832293,0,0.0,仙霞新村街道图书馆,
+919,沪杏科技图书馆,0,0.0,,,121.3856523598,31.1984604718,0,0.0,沪杏科技图书馆,
+920,周家桥街道图书馆,0,0.0,,,121.4141410231,31.2251468005,0,0.0,周家桥街道图书馆,
+921,东一美术馆,0,70.0,,,121.497985,31.239217,0,0.0,东一美术馆,
+922,新梦舞厅,0,0.0,,,121.4619967078,31.2743448057,0,0.0,新梦舞厅,
+923,控江路街道图书馆,0,80.0,,,121.5289373884,31.284241932,0,0.0,控江路街道图书馆,
+924,长白新村街道图书馆,0,0.0,,,121.5500857029,31.3012463936,0,0.0,长白新村街道图书馆,
+925,定海路街道图书馆,0,0.0,,,121.5556219177,31.2845409875,0,0.0,定海路街道图书馆,
+926,江苏路街道图书馆,0,0.0,,,121.4321818998,31.2259755635,0,0.0,江苏路街道图书馆,
+927,涵芬楼阅读体验中心,0,0.0,,,121.4566680474,31.0416814393,0,0.0,涵芬楼阅读体验中心,
+928,包玉刚图书馆,0,94.0,,,121.4365103098,31.0281588908,0,0.0,包玉刚图书馆,
+929,桃花岛,0,0.0,,,121.1949854371,31.0646399851,0,0.0,桃花岛,
+930,上海广富林奇石馆,0,0.0,,,121.1876558752,31.0700998229,0,0.0,上海广富林奇石馆,
+931,广良寺,0,0.0,,,121.843426,31.546765,0,0.0,广良寺,
+932,新桥公园,0,60.0,,,121.3196826062,31.0660743587,0,0.0,新桥公园,
+933,雕塑艺术公园,0,0.0,,,121.50985,30.935161,0,0.0,雕塑艺术公园,
+934,植根花实艺术空间,0,0.0,,,121.4526821346,31.1851383147,0,0.0,植根花实艺术空间,
+935,新泰仓库,0,0.0,,,121.486957,31.247394,0,0.0,新泰仓库,
+936,马桥森林体育公园,0,0.0,,,121.3539614655,31.0356084598,0,0.0,马桥森林体育公园,
+937,康乐汇口袋公园,0,0.0,,,121.4194731382,31.157884075,0,0.0,康乐汇口袋公园,
+938,张家浜休闲绿道,0,0.0,,,121.5820748597,31.2321012523,0,0.0,张家浜休闲绿道,
+939,中共中央军委机关旧址纪念馆,0,0.0,,,121.4689680178,31.2435193064,0,0.0,中共中央军委机关旧址纪念馆,
+940,灰仓艺术空间,0,0.0,,,121.5659762842,31.2755142927,0,0.0,灰仓艺术空间,
+941,上海淞南寺,0,0.0,,,121.4985208495,31.3525566202,0,0.0,上海淞南寺,
+942,沪南钱业公所,0,0.0,,,121.4994134177,31.2340300279,0,0.0,沪南钱业公所,
+943,唐家塔口袋公园,0,0.0,,,121.5370049971,31.2845768687,0,0.0,唐家塔口袋公园,
+944,上海少年儿童图书馆新馆,0,100.0,,,121.404594,31.226849,0,0.0,上海少年儿童图书馆新馆,
+945,莲花寺,0,0.0,,,121.0799513414,30.9925863764,0,0.0,莲花寺,
+946,南大公园,0,0.0,,,121.3776280068,31.3118787788,0,0.0,南大公园,
+947,生香阁美术馆,0,0.0,,,121.0207418709,30.855597347,0,0.0,生香阁美术馆,
+948,淳之当代瓷器博物馆,0,0.0,,,121.4890650936,31.0014730165,0,0.0,淳之当代瓷器博物馆,
+949,我的亲宠乐园,0,0.0,,,121.1632576362,30.7913534899,0,0.0,我的亲宠乐园,
+950,外滩一号艺术中心,0,0.0,,,121.4978751286,31.2391439341,0,0.0,外滩一号艺术中心,
+951,Bluerider Art,0,80.0,,,121.4954499985,31.2403157047,0,0.0,,BlueriderArt
+952,颠倒艺术馆(上海旗舰店),0,100.0,,,121.5054236603,31.2425078698,0,0.0,颠倒艺术馆上海旗舰店,
+953,中医药文化园,0,0.0,,,121.6024342258,31.2026480896,0,0.0,中医药文化园,
+954,崇明美术馆,0,0.0,,,121.434619129,31.6258630087,0,0.0,崇明美术馆,
+955,百荟园,0,0.0,,,121.0989130811,30.9348642021,0,0.0,百荟园,
+956,中环绿地,0,0.0,,,121.4590789787,31.2996981447,0,0.0,中环绿地,
+957,CUBEWORK闵行园区,0,0.0,,,121.4209605888,31.0425132203,0,0.0,闵行园区,CUBEWORK
+958,美兰湖水上运动中心,0,0.0,,,121.3614581505,31.4063632777,0,0.0,美兰湖水上运动中心,
+959,上海工艺美术工厂,0,0.0,,,121.4365283381,31.176856737,0,0.0,上海工艺美术工厂,
+960,江阴街,0,80.0,,,121.49477,31.218389,0,0.0,江阴街,
+961,古美公园,0,92.0,,,121.399492,31.14749,0,0.0,古美公园,
+962,塘下公路,0,0.0,,,121.885327,31.011607,0,0.0,塘下公路,
+963,武夷MIX320,0,80.0,,,121.430301,31.219201,0,0.0,武夷,MIX
+964,今潮8弄,0,86.0,,,121.490565,31.257046,0,0.0,今潮弄,
+965,小芳廷西洋博物馆,0,100.0,,,121.438385,31.244741,0,0.0,小芳廷西洋博物馆,
+966,杨浦滨江人民城市建设规划展示馆,0,0.0,,,121.5439876543,31.2594885312,0,0.0,杨浦滨江人民城市建设规划展示馆,
+967,芦潮港海滩,0,0.0,,,121.8634170436,30.8535294615,0,0.0,芦潮港海滩,
+968,零食博物馆,0,0.0,,,121.3242769089,31.1060579166,0,0.0,零食博物馆,
+969,想巷街,0,0.0,,,121.4896872959,31.2967904899,0,0.0,想巷街,
+970,艺术百代美术馆,0,0.0,,,121.23861,31.096316,0,0.0,艺术百代美术馆,
+971,66梧桐院·天平邻里汇,0,0.0,,,121.454795,31.212182,0,0.0,梧桐院天平邻里汇,
+972,亚马逊探险乐园(九六广场),0,88.0,,,121.531409,31.23345,0,0.0,亚马逊探险乐园九六广场,
+973,彭浦四季公园,0,88.0,,,121.442701244,31.3168217927,0,0.0,彭浦四季公园,
+974,8号桥三期创意园区,0,0.0,,,121.488979,31.206755,0,0.0,号桥三期创意园区,
+975,上海人文历史地貌区Former French Concession,0,0.0,,,121.4792812997,31.228358299,0,0.0,上海人文历史地貌区,FormerFrenchConcession
+976,Taiko(太克)星际亲子乐园,0,0.0,,,121.409884,31.262306,0,0.0,太克星际亲子乐园,Taiko
+977,笑丫剧场（外滩店）,0,0.0,,,121.495898,31.241196,0,0.0,笑丫剧场外滩店,
+978,沈家花园旧址,0,0.0,,,121.463007,30.92185,0,0.0,沈家花园旧址,
+979,向阳村,0,0.0,,,121.143718,31.311046,0,0.0,向阳村,
+980,艾厂人工智能艺术中心,0,60.0,,,121.378882,31.088286,0,0.0,艾厂人工智能艺术中心,
+981,馆藏楼,0,0.0,,,121.3485174146,30.7193311491,0,0.0,馆藏楼,
+982,花桥,0,0.0,,,121.264439,31.754572,0,0.0,花桥,
+983,上海站-北广场,0,0.0,,,121.463118,31.257893,0,0.0,上海站北广场,
+984,东沿河,0,0.0,,,121.698055,30.937133,0,0.0,东沿河,
+985,海沈村,0,100.0,,,121.8046223356,31.0323420676,0,0.0,海沈村,
+986,崇明花仙谷景区,0,0.0,,,121.421305,31.68795,0,0.0,崇明花仙谷景区,
+987,交运智慧湾,0,90.0,,,121.445377,31.350161,0,0.0,交运智慧湾,
+988,宝山星空高线公园,0,0.0,,,121.446923,31.351398,0,0.0,宝山星空高线公园,
+989,摩登设计谷,0,0.0,,,121.436174442,31.1465680548,0,0.0,摩登设计谷,
+990,THE NEXT艺术空间,0,0.0,,,121.4930090587,31.2428034994,0,0.0,艺术空间,THENEXT
+991,第二届金秋郁金香花园节——骑士文化生活,0,0.0,,,121.384965,31.754921,0,0.0,第二届金秋郁金香花园节骑士文化生活,
+992,朱鹏高艺术馆,0,0.0,,,121.290865,30.807679,0,0.0,朱鹏高艺术馆,
+993,范家港绿地,0,0.0,,,121.244715,31.403479,0,0.0,范家港绿地,
+994,陇南公园,0,0.0,,,121.328892,31.278877,0,0.0,陇南公园,
+995,万安桥,0,0.0,,,120.926174,31.045135,0,0.0,万安桥,
+996,吴宜恩美术馆,0,0.0,,,121.525113,30.830986,0,0.0,吴宜恩美术馆,
+997,华东师范大学-校史馆,0,0.0,,,121.414698,31.23443,0,0.0,华东师范大学校史馆,
+998,光音花园,0,0.0,,,121.487086,31.224157,0,0.0,光音花园,
+999,上海理工大学,0,0.0,,,121.561334973,31.299251871,0,0.0,上海理工大学,
+1000,复兴颂,0,0.0,,,121.486963,31.223971,0,0.0,复兴颂,
+1001,上海博物馆-东馆,0,0.0,,,121.546005,31.225782,0,0.0,上海博物馆东馆,
+1002,上海图书馆(东馆),0,0.0,,,121.5535979575,31.2261508603,0,0.0,上海图书馆东馆,
+1003,青浦区科技文化活动中心,0,0.0,,,121.131636,31.156381,0,0.0,青浦区科技文化活动中心,
+1004,航海邮局,0,100.0,,,121.518197,31.260056,0,0.0,航海邮局,
+1005,三角地艺术园,0,0.0,,,121.4961693672,31.2623100175,0,0.0,三角地艺术园,
+1006,中成美术馆,0,100.0,,,121.5025823284,31.355439589,0,0.0,中成美术馆,
+1007,外滩二十二号艺术中心,0,0.0,,,121.5005333494,31.2363437781,0,0.0,外滩二十二号艺术中心,
+1008,上海徽府,0,60.0,,,121.3262660116,31.2312737556,0,0.0,上海徽府,
+1009,愚谷村,0,0.0,,,121.448868,31.227657,0,0.0,愚谷村,
+1010,乐业LOFT创意中心,0,0.0,,,121.4592106366,31.3295956312,0,0.0,乐业创意中心,LOFT
+1011,徽州古宅,0,0.0,,,121.4176100781,31.3195807333,0,0.0,徽州古宅,
+1012,上海画廊,0,0.0,,,121.4960753777,31.2461826974,0,0.0,上海画廊,
+1013,鼎力创意园,0,100.0,,,121.4364138059,31.1874744406,0,0.0,鼎力创意园,
+1014,超煜创意园,0,0.0,,,121.6689510886,31.2910717983,0,0.0,超煜创意园,
+1015,圣骊虹桥创意园,0,0.0,,,121.4272094666,31.1996249557,0,0.0,圣骊虹桥创意园,
+1016,追梦园,0,0.0,,,121.4811028154,31.2222804648,0,0.0,追梦园,
+1017,石库门老街,0,0.0,,,121.5126393584,31.2248176173,0,0.0,石库门老街,
+1018,兴中心创意园,0,0.0,,,121.4749657818,31.2586461169,0,0.0,兴中心创意园,
+1019,中一村,0,0.0,,,121.4346818117,31.2298620801,0,0.0,中一村,
+1020,云间艺术馆,0,94.0,,,121.250880579,31.0067275446,0,0.0,云间艺术馆,
+1021,微格创意园,0,0.0,,,121.3609674441,31.074249964,0,0.0,微格创意园,
+1022,华瑞国际集团时尚创意园,0,0.0,,,121.3302265057,31.2371707757,0,0.0,华瑞国际集团时尚创意园,
+1023,和欣墅街,0,0.0,,,121.4445444336,31.3417801673,0,0.0,和欣墅街,
+1024,新闵创意园,0,0.0,,,121.4292151032,31.0204522447,0,0.0,新闵创意园,
+1025,COMICUP28,0,0.0,,,121.3085520316,31.196416254,0,0.0,,COMICUP
+1026,POP-UP口袋公园(浦东店),0,0.0,,,121.6467706918,31.210626429,0,0.0,口袋公园浦东店,POPUP
+1027,得丘艺术馆,0,0.0,,,121.3778191703,31.0832799175,0,0.0,得丘艺术馆,
+1028,春申湖广场,0,0.0,,,121.3713314102,31.1330547283,0,0.0,春申湖广场,
+1029,33ml offspace,0,0.0,,,121.4275392682,31.2172533928,0,0.0,,mloffspace
+1030,悦动公园,0,94.0,,,121.6153216969,31.2434129051,0,0.0,悦动公园,
+1031,祥和博物馆,0,0.0,,,121.3866991572,31.2495905772,0,0.0,祥和博物馆,
+1032,美达菱文化创意园,0,0.0,,,121.2203953974,31.2670564658,0,0.0,美达菱文化创意园,
+1033,景裕创意园,0,0.0,,,121.4716591622,31.2594587615,0,0.0,景裕创意园,
+1034,嘉定西街,0,0.0,,,121.3155525204,31.2970927816,0,0.0,嘉定西街,
+1035,上海北虹桥时尚创意园,0,0.0,,,121.3297140506,31.2369705758,0,0.0,上海北虹桥时尚创意园,
+1036,华地文化艺术中心,0,0.0,,,121.468221694,31.220083905,0,0.0,华地文化艺术中心,
+1037,聚源桥村,0,0.0,,,121.3922048912,31.4452763697,0,0.0,聚源桥村,
+1038,柳鹭田园区,0,0.0,,,121.5144569627,31.0545642069,0,0.0,柳鹭田园区,
+1039,YOUNG美术馆,0,0.0,,,121.199942792,31.0395758288,0,0.0,美术馆,YOUNG
+1040,天台星空夜市集,0,0.0,,,121.4186446344,31.239281563,0,0.0,天台星空夜市集,
+1041,79意库,0,86.0,,,121.4032173604,31.0781039426,0,0.0,意库,
+1042,《风邪》沉浸式互动体验,0,86.0,,,121.377183,31.214956,0,0.0,风邪沉浸式互动体验,
+1043,RAYGAME光影游戏·沉浸式戏剧(黄浦店),0,100.0,,,121.475032691,31.2319920599,0,0.0,光影游戏沉浸式戏剧黄浦店,RAYGAME
+1044,neXtlab,0,100.0,,,121.4755945623,31.2266038945,0,0.0,,neXtlab
+1045,高阳大楼,0,100.0,,,121.510844,31.256701,0,0.0,高阳大楼,
+1046,上海体育博物馆陈列室,0,88.0,,,121.4784739253,31.2397227095,0,0.0,上海体育博物馆陈列室,
+1047,虎树亭,0,0.0,,,121.196300364,31.0952138795,0,0.0,虎树亭,
+1048,泗滨绿地,0,0.0,,,121.2535828732,31.1160603979,0,0.0,泗滨绿地,
+1049,新华园,0,0.0,,,121.415257,31.010639,0,0.0,新华园,
+1050,江航知秋园,0,0.0,,,121.543175691,31.046962359,0,0.0,江航知秋园,
+1051,青浦春暖绿地公园,0,0.0,,,121.1666311713,31.1541186979,0,0.0,青浦春暖绿地公园,
+1052,共青森林公园八仙花园,0,100.0,,,121.5568372706,31.3259796412,0,0.0,共青森林公园八仙花园,
+1053,庄行镇农艺(郊野)公园,0,0.0,,,121.4192068774,30.9864667128,0,0.0,庄行镇农艺郊野公园,
+1054,嘉洲公园,0,0.0,,,121.3481595118,31.2766017812,0,0.0,嘉洲公园,
+1055,外环高速绿地口袋公园,0,0.0,,,121.389715,31.132271,0,0.0,外环高速绿地口袋公园,
+1056,北咸塘浜绿地,0,0.0,,,121.5976653014,31.3275653104,0,0.0,北咸塘浜绿地,
+1057,江玮公园,0,0.0,,,121.5398089699,31.0660061795,0,0.0,江玮公园,
+1058,新杨湾科创园,0,0.0,,,121.4732933636,31.3290374328,0,0.0,新杨湾科创园,
+1059,双拥广场,0,0.0,,,121.480815,31.2398,0,0.0,双拥广场,
+1060,三林名人廊,0,0.0,,,121.5079473425,31.1469120452,0,0.0,三林名人廊,
+1061,浦东老宅,0,0.0,,,121.5950409958,31.1489188995,0,0.0,浦东老宅,
+1062,兴华苑,0,0.0,,,121.347245,31.068183,0,0.0,兴华苑,
+1063,路家宅,0,0.0,,,121.647652004,30.9224979219,0,0.0,路家宅,
+1064,情人花景,0,80.0,,,121.4919204217,31.2504640481,0,0.0,情人花景,
+1065,沐野自然探索博物园,0,0.0,,,121.3705569377,30.744847803,0,0.0,沐野自然探索博物园,
+1066,闵行文化公园-七号桥碉堡,0,0.0,,,121.3675714387,31.1637071211,0,0.0,闵行文化公园七号桥碉堡,
+1067,临港海滨休闲广场,0,0.0,,,121.8564983346,30.8751483052,0,0.0,临港海滨休闲广场,
+1068,枫泾古镇-一枕堂,0,0.0,,,121.024712,30.894478,0,0.0,枫泾古镇一枕堂,
+1069,双辽路人口文化街,0,0.0,,,121.5220774257,31.2791379638,0,0.0,双辽路人口文化街,
+1070,多国人物雕塑,0,0.0,,,121.8130048696,31.1569381863,0,0.0,多国人物雕塑,
+1071,魁星阁,0,0.0,,,121.4950325902,31.2235442867,0,0.0,魁星阁,
+1072,皂梦空间,0,92.0,,,121.557909,31.269972,0,0.0,皂梦空间,
+1073,artmart艺术空间,0,0.0,,,121.4519341298,31.2165807975,0,0.0,艺术空间,artmart
+1074,梅陇廉洁文化公园,0,0.0,,,121.415750821,31.1366538041,0,0.0,梅陇廉洁文化公园,
+1075,浦东川沙健康公园,0,0.0,,,121.6967224942,31.1749630881,0,0.0,浦东川沙健康公园,
+1076,延中公园(金陵西路店),0,0.0,,,121.4735544679,31.2285036379,0,0.0,延中公园金陵西路店,
+1077,黄兴全民体育公园,0,0.0,,,121.5344369571,31.3028331787,0,0.0,黄兴全民体育公园,
+1078,康雍干艺术会馆,0,0.0,,,121.1811728841,31.1929635458,0,0.0,康雍干艺术会馆,
+1079,嘉定新城滑板公园,0,0.0,,,121.251672,31.338107,0,0.0,嘉定新城滑板公园,
+1080,植根花实上海,0,0.0,,,121.4473127744,31.1869381204,0,0.0,植根花实上海,
+1081,朱家角镇市民广场体育公园,0,0.0,,,121.0500660687,31.112101952,0,0.0,朱家角镇市民广场体育公园,
+1082,锦绣文化公园,0,90.0,,,121.551858,31.197058,1,0.0,锦绣文化公园,
+1083,川源公园,0,0.0,,,121.437824,31.023391,0,0.0,川源公园,
+1084,浦康休闲公园,0,0.0,,,121.5081377457,31.1106944528,0,0.0,浦康休闲公园,
+1085,吴淞铁路淞沪铁路历史图文陈列室,0,0.0,,,121.5016120602,31.3751194994,0,0.0,吴淞铁路淞沪铁路历史图文陈列室,
+1086,宝山地震科普馆,0,0.0,,,121.452880712,31.3848620325,0,0.0,宝山地震科普馆,
+1087,人口文化风情园,0,0.0,,,121.594202,31.03367,0,0.0,人口文化风情园,
+1088,民春绿地,0,0.0,,,121.672493,31.28235,0,0.0,民春绿地,
+1089,达令港公园,0,0.0,,,121.5158241003,30.9908979454,0,0.0,达令港公园,
+1090,蓝调花园,0,0.0,,,121.5083898393,31.2133680515,0,0.0,蓝调花园,
+1091,碧云绿地,0,0.0,,,121.6113401125,31.2446716519,0,0.0,碧云绿地,
+1092,上海手工艺朱家角展示馆,0,0.0,,,121.0567091836,31.1172780449,0,0.0,上海手工艺朱家角展示馆,
+1093,Dream Land萌芽熊妙想奇境,0,0.0,,,121.316609,31.201641,0,0.0,萌芽熊妙想奇境,DreamLand
+1094,颛联休闲公园,0,0.0,,,121.40973,31.069637,0,0.0,颛联休闲公园,
+1095,松江民防科普馆,0,0.0,,,121.2273971505,31.0125225844,0,0.0,松江民防科普馆,
+1096,黄酒博物馆,0,0.0,,,121.3820074022,31.3651017918,0,0.0,黄酒博物馆,
+1097,儿童拓展公园,0,0.0,,,121.2732110467,31.3502085357,0,0.0,儿童拓展公园,
+1098,世纪绿苑,0,0.0,,,121.262976,31.420216,0,0.0,世纪绿苑,
+1099,盘古公园,0,0.0,,,121.4596679414,31.4042620141,0,0.0,盘古公园,
+1100,上海印象光绘艺术馆(东方明珠塔旗舰店 ),0,90.0,,,121.506681,31.24524,0,0.0,上海印象光绘艺术馆东方明珠塔旗舰店,
+1101,活的3d博物馆,0,0.0,,,121.4190964187,31.2393211538,0,0.0,活的博物馆,d
+1102,绿地钻石博物馆,0,0.0,,,121.3079867171,31.1906673463,0,0.0,绿地钻石博物馆,
+1103,Luck Gallery运气画廊,0,80.0,,,121.4583461922,31.2382138099,0,0.0,运气画廊,LuckGallery
+1104,上海杨培明宣传画收藏艺术馆,0,0.0,,,121.4401892565,31.2217126409,0,0.0,上海杨培明宣传画收藏艺术馆,
+1105,AED(工银中心上海世博展览馆),0,60.0,,,121.4928575513,31.1910018128,0,0.0,工银中心上海世博展览馆,AED
+1106,汇龙湖公园,0,0.0,,,121.355929,30.755384,0,0.0,汇龙湖公园,
+1107,益德成鼻烟文化展览馆,0,0.0,,,121.0606531608,31.1144473272,0,0.0,益德成鼻烟文化展览馆,
+1108,上古神龙美术馆(浦东新店),0,0.0,,,121.630126,31.133858,0,0.0,上古神龙美术馆浦东新店,
+1109,黄浦银杏广场,0,0.0,,,121.4850234375,31.2338576792,0,0.0,黄浦银杏广场,
+1110,法治文化公园,0,0.0,,,121.5029714702,31.0845597543,0,0.0,法治文化公园,
+1111,赛梦·微缩世界(陆家嘴正大店),0,0.0,,,121.5014041244,31.2443041179,0,0.0,赛梦微缩世界陆家嘴正大店,
+1112,旌盛艺术馆,0,0.0,,,121.4962154034,31.2500126842,0,0.0,旌盛艺术馆,
+1113,丁连村民公园,0,0.0,,,121.4874427968,31.1019411756,0,0.0,丁连村民公园,
+1114,亮景公园,0,0.0,,,121.6105106916,31.2116390541,0,0.0,亮景公园,
+1115,银都绿地,0,80.0,,,121.397513,31.094944,0,0.0,银都绿地,
+1116,山外山画廊,0,100.0,,,121.4752579653,31.214653228,0,0.0,山外山画廊,
+1117,知道书院,0,90.0,,,121.1215929484,31.1464535488,0,0.0,知道书院,
+1118,汇康园健身点,0,0.0,,,121.571525,31.154057,0,0.0,汇康园健身点,
+1119,秘境花园,0,0.0,,,121.289834,31.230684,0,0.0,秘境花园,
+1120,蓬莱书画院,0,0.0,,,121.4982796525,31.2124792378,0,0.0,蓬莱书画院,
+1121,长岛公园,0,0.0,,,121.1086634254,31.1704951863,0,0.0,长岛公园,
+1122,滴水湖光,0,0.0,,,121.9374614088,30.8959000233,0,0.0,滴水湖光,
+1123,吴淞火车头广场,0,0.0,,,121.5018125121,31.3748825848,0,0.0,吴淞火车头广场,
+1124,青埔水城门,0,60.0,,,121.0995905506,31.1450581658,0,0.0,青埔水城门,
+1125,奉城中心公园,0,0.0,,,121.6607134381,30.9216369253,0,0.0,奉城中心公园,
+1126,梅园-尹奉吉义士生平事迹陈列室,0,0.0,,,121.4897440178,31.2782367205,0,0.0,梅园尹奉吉义士生平事迹陈列室,
+1127,华人美术馆,0,0.0,,,121.5078564306,31.2554118223,0,0.0,华人美术馆,
+1128,华隆公园,0,0.0,,,121.2364258707,31.2271371926,0,0.0,华隆公园,
+1129,贤禾美术馆,0,0.0,,,121.287899,31.122695,0,0.0,贤禾美术馆,
+1130,蔷薇园,0,0.0,,,121.2578465736,31.3795062988,0,0.0,蔷薇园,
+1131,青浦健康主题公园,0,0.0,,,121.2847199651,31.173739055,0,0.0,青浦健康主题公园,
+1132,安亭市民广场,0,0.0,,,121.1709620822,31.3058065435,0,0.0,安亭市民广场,
+1133,外滩源·集夜市,0,94.0,,,121.4946688824,31.2490550833,0,0.0,外滩源集夜市,
+1134,中央公园(育秀东路店),0,0.0,,,121.4842319315,30.9179649743,0,0.0,中央公园育秀东路店,
+1135,双拥绿地,0,0.0,,,121.2489485141,31.3954866357,0,0.0,双拥绿地,
+1136,徐汇跑道公园,0,0.0,,,121.4641707343,31.1746021209,0,0.0,徐汇跑道公园,
+1137,白玉兰人口文化广场,0,0.0,,,121.4606243115,31.2530326356,0,0.0,白玉兰人口文化广场,
+1138,黄家花园,0,0.0,,,121.32364603,31.2801958918,0,0.0,黄家花园,
+1139,体育公园YANGJING SPORTS PARK,0,0.0,,,121.5598715466,31.2463036961,0,0.0,体育公园,YANGJINGSPORTSPARK
+1140,枣阳公园,0,80.0,,,121.4102201598,31.2410243067,0,0.0,枣阳公园,
+1141,颐景园,0,0.0,,,121.4440597671,31.3911293404,0,0.0,颐景园,
+1142,嘉定健康主题公园,0,0.0,,,121.32850445,31.3054172923,0,0.0,嘉定健康主题公园,
+1143,浦江东岸,0,0.0,,,121.5253329723,31.2502506537,0,0.0,浦江东岸,
+1144,真新栅桥绿地,0,100.0,,,121.3649847767,31.2580453274,0,0.0,真新栅桥绿地,
+1145,静安中环公园,0,92.0,,,121.4563935367,31.29919566,0,0.0,静安中环公园,
+1146,康桥生态园-沔西绿地,0,0.0,,,121.618101,31.15236,0,0.0,康桥生态园沔西绿地,
+1147,金山新城公园,0,0.0,,,121.34899584,30.7631616644,0,0.0,金山新城公园,
+1148,孙桥中心绿地,0,0.0,,,121.6418566829,31.1765922483,0,0.0,孙桥中心绿地,
+1149,双桥公园,0,0.0,,,121.3429831297,31.2571341865,0,0.0,双桥公园,
+1150,德必静安WE,0,0.0,,,121.4471257268,31.2355490538,0,0.0,德必静安,WE
+1151,莱阳市民广场,0,0.0,,,121.5883957946,31.2862298832,0,0.0,莱阳市民广场,
+1152,凤凰公园,0,0.0,,,121.7021528731,31.3956088061,0,0.0,凤凰公园,
+1153,安垦外滩,0,0.0,,,121.4923610318,31.2450124519,0,0.0,安垦外滩,
+1154,桃浦公园,0,80.0,,,121.3986315815,31.2864237823,0,0.0,桃浦公园,
+1155,虹桥镇法治公园,0,0.0,,,121.3927849755,31.1809101656,0,0.0,虹桥镇法治公园,
+1156,世博源五区下沉式广场,0,0.0,,,121.4991660576,31.1894348501,0,0.0,世博源五区下沉式广场,
+1157,抗日第八集团军司令部旧址,0,100.0,,,121.463697,30.923418,0,0.0,抗日第八集团军司令部旧址,
+1158,上海崇明菏泽牡丹园,0,0.0,,,121.612508,31.638207,0,0.0,上海崇明菏泽牡丹园,
+1159,闵浦三桥,0,80.0,,,121.383076,30.987043,0,0.0,闵浦三桥,
+1160,崇明智慧生态花卉园,0,0.0,,,121.712944,31.584701,0,0.0,崇明智慧生态花卉园,
+1161,MR.ZOO小小动物元（上海浦东旭辉中心店）,0,92.0,,,121.561684,31.249012,0,0.0,小小动物元上海浦东旭辉中心店,MRZOO
+1162,MR.ZOO小小动物元（上海浦东晶耀中心店）,0,0.0,,,121.48478,31.15866,0,0.0,小小动物元上海浦东晶耀中心店,MRZOO
+1163,MR.ZOO小小动物元（金地广场店）,0,94.0,,,121.324505,31.145367,0,0.0,小小动物元金地广场店,MRZOO
+1164,MR.ZOO小小动物元（上海南翔印象城店）,0,0.0,,,121.312388,31.311187,0,0.0,小小动物元上海南翔印象城店,MRZOO
+1165,鲁迅小道,0,0.0,,,121.4860810605,31.2760697855,0,0.0,鲁迅小道,
+1166,上海大学博物馆,0,84.0,,,121.4014483184,31.3218609431,0,0.0,上海大学博物馆,
+1167,宝库文化中心,0,80.0,,,121.512739,31.239482,0,0.0,宝库文化中心,
+1168,梦权根雕艺术馆,0,0.0,,,121.3512856154,31.2662127259,0,0.0,梦权根雕艺术馆,
+1169,杨浦区文化馆,0,0.0,,,121.5391585688,31.3237572831,0,0.0,杨浦区文化馆,
+1170,FOG野空间,0,86.0,,,121.4885499811,31.0521828268,0,0.0,野空间,FOG
+1171,浦南文化馆,0,0.0,,,121.501165405,31.1694593096,0,0.0,浦南文化馆,
+1172,普陀科技馆,0,0.0,,,121.4252104543,31.2438254204,0,0.0,普陀科技馆,
+1173,风筝广场(浦江世博家园）,0,0.0,,,121.506952,31.086459,0,0.0,风筝广场浦江世博家园,
+1174,水生植物区,0,0.0,,,121.8169460367,31.6039381187,0,0.0,水生植物区,
+1175,张朴桥天主堂,0,0.0,,,121.210955,31.085002,0,0.0,张朴桥天主堂,
+1176,「完整版」国家地理经典影像大展-上海站,0,84.0,,,121.484849,31.158664,0,0.0,完整版国家地理经典影像大展上海站,
+1177,中德医院旧址,0,0.0,,,121.4711122336,31.2296459933,0,0.0,中德医院旧址,
+1178,东方经济图书馆旧址,0,0.0,,,121.4450058645,31.2278082295,0,0.0,东方经济图书馆旧址,
+1179,淀浦河生态长廊(小涞港~沪闵路),0,60.0,,,121.3852073958,31.1312292434,0,0.0,淀浦河生态长廊小涞港沪闵路,
+1180,西云楼商业步行街,0,0.0,,,121.267773,31.363742,0,0.0,西云楼商业步行街,
+1181,江海南关验货场旧址,0,0.0,,,121.515843,31.229368,0,0.0,江海南关验货场旧址,
+1182,LEVANTART阆风艺术画廊,0,0.0,,,121.4938784026,31.248408278,0,0.0,阆风艺术画廊,LEVANTART
+1183,上川铁路川沙站旧址,0,0.0,,,121.7097066506,31.205785819,0,0.0,上川铁路川沙站旧址,
+1184,外滩奇石博物馆,0,0.0,,,121.4979829095,31.2478560002,0,0.0,外滩奇石博物馆,
+1185,西本愿寺上海别院旧址,0,0.0,,,121.4927843089,31.257696957,0,0.0,西本愿寺上海别院旧址,
+1186,郑生官宅,0,0.0,,,121.6535533677,31.0269274112,0,0.0,郑生官宅,
+1187,南桥天主堂,0,0.0,,,121.464058,30.923088,0,0.0,南桥天主堂,
+1188,上海棉纱交易所旧址,0,0.0,,,121.495703095,31.2379531901,0,0.0,上海棉纱交易所旧址,
+1189,杨震庙,0,0.0,,,120.9319786812,31.0382298554,0,0.0,杨震庙,
+1190,大公所天主教堂‎,0,0.0,,,121.6573103115,31.5942198066,0,0.0,大公所天主教堂,
+1191,南黄天主堂,0,0.0,,,121.571467,31.183723,0,0.0,南黄天主堂,
+1192,东岳观,0,0.0,,,121.6557178404,31.0355104622,0,0.0,东岳观,
+1193,平声曲社旧址,0,0.0,,,121.489916,31.230358,0,0.0,平声曲社旧址,
+1194,鲍家寺,0,0.0,,,121.7747822289,31.1263608857,0,0.0,鲍家寺,
+1195,SOHO3911休闲街,0,60.0,,,121.3900313517,31.1991577878,0,0.0,休闲街,SOHO
+1196,复旦大学附属儿科医院院史陈列馆,0,0.0,,,121.400841571,31.1445538101,0,0.0,复旦大学附属儿科医院院史陈列馆,
+1197,瑞金医院院史陈列馆,0,0.0,,,121.4740286967,31.2181642937,0,0.0,瑞金医院院史陈列馆,
+1198,雷士德工学院旧址,0,80.0,,,121.504218,31.25666,0,0.0,雷士德工学院旧址,
+1199,正广和旧址,0,0.0,,,121.4960009724,31.2412582617,0,0.0,正广和旧址,
+1200,日本海军特别陆战队司令部旧址,0,0.0,,,121.488173,31.271674,0,0.0,日本海军特别陆战队司令部旧址,
+1201,梨园公所旧址,0,0.0,,,121.493117,31.229502,0,0.0,梨园公所旧址,
+1202,冯玉祥寓所,0,0.0,,,121.4755951343,31.2213377889,0,0.0,冯玉祥寓所,
+1203,娄塘天主堂,0,80.0,,,121.221718,31.43615,0,0.0,娄塘天主堂,
+1204,大胜胡同旧址,0,0.0,,,121.452935,31.226581,0,0.0,大胜胡同旧址,
+1205,三菱洋行 (上海分店旧址),0,0.0,,,121.4960319605,31.2396806793,0,0.0,三菱洋行上海分店旧址,
+1206,鲁迅存书室旧址,0,0.0,,,121.491968,31.269489,0,0.0,鲁迅存书室旧址,
+1207,小美术馆Small Art Museum,0,0.0,,,121.4560593457,31.2542749443,0,0.0,小美术馆,SmallArtMuseum
+1208,丰恩堂,0,0.0,,,121.715355,31.385903,0,0.0,丰恩堂,
+1209,尚艺画廊HARMONY ART GALLERY,0,0.0,,,121.4643240134,31.189448823,0,0.0,尚艺画廊,HARMONYARTGALLERY
+1210,宝山图书馆,0,0.0,,,121.4967231148,31.4008743164,0,0.0,宝山图书馆,
+1211,梅陇画廊(梅陇花鸟市场店),0,0.0,,,121.414848979,31.1401147867,0,0.0,梅陇画廊梅陇花鸟市场店,
+1212,沪东益书房,0,0.0,,,121.5880277701,31.2682936327,0,0.0,沪东益书房,
+1213,六平米画廊,0,100.0,,,121.4023674036,31.2284049109,0,0.0,六平米画廊,
+1214,量子画廊QUANTUM GALLERY,0,0.0,,,121.4303362049,31.1940795087,0,0.0,量子画廊,QUANTUMGALLERY
+1215,曲阳图书馆,0,0.0,,,121.4982801417,31.2861229314,0,0.0,曲阳图书馆,
+1216,莫邸画廊MO GALLERY & LOUNGE,0,0.0,,,121.4975914367,31.2160558423,0,0.0,莫邸画廊,MOGALLERYLOUNGE
+1217,名士居,0,0.0,,,121.3153970104,31.2981851916,0,0.0,名士居,
+1218,COSPACE画廊,0,100.0,,,121.4556437249,31.2538567808,0,0.0,画廊,COSPACE
+1219,中版书房,0,86.0,,,121.4001241538,31.2139256218,0,0.0,中版书房,
+1220,南菁湖滨公园,0,90.0,,,121.851382,31.349604,0,0.0,南菁湖滨公园,
+1221,长兴岛湿地公园,0,96.0,,,121.711231,31.385748,0,0.0,长兴岛湿地公园,
+1222,通海大堤,0,0.0,,,121.860651,31.300547,0,0.0,通海大堤,
+1223,大镜阁,0,0.0,,,121.489867,31.230374,0,0.0,大镜阁,
+1224,上海历史博物馆-古代上海,0,100.0,,,121.477618,31.236691,0,0.0,上海历史博物馆古代上海,
+1225,群众艺术馆-非遗展厅,0,0.0,,,121.431146,31.192065,0,0.0,群众艺术馆非遗展厅,
+1226,现所,0,80.0,,,121.4483380212,31.2344848586,0,0.0,现所,
+1227,鹤龙美术馆,0,0.0,,,121.159311,31.280562,0,0.0,鹤龙美术馆,
+1228,MR.ZOO小小动物元(上海宝山经纬中心店),0,0.0,,,121.405797,31.329449,0,0.0,小小动物元上海宝山经纬中心店,MRZOO
+1229,MR.ZOO小小动物元(杨浦悠方中心店),0,92.0,,,121.515105,31.33576,2,0.0,小小动物元杨浦悠方中心店,MRZOO
+1230,MR.ZOO小小动物元(普陀百联中心店),0,0.0,,,121.389829,31.251466,0,0.0,小小动物元普陀百联中心店,MRZOO
+1231,创邑SPACE愚园,0,100.0,,,121.444578,31.228336,0,0.0,创邑愚园,SPACE
+1232,宋庆龄文化空间,0,0.0,,,121.449416,31.218492,0,0.0,宋庆龄文化空间,
+1233,煦园旧址,0,0.0,,,121.464393,31.229653,0,0.0,煦园旧址,
+1234,静安区少年儿童图书馆,0,0.0,,,121.4627803713,31.2439365843,0,0.0,静安区少年儿童图书馆,
+1235,临空音乐公园,0,80.0,,,121.355754074,31.242867822,0,0.0,临空音乐公园,
+1236,梅馨陇韵,0,0.0,,,121.429554,31.098818,0,0.0,梅馨陇韵,
+1237,广智学堂旧址,0,60.0,,,121.5515286393,31.0811748795,0,0.0,广智学堂旧址,
+1238,苏州河创意仓库,0,0.0,,,121.4752405916,31.2459405397,0,0.0,苏州河创意仓库,
+1239,锦博苑,0,0.0,,,121.512741156,31.0772521744,0,0.0,锦博苑,
+1240,滴翠园,0,0.0,,,121.4354370776,31.1250779468,0,0.0,滴翠园,
+1241,王冶山宅,0,0.0,,,121.2338496503,31.0129767155,0,0.0,王冶山宅,
+1242,创邑SPACE老码头I期,0,0.0,,,121.5122121743,31.2251663191,0,0.0,创邑老码头期,SPACEI
+1243,蔡路公园,0,0.0,,,121.7398643865,31.2190684879,0,0.0,蔡路公园,
+1244,上海中国铁路馆,0,0.0,,,121.4958861926,31.2016010828,0,0.0,上海中国铁路馆,
+1245,同济宝隆健康广场,0,0.0,,,121.437120937,31.2745449237,0,0.0,同济宝隆健康广场,
+1246,东林文化园,0,0.0,,,121.1769312814,30.8996307464,0,0.0,东林文化园,
+1247,浙江第一商业银行,0,0.0,,,121.4938267287,31.2419339336,0,0.0,浙江第一商业银行,
+1248,章堰老街,0,100.0,,,121.1704261444,31.2306002697,0,0.0,章堰老街,
+1249,张江主题公园,0,0.0,,,121.6166608009,31.2102483642,0,0.0,张江主题公园,
+1250,桃浦堂,0,60.0,,,121.3604032032,31.2914742588,0,0.0,桃浦堂,
+1251,徐汇中环绿廊,0,0.0,,,121.4179308412,31.1501104201,0,0.0,徐汇中环绿廊,
+1252,东方之光,0,0.0,,,121.5450690316,31.2283261177,0,0.0,东方之光,
+1253,ROSA空中花园·世博源,0,0.0,,,121.4998989402,31.187176448,0,0.0,空中花园世博源,ROSA
+1254,锦和越界田林坊,0,94.0,,,121.4207687361,31.1770975183,0,0.0,锦和越界田林坊,
+1255,上海野生动物园百兽山广场,0,0.0,,,121.7297209831,31.0572065827,0,0.0,上海野生动物园百兽山广场,
+1256,牌楼休闲广场,0,0.0,,,121.405991,31.162882,0,0.0,牌楼休闲广场,
+1257,香山路,0,0.0,,,121.4735209584,31.2222253372,0,0.0,香山路,
+1258,合庆郊野公园,0,90.0,,,121.7233820107,31.2679138957,0,0.0,合庆郊野公园,
+1259,虞哲光旧居,0,0.0,,,121.4504023148,31.2324833473,0,0.0,虞哲光旧居,
+1260,金秋广场,0,0.0,,,121.549438733,31.2694376501,0,0.0,金秋广场,
+1261,彩虹雨创意园,0,0.0,,,121.4654027598,31.283309921,0,0.0,彩虹雨创意园,
+1262,蔡兵美术馆,0,96.0,,,121.4024625114,31.1230859799,0,0.0,蔡兵美术馆,
+1263,长风商标海报收藏馆,0,0.0,,,121.3898326439,31.237496977,0,0.0,长风商标海报收藏馆,
+1264,上海民防科普教育馆,0,80.0,,,121.4714064136,31.2202011732,0,0.0,上海民防科普教育馆,
+1265,沁园湖公园,0,0.0,,,121.1040271333,31.1772486227,0,0.0,沁园湖公园,
+1266,大隐古食代·逍遥古镇,0,82.0,,,121.3799691994,31.1803225788,0,0.0,大隐古食代逍遥古镇,
+1267,安徒生博物馆,0,0.0,,,121.5195975836,31.3293088854,0,0.0,安徒生博物馆,
+1268,杨树浦电厂遗迹公园,0,80.0,,,121.5623871178,31.2725240578,0,0.0,杨树浦电厂遗迹公园,
+1269,重回屋里厢,0,100.0,,,121.4987156059,31.2310610123,0,0.0,重回屋里厢,
+1270,东方明珠公园,0,80.0,,,121.5066809878,31.2466775485,0,0.0,东方明珠公园,
+1271,西湖园,0,0.0,,,121.5400567984,31.3149172883,0,0.0,西湖园,
+1272,黎安文化创意中心,0,0.0,,,121.3860755676,31.1350306205,0,0.0,黎安文化创意中心,
+1273,飞向永恒,0,0.0,,,121.2143805035,31.1046066349,0,0.0,飞向永恒,
+1274,兰竹罗蔓园,0,0.0,,,121.3677647521,31.1850646413,0,0.0,兰竹罗蔓园,
+1275,东汀翠谷,0,0.0,,,121.6295024997,31.2473423832,0,0.0,东汀翠谷,
+1276,金矿大瀑布,0,0.0,,,121.2210301208,31.1025550798,0,0.0,金矿大瀑布,
+1277,云仓文化创意园区,0,0.0,,,121.4393138838,31.2843224975,0,0.0,云仓文化创意园区,
+1278,鑫都路水文化公园,0,80.0,,,121.4054205875,31.0639883327,0,0.0,鑫都路水文化公园,
+1279,陆家嘴空中步行连廊,0,0.0,,,121.5049701878,31.2417617399,0,0.0,陆家嘴空中步行连廊,
+1280,新闻晨报林,0,0.0,,,121.4572318086,31.3000094292,0,0.0,新闻晨报林,
+1281,中央美术学院油画廊,0,0.0,,,121.4817961529,31.2257793015,0,0.0,中央美术学院油画廊,
+1282,九里亭公园,0,0.0,,,121.322703118,31.1515398068,0,0.0,九里亭公园,
+1283,宪法广场,0,0.0,,,121.820198,30.910204,0,0.0,宪法广场,
+1284,高行绿地公园,0,0.0,,,121.6214803679,31.2929601069,0,0.0,高行绿地公园,
+1285,三林世博创意园,0,0.0,,,121.5033760164,31.1627767332,0,0.0,三林世博创意园,
+1286,唐镇城镇发展规划展示馆,0,0.0,,,121.6563416809,31.226081953,0,0.0,唐镇城镇发展规划展示馆,
+1287,临江园,0,0.0,,,121.4367793047,30.9881222009,0,0.0,临江园,
+1288,富长路绿地,0,0.0,,,121.4278535203,31.3573015336,0,0.0,富长路绿地,
+1289,虹口区政府教育创意园区,0,90.0,,,121.518107,31.260639,0,0.0,虹口区政府教育创意园区,
+1290,天马射电天文望远镜,0,0.0,,,121.1425826955,31.0977595587,0,0.0,天马射电天文望远镜,
+1291,异乡文化展览馆,0,0.0,,,121.0613664248,31.1155707734,0,0.0,异乡文化展览馆,
+1292,空间188创意园,0,0.0,,,121.4874784054,31.2733036431,0,0.0,空间创意园,
+1293,北蔡广场,0,100.0,,,121.5609663335,31.1880049626,0,0.0,北蔡广场,
+1294,星舟广场,0,0.0,,,121.5270288991,31.2760574009,0,0.0,星舟广场,
+1295,张君然历史陈列室,0,0.0,,,121.4278385681,31.2103126039,0,0.0,张君然历史陈列室,
+1296,陆家嘴滨江步道,0,94.0,,,121.5309933087,31.2498002954,0,0.0,陆家嘴滨江步道,
+1297,东平市民公园,0,0.0,,,121.545473,31.682576,0,0.0,东平市民公园,
+1298,钱业大楼,0,0.0,,,121.4884037355,31.2446598397,0,0.0,钱业大楼,
+1299,百达画廊,0,0.0,,,121.4563577266,31.3039113445,0,0.0,百达画廊,
+1300,同善堂,0,0.0,,,121.510792169,31.1444611532,0,0.0,同善堂,
+1301,仰思坪,0,0.0,,,121.4415483494,31.0308984204,0,0.0,仰思坪,
+1302,建民绿地公园,0,0.0,,,121.4443579508,31.2622112861,0,0.0,建民绿地公园,
+1303,明珠创意园区,0,0.0,,,121.4909008717,31.2979981732,0,0.0,明珠创意园区,
+1304,顾毓琇旧居,0,0.0,,,121.4546351004,31.210490223,0,0.0,顾毓琇旧居,
+1305,联勤广场,0,0.0,,,121.557328588,31.1741913708,0,0.0,联勤广场,
+1306,谭抒真旧居,0,0.0,,,121.4637284262,31.2357143042,0,0.0,谭抒真旧居,
+1307,叶景葵旧居,0,0.0,,,121.4580153558,31.2237313783,0,0.0,叶景葵旧居,
+1308,鹏海绿地公园,0,0.0,,,121.5746320036,31.183492701,0,0.0,鹏海绿地公园,
+1309,三林西观音堂,0,0.0,,,121.488082,31.132194,0,0.0,三林西观音堂,
+1310,六灶健身公园,0,0.0,,,121.7157938356,31.1167427494,0,0.0,六灶健身公园,
+1311,金山花海,0,0.0,,,121.158942,30.791741,0,0.0,金山花海,
+1312,钱以同宅,0,0.0,,,121.2453036112,31.0149537729,0,0.0,钱以同宅,
+1313,中心湖,0,0.0,,,121.5129749965,31.2442490472,0,0.0,中心湖,
+1314,卡咔度艺术空间,0,0.0,,,121.4368833419,31.2491595915,0,0.0,卡咔度艺术空间,
+1315,鲁玙市民公园,0,0.0,,,121.7034631568,31.575137809,0,0.0,鲁玙市民公园,
+1316,勤奋文化公园,0,0.0,,,121.730795882,31.2634789923,0,0.0,勤奋文化公园,
+1317,崧泽广场,0,0.0,,,121.1422336847,31.1588677767,0,0.0,崧泽广场,
+1318,G地公园,0,0.0,,,121.5413238028,31.2383381347,0,0.0,地公园,G
+1319,范园,0,0.0,,,121.4415228193,31.2171690659,0,0.0,范园,
+1320,城市动力广场北广场,0,0.0,,,121.4339975643,31.1603816448,0,0.0,城市动力广场北广场,
+1321,七宝双拥广场,0,0.0,,,121.336706147,31.1367059492,0,0.0,七宝双拥广场,
+1322,马步芳旧居,0,0.0,,,121.4448128654,31.2115073632,0,0.0,马步芳旧居,
+1323,新场古镇张氏宅第,0,60.0,,,121.65305,31.029521,0,0.0,新场古镇张氏宅第,
+1324,职工世纪园,0,0.0,,,121.463774738,31.230428372,0,0.0,职工世纪园,
+1325,萨克斯广场,0,0.0,,,121.4546334174,31.2696502379,0,0.0,萨克斯广场,
+1326,鹏海广场,0,0.0,,,121.5629507132,31.1782088323,0,0.0,鹏海广场,
+1327,金地百亩公园,0,0.0,,,121.3279115248,31.3061554561,0,0.0,金地百亩公园,
+1328,丰田纱厂干部住宅,0,0.0,,,121.4320159784,31.2250872787,0,0.0,丰田纱厂干部住宅,
+1329,奇诺画廊ChinoGallery,0,0.0,,,121.4794931664,31.2239877233,0,0.0,奇诺画廊,ChinoGallery
+1330,古美人口文化公园(平南路),0,0.0,,,121.4015638188,31.1575527211,0,0.0,古美人口文化公园平南路,
+1331,康乐文化广场,0,0.0,,,121.4206043652,31.1548280108,0,0.0,康乐文化广场,
+1332,福彩文化展示馆,0,0.0,,,121.5012364276,31.2165514853,0,0.0,福彩文化展示馆,
+1333,虎林园,0,0.0,,,121.4613927925,31.350495211,0,0.0,虎林园,
+1334,上海国际科普产品博览会,0,0.0,,,121.4585456508,31.2294362729,0,0.0,上海国际科普产品博览会,
+1335,越界·丝腾光华酷,0,0.0,,,121.3990061326,31.0753658507,0,0.0,越界丝腾光华酷,
+1336,盆汤弄,0,100.0,,,121.48685,31.242289,0,0.0,盆汤弄,
+1337,1468创意园区,0,0.0,,,121.4909328887,31.2599065314,0,0.0,创意园区,
+1338,梅陇城广场,0,72.0,,,121.4127868936,31.1358966044,0,0.0,梅陇城广场,
+1339,福建路中华名品街,0,0.0,,,121.4868061683,31.24179002,0,0.0,福建路中华名品街,
+1340,八号桥四期创意园区,0,96.0,,,121.4894944354,31.2085243544,0,0.0,八号桥四期创意园区,
+1341,祁连公园,0,0.0,,,121.386472,31.333348,0,0.0,祁连公园,
+1342,小川新居画廊,0,0.0,,,121.4448666156,31.2042945968,0,0.0,小川新居画廊,
+1343,尚善堂艺术展示馆,0,0.0,,,121.4252722193,31.2120714348,0,0.0,尚善堂艺术展示馆,
+1344,包玉刚旧居,0,0.0,,,121.4453723536,31.2111780189,0,0.0,包玉刚旧居,
+1345,外马路仓库,0,0.0,,,121.5116909164,31.2144345722,0,0.0,外马路仓库,
+1346,交通银行大楼(上海第一支行),0,0.0,,,121.5086776026,31.2298223728,0,0.0,交通银行大楼上海第一支行,
+1347,七宝夜市,0,86.0,,,121.3670240808,31.1484234474,0,0.0,七宝夜市,
+1348,青溪园,0,88.0,,,121.1216957284,31.1461567545,0,0.0,青溪园,
+1349,五一广场,0,0.0,,,121.2594484839,31.3986941143,0,0.0,五一广场,
+1350,3131电子商务(创新园店),0,0.0,,,121.3599261859,31.2480266637,0,0.0,电子商务创新园店,
+1351,明代牡丹苑,0,0.0,,,121.4266663485,30.9639050978,0,0.0,明代牡丹苑,
+1352,利平葡萄园,0,0.0,,,121.2546531557,31.4218449058,0,0.0,利平葡萄园,
+1353,中国基督教协会,0,0.0,,,121.492467,31.242436,0,0.0,中国基督教协会,
+1354,刘晓故居,0,0.0,,,121.444231,31.226982,0,0.0,刘晓故居,
+1355,南丁格尔广场,0,0.0,,,121.2015207496,31.038089929,0,0.0,南丁格尔广场,
+1356,青浦银杏广场,0,0.0,,,121.0620734559,31.1150615912,0,0.0,青浦银杏广场,
+1357,地质生态大观园,0,0.0,,,121.7897131246,31.1836976356,0,0.0,地质生态大观园,
+1358,幼一公园,0,0.0,,,121.4354051976,31.1250006227,0,0.0,幼一公园,
+1359,艺谷文化创意产业园(西北门店),0,0.0,,,121.3102401216,31.301207131,0,0.0,艺谷文化创意产业园西北门店,
+1360,上海滨江森林公园-休息区,0,0.0,,,121.5308808269,31.3874693926,0,0.0,上海滨江森林公园休息区,
+1361,南上海运河公园,0,60.0,,,121.4775220805,30.9285736932,0,0.0,南上海运河公园,
+1362,光启龙华港湾,0,90.0,,,121.4688154121,31.1827910595,0,0.0,光启龙华港湾,
+1363,虹桥机场艺术馆,0,90.0,,,121.3352745933,31.203645812,0,0.0,虹桥机场艺术馆,
+1364,科普广场,0,0.0,,,121.3869447521,31.2450843023,0,0.0,科普广场,
+1365,育秀园,0,0.0,,,121.4730067588,30.9147296442,0,0.0,育秀园,
+1366,北管村休闲公园,0,0.0,,,121.3290048246,31.3432525125,0,0.0,北管村休闲公园,
+1367,松江布展示馆,0,0.0,,,121.218727,31.012504,0,0.0,松江布展示馆,
+1368,张沛君宅,0,0.0,,,121.648758123,31.031755838,0,0.0,张沛君宅,
+1369,臻吾画廊(红星美凯龙真北店),0,100.0,,,121.3913283554,31.2437820184,0,0.0,臻吾画廊红星美凯龙真北店,
+1370,基督教圣经,0,0.0,,,121.441149835,31.2002290383,0,0.0,基督教圣经,
+1371,颛桥剪纸文化公园,0,0.0,,,121.4220316452,31.0874808505,0,0.0,颛桥剪纸文化公园,
+1372,越界·智慧谷,0,0.0,,,121.448192462,31.1624879925,0,0.0,越界智慧谷,
+1373,华东路绿地公园,0,0.0,,,121.6904512501,31.1889579205,0,0.0,华东路绿地公园,
+1374,莘庄地铁文化广场,0,0.0,,,121.3902758518,31.1179864618,0,0.0,莘庄地铁文化广场,
+1375,九亭文化广场,0,0.0,,,121.3363881902,31.1369029572,0,0.0,九亭文化广场,
+1376,工作室画廊Studio Gallery,0,90.0,,,121.4531364468,31.2223157788,0,0.0,工作室画廊,StudioGallery
+1377,祥和之光百米钟塔,0,96.0,,,121.384853845,31.2509058742,0,0.0,祥和之光百米钟塔,
+1378,唐城绿地文化公园,0,100.0,,,121.6544010408,31.226922851,0,0.0,唐城绿地文化公园,
+1379,艺术创客街,0,0.0,,,121.4965253167,31.2614510298,0,0.0,艺术创客街,
+1380,费骅宅,0,0.0,,,121.2191805057,31.012789896,0,0.0,费骅宅,
+1381,兰馨广场,0,0.0,,,121.5341275707,31.2710243958,0,0.0,兰馨广场,
+1382,觉莲净苑,0,0.0,,,121.7329843818,31.5593526811,0,0.0,觉莲净苑,
+1383,街心花园,0,0.0,,,121.43028179,31.2602939681,0,0.0,街心花园,
+1384,虹桥体育公园,0,88.0,,,121.350852,31.227252,0,0.0,虹桥体育公园,
+1385,1000创意产业中心,0,0.0,,,121.4428940781,31.2390510262,0,0.0,创意产业中心,
+1386,印家住宅,0,0.0,,,121.2236538388,31.4362250435,0,0.0,印家住宅,
+1387,上海婚姻文化展示馆,0,0.0,,,121.4250880279,31.24374432,0,0.0,上海婚姻文化展示馆,
+1388,仓城胜强影视文化创意产业园区,0,0.0,,,121.2253610787,30.9932476612,0,0.0,仓城胜强影视文化创意产业园区,
+1389,上海国际旅游度假区maxus大通广场,0,0.0,,,121.6780780685,31.1426517033,0,0.0,上海国际旅游度假区大通广场,maxus
+1390,三林龙狮会馆(耀东店),0,0.0,,,121.5108241444,31.1446466589,0,0.0,三林龙狮会馆耀东店,
+1391,东茭泾公园,0,76.0,,,121.4425018152,31.3157561235,0,0.0,东茭泾公园,
+1392,上海中心大厦公共大街,0,0.0,,,121.5119750853,31.2390796762,0,0.0,上海中心大厦公共大街,
+1393,100弄文化空间,0,0.0,,,121.4814475227,31.2408712457,0,0.0,弄文化空间,
+1394,闸北文化艺术中心,0,0.0,,,121.4667335589,31.2606498969,0,0.0,闸北文化艺术中心,
+1395,永泰路绿地,0,0.0,,,121.5206979505,31.1428154623,0,0.0,永泰路绿地,
+1396,现代壶艺馆,0,0.0,,,121.4395167451,31.23685566,0,0.0,现代壶艺馆,
+1397,汉语大词典出版社,0,100.0,,,121.4351480874,31.2091203379,0,0.0,汉语大词典出版社,
+1398,My Zero Point,0,0.0,,,121.482663877,31.2420260083,0,0.0,,MyZeroPoint
+1399,上海市佘山古树名木保护区,0,0.0,,,121.2019606586,31.0983766431,0,0.0,上海市佘山古树名木保护区,
+1400,金水湖生态公园,0,0.0,,,121.3164231713,30.8406168103,0,0.0,金水湖生态公园,
+1401,红皇后御花园,0,94.0,,,121.665995,31.150743,0,0.0,红皇后御花园,
+1402,中西女中,0,0.0,,,121.436379,31.228834,0,0.0,中西女中,
+1403,韩非旧居,0,0.0,,,121.4586929212,31.2266772918,0,0.0,韩非旧居,
+1404,上海生活垃圾科普展示馆,0,100.0,,,121.8749218895,31.0470993762,0,0.0,上海生活垃圾科普展示馆,
+1405,日寇碉堡遗址,0,0.0,,,121.087826,30.959573,0,0.0,日寇碉堡遗址,
+1406,尊木汇上海木文化博览园C区,0,100.0,,,121.4183291744,31.3192183872,0,0.0,尊木汇上海木文化博览园区,C
+1407,朱玉林宅,0,0.0,,,121.6545802072,31.0241726272,0,0.0,朱玉林宅,
+1408,大通假日广场,0,0.0,,,121.6788580527,31.1421268758,0,0.0,大通假日广场,
+1409,木渎港泵闸,0,0.0,,,121.3860286353,31.2259783365,0,0.0,木渎港泵闸,
+1410,上海滩创意园区,0,0.0,,,121.4893600522,31.2066688417,0,0.0,上海滩创意园区,
+1411,恩爱天伦,0,0.0,,,121.4758947469,31.2313396776,0,0.0,恩爱天伦,
+1412,达华公寓,0,100.0,,,121.438574729,31.2198201698,0,0.0,达华公寓,
+1413,龙耀滨江广场,0,0.0,,,121.4706901927,31.1724554141,0,0.0,龙耀滨江广场,
+1414,飞机楼,0,88.0,,,121.5342889704,31.3137248841,0,0.0,飞机楼,
+1415,老上海码头文化博物馆,0,0.0,,,121.5043098111,31.253594301,0,0.0,老上海码头文化博物馆,
+1416,长兴岛博物馆,0,40.0,,,121.7096605737,31.4080443872,0,0.0,长兴岛博物馆,
+1417,风情艺术画廊,0,0.0,,,121.3942046212,31.19343154,0,0.0,风情艺术画廊,
+1418,和美术馆,0,0.0,,,121.4485013402,31.0530592187,0,0.0,和美术馆,
+1419,简画廊,0,0.0,,,121.4751327646,31.2146712747,0,0.0,简画廊,
+1420,物感美术馆,0,0.0,,,121.554583,31.314419,0,0.0,物感美术馆,
+1421,任微音画馆,0,0.0,,,121.471226564,31.2163258698,0,0.0,任微音画馆,
+1422,落叶美术馆,0,100.0,,,121.4438872586,31.2064061573,0,0.0,落叶美术馆,
+1423,青渚美术馆,0,0.0,,,121.184426,31.194636,0,0.0,青渚美术馆,
+1424,马利美术馆,0,94.0,,,121.3785215373,31.1930725652,0,0.0,马利美术馆,
+1425,意象画院,0,0.0,,,121.4753212181,31.2145264847,0,0.0,意象画院,
+1426,德艺陶瓷陈列馆,0,0.0,,,121.4880528608,31.2680349611,0,0.0,德艺陶瓷陈列馆,
+1427,释凡美术馆,0,0.0,,,121.308698,31.303664,0,0.0,释凡美术馆,
+1428,金桥碧云美术馆,0,90.0,,,121.5954758008,31.2507832835,0,0.0,金桥碧云美术馆,
+1429,Museum of O,0,0.0,,,121.4615343498,31.2348125162,0,0.0,,MuseumofO
+1430,知美居画廊,0,100.0,,,121.4756126083,31.2145801029,0,0.0,知美居画廊,
+1431,粟上海社区美术馆,0,80.0,,,121.4356701165,31.2253771008,0,0.0,粟上海社区美术馆,
+1432,小美术馆Small Art Museum,0,0.0,,,121.455714,31.253837,0,0.0,小美术馆,SmallArtMuseum
+1433,国稷美术馆,0,100.0,,,121.232339577,31.1209603827,0,0.0,国稷美术馆,
+1434,金臣·亦飞鸣美术馆,0,96.0,,,121.3222110491,31.1964257586,0,0.0,金臣亦飞鸣美术馆,
+1435,景德镇瓷画馆(上海馆),0,0.0,,,121.430073765,31.2102605097,0,0.0,景德镇瓷画馆上海馆,
+1436,尧缔茶壶博物馆,0,0.0,,,121.4948221568,31.2238086258,0,0.0,尧缔茶壶博物馆,
+1437,德玉堂画廊(益丰外滩源店),0,0.0,,,121.4954557588,31.2461700362,0,0.0,德玉堂画廊益丰外滩源店,
+1438,老军装博物馆,0,0.0,,,121.4577906115,31.2235347598,0,0.0,老军装博物馆,
+1439,没顶画廊,0,100.0,,,121.4637810352,31.2444282763,0,0.0,没顶画廊,
+1440,海上丝韵非遗文化馆,0,0.0,,,121.4811872046,31.2357907682,0,0.0,海上丝韵非遗文化馆,
+1441,库伯美术馆,0,0.0,,,121.582051,31.095248,0,0.0,库伯美术馆,
+1442,原曲画廊,0,0.0,,,121.1202235564,31.1535168784,0,0.0,原曲画廊,
+1443,普陀区文化馆,0,0.0,,,121.4119930297,31.2456024795,0,0.0,普陀区文化馆,
+1444,程家园,0,0.0,,,121.3086627982,31.3091715993,0,0.0,程家园,
+1445,协通博物馆,0,0.0,,,121.2260860551,31.2809751086,0,0.0,协通博物馆,
+1446,塞万提斯图书馆,0,100.0,,,121.4501227749,31.2205366351,0,0.0,塞万提斯图书馆,
+1447,上海视平线画廊,0,100.0,,,121.459512,31.22073,0,0.0,上海视平线画廊,
+1448,L' art702L' art702,0,100.0,,,121.470578,31.237323,0,0.0,,LartLart
+1449,消失的小镇首个沉浸式蒸汽朋克主题馆,0,80.0,,,121.484777,31.158845,0,0.0,消失的小镇首个沉浸式蒸汽朋克主题馆,
+1450,集贤坊,0,0.0,,,121.201378,31.065832,0,0.0,集贤坊,
+1451,伊丽莎白公寓旧址,0,100.0,,,121.459276,31.217473,0,0.0,伊丽莎白公寓旧址,
+1452,漫植花园,0,0.0,,,121.274428,31.143914,0,0.0,漫植花园,
+1453,丁聪美术馆,0,90.0,,,121.0186574022,30.8893046412,0,0.0,丁聪美术馆,
+1454,虹桥花乡风景区,0,52.0,,,121.474377,31.690431,0,0.0,虹桥花乡风景区,
+1455,上海博物馆中国历代绘画馆,0,0.0,,,121.482367,31.234229,1,0.0,上海博物馆中国历代绘画馆,
+1456,高安路77号,0,0.0,,,121.453051,31.207166,0,0.0,高安路号,
+1457,NO2A艺术空间(黑石公寓店),0,88.0,,,121.458898,31.217285,0,0.0,艺术空间黑石公寓店,NOA
+1458,明华糖厂,0,0.0,,,121.546329,31.260937,0,0.0,明华糖厂,
+1459,奉贤规划资源展示馆,0,84.0,,,121.50885,30.93978,0,0.0,奉贤规划资源展示馆,
+1460,苏家屯路,0,94.0,,,121.512136,31.280301,0,0.0,苏家屯路,
+1461,延富绿地,0,70.0,,,121.489207,31.235542,0,0.0,延富绿地,
+1462,章堰村文化馆,0,96.0,,,121.1695123451,31.2299390351,0,0.0,章堰村文化馆,
+1463,上海失恋博物馆（静安大悦城）,0,100.0,,,121.478596,31.250537,0,0.0,上海失恋博物馆静安大悦城,
+1464,雅巢画廊,0,100.0,,,121.4552925361,31.2543567196,0,0.0,雅巢画廊,
+1465,静安八景园,0,84.0,,,121.4536907543,31.2284607921,0,0.0,静安八景园,
+1466,高桥历史文化陈列馆,0,0.0,,,121.5903777291,31.3516464841,0,0.0,高桥历史文化陈列馆,
+1467,同济大学-博物馆,0,92.0,,,121.510545,31.287429,0,0.0,同济大学博物馆,
+1468,上海海派红木艺术博物馆,0,0.0,,,121.8189769882,30.995385853,0,0.0,上海海派红木艺术博物馆,
+1469,元利当铺旧址-博物馆,0,0.0,,,121.462648,31.241548,0,0.0,元利当铺旧址博物馆,
+1470,商学博物馆,0,0.0,,,121.508832,31.31155,0,0.0,商学博物馆,
+1471,油罐艺术中心「新惧象」展,0,90.0,,,121.469795,31.170791,0,0.0,油罐艺术中心新惧象展,
+1472,崇明县博物馆,0,0.0,,,121.4084036701,31.6249035029,0,0.0,崇明县博物馆,
+1473,Gene Gallery弥金画廊,0,0.0,,,121.479272,31.213421,0,0.0,弥金画廊,GeneGallery
+1474,马桥文化展示馆,0,80.0,,,121.3981370262,31.0400298298,1,0.0,马桥文化展示馆,
+1475,杨树浦港,0,88.0,,,121.524045,31.283046,0,0.0,杨树浦港,
+1476,喜时尚工业旅游景区,0,0.0,,,121.285436,31.84577,0,0.0,喜时尚工业旅游景区,
+1477,川沙古镇,0,80.0,,,121.712905,31.202607,0,0.0,川沙古镇,
+1478,玉海棠景区,0,90.0,,,121.338096,31.7711,0,0.0,玉海棠景区,
+1479,绿港风情景区,0,0.0,,,121.228066,31.755303,0,0.0,绿港风情景区,
+1480,上药中医药文化园,0,0.0,,,121.4993835019,31.6958950146,0,0.0,上药中医药文化园,
+1481,稻1968景区,0,0.0,,,121.343516,31.834783,0,0.0,稻景区,
+1482,远望1号,0,92.0,,,121.495666,31.200182,0,0.0,远望号,
+1483,民生滨江文化城,0,0.0,,,121.545151,31.253137,0,0.0,民生滨江文化城,
+1484,外环林带普陀区新杨养护段,0,0.0,,,121.362844,31.304951,0,0.0,外环林带普陀区新杨养护段,
+1485,馄饨皮集市,0,100.0,,,121.451154,31.211189,0,0.0,馄饨皮集市,
+1486,浦江天主堂(浦锦路),0,0.0,,,121.504772,31.083132,0,0.0,浦江天主堂浦锦路,
+1487,上海浦江郊野公园-滨江漫步区,0,80.0,,,121.492305,31.056002,0,0.0,上海浦江郊野公园滨江漫步区,
+1488,西岸艺岛ART Tower,0,90.0,,,121.4688829869,31.1699168409,0,0.0,西岸艺岛,ARTTower
+1489,西岸艺岛“雪域之美”展,0,84.0,,,121.468883,31.169917,0,0.0,西岸艺岛雪域之美展,
+1490,复旦公学旧址,0,0.0,,,121.440726,31.209436,0,0.0,复旦公学旧址,
+1491,中国·梦谷南上海文化创意产业园,0,0.0,,,121.460408,31.05981,0,0.0,中国梦谷南上海文化创意产业园,
+1492,“绚丽闵行”展,0,100.0,,,121.364363,31.16408,0,0.0,绚丽闵行展,
+1493,秦昊摄影展「常客」,0,0.0,,,121.47858,31.228475,0,0.0,秦昊摄影展常客,
+1494,高安路衡山路口街心花园,0,96.0,,,121.45203,31.209544,0,0.0,高安路衡山路口街心花园,
+1495,森林游憩区,0,0.0,,,121.499043,31.062701,0,0.0,森林游憩区,
+1496,百年上海设计展,0,100.0,,,121.426009,31.215754,0,0.0,百年上海设计展,
+1497,半亩园空中花园,0,80.0,,,121.51196,31.23922,0,0.0,半亩园空中花园,
+1498,88号艺术空间,0,80.0,,,121.433711,31.234649,0,0.0,号艺术空间,
+1499,春花秋色城市公园,0,86.0,,,121.955758,30.886513,0,0.0,春花秋色城市公园,
+1500,上海当代艺术博物馆-米修与木心,0,100.0,,,121.505154,31.206811,0,0.0,上海当代艺术博物馆米修与木心,
+1501,上海当代艺术博物馆-M/M上海制造,0,0.0,,,121.505082,31.206746,0,0.0,上海当代艺术博物馆上海制造,MM
+1502,上海玩博会,0,98.0,,,121.5744273351,31.216540683,0,0.0,上海玩博会,
+1503,奉浦大桥,0,0.0,,,121.452111,31.005771,0,0.0,奉浦大桥,
+1504,明镜艺术空间,0,100.0,,,121.455602,31.253972,0,0.0,明镜艺术空间,
+1505,Wonder labsWonder labs,0,0.0,,,121.45646,31.254784,0,0.0,,WonderlabsWonderlabs
+1506,新世纪·池社,0,92.0,,,121.468575,31.17448,1,0.0,新世纪池社,
+1507,香格纳画廊,0,100.0,,,121.468598,31.174237,0,0.0,香格纳画廊,
+1508,98创意园,0,66.0,,,121.448107,31.23514,0,0.0,创意园,
+1509,尚艺画廊,0,98.0,,,121.46888,31.187445,1,0.0,尚艺画廊,
+1510,漕通水城门,0,0.0,,,121.104716,31.142831,0,0.0,漕通水城门,
+1511,张马村,0,0.0,,,121.091783,31.049264,0,0.0,张马村,
+1512,梧桐禅院,0,0.0,,,121.038484,30.836102,0,0.0,梧桐禅院,
+1513,猫悦上城非遗影像公共体验基地,0,0.0,,,121.395349,31.219632,0,0.0,猫悦上城非遗影像公共体验基地,
+1514,良人归国风体验馆,0,0.0,,,121.505055,31.233366,0,0.0,良人归国风体验馆,
+1515,德义大楼,0,0.0,,,121.468193,31.237325,0,0.0,德义大楼,
+1516,泰兴大楼,0,0.0,,,121.465339,31.23647,0,0.0,泰兴大楼,
+1517,上海海洋水族馆中国展区,0,100.0,,,121.508642,31.246459,0,0.0,上海海洋水族馆中国展区,
+1518,南美洲区,0,0.0,,,121.508368,31.246162,0,0.0,南美洲区,
+1519,上海金山区人工智能机器人科教体验馆,0,80.0,,,121.371177,30.74433,0,0.0,上海金山区人工智能机器人科教体验馆,
+1520,古北SOHO,0,100.0,,,121.4109209916,31.2037268457,1,0.0,古北,SOHO
+1521,听翠园,0,98.0,,,121.403045,31.120093,1,0.0,听翠园,
+1522,朱恒清旧居,0,0.0,,,121.451711,31.218809,0,0.0,朱恒清旧居,
+1523,哥伦比亚公寓,0,0.0,,,121.459087,31.222819,0,0.0,哥伦比亚公寓,
+1524,上海野生动物园白虎馆,0,94.0,,,121.7255209037,31.0561243132,8,0.0,上海野生动物园白虎馆,
+1525,上海至爱星空艺术馆,0,0.0,,,121.522778,31.303352,0,0.0,上海至爱星空艺术馆,
+1526,BULU萌萌动物城,0,0.0,,,121.251378,31.012557,0,0.0,萌萌动物城,BULU
+1527,麦琪公寓,0,0.0,,,121.453286,31.217004,0,0.0,麦琪公寓,
+1528,白赛仲公寓,0,0.0,,,121.453052,31.216958,0,0.0,白赛仲公寓,
+1529,“以花之名”当代艺术群展 - 明珠美术馆当季展览,0,90.0,,,121.380019,31.180341,4,0.0,以花之名当代艺术群展明珠美术馆当季展览,
+1530,我与你：埃里克·索斯,0,0.0,,,121.469264,31.174139,0,0.0,我与你埃里克索斯,
+1531,青杉夜市(阿拉城店),0,86.0,,,121.3802804195,31.1832705982,7,0.0,青杉夜市阿拉城店,
+1532,五龙湖公园,0,98.0,,,121.2549977026,31.0598658804,0,0.0,五龙湖公园,
+1533,克里斯汀•迪奥，梦之设计师,0,96.0,,,121.471366,31.190301,0,0.0,克里斯汀迪奥梦之设计师,
+1534,80's Museum 国际80年代博物馆,0,90.0,,,121.524532,31.233051,5,0.0,国际年代博物馆,sMuseum
+1535,上海红十字历史文化陈列馆,0,0.0,,,121.1974936575,31.163014918,0,0.0,上海红十字历史文化陈列馆,
+1536,黎安集,0,0.0,,,121.377006268,31.1324049994,0,0.0,黎安集,
+1537,上海奇境迷宫探险馆Shanghai Wonderland Cognitile,0,60.0,,,121.4701956042,31.2245019373,0,0.0,上海奇境迷宫探险馆,ShanghaiWonderlandCognitile
+1538,华俄道胜银行大楼,0,0.0,,,121.4963,31.243253,0,0.0,华俄道胜银行大楼,
+1539,中国通商银行,0,0.0,,,121.49714,31.240419,0,0.0,中国通商银行,
+1540,桃溪苑休闲绿地公园,0,0.0,,,121.2263578174,31.4405248301,0,0.0,桃溪苑休闲绿地公园,
+1541,方孝孺纪念馆,0,0.0,,,121.5877661589,31.0119779106,0,0.0,方孝孺纪念馆,
+1542,陕南邨,0,0.0,,,121.467466,31.220827,0,0.0,陕南邨,
+1543,首尔夜市Seoul Night Market,0,90.0,,,121.3803103114,31.1756160261,9,0.0,首尔夜市,SeoulNightMarket
+1544,BFC外滩枫泾路夜市BFC The Bund Fengjing Weekend Market,0,90.0,,,121.503754,31.231906,6,0.0,外滩枫泾路夜市,BFCBFCTheBundFengjingWeekendMarket
+1545,芊荷艺术空间,0,90.0,,,121.441855303,31.2274413688,1,0.0,芊荷艺术空间,
+1546,小动物乐园Shanghai Wild Animal Park Small Animal Paradise,0,94.0,,,121.723342,31.057817,3,0.0,小动物乐园,ShanghaiWildAnimalParkSmallAnimalParadise
+1547,青浦环城水系公园Qingpu City Water System Park,0,94.0,,,121.1200138425,31.169666312,1,0.0,青浦环城水系公园,QingpuCityWaterSystemPark
+1548,“梦回江户”—浮世绘艺术大展,0,96.0,,,121.497774,31.239057,3,0.0,梦回江户浮世绘艺术大展,
+1549,临港新业坊·虹口智立方Lingang Innovation Galaxy & Hongkou Wise Cube,0,84.0,,,121.472463,31.299543,0,0.0,临港新业坊虹口智立方,LingangInnovationGalaxyHongkouWiseCube
+1550,杜梦堂Galerie DUMONTEIL,0,90.0,,,121.453697,31.210989,3,0.0,杜梦堂,GalerieDUMONTEIL
+1551,虹桥国际展汇,0,0.0,,,121.330349,31.218363,0,0.0,虹桥国际展汇,
+1552,泰会生活文化园Taihui Life and Culture Park,0,0.0,,,121.731163,31.02682,0,0.0,泰会生活文化园,TaihuiLifeandCulturePark
+1553,太空秘境体验馆Space Fairyland Experience Hall,0,60.0,,,121.503644,31.244193,0,0.0,太空秘境体验馆,SpaceFairylandExperienceHall
+1554,江川图书馆Jiangchuan Library,0,92.0,,,121.421889,31.01487,3,0.0,江川图书馆,JiangchuanLibrary
+1555,山海关路Shanhaiguan Road,0,100.0,,,121.468788,31.241745,0,0.0,山海关路,ShanhaiguanRoad
+1556,上海复星艺术中心-亚历克斯·卡茨个展,0,86.0,,,121.504731,31.23251,1,0.0,上海复星艺术中心亚历克斯卡茨个展,
+1557,大田秀则画廊Ota Fine Arts,0,100.0,,,121.4689027221,31.1745422311,2,0.0,大田秀则画廊,OtaFineArts
+1558,上海观止矿晶博物馆Shanghai Crystalline Fossil Museum,0,92.0,,,121.375704111,31.1842957246,0,0.0,上海观止矿晶博物馆,ShanghaiCrystallineFossilMuseum
+1559,菊盛公园,0,0.0,,,121.377197,31.358459,0,0.0,菊盛公园,
+1560,草编文创馆Straw Plaiting Cultural and Creative Museum,0,0.0,,,121.279035073,31.4108382689,0,0.0,草编文创馆,StrawPlaitingCulturalandCreativeMuseum
+1561,闽南堂旧址,0,0.0,,,121.449788,31.234882,0,0.0,闽南堂旧址,
+1562,广庵寺Guang'an Temple,0,0.0,,,121.12299755,30.9943108035,0,0.0,广庵寺,GuanganTemple
+1563,海岛艺术田园Island Art Pastoral,0,0.0,,,121.857403,31.335147,0,0.0,海岛艺术田园,IslandArtPastoral
+1564,布卢门撒尔旧居Former Residence of Blumenthal,0,0.0,,,121.516317,31.259898,0,0.0,布卢门撒尔旧居,FormerResidenceofBlumenthal
+1565,靶子山Target Mountain,0,0.0,,,121.471180034,31.2960513811,0,0.0,靶子山,TargetMountain
+1566,由度慧谷创意园区,0,0.0,,,121.6050954136,31.2556517085,0,0.0,由度慧谷创意园区,
+1567,白厢画廊,0,100.0,,,121.4961262463,31.2374409291,0,0.0,白厢画廊,
+1568,陈友仁旧居,0,0.0,,,121.4336007668,31.2249171096,0,0.0,陈友仁旧居,
+1569,五月花公园Mayflower Park,0,0.0,,,121.264442659,31.4118005766,0,0.0,五月花公园,MayflowerPark
+1570,波特营创意园,0,0.0,,,121.5279429936,31.238807957,0,0.0,波特营创意园,
+1571,明因寺Mingyin Temple,0,0.0,,,121.0220140356,31.0005942076,0,0.0,明因寺,MingyinTemple
+1572,灶文化艺术展示馆,0,0.0,,,121.7258535194,31.5196404421,0,0.0,灶文化艺术展示馆,
+1573,尚馥骊湾88文化产业园,0,0.0,,,121.4984586961,31.1698981338,0,0.0,尚馥骊湾文化产业园,
+1574,隆平寺遗址Site of Longping Temple,0,0.0,,,121.171664,31.258015,0,0.0,隆平寺遗址,SiteofLongpingTemple
+1575,赵朱木兰纪念馆Zhaozhu Mulan Memorial Hall,0,0.0,,,121.9095511612,30.882458769,0,0.0,赵朱木兰纪念馆,ZhaozhuMulanMemorialHall
+1576,老电表博物馆Museum of Old Electricity Meters,0,60.0,,,121.509752,31.144454,0,0.0,老电表博物馆,MuseumofOldElectricityMeters
+1577,通利园Tongli Garden,0,0.0,,,121.512868,31.266533,0,0.0,通利园,TongliGarden
+1578,甲午同庚千龄会聚会地旧址,0,0.0,,,121.450941,31.211354,0,0.0,甲午同庚千龄会聚会地旧址,
+1579,越界创意园区Surpass Space Creativity Park,0,90.0,,,121.4183196076,31.1767462189,0,0.0,越界创意园区,SurpassSpaceCreativityPark
+1580,简单生活公园,0,100.0,,,121.4699125675,31.187518242,0,0.0,简单生活公园,
+1581,倪东方倪伟仁艺术馆Ni Dongfang and Ni Weiren’s Art Museum,0,0.0,,,121.4137970728,31.143160045,0,0.0,倪东方倪伟仁艺术馆,NiDongfangandNiWeirensArtMuseum
+1582,"八万吨筒仓艺术中心80,000-Ton Silo Art Center",0,0.0,,,121.5464060979,31.2537753463,0,0.0,八万吨筒仓艺术中心,TonSiloArtCenter
+1583,中国江南农具馆China Jiangnan Farm Implements Museum,0,0.0,,,121.1619612586,30.7915422124,0,0.0,中国江南农具馆,ChinaJiangnanFarmImplementsMuseum
+1584,八仙花主题园中园Baxianhua Theme Garden,0,0.0,,,121.4824725641,31.2246401501,0,0.0,八仙花主题园中园,BaxianhuaThemeGarden
+1585,永隆寺,0,0.0,,,121.4155641559,31.8002101803,0,0.0,永隆寺,
+1586,白庙寺Baimiao Temple,0,0.0,,,121.3895172485,31.3804264457,0,0.0,白庙寺,BaimiaoTemple
+1587,大宁德必易园,0,0.0,,,121.454990332,31.2934541438,0,0.0,大宁德必易园,
+1588,余天成中医药文化展示馆Yu Tiancheng Traditional Chinese Medicine Cultural Exhibition Hall,0,100.0,,,121.2424480593,31.0120619538,1,0.0,余天成中医药文化展示馆,YuTianchengTraditionalChineseMedicineCulturalExhibitionHall
+1589,榕异美术馆Rongyi Art Museum,0,0.0,,,121.4809843039,31.3284473292,0,0.0,榕异美术馆,RongyiArtMuseum
+1590,琴键春园,0,88.0,,,121.5028294131,31.2024045573,0,0.0,琴键春园,
+1591,小河口银杏园Xiaohekou Ginkgo Garden,0,0.0,,,121.2489781936,31.38213819,0,0.0,小河口银杏园,XiaohekouGinkgoGarden
+1592,BAZAR摩登思南夜市Modern Sinan Night BAZAR,0,0.0,,,121.4745769389,31.2205911413,0,0.0,摩登思南夜市,BAZARModernSinanNightBAZAR
+1593,黑白之中画廊,0,0.0,,,121.4935654734,31.2507255345,0,0.0,黑白之中画廊,
+1594,曾联松旧居Former Residence of Zeng Liansong,0,80.0,,,121.4914908394,31.2720126167,0,0.0,曾联松旧居,FormerResidenceofZengLiansong
+1595,世界手工艺产业博览园World Handicraft Industry Expo Park,0,0.0,,,121.3239453494,31.1689343718,0,0.0,世界手工艺产业博览园,WorldHandicraftIndustryExpoPark
+1596,商务印书馆第五印刷厂旧址Former Site of the Fifth Printing Factory of the Commercial Press,0,80.0,,,121.478785,31.264554,0,0.0,商务印书馆第五印刷厂旧址,FormerSiteoftheFifthPrintingFactoryoftheCommercialPress
+1597,时尚谷创意园,0,80.0,,,121.175251707,31.0367396883,0,0.0,时尚谷创意园,
+1598,中国锣鼓书画艺术馆China Gong and Drum Calligraphy and Painting Museum,0,0.0,,,121.6537212447,31.0272355251,0,0.0,中国锣鼓书画艺术馆,ChinaGongandDrumCalligraphyandPaintingMuseum
+1599,骨针广场Bone Needle Square,0,80.0,,,121.2013641607,31.068018981,2,0.0,骨针广场,BoneNeedleSquare
+1600,铭大创意广场,0,0.0,,,121.551024,31.281848,0,0.0,铭大创意广场,
+1601,北欧冰雪圣诞小镇Northern European Ice & Snow Christmas Town,0,0.0,,,121.4152839145,31.1460346962,0,0.0,北欧冰雪圣诞小镇,NorthernEuropeanIceSnowChristmasTown
+1602,董竹君故居Former Residence of Dong Zhujun,0,0.0,,,121.4311261896,31.2253411347,0,0.0,董竹君故居,FormerResidenceofDongZhujun
+1603,郭棣活旧居,0,0.0,,,121.4433692178,31.2174934181,0,0.0,郭棣活旧居,
+1604,宋氏家族居住纪念地Memorial of Residence of Family Song,0,0.0,,,121.711398,31.200989,0,0.0,宋氏家族居住纪念地,MemorialofResidenceofFamilySong
+1605,哈密公园Hami Park,0,90.0,,,121.3807144299,31.2199794404,3,0.0,哈密公园,HamiPark
+1606,上海企业联合馆Shanghai Corporate Pavilion,0,0.0,,,121.4947308022,31.2013602476,0,0.0,上海企业联合馆,ShanghaiCorporatePavilion
+1607,半隐美术馆Banyin Art Museum,0,0.0,,,121.361271366,31.1570604765,0,0.0,半隐美术馆,BanyinArtMuseum
+1608,世界酒博园World Wine Expo Park,0,0.0,,,121.2885381863,31.2687693029,0,0.0,世界酒博园,WorldWineExpoPark
+1609,白杨旧居Former Residence of Bai Yang,0,0.0,,,121.4440443699,31.218240402,0,0.0,白杨旧居,FormerResidenceofBaiYang
+1610,ArT of Ooo哇塞艺术展,0,0.0,,,121.4710073713,31.216275906,0,0.0,哇塞艺术展,ArTofOoo
+1611,海容大树下新媒体创意产业园New Media Creative Industry Park,0,0.0,,,121.3785060883,31.1912814735,0,0.0,海容大树下新媒体创意产业园,NewMediaCreativeIndustryPark
+1612,左右美术馆,0,0.0,,,121.3808724715,31.2172099642,0,0.0,左右美术馆,
+1613,动物育幼展示中心Animal Brood Exhibition Center,0,0.0,,,121.723013862,31.0581351652,0,0.0,动物育幼展示中心,AnimalBroodExhibitionCenter
+1614,弥陀院Amitabha Court,0,0.0,,,121.6954327619,31.5571327279,0,0.0,弥陀院,AmitabhaCourt
+1615,木刻讲习会所旧址,0,0.0,,,121.4916677217,31.2686671307,0,0.0,木刻讲习会所旧址,
+1616,罗地亚上海科技园Rhodia Shanghai Science and Technology Park,0,0.0,,,121.3856928738,31.0824134312,0,0.0,罗地亚上海科技园,RhodiaShanghaiScienceandTechnologyPark
+1617,张杨寺,0,0.0,,,121.4079106716,31.399688191,0,0.0,张杨寺,
+1618,共康境外创意设计园区,0,0.0,,,121.448169126,31.3341887779,0,0.0,共康境外创意设计园区,
+1619,之禾画廊,0,100.0,,,121.3920788338,31.1709960559,0,0.0,之禾画廊,
+1620,"崇明县新村基督教堂‎Christian Church of Xincun Township, Chongming County‎",0,0.0,,,121.3309262789,31.8391489385,0,0.0,崇明县新村基督教堂,ChristianChurchofXincunTownshipChongmingCounty
+1621,大浜村灵观庙,0,0.0,,,121.0318060078,30.9622665281,0,0.0,大浜村灵观庙,
+1622,基督教崇主堂Christian Church of Worship,0,0.0,,,121.416211,31.638196,0,0.0,基督教崇主堂,ChristianChurchofWorship
+1623,洛本昆艺术馆,0,0.0,,,121.5387422089,31.2738620781,0,0.0,洛本昆艺术馆,
+1624,言午画廊Yan Wu Gallery,0,100.0,,,121.3631955741,31.1635072925,0,0.0,言午画廊,YanWuGallery
+1625,Verymuseum非常博物馆Very Museum,0,96.0,,,121.416558,31.320619,0,0.0,非常博物馆,VerymuseumVeryMuseum
+1626,周璇旧居Former Residence of Zhou Xuan,0,0.0,,,121.4455395372,31.2124404935,0,0.0,周璇旧居,FormerResidenceofZhouXuan
+1627,金融小镇Financial Town,0,100.0,,,121.5815680773,30.9000647485,0,0.0,金融小镇,FinancialTown
+1628,名企新桥艺术园区新桥美术馆,0,0.0,,,121.2921496551,31.0761851974,0,0.0,名企新桥艺术园区新桥美术馆,
+1629,中成智谷创意园区,0,96.0,,,121.5030187338,31.3547909335,0,0.0,中成智谷创意园区,
+1630,北欧风情街Nordic Style Street,0,0.0,,,121.364881661,31.4048775026,0,0.0,北欧风情街,NordicStyleStreet
+1631,张慈中装帧艺术馆Zhang Cizhong Binding Art Gallery,0,94.0,,,121.019548,30.890892,1,0.0,张慈中装帧艺术馆,ZhangCizhongBindingArtGallery
+1632,曲苑Quyuan Park,0,92.0,,,121.495137,31.282456,2,0.0,曲苑,QuyuanPark
+1633,北新花海Beixin Flower Sea,0,80.0,,,121.26792312,31.4715698669,1,0.0,北新花海,BeixinFlowerSea
+1634,里森画廊Lisson Gallery,0,84.0,,,121.4938486925,31.2470438061,1,0.0,里森画廊,LissonGallery
+1635,50color,0,0.0,,,121.552201,31.299133,0,0.0,,color
+1636,阿尔敏莱希画廊Almine Rech Gallery,0,88.0,,,121.493644,31.247264,4,0.0,阿尔敏莱希画廊,AlmineRechGallery
+1637,唐妮诗画廊ARTLINKART,0,90.0,,,121.491543,31.246537,1,0.0,唐妮诗画廊,ARTLINKART
+1638,安娜苏的艺想世界 The World of Anna SuiThe World of Anna Sui,0,86.0,,,121.518997,31.222187,3,0.0,安娜苏的艺想世界,TheWorldofAnnaSuiTheWorldofAnnaSui
+1639,撚雀画廊Nianque Gallery,0,90.0,,,121.455245,31.254117,0,0.0,撚雀画廊,NianqueGallery
+1640,亭林公园Tinglin Park,0,76.0,,,121.3189460647,30.8883263447,0,0.0,亭林公园,TinglinPark
+1641,松江泖港湿地Songjiangmaogang Wetland,0,0.0,,,121.1321585861,30.9286693795,0,0.0,松江泖港湿地,SongjiangmaogangWetland
+1642,瀛东村农家乐Yingdongcun Farm Tour,0,96.0,,,121.8501407427,31.4666781503,0,0.0,瀛东村农家乐,YingdongcunFarmTour
+1643,闵行滨江公园Minxingbinjiang Park,0,86.0,,,121.4319749934,31.004670041,2,0.0,闵行滨江公园,MinxingbinjiangPark
+1644,轮渡广场Lundu Square,0,0.0,,,121.5094372586,31.2363283521,0,0.0,轮渡广场,LunduSquare
+1645,上海西郊水族馆Shanghaixijiao Aquarium,0,0.0,,,121.38747718,31.2102834423,0,0.0,上海西郊水族馆,ShanghaixijiaoAquarium
+1646,九州仙境Jiuzhou Fairyland,0,0.0,,,121.0566896528,31.0204519407,0,0.0,九州仙境,JiuzhouFairyland
+1647,宝山白玉兰广场Baiyulan Square,0,90.0,,,121.494764,31.401613,11,0.0,宝山白玉兰广场,BaiyulanSquare
+1648,陈家镇自行车公园Chenjiazhen Zixingche Park,0,0.0,,,121.8470549088,31.4879182103,0,0.0,陈家镇自行车公园,ChenjiazhenZixingchePark
+1649,陶家湾休闲农庄Taojiawan Leisure Farm,0,80.0,,,121.515834,31.011552,0,0.0,陶家湾休闲农庄,TaojiawanLeisureFarm
+1650,国际赛车场风洞飞行体验中心Guoji Saichechang Fengdong Feixing Tiyan Center,0,60.0,,,121.231664,31.343335,0,0.0,国际赛车场风洞飞行体验中心,GuojiSaichechangFengdongFeixingTiyanCenter
+1651,嘉定湿地公园Jiading Wetland Park,0,0.0,,,121.232093,31.368732,0,0.0,嘉定湿地公园,JiadingWetlandPark
+1652,99广中绿地99 Guangzhong Greenbelt,0,88.0,,,121.464629,31.285166,4,0.0,广中绿地,GuangzhongGreenbelt
+1653,花好月园公园Blooming Flowers and Full Moon Park,0,88.0,,,121.5030161421,31.0921965703,3,0.0,花好月园公园,BloomingFlowersandFullMoonPark
+1654,赵巷体育公园Zhaoxiang Sports Park,0,80.0,,,121.234131952,31.1298966332,0,0.0,赵巷体育公园,ZhaoxiangSportsPark
+1655,东方明珠塔地标乐园·印象光绘艺术馆Oriental Pearl Tower Landmark Park · Impression Light Painting Art Museum,0,98.0,,,121.506379,31.245414,4,0.0,东方明珠塔地标乐园印象光绘艺术馆,OrientalPearlTowerLandmarkParkImpressionLightPaintingArtMuseum
+1656,河滨大楼Riverside Building,0,100.0,,,121.4900485918,31.249107375,0,0.0,河滨大楼,RiversideBuilding
+1657,宁钢(上海)陶瓷艺术馆Ning Gang (Shanghai) Ceramic Art Museum,0,96.0,,,121.4947302895,31.0954019345,0,0.0,宁钢上海陶瓷艺术馆,NingGangShanghaiCeramicArtMuseum
+1658,上海国际贸易中心Shanghai International Trade Centre,0,86.0,,,121.41084,31.208313,0,0.0,上海国际贸易中心,ShanghaiInternationalTradeCentre
+1659,天平村Tianping Village,0,100.0,,,121.376086,31.444429,0,0.0,天平村,TianpingVillage
+1660,德必运动LOFT创意基地DoBe Sports LOFT Creative Park,0,92.0,,,121.478939,31.276334,2,0.0,德必运动创意基地,LOFTDoBeSportsLOFTCreativePark
+1661,"海棠苑·海棠花溪Begonia Flower Creek, Sanxing Town, Chongming",0,0.0,,,121.2945461798,31.7547055797,0,0.0,海棠苑海棠花溪,BegoniaFlowerCreekSanxingTownChongming
+1662,九里工坊9 Miles Works,0,78.0,,,121.326938679,31.1497851344,4,0.0,九里工坊,MilesWorks
+1663,紫云廊Ziyunlang Park,0,0.0,,,121.256085,31.399538,0,0.0,紫云廊,ZiyunlangPark
+1664,贝当公寓旧址Petain Apartment Site,0,0.0,,,121.448326,31.205216,0,0.0,贝当公寓旧址,PetainApartmentSite
+1665,临港新业坊·源创,0,82.0,,,121.4912732779,31.323953429,8,0.0,临港新业坊源创,
+1666,南虹港观机长廊Nanhong Port Aircraft Observation Corridor,0,0.0,,,121.344675,31.179292,0,0.0,南虹港观机长廊,NanhongPortAircraftObservationCorridor
+1667,建筑模型博物馆Architectural Model Museum,0,94.0,,,121.44508,31.299959,5,0.0,建筑模型博物馆,ArchitecturalModelMuseum
+1668,阿尔伯塔龙,0,0.0,,,121.37787,31.347488,0,0.0,阿尔伯塔龙,
+1669,徐浜河桥,0,0.0,,,121.22673,30.871292,0,0.0,徐浜河桥,
+1670,英伦风尚老年活动中心British Style Senior Citizen Activity Center,0,0.0,,,121.31277,31.154997,0,0.0,英伦风尚老年活动中心,BritishStyleSeniorCitizenActivityCenter
+1671,后杨间村,0,0.0,,,121.1826759344,31.0204772611,0,0.0,后杨间村,
+1672,辽一居委会社区综合文化服务中心Community Comprehensive Cultural Service Center of Liaoyi Neighborhood Committee,0,0.0,,,121.51326,31.27413,0,0.0,辽一居委会社区综合文化服务中心,CommunityComprehensiveCulturalServiceCenterofLiaoyiNeighborhoodCommittee
+1673,东方颖家庭农场,0,0.0,,,121.67485,31.101912,0,0.0,东方颖家庭农场,
+1674,昌硕中桥宿舍图书馆,0,0.0,,,121.63037,31.149948,0,0.0,昌硕中桥宿舍图书馆,
+1675,衣品茂新兴旺美术馆(上海兴旺国际服饰城)Yipinmao Xinxingwang Art Museum (Shanghai Xingwang International Clothing City),0,0.0,,,121.489174,31.251516,0,0.0,衣品茂新兴旺美术馆上海兴旺国际服饰城,YipinmaoXinxingwangArtMuseumShanghaiXingwangInternationalClothingCity
+1676,生成的人类DNA,0,0.0,,,121.534386,31.299728,0,0.0,生成的人类,DNA
+1677,群立河桥Qunli River Bridge,0,0.0,,,121.3796,30.889158,0,0.0,群立河桥,QunliRiverBridge
+1678,西河山浜Xiheshanbang Village,0,0.0,,,121.079093943,30.9633087248,0,0.0,西河山浜,XiheshanbangVillage
+1679,上海市哲月葡萄种植专业合作社,0,0.0,,,121.20021,30.878736,0,0.0,上海市哲月葡萄种植专业合作社,
+1680,岗山桃太郎生态农场,0,0.0,,,121.89353,30.98677,0,0.0,岗山桃太郎生态农场,
+1681,厉家宅Lijiazhai Village,0,0.0,,,121.607254,31.193668,0,0.0,厉家宅,LijiazhaiVillage
+1682,"上海嘉多膳有机蔬菜基地Jiaduoshan Organic Vegetable Base, Shanghai",0,0.0,,,121.77633209,30.9831575006,0,0.0,上海嘉多膳有机蔬菜基地,JiaduoshanOrganicVegetableBaseShanghai
+1683,上海贤风蔬菜育苗场,0,0.0,,,121.55224,30.89228,0,0.0,上海贤风蔬菜育苗场,
+1684,上海樟庆农业科技专业合作社,0,0.0,,,121.25869,31.21225,0,0.0,上海樟庆农业科技专业合作社,
+1685,上海亚博园艺工程有限公司种植基地,0,0.0,,,121.37423,30.992277,0,0.0,上海亚博园艺工程有限公司种植基地,
+1686,亨利·杜南Henry Dunant,0,0.0,,,121.47458,31.229233,0,0.0,亨利杜南,HenryDunant
+1687,上海衡山宾馆,0,0.0,,,0.0,0.0,0,0.0,上海衡山宾馆,
+1688,上海接送机服务,0,0.0,轻轻松松，出行无忧,,0.0,0.0,0,0.0,上海接送机服务,
+1689,City Walk,0,0.0,走街串巷，深入城市的隐秘之地,,0.0,0.0,0,0.0,,CityWalk
+1690,先农村种籽场,0,0.0,,,121.331055,31.270506,0,0.0,先农村种籽场,
+1691,龙山园林景观Longshan Landscape,0,0.0,,,121.716446,31.075542,0,0.0,龙山园林景观,LongshanLandscape
+1692,金银河桥Jinyin River Bridge,0,80.0,,,121.660164,31.11686,1,0.0,金银河桥,JinyinRiverBridge
+1693,张金华盆景种植基地Zhang Jinhua Bonsai Planting Base,0,0.0,,,121.75451,31.210499,0,0.0,张金华盆景种植基地,ZhangJinhuaBonsaiPlantingBase
+1694,"姚王路陆家北桥Lujia North Bridge, Yaowang Road",0,0.0,,,121.2998793814,30.9575278619,0,0.0,姚王路陆家北桥,LujiaNorthBridgeYaowangRoad
+1695,南陆家埭Nanlujiadai Village,0,0.0,,,121.3252034222,30.969493859,0,0.0,南陆家埭,NanlujiadaiVillage
+1696,郁家低场Yujiadichang Village,0,0.0,,,121.556076,31.049292,0,0.0,郁家低场,YujiadichangVillage
+1697,兰郡社区综合文化服务中心,0,0.0,,,121.18055,31.359962,0,0.0,兰郡社区综合文化服务中心,
+1698,上源围棋艺术活动中心,0,0.0,,,121.64712,30.909716,0,0.0,上源围棋艺术活动中心,
+1699,"柘林镇-胡桥滚灯之乡Huqiao Village of Rolling Lights, Zhelin Town",0,0.0,,,121.48076,30.84382,0,0.0,柘林镇胡桥滚灯之乡,HuqiaoVillageofRollingLightsZhelinTown
+1700,上海美时园艺有限公司,0,0.0,,,121.303663,31.053059,0,0.0,上海美时园艺有限公司,
+1701,仓城张氏米行Zhang's Rice,0,74.0,,,121.2228067564,31.012586513,2,0.0,仓城张氏米行,ZhangsRice
+1702,游牧天地,0,0.0,,,121.495595,31.215879,0,0.0,游牧天地,
+1703,鹤寿轩,0,0.0,,,121.32286,31.298452,0,0.0,鹤寿轩,
+1704,龚家行Gongjiahang Village,0,0.0,,,121.5466,31.034112,0,0.0,龚家行,GongjiahangVillage
+1705,李白等十二烈士就义纪念地Memorial Site of Li Bai and other Twelve Martyrs,0,0.0,,,121.5569673218,31.2244116962,0,0.0,李白等十二烈士就义纪念地,MemorialSiteofLiBaiandotherTwelveMartyrs
+1706,非物质文化遗产传习基地Songjiang Intangible Cultural Heritage Learning Base,0,80.0,,,121.2189627696,31.0129044112,0,0.0,非物质文化遗产传习基地,SongjiangIntangibleCulturalHeritageLearningBase
+1707,得翠园Decui Garden,0,88.0,,,121.4113679884,31.1214656908,0,0.0,得翠园,DecuiGarden
+1708,舍心观Shexin Taoist Temple,0,0.0,,,121.474459,31.224666,0,0.0,舍心观,ShexinTaoistTemple
+1709,张氏宅House of the Zhang Family,0,80.0,,,121.216362,31.012619,2,0.0,张氏宅,HouseoftheZhangFamily
+1710,徐氏当铺Xu's Pawnshop,0,90.0,,,121.216673,31.012726,1,0.0,徐氏当铺,XusPawnshop
+1711,"松江青青旅游世界-大草坪Big Lawn, Qingqing Tourism World, Songjiang",0,0.0,,,121.260719,31.075551,0,0.0,松江青青旅游世界大草坪,BigLawnQingqingTourismWorldSongjiang
+1712,李一谔烈士陵园Cemetery of Martyr Li Yi'e,0,0.0,,,121.305959,30.775085,0,0.0,李一谔烈士陵园,CemeteryofMartyrLiYie
+1713,佳飞园艺,0,0.0,,,121.736899,30.958986,0,0.0,佳飞园艺,
+1714,鸥鹭齐飞湖Gulls & Egrets Lake,0,0.0,,,121.9508717727,30.8843283193,0,0.0,鸥鹭齐飞湖,GullsEgretsLake
+1715,地下沉浸广场Underground Immersive Plaza,0,0.0,,,121.457881,31.254274,0,0.0,地下沉浸广场,UndergroundImmersivePlaza
+1716,"上海仓城影视文化产业园盐仓影视拍摄基地Yancang Shooting Base, Shanghai Cangcheng Film and Television Cultural Industry Park",0,0.0,,,121.235949,31.003864,0,0.0,上海仓城影视文化产业园盐仓影视拍摄基地,YancangShootingBaseShanghaiCangchengFilmandTelevisionCulturalIndustryPark
+1717,上海好美园艺有限公司,0,0.0,,,121.444371,30.982006,0,0.0,上海好美园艺有限公司,
+1718,上海旺家国际文化艺术博览园Shanghai Wangjia International Culture and Art Expo Park,0,0.0,,,121.2729750416,31.0978198849,0,0.0,上海旺家国际文化艺术博览园,ShanghaiWangjiaInternationalCultureandArtExpoPark
+1719,莘野梅园旧址Site of Shenye Plum Garden,0,0.0,,,121.381082,31.108664,0,0.0,莘野梅园旧址,SiteofShenyePlumGarden
+1720,县城隍殿County Town God's Palace,0,0.0,,,121.198609,31.067287,0,0.0,县城隍殿,CountyTownGodsPalace
+1721,卅六亩头,0,0.0,,,121.4110542103,30.8509311181,0,0.0,卅六亩头,
+1722,"上海佘山国家森林公园-观光平台Observation Deck, Shanghai Sheshan National Forest Park",0,80.0,,,121.204876,31.102879,1,0.0,上海佘山国家森林公园观光平台,ObservationDeckShanghaiSheshanNationalForestPark
+1723,金氏宅Jin’s Mansion,0,0.0,,,121.461741,31.210563,0,0.0,金氏宅,JinsMansion
+1724,临空滑板公园Linkong Skate Park,0,94.0,,,121.3655638591,31.2344536495,0,0.0,临空滑板公园,LinkongSkatePark
+1725,368登山道368 Hiking Trail,0,0.0,,,121.208374,31.098276,0,0.0,登山道,HikingTrail
+1726,荷池蕉窗Hechi Jiaochuang Scenic Spot,0,0.0,,,121.2037,31.364232,0,0.0,荷池蕉窗,HechiJiaochuangScenicSpot
+1727,"陈家镇鸿田村村民活动中心Villager Activity Center of Hongtian Village, Chenjia Town",0,0.0,,,121.842306,31.519717,0,0.0,陈家镇鸿田村村民活动中心,VillagerActivityCenterofHongtianVillageChenjiaTown
+1728,斜河海Xiehehai Village,0,0.0,,,121.207181,30.860292,0,0.0,斜河海,XiehehaiVillage
+1729,上海大鸿果蔬种植专业合作社,0,80.0,,,121.838228,31.520874,0,0.0,上海大鸿果蔬种植专业合作社,
+1730,上海捷洁绿化园艺有限公司,0,0.0,,,121.184431,30.98048,0,0.0,上海捷洁绿化园艺有限公司,
+1731,枫林醉晚,0,0.0,,,121.488356,31.69563,0,0.0,枫林醉晚,
+1732,后巷集市Back Alley Market,0,0.0,,,121.32645159,31.1433937294,0,0.0,后巷集市,BackAlleyMarket
+1733,花卉科普馆Flower Science Museum,0,0.0,,,121.907881,30.951793,0,0.0,花卉科普馆,FlowerScienceMuseum
+1734,"老朱青路一号桥No. 1 Bridge, Laozhuqing Road",0,0.0,,,121.111358,31.145349,0,0.0,老朱青路一号桥,NoBridgeLaozhuqingRoad
+1735,申江员工文体活动中心Shenjiang Staff Recreation and Sports Center,0,0.0,,,121.475898,31.181236,0,0.0,申江员工文体活动中心,ShenjiangStaffRecreationandSportsCenter
+1736,上海超大奶油草莓种植合作社,0,0.0,,,121.225018,30.820173,0,0.0,上海超大奶油草莓种植合作社,
+1737,石家油车,0,0.0,,,121.6473882392,31.0406893351,0,0.0,石家油车,
+1738,上海柏忠苗木种植专业合作社,0,0.0,,,121.694436,31.142752,0,0.0,上海柏忠苗木种植专业合作社,
+1739,沪升未来展览中心Husheng Future Exhibition Center,0,0.0,,,121.220561,31.254098,0,0.0,沪升未来展览中心,HushengFutureExhibitionCenter
+1740,上海光明荷斯坦至江奶牛场,0,0.0,,,121.538054,31.686846,0,0.0,上海光明荷斯坦至江奶牛场,
+1741,上海阿杰葡萄专业合作社,0,0.0,,,121.305739,31.403546,0,0.0,上海阿杰葡萄专业合作社,
+1742,上海蓝海园艺有限公司,0,0.0,,,121.021942,30.984917,0,0.0,上海蓝海园艺有限公司,
+1743,金家宅基Jinjiazhaiji Village,0,0.0,,,121.201857,31.228489,0,0.0,金家宅基,JinjiazhaijiVillage
+1744,茉莉花园艺,0,0.0,,,121.738309,31.084234,0,0.0,茉莉花园艺,
+1745,上海逸枫园艺有限公司,0,0.0,,,121.386516,31.343501,0,0.0,上海逸枫园艺有限公司,
+1746,夏家兜Xiajiadou Village,0,0.0,,,121.209667,31.074166,0,0.0,夏家兜,XiajiadouVillage
+1747,麦可将文旅体验村MJ 389 Cultural and Creative Park,0,100.0,,,121.353147,31.150642,0,0.0,麦可将文旅体验村,MJCulturalandCreativePark
+1748,长颈鹿雅苑Giraffe Interaction Experience Area,0,0.0,,,121.729694,31.059252,0,0.0,长颈鹿雅苑,GiraffeInteractionExperienceArea
+1749,原境界美术馆Original Identity Gallery,0,0.0,,,121.4964391735,31.2560602173,0,0.0,原境界美术馆,OriginalIdentityGallery
+1750,普陀区图书馆Putuo Library (Tongchuan Road),0,92.0,,,121.403414,31.256939,3,0.0,普陀区图书馆,PutuoLibraryTongchuanRoad
+1751,世博中心Shibo Center,0,0.0,,,121.4952410464,31.1922435245,0,0.0,世博中心,ShiboCenter
+1752,欢娱寺Huanyu Temple,0,0.0,,,121.3854867197,30.8700382611,0,0.0,欢娱寺,HuanyuTemple
+1753,名人苑Mingrenyuan,0,0.0,,,121.57409,31.252124,0,0.0,名人苑,Mingrenyuan
+1754,上海国际会展中心Shanghai Guoji Huizhan Center,0,92.0,,,121.3084,31.196105,1,0.0,上海国际会展中心,ShanghaiGuojiHuizhanCenter
+1755,安纳塔拉度假会Anantara Vacation Club,0,0.0,,,121.482592,31.200511,0,0.0,安纳塔拉度假会,AnantaraVacationClub
+1756,虹桥南丰城-B座The Place,0,88.0,,,121.4148002235,31.2128490926,0,0.0,虹桥南丰城座,BThePlace
+1757,科学馆,0,0.0,,,121.5087411966,31.2885421881,0,0.0,科学馆,
+1758,"十六铺码头景观平台Observation Deck, Shiliupu Wharf",0,92.0,,,121.502537,31.235446,7,0.0,十六铺码头景观平台,ObservationDeckShiliupuWharf
+1759,庄行菜花景区Zhuangxingcaihua Sceneic Area,0,94.0,,,121.3924403638,30.8902332869,0,0.0,庄行菜花景区,ZhuangxingcaihuaSceneicArea
+1760,上海汽车会展中心Shanghai Qiche Huizhan Center,0,0.0,,,121.1747416575,31.2844176067,0,0.0,上海汽车会展中心,ShanghaiQicheHuizhanCenter
+1761,"大团桃园-桃花节Peach Blossom Festival, Datuan Peach Garden",0,80.0,,,121.7471199843,30.9921437583,0,0.0,大团桃园桃花节,PeachBlossomFestivalDatuanPeachGarden
+1762,大宁绿地Daning Greenland,0,94.0,,,121.4604933378,31.285165594,0,0.0,大宁绿地,DaningGreenland
+1763,石洞口Shidongkou,0,90.0,,,121.4255795154,31.4685217708,0,0.0,石洞口,Shidongkou
+1764,上海东方渔人码头美术馆Waterfront of Oriental Fisherman Wharf of Shanghai,0,90.0,,,121.5381078007,31.258240637,16,0.0,上海东方渔人码头美术馆,WaterfrontofOrientalFishermanWharfofShanghai
+1765,福寿园Fushou Garden,0,100.0,,,121.137908,31.115533,1,0.0,福寿园,FushouGarden
+1766,上海国际汽车城-汽车展览中心Shanghai Guoji Qichecheng-Qiche Zhanlan Center,0,100.0,,,121.174296,31.284331,1,0.0,上海国际汽车城汽车展览中心,ShanghaiGuojiQichechengQicheZhanlanCenter
+1767,一滴水The Drop of Water,0,100.0,,,121.503452,31.252282,0,0.0,一滴水,TheDropofWater
+1768,海军上海博览馆Shanghai Naval Museum,0,96.0,,,121.513080094,31.3945211487,0,0.0,海军上海博览馆,ShanghaiNavalMuseum
+1769,犹太难民收容所旧址(长阳路138弄)Youtai Nanmin Shourongsuo Site (zhangyanglu138nong),0,84.0,,,121.5171046332,31.2609726036,0,0.0,犹太难民收容所旧址长阳路弄,YoutaiNanminShourongsuoSitezhangyanglunong
+1770,相亲角,0,0.0,,,121.479127,31.238174,0,0.0,相亲角,
+1771,"上海顾村Gucun, Shanghai",0,0.0,,,121.4043205146,31.3535049825,0,0.0,上海顾村,GucunShanghai
+1772,金山城市沙滩骑马场Jinshan City Beach Horse-riding Yard,0,60.0,,,121.3429500598,30.7119317315,0,0.0,金山城市沙滩骑马场,JinshanCityBeachHorseridingYard
+1773,大团桃园Datuan Peach Orchard,0,86.0,,,121.7474754712,30.9902418881,1,0.0,大团桃园,DatuanPeachOrchard
+1774,上海新场古镇桃花节,0,94.0,,,121.632290271,31.0313318431,2,0.0,上海新场古镇桃花节,
+1775,惠南镇Huinan Town,0,88.0,,,121.756092,31.053614,1,0.0,惠南镇,HuinanTown
+1776,"上海九段沙湿地生态展示馆Jiuduansha Wetland Ecological Exhibition Hall, Shanghai",0,0.0,,,121.7743739637,31.2280308783,0,0.0,上海九段沙湿地生态展示馆,JiuduanshaWetlandEcologicalExhibitionHallShanghai
+1777,东方万国会议中心Dongfang Wanguo Huiyi Center,0,0.0,,,121.6283097469,31.2623134634,0,0.0,东方万国会议中心,DongfangWanguoHuiyiCenter
+1778,上海自然博物馆(延安东路老馆)Shanghaiziran Museum (yan'andonglulaoguan),0,90.0,,,121.4937897158,31.2373783701,1,0.0,上海自然博物馆延安东路老馆,ShanghaiziranMuseumyanandonglulaoguan
+1779,梅赛德斯奔驰展厅(金桥国际商业广场)Mercedes Benz Exhibition Hall (Jinqiao International Commercial Plaza),0,88.0,,,121.5827407374,31.2598224635,0,0.0,梅赛德斯奔驰展厅金桥国际商业广场,MercedesBenzExhibitionHallJinqiaoInternationalCommercialPlaza
+1780,running man跑男撕名牌亲子团建活动,0,100.0,,,121.4646496733,31.3334109603,0,0.0,跑男撕名牌亲子团建活动,runningman
+1781,大宁灵石公园广场Daning Lingshi Park (North Gate),0,98.0,,,121.4429203476,31.2809148542,9,0.0,大宁灵石公园广场,DaningLingshiParkNorthGate
+1782,浦江源头Source of Pujiang River,0,80.0,,,121.169699013,30.9626798773,0,0.0,浦江源头,SourceofPujiangRiver
+1783,马场Racecourse,0,0.0,,,121.5025099161,31.4130177705,0,0.0,马场,Racecourse
+1784,上海环球金融中心观光厅Shanghai World Financial Center Sightseeing Hall (Dongtai Road),0,98.0,,,121.513816,31.240457,3,0.0,上海环球金融中心观光厅,ShanghaiWorldFinancialCenterSightseeingHallDongtaiRoad
+1785,9D·VR虚拟体验馆9D·Vr Xuni Experience Hall,0,0.0,,,121.0613857344,31.11616695,0,0.0,虚拟体验馆,DVRDVrXuniExperienceHall
+1786,崇明新城公园Chongmingxincheng Park,0,0.0,,,121.4303927978,31.6271169047,0,0.0,崇明新城公园,ChongmingxinchengPark
+1787,枫泾Fengjing,0,0.0,,,121.0223482374,30.8904084707,0,0.0,枫泾,Fengjing
+1788,黑石公寓旧址Heishigongyu Site,0,96.0,,,121.458895,31.217299,14,0.0,黑石公寓旧址,HeishigongyuSite
+1789,会景楼Huijing Tower,0,0.0,,,121.4989804617,31.2327751087,0,0.0,会景楼,HuijingTower
+1790,朱泾Zhujing,0,0.0,,,121.2908737701,31.3958625337,0,0.0,朱泾,Zhujing
+1791,世博会中国船舶馆China Ship Pavilion,0,94.0,,,121.4998146944,31.2016081272,0,0.0,世博会中国船舶馆,ChinaShipPavilion
+1792,3d错觉艺术馆3D Cuojue Art Museum,0,0.0,,,121.5046204654,31.2339044447,0,0.0,错觉艺术馆,dDCuojueArtMuseum
+1793,浦江之首Source of Pujiang River,0,74.0,,,121.168645,30.967011,2,0.0,浦江之首,SourceofPujiangRiver
+1794,旧法租界Old French Concession,0,80.0,,,121.475785,31.215907,0,0.0,旧法租界,OldFrenchConcession
+1795,斑马旅行,0,0.0,,,121.69296,31.255699,0,0.0,斑马旅行,
+1796,巧虎欢乐岛Qiaohu Happy Island,0,0.0,,,121.388533,31.23843,0,0.0,巧虎欢乐岛,QiaohuHappyIsland
+1797,绿地会议中心Lvdehuiyi Center,0,0.0,,,121.3625351079,31.2120890855,0,0.0,绿地会议中心,LvdehuiyiCenter
+1798,吴淞口Wusongkou,0,84.0,,,121.5273594417,31.3962708695,3,0.0,吴淞口,Wusongkou
+1799,BUSTOUR上海观光旅游(新世界站)Bustour Shanghai Guanguang Tourism (xinshijiezhan),0,80.0,,,121.4808397512,31.2404354847,0,0.0,上海观光旅游新世界站,BUSTOURBustourShanghaiGuanguangTourismxinshijiezhan
+1800,金虹桥公园Jinhongqiao Park,0,94.0,,,121.3892432277,31.1758644305,8,0.0,金虹桥公园,JinhongqiaoPark
+1801,诺莱仕游艇码头Noahs Yacht Marina,0,100.0,,,121.511369,31.234482,0,0.0,诺莱仕游艇码头,NoahsYachtMarina
+1802,上海国际客运中心游艇码头Yacht Terminal of Shanghai International Passenger Transport Center,0,96.0,,,121.510423,31.254311,0,0.0,上海国际客运中心游艇码头,YachtTerminalofShanghaiInternationalPassengerTransportCenter
+1803,大都会游艇码头Metropolitan Yacht Marina,0,94.0,,,121.514991,31.250115,1,0.0,大都会游艇码头,MetropolitanYachtMarina
+1804,​半岛湾文化创意园Peninsula Bay Fashion Culture Creative Park,0,86.0,,,121.495371123,31.2606528559,1,0.0,半岛湾文化创意园,PeninsulaBayFashionCultureCreativePark
+1805,中国古代青铜馆Ancient Chinese Bronze Museum,0,98.0,,,121.48223,31.234143,3,0.0,中国古代青铜馆,AncientChineseBronzeMuseum
+1806,芯工创意园,0,0.0,,,121.5583507271,31.2812782256,0,0.0,芯工创意园,
+1807,北新泾街道第一网格党建广场Beixinjing Jie Dao Diyi Wangge Dangjian Square,0,92.0,,,121.383829,31.222624,0,0.0,北新泾街道第一网格党建广场,BeixinjingJieDaoDiyiWanggeDangjianSquare
+1808,"八号桥艺术空间1908粮仓Granary 1908, Bridge 8 Art Space",0,94.0,,,121.472986,31.24627,2,0.0,八号桥艺术空间粮仓,GranaryBridgeArtSpace
+1809,浦江第一湾公园Pujiang Diyi Wan Park,0,94.0,,,121.477379,31.019228,2,0.0,浦江第一湾公园,PujiangDiyiWanPark
+1810,桃浦中央绿地Taopu Central Greenbelt,0,96.0,,,121.3789409562,31.287258913,5,0.0,桃浦中央绿地,TaopuCentralGreenbelt
+1811,红色足迹专题展,0,0.0,,,121.4974434779,31.2498072768,0,0.0,红色足迹专题展,
+1812,行知纪念广场Xingzhijinian Square,0,0.0,,,121.4265611152,31.2943434092,0,0.0,行知纪念广场,XingzhijinianSquare
+1813,蒋英百年诞辰纪念展(钱学森图书馆),0,0.0,,,121.4420559472,31.2074125905,0,0.0,蒋英百年诞辰纪念展钱学森图书馆,
+1814,川沙抚民庭公署旧址Chuan Shafu Minting Gongshu Site,0,0.0,,,121.7132705853,31.2013148392,0,0.0,川沙抚民庭公署旧址,ChuanShafuMintingGongshuSite
+1815,宋庆龄文化展示中心Songqingling Wenhua Zhanshi Center,0,0.0,,,121.7061713173,31.2032135642,0,0.0,宋庆龄文化展示中心,SongqinglingWenhuaZhanshiCenter
+1816,上海梵高星空艺术馆Shanghai Fangao Xingkong Art Museum,0,86.0,,,121.48198,31.241345,11,0.0,上海梵高星空艺术馆,ShanghaiFangaoXingkongArtMuseum
+1817,静安艺术中心Jing'an Art Center,0,94.0,,,121.452031,31.235485,1,0.0,静安艺术中心,JinganArtCenter
+1818,上海恋爱博物馆Shanghailian'ai Museum,0,84.0,,,121.474166,31.213146,0,0.0,上海恋爱博物馆,ShanghailianaiMuseum
+1819,上海失恋博物馆(徐汇旗舰店)Shanghaishilian Museum (xuhuiqijian),0,94.0,,,121.4638211417,31.1900767108,0,0.0,上海失恋博物馆徐汇旗舰店,ShanghaishilianMuseumxuhuiqijian

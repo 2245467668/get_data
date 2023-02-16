@@ -1,0 +1,1868 @@
+,景点名称,攻略数量,评分,景区介绍,景点排名,经度,纬度,评论数量,旅游率,中文名,英文名
+0,千岛湖景区Thousand Island Lake,18,88.0,乘船徜徉清澈辽阔的水面，登梅峰岛俯瞰千岛湖全景，风光无限。,3.0,119.060105,29.552987,6511,0.08,千岛湖景区,ThousandIslandLake
+1,杭州宋城Hangzhou Songcheng Park,77,92.0,看《宋城千古情》演出，逛仿古街市，体验宋朝市井风情。,2.0,120.105381,30.175794,6220,0.11,杭州宋城,HangzhouSongchengPark
+2,西湖West Lake,683,94.0,杭州最美风光带，漫步苏堤、白堤，或坐手划船游湖。,1.0,120.12792,30.228932,27268,0.6,西湖,WestLake
+3,灵隐寺Lingyin Temple,260,92.0,杭州最早的名刹，活佛济公的出家地，可礼佛祈愿，观赏历代文物。,4.0,120.107833,30.246914,6497,0.43,灵隐寺,LingyinTemple
+4,垂云通天河Chuiyun Tongtian River,15,90.0,乘小木船在地下暗河漂流，看千奇百怪的钟乳石景观。,9.0,119.539381,29.931531,2941,0.0,垂云通天河,ChuiyunTongtianRiver
+5,九溪烟树Nine Creeks in the Misty Forest,98,90.0,俗称“九溪十八涧”，也是狮峰龙井茶的主产区。,23.0,120.1196819235,30.2090717667,1013,0.05,九溪烟树,NineCreeksintheMistyForest
+6,西溪国家湿地公园Xixi National Wetland Park,166,90.0,“杭州之肾”，坐船漫游芦苇荡、寻迹《非诚勿扰》取景处。,9.0,120.071528,30.27289,7869,0.23,西溪国家湿地公园,XixiNationalWetlandPark
+7,江和美海洋公园Jianghemei Ocean Park,0,82.0,,124.0,120.2342613836,30.2746905973,37,0.0,江和美海洋公园,JianghemeiOceanPark
+8,天子地Tianzidi,11,88.0,,51.0,119.375986,29.78919,139,0.0,天子地,Tianzidi
+9,空谷长滩水公园Konggu Zhangtanshui Park,0,70.0,,,120.010248,30.226107,3,0.0,空谷长滩水公园,KongguZhangtanshuiPark
+10,云栖竹径Yunqi Bamboo Trail,33,92.0,清幽的大竹海，电影《卧虎藏龙》的取景地，避暑消夏的好去处。,21.0,120.0973546486,30.1978025833,563,0.03,云栖竹径,YunqiBambooTrail
+11,上天竺法喜讲寺Shangtianzhu Temple,7,92.0,,86.0,120.1023222665,30.2329407515,78,0.0,上天竺法喜讲寺,ShangtianzhuTemple
+12,富阳龙鳞坝景区Fuyang Longlinba Sceneic Area,0,86.0,,,119.954476,29.815252,6,0.0,富阳龙鳞坝景区,FuyangLonglinbaSceneicArea
+13,杭州野生动物世界Hangzhou Safari Park,1,92.0,带小朋友来看放养的各种动物，去看一场精彩的马戏表演。,1.0,119.991307,30.16025,1295,0.0,杭州野生动物世界,HangzhouSafariPark
+14,富春江Fuchun River,11,100.0,素称“春江第一城”，以“奇山碧水”的旖旎风光和人文荟萃的名胜古迹闻名于世的建德，自古就有“锦峰绣岭、山水之乡”之誉，是理想的避暑胜地。,28.0,119.659816,29.760222,19,0.0,富春江,FuchunRiver
+15,芦茨村Luci Village,1,88.0,,31.0,119.685213,29.690046,72,0.0,芦茨村,LuciVillage
+16,京杭大运河杭州景区The Grand Canal Hangzhou,40,90.0,被列入《世界遗产名录》的古运河，可乘坐水上巴士赏两岸风光。,19.0,120.145115,30.322374,631,0.03,京杭大运河杭州景区,TheGrandCanalHangzhou
+17,塘栖古镇Tangqi Ancient Town,4,90.0,京杭运河杭州段的开端，尝尝传统糕点，5月的枇杷也十分美味。,4.0,120.1884363619,30.48203422,442,0.0,塘栖古镇,TangqiAncientTown
+18,钱塘江Qiantang River,5,90.0,观钱塘大潮，漫步钱塘江大桥，入夜赏两岸灯火辉煌。,165.0,120.1390020259,30.1947938771,512,0.0,钱塘江,QiantangRiver
+19,大奇山国家森林公园Daqishan National Forest Park,15,90.0,景色秀气的小山，拥有清新的瀑布溪流，适合休闲游览。,3.0,119.73794,29.761747,915,0.0,大奇山国家森林公园,DaqishanNationalForestPark
+20,清河坊街Qinghefang Street,187,88.0,逛人气古朴商业街，尝尝当地小吃，去胡庆余堂等老字号淘手信。,6.0,120.1757775314,30.245628586,1355,0.37,清河坊街,QinghefangStreet
+21,彩虹谷Rainbow Valley,1,84.0,,49.0,119.7341393537,30.4074522639,40,0.0,彩虹谷,RainbowValley
+22,雷峰塔Leifeng Tower,245,90.0,回味白娘子传说，在塔顶俯瞰西湖和净慈寺，看绝美西湖夜景。,8.0,120.155363,30.236901,4637,0.37,雷峰塔,LeifengTower
+23,严子陵钓台Yan Ziling Fishing Platform,16,84.0,乘游船游览富春江，登上钓台俯瞰富春江如画的山水景色。,8.0,119.665807,29.703618,369,0.0,严子陵钓台,YanZilingFishingPlatform
+24,蝴蝶谷,0,100.0,,,119.368553,30.336295,0,0.0,蝴蝶谷,
+25,良渚古城遗址公园Liangzhugucheng Ruins Park,7,88.0,,,119.993671,30.386514,58,0.0,良渚古城遗址公园,LiangzhuguchengRuinsPark
+26,梅峰揽胜,3,92.0,梅峰揽胜，位于千岛湖中心湖区西端的状元半岛上，以群岛星罗棋布、港湾纵横交错、生态环境绝佳而被确定为千岛湖的一级景点。,255.0,118.927673,29.5962,116,0.01,梅峰揽胜,
+27,九溪十八涧Nine Creeks and Eighteen Gullies,0,92.0,,,120.1145249569,30.2166169335,18,0.0,九溪十八涧,NineCreeksandEighteenGullies
+28,湘湖Xiang Lake,11,92.0,西湖的“姐妹湖”，人少景美，适合喜欢安静的游客。,74.0,120.221555,30.136275,703,0.0,湘湖,XiangLake
+29,小河直街历史文化街区Xiaohe Zhijie Historical and Cultural District,6,92.0,,628.0,120.142542,30.313767,149,0.0,小河直街历史文化街区,XiaoheZhijieHistoricalandCulturalDistrict
+30,光明寺水库Reservoir of Guangming Temple,0,90.0,,,120.0376479416,30.1834942413,0,0.0,光明寺水库,ReservoirofGuangmingTemple
+31,太湖源Taihuyuan Scenic Area,2,86.0,烟波浩渺的太湖之源，山水纯净，姚明夫妇曾在这儿拍婚纱照。,5.0,119.56603,30.413225,523,0.0,太湖源,TaihuyuanScenicArea
+32,梅城古镇Meicheng Ancient Town,0,88.0,,,119.507686,29.54482,12,0.0,梅城古镇,MeichengAncientTown
+33,大明山景区Damingshan Scenic Area,7,92.0,壮美浙西山水，穿越万米岩洞、走悬空栈道，体验刺激的旱滑道。,1.0,118.998596,30.091985,1802,0.0,大明山景区,DamingshanScenicArea
+34,三潭印月Three Pools Mirroring the Moon,122,90.0,一元纸币背面图案的原型，可登岛游览，用全新的视角看西湖。,12.0,120.150685,30.244073,1491,0.29,三潭印月,ThreePoolsMirroringtheMoon
+35,瑶琳仙境Yaolin Fairyland,19,88.0,杭州经典的喀斯特溶洞景观，可欣赏瑰丽多姿的奇石。,7.0,119.545049,29.892018,1088,0.0,瑶琳仙境,YaolinFairyland
+36,白云源Baiyunyuan,2,86.0,远离喧嚣的原生态深山氧吧，是夏季赏瀑避暑的好去处。,2.0,119.730909,29.712636,252,0.0,白云源,Baiyunyuan
+37,新安江Xin'an River,0,80.0,,,119.1269021585,29.5530846223,1,0.0,新安江,XinanRiver
+38,浙江美术馆Zhejiang Art Museum,3,90.0,西子湖畔气派的美术馆，能免费观赏大师级的珍贵画作。,41.0,120.163334,30.236852,153,0.0,浙江美术馆,ZhejiangArtMuseum
+39,南宋御街Southern Song Imperial Street,138,88.0,逛古朴的商业街，寻找南宋时期古御街的痕迹。,7.0,120.177601,30.247498,870,0.13,南宋御街,SouthernSongImperialStreet
+40,太子湾公园Prince Bay Park,53,94.0,春天来太子湾踏青，看郁金香绽放，拍一张真正的“花海”。,39.0,120.1486285469,30.2316481661,678,0.02,太子湾公园,PrinceBayPark
+41,胡雪岩故居Hu Xueyan's Former Residence,30,94.0,晚清红顶巨商胡雪岩的豪宅，极尽奢华的江南园林。,34.0,120.179167,30.243087,1000,0.04,胡雪岩故居,HuXueyansFormerResidence
+42,灵山洞景区Lingshan Cave,0,80.0,,,120.042864,30.120953,0,0.0,灵山洞景区,LingshanCave
+43,天目山景区Tianmu Mountain Scenic Spot,4,88.0,古树参天，绿意笼罩的天然氧吧，爬山健行的理想选择。,31.0,119.436458,30.353794,428,0.0,天目山景区,TianmuMountainScenicSpot
+44,浙西大峡谷West Zhejiang Grand Canyon,1,88.0,登高、赏瀑、玩漂流，呼吸大山里的清爽空气。,11.0,119.110145,30.240261,759,0.0,浙西大峡谷,WestZhejiangGrandCanyon
+45,临安区昌化林场,0,0.0,,,119.128641,30.166369,0,0.0,临安区昌化林场,
+46,断桥残雪Lingering Snow on the Broken Bridge,122,90.0,漫步桥上，回味《白蛇传》中许仙和白娘子断桥相会的桥段。,5.0,120.158179,30.264551,1184,0.29,断桥残雪,LingeringSnowontheBrokenBridge
+47,宝石山,12,92.0,"宝石山位于杭州西湖的北里湖北岸，西湖新十景评选中，被命名为""宝石流霞""。",61.0,120.15064,30.267221,14,0.0,宝石山,
+48,龙门秘境Longmen Mijing Scenic Spot,0,96.0,,,119.677838,30.372686,5,0.0,龙门秘境,LongmenMijingScenicSpot
+49,杭州动物园Hangzhou Zoo,5,94.0,适合亲子游，有驯狮、驯虎等动物杂技表演可看。,15.0,120.139703,30.218839,900,0.0,杭州动物园,HangzhouZoo
+50,杭州小冰岛Hangzhou Little Iceland,0,76.0,,,120.072925,30.140986,7,0.0,杭州小冰岛,HangzhouLittleIceland
+51,钱塘江大桥Qiantang River Bridge,31,92.0,茅以升主持设计的大桥，站在桥上看钱塘江水奔流，别有一番滋味。,102.0,120.145518,30.19961,278,0.06,钱塘江大桥,QiantangRiverBridge
+52,龙门古镇Longmen Ancient Town,5,84.0,在孙权后裔聚居地，看溪水人家的古镇生活，尝尝美味的孙权面筋。,3.0,119.958125,29.907164,634,0.0,龙门古镇,LongmenAncientTown
+53,石舍村Shishecun,0,76.0,,,119.730834,29.646107,0,0.0,石舍村,Shishecun
+54,南山路Nanshan Road,38,94.0,,111.0,120.164394,30.245194,156,0.03,南山路,NanshanRoad
+55,王位山古道,0,0.0,,,119.827209,30.504238,0,0.0,王位山古道,
+56,馒头山社区Mantoushan Community,2,84.0,,736.0,120.174816,30.223953,24,0.0,馒头山社区,MantoushanCommunity
+57,小河直街XiaoHe ZhiJie,11,92.0,小河直街历史文化街区位于杭州市北部，地处京杭大运河、小河、余杭塘河三河交汇处。,17.0,120.142381,30.313023,15,0.0,小河直街,XiaoHeZhiJie
+58,西湖音乐喷泉West Lake Music Fountain,45,90.0,西湖水上美轮美奂的音乐喷泉，夜游杭州的推荐选择。,14.0,120.167613,30.259639,534,0.03,西湖音乐喷泉,WestLakeMusicFountain
+59,城市阳台City Balcony,4,94.0,位于钱江新城核心区，赏夜景、看灯光秀的绝佳观景台。,53.0,120.222775,30.246722,130,0.0,城市阳台,CityBalcony
+60,千岛湖文渊狮城度假区（水下古城）Wenyuan Lion City Resort,6,80.0,,32.0,118.678015,29.478633,175,0.0,千岛湖文渊狮城度假区水下古城,WenyuanLionCityResort
+61,指南村Zhinan Village,1,84.0,,,119.584444,30.367037,99,0.0,指南村,ZhinanVillage
+62,"千岛湖中心湖区Thousand Island Lake, Central Lake Area",9,86.0,游览千岛湖首选，乘船登岛，领略千岛湖的山水锦绣。,65.0,119.019626,29.600571,1319,0.0,千岛湖中心湖区,ThousandIslandLakeCentralLakeArea
+63,四岭水库Siling Reservoir,0,100.0,,,119.7926875711,30.4245033598,0,0.0,四岭水库,SilingReservoir
+64,曲院风荷Quyuan Fenghe,76,92.0,杭州最著名的赏荷地，夏日荷花绽放非常漂亮，“西湖十景”之一。,36.0,120.139938,30.255795,774,0.18,曲院风荷,QuyuanFenghe
+65,深澳古镇Shen'ao Ancient Town,2,90.0,,39.0,119.845322,29.856661,27,0.0,深澳古镇,ShenaoAncientTown
+66,三天竺Three Tianzhu Temples,0,94.0,,,120.113256,30.242915,26,0.0,三天竺,ThreeTianzhuTemples
+67,南屏晚钟Nanping Wanzhong Scenic Resort,41,90.0,敲净慈寺内青铜钟祈福许愿，西湖十景之一。,13.0,120.155615,30.235474,373,0.0,南屏晚钟,NanpingWanzhongScenicResort
+68,青芝坞Qingzhiwu,33,90.0,带着一丝江南的灵动，潺潺流水间透露着杭州独有的烟火和文艺气。,11.0,120.126089,30.265392,189,0.01,青芝坞,Qingzhiwu
+69,新安江风景名胜区Xin'an River Scenic Area,2,92.0,,174.0,119.306682,29.497461,29,0.0,新安江风景名胜区,XinanRiverScenicArea
+70,灵栖洞Lingqi Wonderland Cave,8,94.0,83版《西游记》取景地，三个溶洞风格迥异，游览体验也各不相同。,20.0,119.096752,29.384884,385,0.0,灵栖洞,LingqiWonderlandCave
+71,浙西大龙湾景区Dalongwan Valley in Zhexi (West of Zhejiang Province),1,86.0,,24.0,119.089306,30.22071,158,0.0,浙西大龙湾景区,DalongwanValleyinZhexiWestofZhejiangProvince
+72,拱宸桥Gongchenqiao Residential District,7,94.0,,1040.0,120.145416,30.324504,131,0.0,拱宸桥,GongchenqiaoResidentialDistrict
+73,芦茨湾Luci Bay,0,94.0,,,119.679534,29.694376,28,0.0,芦茨湾,LuciBay
+74,虎跑公园Hupao Park,28,92.0,济公圆寂地，弘一法师出家地。可以品茗虎跑泉水冲泡的龙井茶。,80.0,120.138469,30.215699,825,0.06,虎跑公园,HupaoPark
+75,富春桃源Fuchun Taoyuan Scenic Area,1,84.0,在九霄碧云洞中看千姿百态的钟乳石，乘电动竹筏游岩岭湖。,2.0,119.641802,30.017497,170,0.0,富春桃源,FuchunTaoyuanScenicArea
+76,深澳村Shen'ao Village,2,92.0,,25.0,119.843736,29.857753,29,0.0,深澳村,ShenaoVillage
+77,长乐林场Changle Forest Farm,2,90.0,,44.0,119.869225,30.316582,14,0.0,长乐林场,ChangleForestFarm
+78,径山寺Wanshou Chan Temple,2,90.0,,6.0,119.771495,30.386235,17,0.0,径山寺,WanshouChanTemple
+79,大慈岩风景区Daci Cliffs Scenic Area,6,90.0,行走半山腰的悬空栈道，拍一张“江南悬空寺”全景。,190.0,119.297789385,29.3187423232,680,0.0,大慈岩风景区,DaciCliffsScenicArea
+80,苏堤Sudi,166,94.0,领略西湖之美的好地方，漫步或骑着单车，来一次纵贯西湖之旅。,16.0,120.149074,30.238234,1453,0.35,苏堤,Sudi
+81,梅峰岛Meifeng Island,7,84.0,登上梅峰观景台，俯瞰好似漂浮在湖面上的众多岛屿。,254.0,118.92783,29.595972,795,0.0,梅峰岛,MeifengIsland
+82,芹川村Qinchuan Village,4,84.0,,3.0,118.615115,29.523822,150,0.0,芹川村,QinchuanVillage
+83,"江南喀斯特Sigiriya Lion Rock Scenic Area, Jiangnan Ice Hole",1,86.0,,21.0,119.1155485626,29.3853173165,50,0.0,江南喀斯特,SigiriyaLionRockScenicAreaJiangnanIceHole
+84,玉皇山景区Yuhuang Mountain Scenic Area,4,88.0,看山中的遗迹和石刻，在紫来洞俯瞰山下清水环绕的八卦田。,321.0,120.161537,30.224879,171,0.0,玉皇山景区,YuhuangMountainScenicArea
+85,浙江大学之江校区Zhejiang University Zhijiang Campus,30,92.0,电影《唐山大地震》取景地，古朴的红砖教学楼非常上镜。,93.0,120.1313356916,30.1987584604,170,0.01,浙江大学之江校区,ZhejiangUniversityZhijiangCampus
+86,半山国家森林公园Banshan National Forest Park,0,88.0,,707.0,120.19942,30.370253,61,0.0,半山国家森林公园,BanshanNationalForestPark
+87,虎啸峡,3,100.0,惊险刺激，让你彻底体验湿身的感觉！,1057.0,119.518191,29.761151,3,0.0,虎啸峡,
+88,牵牛岗,0,80.0,,,119.0144786843,30.0322568511,0,0.0,牵牛岗,
+89,六和塔Liuhe Pagoda,28,92.0,登塔眺望滚滚钱塘，钱塘江大桥横跨两岸，风光无限。,63.0,120.139068,30.202099,889,0.05,六和塔,LiuhePagoda
+90,高银美食街GaoYin MeiShiJie,5,88.0,,17.0,120.17412,30.246309,135,0.03,高银美食街,GaoYinMeiShiJie
+91,meland Club(印力汇德隆杭州奥体印象城店),0,84.0,,,120.2598,30.229516,0,0.0,印力汇德隆杭州奥体印象城店,melandClub
+92,杭州国家版本馆 (文润阁),0,70.0,,,120.022086,30.388232,0,0.0,杭州国家版本馆文润阁,
+93,龙井村Longjing Village,0,88.0,,,120.1119866559,30.225095905,49,0.0,龙井村,LongjingVillage
+94,白龙潭景区Bailongtan (White Dragon Pool) Scenic Area,2,88.0,,282.0,120.027283,30.197659,107,0.0,白龙潭景区,BailongtanWhiteDragonPoolScenicArea
+95,西塘村Xitangcun,0,68.0,,,120.0142886078,30.4091129303,8,0.0,西塘村,Xitangcun
+96,下满觉陇,0,96.0,,,120.1265379712,30.2278801653,0,0.0,下满觉陇,
+97,常绿镇Changlvzhen,0,88.0,,14.0,120.0887365542,29.8633384705,3,0.0,常绿镇,Changlvzhen
+98,安顶山Anding Mountain,0,94.0,,27.0,120.091078,29.992634,10,0.0,安顶山,AndingMountain
+99,平湖秋月Autumn moon on the calm lake (Pinghu Qiuyue),59,92.0,西湖赏月胜地，每年三月樱花怒放，一片绚烂。,27.0,120.152648,30.258246,480,0.15,平湖秋月,AutumnmoononthecalmlakePinghuQiuyue
+100,飞来峰Feilaifeng Peak,10,88.0,,29.0,119.001633,30.040326,152,0.18,飞来峰,FeilaifengPeak
+101,茅家埠Maojiabu Village,23,92.0,上香古道的起点，以湿地和农家乐闻名，是西湖边难得的清幽之地。,45.0,120.132183,30.245932,275,0.0,茅家埠,MaojiabuVillage
+102,瑶琳国家森林公园Yaolin National Forest Park,0,92.0,,4.0,119.544047,29.944206,23,0.0,瑶琳国家森林公园,YaolinNationalForestPark
+103,卧龙胜境,0,88.0,,,119.267876,29.362879,0,0.0,卧龙胜境,
+104,天屿山景观台Tianyu Mountain Observation Deck,0,98.0,,,119.054283,29.633709,23,0.0,天屿山景观台,TianyuMountainObservationDeck
+105,中国湿地博物馆National Wetland Museum,2,94.0,,1012.0,120.09405,30.270195,74,0.0,中国湿地博物馆,NationalWetlandMuseum
+106,梅家坞Meijiawu,15,90.0,茶田环绕的村子，周末来这儿品龙井、吃农家菜。,44.0,120.093568,30.208674,200,0.0,梅家坞,Meijiawu
+107,山下美术馆,0,100.0,,,120.0563882139,30.1158174083,0,0.0,山下美术馆,
+108,桐庐放语空乡宿文创综合体Tonglu Fangyukong Country Lodge Cultural and Creative Complex,0,76.0,,,119.717638,29.678966,1,0.0,桐庐放语空乡宿文创综合体,TongluFangyukongCountryLodgeCulturalandCreativeComplex
+109,杭州龙坞茶村Hangzhou Longwu Tea Village,1,92.0,,645.0,120.041128,30.182753,77,0.0,杭州龙坞茶村,HangzhouLongwuTeaVillage
+110,冰川大峡谷Glacier Grand Canyon,1,84.0,,18.0,119.483006,30.371277,32,0.0,冰川大峡谷,GlacierGrandCanyon
+111,杭州博物馆Hangzhou Museum,9,90.0,,30.0,120.173089,30.244425,231,0.0,杭州博物馆,HangzhouMuseum
+112,青山湖国家森林公园,2,80.0,青山湖被誉为临安第一景，青山湖国家森林公园是临安新十景之一，风光清朗，湖面开阔，最值得一看的是水上森林。,10.0,119.785771,30.24768,2,0.0,青山湖国家森林公园,
+113,山沟沟景区Shangougou Scenic Resort,2,86.0,竹林深处看瀑布，吃农家菜，夏天溯瀑清凉自在。,57.0,119.717282,30.429178,255,0.0,山沟沟景区,ShangougouScenicResort
+114,红石湾,0,100.0,红石湾景区位于桐庐天目溪旁是一处集山、水、林、洞于一体，休闲、度假、观光、游乐、拓展一条龙服务的综合性休闲旅游胜地，占地面积六平方公里,326.0,119.563506,29.89558,1,0.0,红石湾,
+115,胜利河美食街ShengLiHe MeiShiJie,0,90.0,世界各地的美食在这里都能找到，晚上的夜宵摊格外热闹。,,120.160463,30.303399,86,0.0,胜利河美食街,ShengLiHeMeiShiJie
+116,荻浦村Dipucun,2,82.0,,40.0,119.833605,29.871723,31,0.0,荻浦村,Dipucun
+117,大兜路历史文化街区Dadou Road Historical and Cultural District,4,90.0,,202.0,120.151405,30.306422,110,0.0,大兜路历史文化街区,DadouRoadHistoricalandCulturalDistrict
+118,新叶古村Xinye Ancient Village,13,82.0,新叶古村位于建德西南，是国内目前最大的叶氏聚居村，更是综艺节目《爸爸去哪儿2》取景地，村内有众多雕刻精美的明清古建筑，环境优美。,1.0,119.342169,29.335389,389,0.0,新叶古村,XinyeAncientVillage
+119,建德灵栖洞,3,90.0,灵栖洞由灵泉、清风、霭云三洞和灵栖石林组成。三洞各具特色：灵泉洞以水见长，清风洞以风取胜，霭云洞以云雾称奇，灵栖石林以惟妙惟肖拟人状物的造型石景而引人入胜。,194.0,119.09675,29.384883,2,0.0,建德灵栖洞,
+120,杨公堤Yanggong Dike,28,92.0,西湖三堤中唯一的车行道，游人较少，春天风光如画。,26.0,120.137433,30.258514,249,0.0,杨公堤,YanggongDike
+121,浙江自然博物馆Zhejiang Natural History Museum,1,94.0,,147.0,120.171317,30.282674,179,0.0,浙江自然博物馆,ZhejiangNaturalHistoryMuseum
+122,东天目山景区Dongtianmu Mountain Scenic Area,1,74.0,行走峡谷密林中，听瀑布轰鸣，感受昭明大禅院的清幽。,294.0,119.509864,30.346692,173,0.0,东天目山景区,DongtianmuMountainScenicArea
+123,乌龟潭Tortoise Pond,1,94.0,,312.0,120.138787,30.23821,21,0.0,乌龟潭,TortoisePond
+124,珍珠广场,0,0.0,,,119.1196608254,29.6039916293,0,0.0,珍珠广场,
+125,宝寿山景区Baoshou Mountain Sceneic Area,0,88.0,,,120.017186,30.223587,16,0.0,宝寿山景区,BaoshouMountainSceneicArea
+126,桐庐县灵鸡寺Tongluxian Lingji Temple,0,0.0,,,119.525,29.9224,0,0.0,桐庐县灵鸡寺,TongluxianLingjiTemple
+127,灵隐飞来峰景区Hangzhou Lingyin Temple and Feilai Peak Scenic Spot,3,92.0,观赏飞来峰中风格迥异的石刻造像，在古刹灵隐寺礼佛祈福。,172.0,120.108516,30.245216,1682,0.0,灵隐飞来峰景区,HangzhouLingyinTempleandFeilaiPeakScenicSpot
+128,石舍村,1,100.0,石舍村地处著名的浙西旅游带上，山清水秀，气候宜人，因石头多且有特色，早年间村民都是依山伴水在石头垒砌成的屋内居住而得名。,647.0,119.731381,29.6463,1,0.0,石舍村,
+129,西山国家森林公园Xi Mountain National Forest Park,1,88.0,,182.0,120.050666,30.120796,20,0.0,西山国家森林公园,XiMountainNationalForestPark
+130,白堤Bai Causeway,100,92.0,西湖最适合漫步的长堤，春天有“一株杨柳一株桃”的烂漫景色。,24.0,120.155406,30.261371,886,0.16,白堤,BaiCauseway
+131,宝石流霞Baoshi Liuxia,10,92.0,在保俶塔周围的巨石上饱览西湖美景，霞光普照时瑰丽异常。,53.0,120.150641,30.267235,234,0.01,宝石流霞,BaoshiLiuxia
+132,杭州植物园Hangzhou Botanical Garden,15,92.0,踏青好去处！早春时节，灵峰探梅的迎春花卉争奇斗艳，非常上镜。,47.0,120.1228376102,30.2568812595,525,0.02,杭州植物园,HangzhouBotanicalGarden
+133,千岛湖森林氧吧Thousand Island Lake Forest Oxygen Bar,3,86.0,来山林漫步消暑、赏瀑登高，呼吸最纯净的空气。,64.0,119.224824,29.595154,1281,0.01,千岛湖森林氧吧,ThousandIslandLakeForestOxygenBar
+134,"中国美术学院象山校区China Academy of Art, Xiangshan Campus",21,94.0,,48.0,120.0842680464,30.160887332,164,0.0,中国美术学院象山校区,ChinaAcademyofArtXiangshanCampus
+135,安溪古镇,0,0.0,,,120.0223475074,30.4148291089,0,0.0,安溪古镇,
+136,茆坪村Maopingcun,0,80.0,,,119.715946,29.660745,0,0.0,茆坪村,Maopingcun
+137,浙江省博物馆,0,0.0,,,120.1499429574,30.2573420522,0,0.0,浙江省博物馆,
+138,午潮山国家森林公园Wuchaoshan National Forest Park,1,92.0,,531.0,120.021131,30.181128,9,0.0,午潮山国家森林公园,WuchaoshanNationalForestPark
+139,下姜村Xiajiangcun,2,92.0,,646.0,118.731828,29.379069,7,0.0,下姜村,Xiajiangcun
+140,河桥古镇Heqiao Ancient Town,2,76.0,,7.0,119.250356,30.112424,69,0.0,河桥古镇,HeqiaoAncientTown
+141,千岛湖东南湖区Qiandao Lake-Southeast Lake District,4,90.0,乘船徜徉千岛湖，登上黄山尖俯瞰岛屿组成的“天下为公”图案。,257.0,119.082879,29.591694,690,0.0,千岛湖东南湖区,QiandaoLakeSoutheastLakeDistrict
+142,板壁山水库Banbishan Reservoir,0,90.0,,,120.0328663512,30.1327745133,0,0.0,板壁山水库,BanbishanReservoir
+143,十五奎巷Shiwukui Alley,2,84.0,,153.0,120.177276,30.243054,30,0.0,十五奎巷,ShiwukuiAlley
+144,十里琅珰Langdang Mountain,4,94.0,,110.0,120.112913,30.224216,54,0.0,十里琅珰,LangdangMountain
+145,吴山天风Wushan Tianfeng Scenic Area,13,88.0,西湖边的小山，登上城隍阁，西湖、钱塘、杭城景色尽收眼底。,52.0,120.171233,30.245382,315,0.02,吴山天风,WushanTianfengScenicArea
+146,月光岛（五龙岛）Moonlight Island,4,78.0,,193.0,119.015673,29.621293,220,0.0,月光岛五龙岛,MoonlightIsland
+147,千岛湖石林景区Stone Forest Scenic Area,1,88.0,不用去云南也能欣赏到的石林景观，人少景美。,5.0,119.014659,29.379889,161,0.0,千岛湖石林景区,StoneForestScenicArea
+148,锦绣风水洞Jinxiu Fengshui Cave,2,80.0,,276.0,120.057903,30.124867,129,0.0,锦绣风水洞,JinxiuFengshuiCave
+149,白塔公园The White Tower Park,8,90.0,,284.0,120.146207,30.205028,132,0.0,白塔公园,TheWhiteTowerPark
+150,琴溪香谷景区Qinxi Xianggu Scenic Area,2,88.0,景色养眼的翠绿山谷，钻状元神洞、坐滑索，体验山间野趣。,132.0,119.599855,29.961887,74,0.0,琴溪香谷景区,QinxiXiangguScenicArea
+151,马岭古道,0,0.0,,,119.6873803715,29.6863389306,0,0.0,马岭古道,
+152,肖岭水库,0,0.0,,,119.8193873005,29.7931456899,0,0.0,肖岭水库,
+153,金沙湖公园Jinshahu Park,0,96.0,,,120.3226295335,30.3139145381,2,0.0,金沙湖公园,JinshahuPark
+154,杭州三墩美食街SanDun MeiShiJie,0,0.0,,,120.0876714448,30.3333121241,0,0.0,杭州三墩美食街,SanDunMeiShiJie
+155,杭州梵高星空艺术展Hangzhou Vincent Van Gogh Star Art Exhibition,0,94.0,,,120.173917,30.193484,8,0.0,杭州梵高星空艺术展,HangzhouVincentVanGoghStarArtExhibition
+156,水北街Shuibei Street,0,88.0,,,120.1937262293,30.4868488312,24,0.0,水北街,ShuibeiStreet
+157,良渚文化艺术中心Hangzhou Vanke Liangzhuwenhua Artistic Center,3,96.0,,12.0,120.038926334,30.3711446019,26,0.0,良渚文化艺术中心,HangzhouVankeLiangzhuwenhuaArtisticCenter
+158,五柳巷历史街区Wuliuxiang History Block,1,90.0,,107.0,120.183127,30.247949,51,0.0,五柳巷历史街区,WuliuxiangHistoryBlock
+159,下涯镇Xiayazhen,1,90.0,,14.0,119.382145004,29.5413017273,15,0.0,下涯镇,Xiayazhen
+160,径山Jing Mountain,2,88.0,,41.0,119.769025,30.38681,81,0.0,径山,JingMountain
+161,美丽洲堂Meili Zhou Church,2,92.0,,3.0,120.034266,30.374528,13,0.0,美丽洲堂,MeiliZhouChurch
+162,王子谷漂流Wangzigu Drifting,1,92.0,,787.0,119.236445,29.609686,52,0.0,王子谷漂流,WangziguDrifting
+163,花港观鱼Viewing Fish at Flower Harbor,89,88.0,在红鱼池边买包饲料，喂喂池中又红又大的鲤鱼吧！,38.0,120.148232,30.238309,1065,0.23,花港观鱼,ViewingFishatFlowerHarbor
+164,孤山Gushan,60,92.0,西湖底蕴最深厚的地方，西泠印社、放鹤亭等人文景观荟萃。,35.0,120.146286,30.257394,484,0.15,孤山,Gushan
+165,岳王庙景区Yuewang Temple Scenic Area,55,92.0,民族英雄岳飞父子墓地，秦桧等奸臣像在墓前长跪千年，令人感慨。,37.0,120.141115,30.258673,1014,0.14,岳王庙景区,YuewangTempleScenicArea
+166,城隍阁景区Chenghuang Pavilion Scenic Area,5,88.0,,43.0,120.171139,30.24208,291,0.03,城隍阁景区,ChenghuangPavilionScenicArea
+167,北高峰North Peak,22,92.0,,98.0,120.104341,30.251785,154,0.02,北高峰,NorthPeak
+168,龙山岛Longshan Island,6,80.0,,256.0,118.986837,29.611741,107,0.0,龙山岛,LongshanIsland
+169,保俶塔Baochu Pagoda,9,92.0,宝石山的标志景观，高挑的塔身十分上镜。,58.0,120.154464,30.267164,237,0.0,保俶塔,BaochuPagoda
+170,黄山尖Huangshanjian,7,88.0,,75.0,119.113486,29.574168,170,0.0,黄山尖,Huangshanjian
+171,黄龙洞景区Yellow Dragon Cave  Scenic Area,7,88.0,“新西湖十景”之一，可喝茶听戏，还有方竹林供你悠闲漫步。,127.0,120.144938,30.270833,225,0.0,黄龙洞景区,YellowDragonCaveScenicArea
+172,中国美术学院China Academy of Art,18,92.0,,90.0,120.167077,30.249116,108,0.01,中国美术学院,ChinaAcademyofArt
+173,梦姑塘文化公园Menggutang Culture Park,0,88.0,,271.0,119.023583,29.602483,48,0.0,梦姑塘文化公园,MenggutangCulturePark
+174,天池风景区Zhexi Tianchi Scenic Area,1,90.0,,4.0,119.126639,30.302209,6,0.0,天池风景区,ZhexiTianchiScenicArea
+175,中国丝绸博物馆China National Silk Museum,10,88.0,看从古至今种类繁多的丝绸制品，了解丝绸织造的前世今生。,288.0,120.158034,30.22889,157,0.0,中国丝绸博物馆,ChinaNationalSilkMuseum
+176,临安城遗址,2,100.0,临安城遗址位于杭州市南部凤凰山东麓宋城路一带，有三座城门，主要宫殿区现均被深埋在距离地表3米以下，基址保存相当完好。,85.0,119.756809,30.112904,2,0.0,临安城遗址,
+177,八百里风情岛800-li Style Island,7,70.0,,8.0,119.786506,30.265455,34,0.0,八百里风情岛,liStyleIsland
+178,桐庐奇源峡,0,0.0,让我们敞开心扉欢呼感受别样的酷热夏季吧！,319.0,119.365922,29.831617,0,0.0,桐庐奇源峡,
+179,杭州花圃Hangzhou Flower Garden,4,92.0,,200.0,120.1339,30.252147,105,0.0,杭州花圃,HangzhouFlowerGarden
+180,三都九姓渔村,0,0.0,,,119.5388505171,29.5378602517,0,0.0,三都九姓渔村,
+181,祝业坞营林区Zhuyewuying Forest Area,0,0.0,,,118.991897,29.645917,0,0.0,祝业坞营林区,ZhuyewuyingForestArea
+182,飞来峰Linyin Scenic Spot,0,94.0,,,120.1072193087,30.2430237912,980,0.0,飞来峰,LinyinScenicSpot
+183,芦茨风情小镇Luci Style Town,0,96.0,,,119.680203,29.691601,0,0.0,芦茨风情小镇,LuciStyleTown
+184,吴山夜市Wushan Night Market,0,86.0,,,120.175697,30.258554,296,0.0,吴山夜市,WushanNightMarket
+185,黎鹰乡村牧场Liying Country Pasture,0,100.0,,409.0,119.7453718473,30.4339318623,1,0.0,黎鹰乡村牧场,LiyingCountryPasture
+186,鸬鸟山Luniao Mountain,2,86.0,,16.0,119.742813,30.488438,7,0.0,鸬鸟山,LuniaoMountain
+187,西兴古镇,1,0.0,西兴古镇位于钱塘江南岸，历史上曾是两浙门户。,42.0,120.228692,30.197329,0,0.0,西兴古镇,
+188,桥西历史街区Qiaoxi Historical District,1,94.0,,631.0,120.1437477226,30.3249359131,59,0.0,桥西历史街区,QiaoxiHistoricalDistrict
+189,大明湖Daming Lake,1,90.0,,14.0,118.997515,30.030985,98,0.0,大明湖,DamingLake
+190,良渚博物院Liangzhu Museum,3,88.0,博物馆控必去！欣赏精美的良渚玉器，感受良渚古国曾经的辉煌。,47.0,120.034345,30.383341,144,0.0,良渚博物院,LiangzhuMuseum
+191,里叶十里荷花景区,1,0.0,"大慈岩镇的里叶村，种植莲子已有近千年的历史。在南宋的诗中已有记载，清乾隆年间被指定为贡品，是远近闻名的莲子之乡。
+在莲花盛开季节，步入里叶村，便进入了“接天莲叶无穷碧，映日荷花别样红”的境地，荷叶田田，荷花沁香，游客既能观荷、赏荷…",313.0,119.276407,29.263314,0,0.0,里叶十里荷花景区,
+192,野古农园虫出没,0,86.0,,,119.890248,30.434479,1,0.0,野古农园虫出没,
+193,建德航空小镇Jiande Aviation Town,0,86.0,,,119.218633,29.371316,7,0.0,建德航空小镇,JiandeAviationTown
+194,圆通禅寺Yuantong Temple,0,92.0,,26.0,119.677696,29.803911,13,0.0,圆通禅寺,YuantongTemple
+195,北山街历史文化街区Beishan Street,3,90.0,带你走进杭州的历史文化街区，感受一草一木间的杭州文化。,59.0,120.158795,30.26518,120,0.0,北山街历史文化街区,BeishanStreet
+196,黄龙吐翠,1,84.0,黄龙吐翠是护国仁王寺遗址处，为新西湖十景之一。黄龙即黄龙洞，是集宗教文化内涵与寺观园林景象于一身的游乐园。,73.0,120.147511,30.267899,29,0.0,黄龙吐翠,
+197,双峰插云Shuangfeng Chayun Scenic Resort,14,88.0,雨后初晴时，天竺双峰云雾环绕，景色迤逦。,103.0,120.129147,30.253889,121,0.01,双峰插云,ShuangfengChayunScenicResort
+198,天池岛Tianchi Island,6,86.0,,258.0,119.150894,29.539731,64,0.0,天池岛,TianchiIsland
+199,西泠印社Xiling Imprinting Corporation,25,92.0,孤山上的清幽园林，赏摩崖书刻，逛印学博物馆，感受人文气息。,265.0,120.146125,30.257083,406,0.01,西泠印社,XilingImprintingCorporation
+200,萧山,3,94.0,萧山历史悠久，文化灿烂。1999年，湘湖跨湖桥遗址出土了大量新石石器时期的文物，2001年，跨湖桥遗址中又出土了距今8000年历史的独木舟。这一考古发现是当年全国十大考古发现之一，它不仅改变了萧山的历史，更将浙江文明史向前推前了一千多年。,3.0,120.270936,30.190872,10,0.0,萧山,
+201,永福禅寺Yongfuchan Temple,22,94.0,,135.0,120.104502,30.24521,148,0.0,永福禅寺,YongfuchanTemple
+202,长桥公园,8,86.0,长桥公园，位于浙江省杭州西湖的东南角，南山路长桥旁。长桥是西湖三大情人桥之一。长桥公园有杭州“市花公园”的名称。,68.0,120.161315,30.237834,15,0.0,长桥公园,
+203,郭庄Guo's Villa,5,90.0,临西湖而建的江南园林，喝茶赏湖绝佳之处。,277.0,120.138718,30.250215,250,0.0,郭庄,GuosVilla
+204,浴鹄湾Yuhu Bay,11,94.0,,281.0,120.142679,30.232266,79,0.0,浴鹄湾,YuhuBay
+205,神仙洞,1,100.0,"神仙洞位于浙江省桐庐县境内，全国旅游胜 地四十侍瑶林仙境的左侧，距杭州90公里。该地拥有肉兔、本鸡、肉鸭养殖厂和鱼塘，大片梨、桃子、柿子、板栗正漫山遍野挂满枝头，一派丰收的喜庆景象，野趣横生。
+神仙洞以惊、险、奇著称。最初由中国著名探…",187.0,119.554688,29.892795,1,0.0,神仙洞,
+206,桐君山Tongjun Mountain,9,88.0,登高眺望富春江与分水江两江汇流，乘游船领略富春江山水画卷。,1.0,119.693602,29.81547,104,0.0,桐君山,TongjunMountain
+207,千岛湖农夫山泉生产基地（淳安工厂）Qiandaohu Nongfu Shan Quan Shengchan Base (chun'angongchang),5,92.0,,189.0,119.059586,29.596937,66,0.0,千岛湖农夫山泉生产基地淳安工厂,QiandaohuNongfuShanQuanShengchanBasechunangongchang
+208,中国杭帮菜博物馆Chinese Hangzhou Cuisine Museum,1,86.0,,197.0,120.149787,30.213987,78,0.0,中国杭帮菜博物馆,ChineseHangzhouCuisineMuseum
+209,江南龙门湾Jiangnan Longmen Bay,2,74.0,,13.0,119.671918,29.699852,31,0.0,江南龙门湾,JiangnanLongmenBay
+210,畲乡山寨She Country Village,1,82.0,,14.0,119.5818443126,29.8014945984,4,0.0,畲乡山寨,SheCountryVillage
+211,龙门古镇老街,3,80.0,繁嚣、热闹是老街的主题。这条长近三里，宽三米许的街市历来繁华，尤其是明嘉靖至清康乾盛世间，龙门孙氏“半列儒林，咸饶富有”，更使老街成为商贾云集、店铺林立之地。其间店铺大多为前店后坊、前店后居，商业活动的忙碍与劳作之余的闲适相得益彰…,70.0,119.9554819359,29.9086656755,6,0.0,龙门古镇老街,
+212,西溪3D奇幻艺术馆Xixi 3D Qihuan Art Museum,0,88.0,,25.0,120.076411,30.285945,155,0.0,西溪奇幻艺术馆,DXixiDQihuanArtMuseum
+213,天都城,1,92.0,天都城东依杭州、北接上海，介于杭州主城与临平副城之间，在大杭州规划中处于中心枢纽地位，距市中心18公里，毗邻绕城高速公路和沪杭甬高速，处浙江经济的主流发展区域。,91.0,120.256455,30.398675,6,0.0,天都城,
+214,香积寺Xiangji Temple,3,90.0,,341.0,120.153063,30.304772,111,0.0,香积寺,XiangjiTemple
+215,爱丽芬城堡创意空间,0,60.0,,,119.967598527,30.0924813074,0,0.0,爱丽芬城堡创意空间,
+216,严州古城景区,0,84.0,,,119.498223,29.543767,1,0.0,严州古城景区,
+217,严子陵钓台-清风园,0,100.0,,,119.6511538522,29.7183462222,0,0.0,严子陵钓台清风园,
+218,纪龙山Jilong Mountain,0,0.0,,,119.5702620036,29.9408124792,0,0.0,纪龙山,JilongMountain
+219,灵山幻境Lingshan Cave,0,76.0,,,120.0443000166,30.1261396768,22,0.0,灵山幻境,LingshanCave
+220,西湖十景Ten Scenes of West Lake,0,100.0,,,120.093759,30.195442,0,0.0,西湖十景,TenScenesofWestLake
+221,千岛湖风景区-天屿明珠观岛公园Qiandaohufengjingqu-tianyumingzhuguandao Park,0,88.0,,,119.021173,29.600434,3,0.0,千岛湖风景区天屿明珠观岛公园,QiandaohufengjingqutianyumingzhuguandaoPark
+222,云岭后营林点,0,0.0,,,118.845013,29.662282,0,0.0,云岭后营林点,
+223,象山艺术公社Xiangshan Art Commune,0,60.0,,,120.08015,30.158016,4,0.0,象山艺术公社,XiangshanArtCommune
+224,兰里景区Lanli Sceneic Area,0,70.0,,,120.038653,30.352663,1,0.0,兰里景区,LanliSceneicArea
+225,阿里巴巴西溪园区Alibaba Xixi Park,0,92.0,,,120.032709,30.285288,15,0.0,阿里巴巴西溪园区,AlibabaXixiPark
+226,杭州嗒咪动物奇幻乐园Hangzhou Dami Dongwu Qihuan Amusement Park,0,94.0,,,120.336054,30.315689,7,0.0,杭州嗒咪动物奇幻乐园,HangzhouDamiDongwuQihuanAmusementPark
+227,荻浦花海Flower Fields of Dipu Village,3,86.0,,15.0,119.833128,29.867804,28,0.0,荻浦花海,FlowerFieldsofDipuVillage
+228,天都公园Tiandou Park,1,88.0,,24.0,120.252077,30.39823,36,0.0,天都公园,TiandouPark
+229,临平公园Linping Park,1,88.0,,31.0,120.300341,30.433393,64,0.0,临平公园,LinpingPark
+230,釜托寺Futuo Temple,0,86.0,,537.0,119.735467,30.557715,8,0.0,釜托寺,FutuoTemple
+231,浙江省博物馆孤山馆区Zhejiang Provincial Museum Gushan Branch,1,88.0,游览清代珍藏四库全书的文澜阁，参观河姆渡、良渚等文化遗迹。,586.0,120.149955,30.257339,203,0.0,浙江省博物馆孤山馆区,ZhejiangProvincialMuseumGushanBranch
+232,同安寺Tong'an Temple,0,40.0,,616.0,119.78736,30.430544,0,0.0,同安寺,TonganTemple
+233,杭州国际博览中心Hangzhou International Expo Center,1,94.0,走进G20峰会主会场，回味各国领导会晤的场景。,1.0,120.245117,30.237286,159,0.0,杭州国际博览中心,HangzhouInternationalExpoCenter
+234,百岁峡,0,100.0,山势险要，谷坡陡峻，沟谷狭窄，河水清澈。,1062.0,119.466572,29.845496,14,0.0,百岁峡,
+235,纪龙山Jilong Mountain,0,88.0,,6.0,119.562438,29.945814,8,0.0,纪龙山,JilongMountain
+236,西溪婚俗馆Xixi Marriage Custom Hall,0,86.0,,,120.0763254981,30.2783393496,4,0.0,西溪婚俗馆,XixiMarriageCustomHall
+237,龙井山园茶文化村Longjingshan Garden Tea Cultural Village,0,92.0,,354.0,120.11973,30.226045,12,0.0,龙井山园茶文化村,LongjingshanGardenTeaCulturalVillage
+238,高庄Gaozhuang Street,7,94.0,,481.0,120.084501,30.268412,49,0.0,高庄,GaozhuangStreet
+239,柳浪闻莺Orioles Singing in the Willows,72,92.0,西湖边适合漫步的美丽公园，春天柳绦拂动，格外迷人。,33.0,120.162605,30.245792,640,0.16,柳浪闻莺,OriolesSingingintheWillows
+240,浙江大学紫金港校区Zhejiang University Zijingang Campus,28,96.0,,25.0,120.096772,30.309821,192,0.09,浙江大学紫金港校区,ZhejiangUniversityZijingangCampus
+241,阮墩环碧Ruandu Huanbi Scenic Resort,2,92.0,,192.0,120.147946925,30.2527732849,112,0.0,阮墩环碧,RuanduHuanbiScenicResort
+242,中国茶叶博物馆China National Tea Museum,8,92.0,,186.0,120.127393,30.238721,195,0.0,中国茶叶博物馆,ChinaNationalTeaMuseum
+243,杭州南宋官窑博物馆Southern Song Dynasty Guan Kiln Museum,2,88.0,在官窑遗址遥想南宋窑火旺盛的场景，去陶艺中心亲手做一件陶器。,112.0,120.161548,30.215517,125,0.0,杭州南宋官窑博物馆,SouthernSongDynastyGuanKilnMuseum
+244,桂花岛（猴岛）Osmanthus Island,2,86.0,,270.0,119.153811,29.49696,49,0.0,桂花岛猴岛,OsmanthusIsland
+245,余杭九龙瀑景区Yuhangjiulong Pu Sceneic Area,1,60.0,,188.0,119.796714,30.401294,1,0.0,余杭九龙瀑景区,YuhangjiulongPuSceneicArea
+246,禅源寺Chanyuan Temple,3,86.0,,2.0,119.4543863745,30.326002121,50,0.0,禅源寺,ChanyuanTemple
+247,韬光寺Taoguangsi,8,90.0,,123.0,120.102976,30.248916,65,0.0,韬光寺,Taoguangsi
+248,朱炳仁铜雕艺术博物馆Zhu Bingren Bronze Art Museum,5,90.0,,290.0,120.173585,30.245439,112,0.0,朱炳仁铜雕艺术博物馆,ZhuBingrenBronzeArtMuseum
+249,新市街夜市Xinshi Street Night Market,1,88.0,,86.0,120.168698,30.292124,39,0.0,新市街夜市,XinshiStreetNightMarket
+250,小白菜文化园Xiaobaicai Culture Park,1,72.0,,5.0,119.975813,30.247388,46,0.0,小白菜文化园,XiaobaicaiCulturePark
+251,吊水岩Diaoshuiyan Scenic Area,2,0.0,,19.0,119.1240537165,30.1953601837,0,0.0,吊水岩,DiaoshuiyanScenicArea
+252,通天飞瀑Tongtian Waterfall,1,84.0,游览喀斯特地貌溶洞，欣赏奇特的洞中飞瀑。,8.0,119.635619,30.007784,45,0.0,通天飞瀑,TongtianWaterfall
+253,瑶溪大峡谷Yaoxida Canyon,1,90.0,,12.0,119.315309,29.948128,2,0.0,瑶溪大峡谷,YaoxidaCanyon
+254,灵隐寺大雄宝殿,6,0.0,今日的灵隐寺是在清末重建基础上陆续修复再建的，灵隐寺布局与江南寺院格局大致相仿，全寺建筑中轴线上依次为天王殿、大雄宝殿、药师殿三大殿。,323.0,120.1143637416,30.2532994818,2,0.0,灵隐寺大雄宝殿,
+255,中国伞博物馆China Umbrella Museum,3,92.0,,327.0,120.144434,30.322205,72,0.0,中国伞博物馆,ChinaUmbrellaMuseum
+256,玉泉寺,1,0.0,玉泉寺，建德乃至浙西地区最主要的寺庙之一，位于我市梅城镇乌龙山南麓，原称善导和尚净土道场。唐德宗贞元十年(794)净土宗五祖少康大师创建。北宋易名玉泉庵，曾拥有宇舍二百多间，还建有玉泉亭，性乐堂、曲水亭等。而后，各朝代几经毁建，至1942…,328.0,119.9112909246,30.3070424567,0,0.0,玉泉寺,
+257,江洋畈生态公园Jiangyangfanshengtai Park,1,92.0,,329.0,120.148605,30.212698,62,0.0,江洋畈生态公园,JiangyangfanshengtaiPark
+258,杨家村Yangjia Village,1,86.0,浙江著名的银杏之乡，深秋时的满山金黄美不胜收。,9.0,119.495398,30.104785,19,0.0,杨家村,YangjiaVillage
+259,朝晖公园Zhaohui Park,2,90.0,,336.0,120.1725333049,30.2904172182,84,0.0,朝晖公园,ZhaohuiPark
+260,千岛湖植物园,0,100.0,,,119.003945,29.597421,0,0.0,千岛湖植物园,
+261,广安禅寺,0,0.0,,,119.2363378335,29.3540018408,0,0.0,广安禅寺,
+262,龙门山,0,0.0,,,119.9810241182,29.8771878417,0,0.0,龙门山,
+263,苕溪营地,0,0.0,,,119.8575489776,30.4002372728,0,0.0,苕溪营地,
+264,阳陂湖,0,0.0,,,119.9202978841,30.0812125136,0,0.0,阳陂湖,
+265,青山湖水上森林郊野公园,0,80.0,,,119.7703373318,30.2593408528,0,0.0,青山湖水上森林郊野公园,
+266,剪溪坞水库,0,100.0,,,119.697194129,29.7534704308,0,0.0,剪溪坞水库,
+267,李叔同弘一法师纪念馆Lishu Tong Hong Yi Fashi Memorial Hall,0,0.0,,,120.1366046059,30.2168533082,0,0.0,李叔同弘一法师纪念馆,LishuTongHongYiFashiMemorialHall
+268,留下历史古街Liuxia Historic Street,0,0.0,,,120.0633315741,30.2477656473,0,0.0,留下历史古街,LiuxiaHistoricStreet
+269,富春江Fuchunjiang,0,90.0,,,119.79044972,29.8816372447,2,0.0,富春江,Fuchunjiang
+270,龙上村文化礼堂Longshang Village Cultural Hall,0,0.0,,,119.65936,30.38071,0,0.0,龙上村文化礼堂,LongshangVillageCulturalHall
+271,新安江森林公园Xin'anjiang Forest Park,0,0.0,,,119.2888497534,29.5022733205,0,0.0,新安江森林公园,XinanjiangForestPark
+272,江南大冰洞Jiangnan Ice Cave,0,100.0,,,119.1164375671,29.3937699651,1,0.0,江南大冰洞,JiangnanIceCave
+273,桐庐县白云村Baiyun Village,0,0.0,,,119.5704820784,29.8504160574,0,0.0,桐庐县白云村,BaiyunVillage
+274,岳飞墓Tomb of Yue Fei,0,98.0,,,120.14041,30.258563,5,0.0,岳飞墓,TombofYueFei
+275,桐庐一指峡谷景区Tongluyizhi Canyon Sceneic Area,0,100.0,,,119.5492255956,29.8160943384,1,0.0,桐庐一指峡谷景区,TongluyizhiCanyonSceneicArea
+276,云溪竹径景区Yunxizhujing Sceneic Area,0,0.0,,,120.097373,30.197803,0,0.0,云溪竹径景区,YunxizhujingSceneicArea
+277,芙罗拉花园Fuluola Garden,0,96.0,小型室内生态花园,,120.22866,30.139934,3,0.0,芙罗拉花园,FuluolaGarden
+278,杭州西湖风景名胜区-恙无山湖,0,0.0,,,120.1262910225,30.2250200525,0,0.0,杭州西湖风景名胜区恙无山湖,
+279,"杭州西湖风景名胜区-老龙井Old Longjing, Hangzhou West Lake Scenic Area",0,100.0,,,120.1077951816,30.2258397363,0,0.0,杭州西湖风景名胜区老龙井,OldLongjingHangzhouWestLakeScenicArea
+280,啦喜街Laxi Street,0,88.0,,,120.161169,30.176235,13,0.0,啦喜街,LaxiStreet
+281,亚细亚号废弃火车车厢Asia Express Abandoned Train Carriage,0,0.0,,,120.171155,30.218896,1,0.0,亚细亚号废弃火车车厢,AsiaExpressAbandonedTrainCarriage
+282,东家坞Dongjiawu Village,0,0.0,,,119.6482069745,29.7017435268,0,0.0,东家坞,DongjiawuVillage
+283,千岛湖啤酒博物院Qiandao Lake Beer Museum,0,96.0,,,119.1545,29.615536,60,0.0,千岛湖啤酒博物院,QiandaoLakeBeerMuseum
+284,浙江大学Zhejiang University,0,94.0,,,120.12931,30.270239,12,0.0,浙江大学,ZhejiangUniversity
+285,杭州湘湖旅游度假区Xiang Lake Tourist Resort Area of Hangzhou,0,94.0,,,120.221555,30.136275,8,0.0,杭州湘湖旅游度假区,XiangLakeTouristResortAreaofHangzhou
+286,武林广场Wulin Square,0,90.0,,,120.169857,30.276778,10,0.0,武林广场,WulinSquare
+287,东梓关村Dongziguan Village,0,72.0,,,119.829685,29.89369,5,0.0,东梓关村,DongziguanVillage
+288,瑶坞村Yaowu Village,0,0.0,,,119.958223,29.894026,0,0.0,瑶坞村,YaowuVillage
+289,浙江科技学院Zhejiang University of Science and Technology,0,90.0,,,120.035619,30.22504,2,0.0,浙江科技学院,ZhejiangUniversityofScienceandTechnology
+290,胡宅旧居Hu's Former Residence,0,0.0,,,120.183341,30.257598,0,0.0,胡宅旧居,HusFormerResidence
+291,杭州印,0,0.0,杭州印，是浙江杭州市的新地标建筑，坐落在钱塘江边，高约百米，因为外形奇特，像一条裤腿瘦、一条裤腿肥的西裤，被市民称为“粗细腿”，也是中国新奇葩建筑之一。,,120.21187,30.217368,0,0.0,杭州印,
+292,"中国茶叶博物馆龙井馆区Longjing Pavilion, China National Tea Museum",0,96.0,,,120.118893,30.225321,19,0.0,中国茶叶博物馆龙井馆区,LongjingPavilionChinaNationalTeaMuseum
+293,飞来峰造像Feilaifeng Cliffside Sculptures,0,96.0,,,120.11082,30.246156,23,0.0,飞来峰造像,FeilaifengCliffsideSculptures
+294,环球广场Huanqiu Square,0,0.0,,,119.992,30.1536,0,0.0,环球广场,HuanqiuSquare
+295,塘栖慧海寺Tangqihuihai Temple,0,0.0,,,120.2079642408,30.4732563937,0,0.0,塘栖慧海寺,TangqihuihaiTemple
+296,雨馨游乐场,0,0.0,,,120.006,30.0083,0,0.0,雨馨游乐场,
+297,小明星游乐园(金凤路店),0,0.0,,,119.945,30.0578,0,0.0,小明星游乐园金凤路店,
+298,（植物迷宫）杭州富阳路桐家庭农场(Zhiwumigong) Hangzhou Fuyanglutong Jiating Farm,0,0.0,,,119.818,29.8944,0,0.0,植物迷宫杭州富阳路桐家庭农场,ZhiwumigongHangzhouFuyanglutongJiatingFarm
+299,太子尖Taizi Peak,0,96.0,,,118.9116418374,30.1797176445,3,0.0,太子尖,TaiziPeak
+300,龙坞镇西山森林公园Longwuzhenxi Mountain Forest Park,0,90.0,,,120.035,30.178455,10,0.0,龙坞镇西山森林公园,LongwuzhenxiMountainForestPark
+301,千岛湖乐游环湖骑行Cycle around Qiandao Lake with Le You Cycling,0,90.0,,18.0,119.036716,29.602231,8,0.0,千岛湖乐游环湖骑行,CyclearoundQiandaoLakewithLeYouCycling
+302,径山古道Jingshan Gudao,1,94.0,,19.0,119.786623,30.387892,5,0.0,径山古道,JingshanGudao
+303,浙江工业大学Zhejiang University of Technology,0,92.0,,434.0,120.1729698667,30.297990799,81,0.0,浙江工业大学,ZhejiangUniversityofTechnology
+304,美女坝Beauty Dam,0,92.0,,15.0,120.398705,30.266673,41,0.0,美女坝,BeautyDam
+305,阆苑石海Langyuan Rock Field,0,68.0,,27.0,119.700539,29.782768,5,0.0,阆苑石海,LangyuanRockField
+306,白沙村Baisha Village,0,80.0,,43.0,119.5765137584,30.4218521118,24,0.0,白沙村,BaishaVillage
+307,千岛湖龙门漂流Qiandao (Thousand Island) Lake - Longmen (Dragon's Gate) Canyon Drifting,0,88.0,,34.0,119.091746,29.752759,52,0.0,千岛湖龙门漂流,QiandaoThousandIslandLakeLongmenDragonsGateCanyonDrifting
+308,灵山景区The Lingshan Cave Scenic Zone,1,80.0,,566.0,120.041259,30.126856,79,0.0,灵山景区,TheLingshanCaveScenicZone
+309,南山书屋Nanshan Bookstore,0,82.0,,128.0,120.1658446424,30.2479918725,30,0.0,南山书屋,NanshanBookstore
+310,杭州市临平博物馆Chiangnan Watery Region Culture Museum of China,0,90.0,,40.0,120.312577,30.420187,57,0.0,杭州市临平博物馆,ChiangnanWateryRegionCultureMuseumofChina
+311,凤凰山Feng Huang Mountain,3,86.0,,579.0,120.165098,30.227072,45,0.0,凤凰山,FengHuangMountain
+312,剑门景区Jianmen Sceneic Area,1,82.0,,49.0,118.961524,30.145476,18,0.0,剑门景区,JianmenSceneicArea
+313,萧山钱江观潮城Qiantang River Tide Watching Town of Xiaoshan,0,92.0,,16.0,120.4134547224,30.2841712769,106,0.0,萧山钱江观潮城,QiantangRiverTideWatchingTownofXiaoshan
+314,东明山森林公园Dongming Forest Park,0,74.0,,42.0,120.025503,30.445376,36,0.0,东明山森林公园,DongmingForestPark
+315,步步惊心鬼屋,4,0.0,“步步惊心”鬼屋以宋代法医学著作《洗冤录》为故事蓝本，运用现代高科技的灯控、机械、音响系统，通过展示古代神鬼文化元素，表现宋代社会底层小民的悲苦境遇以及官场的腐败黑暗，给人身临其境的惊悚体验，带你穿越时空重回大宋，破解千年之前的神…,141.0,120.103948,30.175848,1,0.0,步步惊心鬼屋,
+316,活着的清明上河图,1,0.0,通过科技手段把《清明上河图》活化起来，在近200平方的幕布上动态画卷徐徐展开，近千名形态各异的人物，通过动态环境的组合，将繁忙的漕运、喧闹的街市、祥和的宅院以及昼夜的交替表现得惟妙惟肖，展现了盛世宋朝的都市风情。,81.0,120.103979,30.175909,0,0.0,活着的清明上河图,
+317,深潭口Shentankou Restaurant,6,90.0,,612.0,120.073444,30.280485,70,0.0,深潭口,ShentankouRestaurant
+318,南高峰Nangao Peak,1,92.0,,623.0,120.128410754,30.2280772734,20,0.0,南高峰,NangaoPeak
+319,石屋洞Shiwudong (Southwest Gate),1,88.0,,625.0,120.136655,30.226031,38,0.0,石屋洞,ShiwudongSouthwestGate
+320,城北体育公园Hangzhou Chengbei Sports Park,0,94.0,,700.0,120.168885,30.316834,27,0.0,城北体育公园,HangzhouChengbeiSportsPark
+321,塘栖乾隆御碑Tangqi Qianlong Imperial Tablet,1,88.0,,712.0,120.191329,30.485255,23,0.0,塘栖乾隆御碑,TangqiQianlongImperialTablet
+322,良渚矿坑探险公园,1,70.0,,713.0,120.0062390136,30.3560774728,0,0.0,良渚矿坑探险公园,
+323,集贤亭Jixian Pavilion,3,94.0,,789.0,120.1683306686,30.2563962436,107,0.0,集贤亭,JixianPavilion
+324,南山摩崖石刻South Mountain Moyashike,0,84.0,,818.0,119.965964,30.400036,2,0.0,南山摩崖石刻,SouthMountainMoyashike
+325,天下第一财神庙Linshun Temple(No.1 Caishen Temple),1,92.0,,953.0,120.104414,30.251678,53,0.0,天下第一财神庙,LinshunTempleNoCaishenTemple
+326,周恩来纪念室Premier Zhou Enlai Memorial,0,92.0,,162.0,120.095171,30.21055,13,0.0,周恩来纪念室,PremierZhouEnlaiMemorial
+327,径山风景区,1,80.0,,964.0,119.8014177548,30.4212871651,2,0.0,径山风景区,
+328,黄公望隐居地Huang Gongwang's Reclusive Place,1,86.0,黄公望隐居并终老的地方，也是他创作《富春山居图》的实景地。,47.0,120.017492,30.095949,150,0.0,黄公望隐居地,HuangGongwangsReclusivePlace
+329,富春山居,3,0.0,一头连着素有“人间天堂”美誉的杭州西湖，一头连着人称“归来不看岳”的安徽黄山。山水相连，夕阳斜下，别是一番滋味。此刻，只需你静静坐在一个安静的角落聆听山与水的声音。,71.0,119.996132,30.088275,10,0.0,富春山居,
+330,猴鹰谷Houying Valley,0,96.0,,13.0,119.553466,29.854028,14,0.0,猴鹰谷,HouyingValley
+331,飞行梦想杭州模拟飞行中心,0,0.0,坐落于杭州城西的浙商财富中心，紧邻西溪国家湿地公园，距市中心约30分钟车程（距离不远，市区略堵），交通较为便捷。中心占地面积约350㎡，分上下两层，一层为休闲大厅、塔台和控制中心、飞行教室、更衣室，二层为模拟飞行区。,1010.0,120.10747,30.27657,0,0.0,飞行梦想杭州模拟飞行中心,
+332,蒋村慢生活街区Jiangcun Market Slow Life Block,1,92.0,,7807.0,120.077558,30.281039,50,0.0,蒋村慢生活街区,JiangcunMarketSlowLifeBlock
+333,八卦田遗址公园Bagua Field Historic Site Park,3,92.0,,1036.0,120.158268,30.217156,87,0.0,八卦田遗址公园,BaguaFieldHistoricSitePark
+334,良渚文化村Liangzhu Culture Village,2,90.0,,7.0,120.035535,30.3707,99,0.0,良渚文化村,LiangzhuCultureVillage
+335,抱朴道院Baopu Daoyuan,2,88.0,,1041.0,120.1508182924,30.2627591794,42,0.0,抱朴道院,BaopuDaoyuan
+336,下天竺寺Xiatianzhu Temple,3,86.0,,1049.0,120.111571,30.243037,70,0.0,下天竺寺,XiatianzhuTemple
+337,钱江新城Qiangjiang New Town,2,96.0,G20峰会成就的新晋“网红”景点，美轮美奂的灯光秀不可错过。,126.0,120.209025,30.246385,129,0.0,钱江新城,QiangjiangNewTown
+338,新沙岛旅游度假区Xinsha Island Tourist Resort,1,82.0,来富春江江心小岛度假休闲，享受原生态的乡村美景。,1063.0,119.985298,30.051386,80,0.0,新沙岛旅游度假区,XinshaIslandTouristResort
+339,龙井山园茶文化村,65,82.0,"“茶乡第一村”，因盛产顶级西湖龙井茶而闻名于世。你也可像乾隆皇帝一样，用龙井水洗洗手，饮上一杯""色、香、味、形""俱佳的明前珍品龙井茶，感受茶文化的魅力。",51.0,120.119737,30.22586,67,0.02,龙井山园茶文化村,
+340,钱王祠Qianwang Temple,15,88.0,为纪念吴越钱王的表忠祠，每年的新春花展很是热闹。,67.0,120.164978,30.248646,183,0.01,钱王祠,QianwangTemple
+341,胡庆余堂中药博物馆Huqingyu Museum,3,88.0,,253.0,120.175607,30.245571,283,0.01,胡庆余堂中药博物馆,HuqingyuMuseum
+342,西湖文化广场West Lake Cultural Square,16,92.0,,55.0,120.169641,30.282153,220,0.0,西湖文化广场,WestLakeCulturalSquare
+343,于谦祠Yu Qian Shrine,4,92.0,,259.0,120.13855,30.235974,112,0.0,于谦祠,YuQianShrine
+344,玉皇飞云,1,100.0,玉皇飞云是新西湖十景之一，玉皇山凌空突兀，衬以蓝天白云，更显得山姿雄峻巍峨，故称“玉皇飞云”。,191.0,120.161536,30.224882,2,0.0,玉皇飞云,
+345,神龙岛Shenlongdao,2,72.0,,1.0,118.9698,29.596828,13,0.0,神龙岛,Shenlongdao
+346,蜜山岛Mishan Island,1,78.0,,2.0,119.160413,29.525553,22,0.0,蜜山岛,MishanIsland
+347,红叶湾Hongye Bay,1,76.0,,260.0,118.970681,29.636708,9,0.0,红叶湾,HongyeBay
+348,林海归真森林公园,2,80.0,林海归真景区位于千岛湖富文乡境内，这里峡谷幽深，古松阴翳，溪涧清秀，鸟语花香，空气清新，是集惊险刺激、趣味娱乐于一体的综合生态旅游景区。,261.0,119.229412,29.597827,3,0.0,林海归真森林公园,
+349,千岛湖龙川湾Qiandao Lake Longchuan Bay,1,84.0,知青文化与湿地风光完美结合，秋天夕阳中的芒花漾非常上镜。,263.0,118.687271,29.466842,121,0.0,千岛湖龙川湾,QiandaoLakeLongchuanBay
+350,羡山Xianshan Mountain,1,86.0,,264.0,119.1536099422,29.5717926025,14,0.0,羡山,XianshanMountain
+351,金沙戏水Jinsha Paddle,1,92.0,,88.0,120.224912,30.128013,2,0.0,金沙戏水,JinshaPaddle
+352,超山风景区Chao Mountain Scenic Area,2,88.0,杭州赏梅胜地，适合爬山，亲子采摘活动也很受欢迎。,49.0,120.224263,30.441092,344,0.0,超山风景区,ChaoMountainScenicArea
+353,中山公园Zhongshan Park,18,90.0,,267.0,120.148589,30.257386,128,0.0,中山公园,ZhongshanPark
+354,钓鱼岛,1,80.0,千岛湖钓鱼岛整体建筑依山傍水，环境绝佳，是千岛湖目前面积最大、功能最全、设施最豪华的休闲垂钓基地，也是千岛湖旅游国际化的又一佳作。,268.0,119.102189,29.610283,11,0.0,钓鱼岛,
+355,杭州孔庙Hangzhou Confucian Temple,1,90.0,,269.0,120.168458,30.247581,58,0.0,杭州孔庙,HangzhouConfucianTemple
+356,千岛湖云濛溪风景区Yunmengxi Sceneic Area,0,74.0,,4.0,118.868161,29.580632,21,0.0,千岛湖云濛溪风景区,YunmengxiSceneicArea
+357,西湖博物馆West Lake Museum,5,88.0,,181.0,120.164279,30.248032,100,0.0,西湖博物馆,WestLakeMuseum
+358,题襟馆Tijin Villa,1,86.0,,272.0,120.146918,30.257135,12,0.0,题襟馆,TijinVilla
+359,杭州中国印学博物馆Hangzhou China Science Museum of Printing,2,92.0,,273.0,120.1458982577,30.2576381175,62,0.0,杭州中国印学博物馆,HangzhouChinaScienceMuseumofPrinting
+360,鸵鸟岛,2,60.0,鸵鸟是世界最大的鸟类，在这里游客可以和鸵鸟有多重互动，还可以参观琳琅满目的鸵鸟工艺表演等。,274.0,119.019473,29.600523,2,0.0,鸵鸟岛,
+361,浙江西湖美术馆Zhejiang West Lake Gallery,2,92.0,,275.0,120.151311,30.257456,61,0.0,浙江西湖美术馆,ZhejiangWestLakeGallery
+362,燕南寄庐,1,0.0,"建于20年代，属中式宅院，位于金沙港。原为著名戏剧表演艺术家盖叫天（张英杰）私宅，现为民居。
+盖叫天因祖籍河北有“燕北”之称，故把这座宅子称为“燕南寄庐”，取燕北之客寄居江南之意。陈毅元帅曾有一联相赠：燕北真好汉，江南活武松。
+故居粉…",278.0,120.1336897379,30.2540013743,1,0.0,燕南寄庐,
+363,浙江图书馆,1,0.0,这是中国最早建立的省级公共图书馆之一。前身为1900年11月创办的杭州藏书楼。1903年杭州藏书楼扩充改建为浙江图书馆。现有馆址4处：位于署光路38号的新馆、孤山路分馆（古籍部）、大学路分馆以及位于湖州南浔的嘉业堂藏书楼。目前拥有藏书400余万册…,279.0,120.1423101411,30.2702813491,2,0.0,浙江图书馆,
+364,海皇星生态探险乐园Haihuangxingshengtaitanxian Amusement Park,0,74.0,,280.0,120.106702,30.092957,52,0.0,海皇星生态探险乐园,HaihuangxingshengtaitanxianAmusementPark
+365,杭州东方文化园Hangzhou Oriental Culture Park,1,82.0,,2.0,120.204861,30.108358,145,0.0,杭州东方文化园,HangzhouOrientalCulturePark
+366,浙西大龙湾闯关,1,66.0,,2.0,119.089312,30.220766,6,0.0,浙西大龙湾闯关,
+367,石长城Stone Great Wall,1,86.0,,9.0,118.9304647514,30.1452650213,8,0.0,石长城,StoneGreatWall
+368,钱江秋涛,1,100.0,钱塘潮（Qiantang Tide），最壮观的海潮。钱塘江大潮是天体引力和地球自转的离心作用，加上杭州湾喇叭口的特殊地形所造成的特大涌潮。,285.0,120.1450462855,30.1999017803,0,0.0,钱江秋涛,
+369,苏东坡纪念馆Su Dongpo Memorial Hall,4,88.0,,131.0,120.150418,30.235094,118,0.0,苏东坡纪念馆,SuDongpoMemorialHall
+370,柳溪江Liuxi River,1,88.0,乘竹筏、快艇赏景，夏天拿竹筒水枪打水仗，感受“湿身”的清凉。,12.0,119.255666,30.12689,39,0.0,柳溪江,LiuxiRiver
+371,杭州基督教会崇一堂Hangzhou Christian Church Chongyi Church,1,92.0,,289.0,120.215254,30.265367,43,0.0,杭州基督教会崇一堂,HangzhouChristianChurchChongyiChurch
+372,三台山水Santai Landscape,2,96.0,,196.0,120.14104,30.236187,12,0.0,三台山水,SantaiLandscape
+373,五龙岛景区,4,0.0,"千岛湖五龙岛景区位于千岛湖中心湖区，与千岛湖镇隔水相望，是千岛湖中最著名的景区。由锁岛、鸟岛、真趣园和奇石岛四个岛屿以不同形式的鱼乐桥、幸运桥、状元桥联为一个有机整体，可弃舟走桥游湖。
+景区以民俗文化为主体，集锁文化、石文化、花鸟…",291.0,119.0622778691,29.5531340664,0,0.0,五龙岛景区,
+374,风雨茅庐Wind and Rain Thatched Cottage,1,90.0,,292.0,120.1901118561,30.2591667874,7,0.0,风雨茅庐,WindandRainThatchedCottage
+375,"千岛湖好运岛Qiandao (Thousand Island) Lake, Houdao (Good Luck) Island",4,80.0,,293.0,119.239151,29.507226,51,0.0,千岛湖好运岛,QiandaoThousandIslandLakeHoudaoGoodLuckIsland
+376,杨梅岭Bayberry Ridge,16,94.0,,198.0,120.124782,30.22167,66,0.0,杨梅岭,BayberryRidge
+377,鼓楼堂Drum Tower,1,84.0,,71.0,120.178611581,30.2443400825,38,0.0,鼓楼堂,DrumTower
+378,肖圃,1,0.0,建于民国初年，属中式花园别墅，位于皇亲巷9号。原为著名作家、画家丰子恺寓所，现为民居。园内有一水井，上面刻有“肖圃”字样。,295.0,120.1720183081,30.2729864662,0,0.0,肖圃,
+379,山色水声,1,100.0,龙门之美浓缩在青山绿水间。古镇背靠龙门山，山势巍峨雄浑，树木葱郁茂盛。发源于龙门山瀑布的龙门溪，穿村而过，淙淙汩汩，汇入剡溪，潺流廿里进富春江。慈祥、苍老的太婆桥与那百年古樟见证了沧桑历程，千百年不变的是一个旋律，潺?V声伴奏着灵动…,298.0,119.9531225097,29.9092746534,1,0.0,山色水声,
+380,兰陔别墅Langai Villa,2,98.0,,170.0,120.1434960366,30.2373352051,7,0.0,兰陔别墅,LangaiVilla
+381,夏衍旧居Hangzhou Former Residence of Xia Yan,3,88.0,,300.0,120.2088846317,30.2790138599,33,0.0,夏衍旧居,HangzhouFormerResidenceofXiaYan
+382,浙西三峡,1,90.0,浙西三峡所在的柳溪江位于中国优秀旅游城市临安市河桥古镇，交通十分便捷，三溪汇集，始成柳溪。,3.0,119.263845,30.096187,4,0.0,浙西三峡,
+383,釉泽彦岩陶艺馆（千岛湖店）Ceramic Art Lifestyle (Qiandao Lake Store),0,0.0,,106.0,119.0155278469,29.5996570587,0,0.0,釉泽彦岩陶艺馆千岛湖店,CeramicArtLifestyleQiandaoLakeStore
+384,万松书院Wansong Academy,3,86.0,,301.0,120.1679,30.233491,106,0.0,万松书院,WansongAcademy
+385,溪畔人家,2,86.0,,6.0,119.959214,29.905559,7,0.0,溪畔人家,
+386,砚池夜月,4,80.0,砚池，因形似一方古砚而得名，位于龙门古镇内。晴朗的夜晚，一弯新月映着宛若一方大砚台的池水，蔚然成景。,302.0,119.958184,29.904591,5,0.0,砚池夜月,
+387,诗廊,3,0.0,"爱情是人类永恒的主题。 对于爱情，不知多少文人墨客歌咏过它、赞美过它。在情人谷外围，我们将历代诗人歌咏爱情的名篇佳句进行了展示，形成了""历代爱情诗廊""人文景观。在这时我们选择其中的一首与你们共享受。""蒹葭苍苍，白露为霜。所谓伊人，在水…",303.0,120.281038,30.165522,0,0.0,诗廊,
+388,浙西运河,1,60.0,曾称江南河、浙西运河，为京杭运河的南段。北起江苏镇江，绕太湖东岸达江苏苏州，南至浙江杭州。,304.0,120.2337106725,30.2663299354,1,0.0,浙西运河,
+389,清凉峰Qingliangfeng Mountain,1,88.0,,13.0,119.042862,30.136358,33,0.0,清凉峰,QingliangfengMountain
+390,孔凤春国妆博物馆Kongfeng Chunguozhuang Museum,0,86.0,,74.0,120.17682,30.244424,3,0.0,孔凤春国妆博物馆,KongfengChunguozhuangMuseum
+391,于谦故居,1,0.0,于谦故居位于浙江省杭州市上城区清河坊祠堂巷42号，明成化二年（公元1466年），于谦案昭雪，故宅改建为怜忠祠，以资纪念。,88.0,120.183121177,30.252630167,0,0.0,于谦故居,
+392,火山大石谷,1,0.0,"天目石谷又名火山大石谷，地处浙江临安，紧邻原始森林大树王国西天目山。石谷最长，巨石最多、石块最大、形状最奇，水资源最丰富，天下罕见，可与世界著名的澳大利亚大陆岛石谷相媲美。
+石谷地貌奇特，野趣浓郁，以青山、绿水、奇石、飞瀑、碧潭、…",306.0,119.479047983,30.3730958496,0,0.0,火山大石谷,
+393,龙井路,6,94.0,龙井问茶之路，昔日就已赫赫有名。龙井路很长，最漂亮最热闹的一段在茶叶博物馆附近。山路蜿蜒曲折，大大小小几百家餐厅、农家乐，紧靠着茶园。观景和喝茶就这样融为一体。新茶上市季节，借着喝新茶的理由打牌、会友，行程就在这一盏茶中悠然起来了…,97.0,120.13273,30.242296,11,0.0,龙井路,
+394,吴越国王陵Mausoleum of Wuyue Kings,3,86.0,,1.0,119.7322710857,30.2410356019,3,0.0,吴越国王陵,MausoleumofWuyueKings
+395,龚自珍纪念馆Hangzhou Gong Zizhen Memorial,2,84.0,,307.0,120.1917570666,30.2555549426,24,0.0,龚自珍纪念馆,HangzhouGongZizhenMemorial
+396,秋瑾墓Qiu Jin's Tomb,2,86.0,,308.0,120.1456420192,30.2573901412,114,0.0,秋瑾墓,QiuJinsTomb
+397,蓝水明水,1,0.0,,309.0,120.1648744059,30.2481660142,0,0.0,蓝水明水,
+398,白马崖Baima Cliff,1,78.0,,14.0,119.054178,30.2539,33,0.0,白马崖,BaimaCliff
+399,钱王陵园Tomb of King Qian Liu,2,82.0,,15.0,119.731334,30.242949,118,0.0,钱王陵园,TombofKingQianLiu
+400,乡野田园,2,0.0,青山环抱，溪流浅唱，村中酒香浓郁、风情宜人，村外稻花飘香、鸟语传情。区别于水乡风光，不同于园林景致，龙门自有一番别样的乡野风情，农人、农具、农田，谱写出一首浑厚、悠扬的田园牧歌。辛勤的耕耘、劳作，换来的是五谷丰登、丰衣足食，使生活…,310.0,119.9544454619,29.9099236153,0,0.0,乡野田园,
+401,义门流芳,4,100.0,义门牌楼上漫漶的图案，斑驳的雕饰，演绎出一个鲜活的“义”字，死板的封建族训得以贴近生活的展示，生发出流传至今的动人故事。明朝嘉靖二十三年，龙门的那场大天灾中，义士孙潮倾其家产，救济灾民，他感人肺腑的义举，让朝廷、官府感佩。义门不光…,311.0,119.9481925696,29.9092280442,3,0.0,义门流芳,
+402,周恩来演讲纪念亭Zhou Enlai Speech Memorial Pavilion,1,66.0,,16.0,119.452939,30.328206,6,0.0,周恩来演讲纪念亭,ZhouEnlaiSpeechMemorialPavilion
+403,神龙川风景区Shenlong River Scenic Area,1,80.0,,150.0,119.557078,30.373549,123,0.0,神龙川风景区,ShenlongRiverScenicArea
+404,浙江省科技馆,2,50.0,浙江省科技馆是位于杭州市内的大型科技展览馆，于西湖文化广场正式落成，浙江自然博物馆新馆建筑面积约2.6万平方米，拥有近13万件珍贵的馆藏标本。,148.0,120.1771555894,30.2878085725,4,0.0,浙江省科技馆,
+405,瑞晶石花洞Ruijing Stone Flower Cave,2,90.0,体验溶洞内八十多米的观光天梯，赏千朵“石花”怒放。,17.0,119.108691,30.087538,165,0.0,瑞晶石花洞,RuijingStoneFlowerCave
+406,玲珑山Linglong Mountain Scenery Zone,1,86.0,,18.0,119.682958,30.230667,37,0.0,玲珑山,LinglongMountainSceneryZone
+407,仙人顶Fairy Peak,1,78.0,,3.0,119.435325,30.353517,13,0.0,仙人顶,FairyPeak
+408,绿景塘,1,100.0,"杭州绿景塘村风景区位于杭州径山，占地2800余亩，东南距杭州市区30公里，东北至104国道15公里，西南至临安市区5公里，处于沪杭皖旅游圈和杭州西部生态旅游区中心区位交通十分便利。
+园区内有三大区域和十大景点。休闲度假娱乐区：有占地两千余平方…",314.0,119.8188973312,30.3284926841,1,0.0,绿景塘,
+409,三宫六园,1,0.0,三宫六园由奇石馆、钱币馆、根艺苑、农家乐、珍宝宫等多家馆组合而成的观赏点，集各类收藏珍品之长，既能开阔眼界、增长知识，又能怡情养性。,315.0,119.6889058927,29.8097175455,0,0.0,三宫六园,
+410,老碓溪Laodui Creek,1,76.0,,22.0,119.078976,30.249321,22,0.0,老碓溪,LaoduiCreek
+411,大关夜市Daguan Night Market,0,84.0,,104.0,120.1723804018,30.3123527218,35,0.0,大关夜市,DaguanNightMarket
+412,风波亭Fengbo Pavilion,2,88.0,,116.0,120.1641141068,30.2659473419,129,0.0,风波亭,FengboPavilion
+413,开山老殿Kaishan Old Temple,1,78.0,,5.0,119.445562,30.34533,15,0.0,开山老殿,KaishanOldTemple
+414,西径山Xijing Mountain,1,82.0,,6.0,119.736068,30.286726,53,0.0,西径山,XijingMountain
+415,冲天树Chongtian Tree,1,78.0,,6.0,119.445483,30.345326,13,0.0,冲天树,ChongtianTree
+416,鹳山公园Guanshan,1,86.0,李白、郁达夫等古今名人登临过的名山，登顶可观赏富春江风光。,134.0,119.970501,30.05199,56,0.0,鹳山公园,Guanshan
+417,太子庵Taizi Temple,2,76.0,,7.0,119.451305,30.328011,14,0.0,太子庵,TaiziTemple
+418,鸬鹚潭Cormorant Pond,1,60.0,,26.0,119.127155,30.198869,1,0.0,鸬鹚潭,CormorantPond
+419,四面峰Four Sides Peak,1,86.0,,8.0,119.447508,30.343615,23,0.0,四面峰,FourSidesPeak
+420,风筝魏,1,0.0,,333.0,0.0,0.0,0,0.0,风筝魏,
+421,杭州电子科技大学,1,96.0,杭州电子科技大学是一所电子信息特色突出的教学研究型大学。学校是浙江省与国防科工委共建高校，是国防科工委共建高校中第一所信息技术类高校，学校位于浙江省杭州市。,334.0,120.3533610474,30.3275685864,4,0.0,杭州电子科技大学,
+422,慧因高丽寺Huiyin Gaoli Temple,2,86.0,,335.0,120.137732,30.234236,41,0.0,慧因高丽寺,HuiyinGaoliTemple
+423,新西湖,4,100.0,穿过杨公堤，就进入了新西湖，据说新西湖为古代去灵隐寺上香的水道。新西湖开放的时间不长，就像是块未开发的处女宝地。,201.0,120.07925,30.180024,2,0.0,新西湖,
+424,中国刀剪剑博物馆China Knives And Scissors And Swords Museum,3,92.0,,337.0,120.144081,30.322365,64,0.0,中国刀剪剑博物馆,ChinaKnivesAndScissorsAndSwordsMuseum
+425,天目大峡谷Tianmu Grand Canyon,3,90.0,乱石丛生的火山峡谷，夏天有丰富的戏水活动，供游人避暑消夏。,1.0,119.483012,30.371269,200,0.0,天目大峡谷,TianmuGrandCanyon
+426,白马湖,1,100.0,​白马湖位于杭州高新区（滨江）南部，越王城山北麓，万顷碧波，茫茫无际，俗称白茫湖。与西湖隔江相望，南北辉映，被誉为“杭城双璧”。据史料记载，古代这里曾是江海相连的前海湾，由于山洪冲击、海潮吐纳，海湾渐被泥沙堵塞，成为泄湖。,338.0,120.217481,30.168621,1,0.0,白马湖,
+427,江墅铁路遗址公园Jiangshu Railway Relics Park,1,88.0,,339.0,120.1494635958,30.319210338,60,0.0,江墅铁路遗址公园,JiangshuRailwayRelicsPark
+428,大运河紫檀博物馆,0,0.0,,,120.142613,30.320131,0,0.0,大运河紫檀博物馆,
+429,桂芳桥,0,0.0,,,120.31197,30.425888,0,0.0,桂芳桥,
+430,程允贤雕塑馆,0,0.0,,,120.170351,30.283831,0,0.0,程允贤雕塑馆,
+431,西湖茶场村,0,0.0,,,120.052297,30.177067,0,0.0,西湖茶场村,
+432,吴山景区-浙江体育会摩崖题记,0,0.0,,,120.169981,30.237755,0,0.0,吴山景区浙江体育会摩崖题记,
+433,Eureka优瑞卡儿童主题乐园 (龙湖西溪天街店),0,0.0,,,120.075437,30.298174,0,0.0,优瑞卡儿童主题乐园龙湖西溪天街店,Eureka
+434,幸福翼公园,0,0.0,,,120.421421,30.245309,0,0.0,幸福翼公园,
+435,浙农·东巢艺术公园,0,0.0,,,120.257901,30.181133,0,0.0,浙农东巢艺术公园,
+436,白蓝地文创街区,0,0.0,,,120.31515,30.316921,0,0.0,白蓝地文创街区,
+437,富阳文村村,0,0.0,,,119.56823,30.02564,0,0.0,富阳文村村,
+438,地球亿年,0,0.0,,,119.839183,30.406424,0,0.0,地球亿年,
+439,逅艺艺术中心,0,0.0,,,120.18018,30.1384,0,0.0,逅艺艺术中心,
+440,上臧村,0,0.0,,,119.9558125641,29.7965000403,0,0.0,上臧村,
+441,树石村,0,0.0,,,119.9304546555,29.842457833,0,0.0,树石村,
+442,千岛湖梦之岛乐园,0,100.0,,,119.019417,29.599146,0,0.0,千岛湖梦之岛乐园,
+443,弌空间当代艺术中心,0,0.0,,,120.073966,30.141473,0,0.0,弌空间当代艺术中心,
+444,彼邻壹号艺术空间,0,0.0,,,120.163245,30.282415,0,0.0,彼邻壹号艺术空间,
+445,梓桐艺术馆,0,0.0,,,118.76795,29.611666,0,0.0,梓桐艺术馆,
+446,丁山河,0,0.0,,,120.1968395146,30.4514256236,0,0.0,丁山河,
+447,大运河音乐公园,0,0.0,,,120.145119,30.339676,0,0.0,大运河音乐公园,
+448,闻堰老街,0,0.0,,,120.1756918103,30.132466225,0,0.0,闻堰老街,
+449,杭州东湖•天域田园,0,0.0,,,120.244786051,30.4957897282,0,0.0,杭州东湖天域田园,
+450,石龙洞造像,0,0.0,,,120.15977,30.220133,0,0.0,石龙洞造像,
+451,杭州瀚阳艺术中心,0,0.0,,,120.1487082365,30.2735546207,0,0.0,杭州瀚阳艺术中心,
+452,百药山,0,0.0,,,120.1058073408,29.9101447043,0,0.0,百药山,
+453,乌龙山,0,0.0,,,119.5373507031,29.5778506442,0,0.0,乌龙山,
+454,求是书院,0,0.0,,,120.1897687866,30.2629412281,0,0.0,求是书院,
+455,白鹤禅寺,0,0.0,,,120.1630198105,30.4394854268,0,0.0,白鹤禅寺,
+456,游牧画廊,0,0.0,,,120.106467,30.271947,0,0.0,游牧画廊,
+457,萧山国际人才俱乐部,0,0.0,,,120.271169,30.227635,0,0.0,萧山国际人才俱乐部,
+458,西马画廊,0,0.0,,,120.0724587174,30.1417713911,0,0.0,西马画廊,
+459,大洋坞水库,0,0.0,,,120.011883,30.183673,0,0.0,大洋坞水库,
+460,长丘田村,0,0.0,,,119.5136354193,29.7970176396,0,0.0,长丘田村,
+461,周富村,0,0.0,,,120.0622611532,30.1072912413,0,0.0,周富村,
+462,萧山未来大地,0,0.0,,,120.236803,30.00998,0,0.0,萧山未来大地,
+463,六和文化公园,0,0.0,,,120.1416612993,30.1916535263,0,0.0,六和文化公园,
+464,上城埭村,0,0.0,,,120.0506529799,30.1855588669,0,0.0,上城埭村,
+465,九堡大桥,0,0.0,,,120.2961076843,30.2853316475,0,0.0,九堡大桥,
+466,富春江三桥,0,0.0,,,119.7371080488,29.848849571,0,0.0,富春江三桥,
+467,枫林咽泉,0,0.0,,,119.6250594547,30.064449838,0,0.0,枫林咽泉,
+468,富阳沸腾坝景区,0,0.0,,,119.925977,29.846745,0,0.0,富阳沸腾坝景区,
+469,安溪村,0,0.0,,,120.0193706583,30.4207960146,0,0.0,安溪村,
+470,履道堂,0,0.0,,,120.1758862002,30.2237311058,0,0.0,履道堂,
+471,龙尾巴山塘水库,0,80.0,,,120.034739,30.171579,0,0.0,龙尾巴山塘水库,
+472,财神庙,0,0.0,,,120.144704,30.323213,0,0.0,财神庙,
+473,岩石岭水库,0,0.0,,,119.6163800269,30.0352725053,0,0.0,岩石岭水库,
+474,溪塔村土桥湾铁路景点,0,0.0,,,119.9598300708,30.2984132282,0,0.0,溪塔村土桥湾铁路景点,
+475,新横河桥,0,0.0,,,120.1627643821,30.2461558908,0,0.0,新横河桥,
+476,林社,0,0.0,,,120.1503691136,30.2596886688,0,0.0,林社,
+477,下陡门,0,0.0,,,119.9329395649,30.3378739153,0,0.0,下陡门,
+478,清影当代艺术空间,0,0.0,,,120.053683,30.230005,0,0.0,清影当代艺术空间,
+479,Hi鸭部落,0,0.0,,,120.232668,30.010791,0,0.0,鸭部落,Hi
+480,桐庐县图书馆,0,0.0,,,119.7064169352,29.8013345366,0,0.0,桐庐县图书馆,
+481,福山桃园,0,0.0,,,119.945345,30.417792,0,0.0,福山桃园,
+482,米积村,0,0.0,,,119.598052,30.19995,0,0.0,米积村,
+483,画英雄art,0,0.0,,,120.0623558001,30.2333066532,0,0.0,画英雄,art
+484,山在美术馆,0,0.0,,,120.177698,30.249757,0,0.0,山在美术馆,
+485,起点画廊,0,0.0,,,120.102227,30.268557,0,0.0,起点画廊,
+486,建德图书馆,0,0.0,,,119.2989675573,29.4873982021,0,0.0,建德图书馆,
+487,时空生长新媒体艺术展,0,0.0,,,120.166938617,30.2656158684,0,0.0,时空生长新媒体艺术展,
+488,中泰运动公园,0,0.0,,,119.929202,30.24599,0,0.0,中泰运动公园,
+489,悦榕庄图书馆,0,0.0,,,120.0935025763,30.2734369111,0,0.0,悦榕庄图书馆,
+490,杭州图书馆(环保分馆),0,0.0,,,120.1979843841,30.3848980698,0,0.0,杭州图书馆环保分馆,
+491,富阳图书馆,0,0.0,,,119.96958723,30.0529928187,0,0.0,富阳图书馆,
+492,西溪雕塑园,0,0.0,,,120.0964098731,30.2747258022,0,0.0,西溪雕塑园,
+493,复泰钱庄旧址,0,0.0,,,120.1773775978,30.2498566323,0,0.0,复泰钱庄旧址,
+494,石佛院,0,0.0,,,120.1748337846,30.2371361517,0,0.0,石佛院,
+495,杭州三江两岸绿道,0,0.0,,,120.3997371709,30.3092554897,0,0.0,杭州三江两岸绿道,
+496,太平桥,0,0.0,,,120.1862149177,30.2687601077,0,0.0,太平桥,
+497,凤山拾遗创意园,0,0.0,,,120.1755783892,30.2237609992,0,0.0,凤山拾遗创意园,
+498,窑山公园,0,0.0,,,119.9759822766,30.4027039669,0,0.0,窑山公园,
+499,千岛湖西南湖区,0,0.0,,,118.67882222,29.4793572745,0,0.0,千岛湖西南湖区,
+500,寿昌909夜街,0,0.0,,,119.2250534432,29.3615129443,0,0.0,寿昌夜街,
+501,水杉林水上森林公园,0,0.0,,,119.2539185463,29.4818452894,0,0.0,水杉林水上森林公园,
+502,千岛湖天屿,0,0.0,,,119.057281815,29.637702414,0,0.0,千岛湖天屿,
+503,韬光径,0,0.0,,,120.1034518577,30.248896882,0,0.0,韬光径,
+504,千秋关,0,0.0,,,119.3002051296,30.3607763122,0,0.0,千秋关,
+505,瑶山遗址公园,0,0.0,,,120.0256788291,30.430587249,0,0.0,瑶山遗址公园,
+506,慧日禅寺,0,0.0,,,120.3096422257,30.5111924149,0,0.0,慧日禅寺,
+507,东河,0,0.0,,,120.1823947089,30.2458131726,0,0.0,东河,
+508,革命历史纪念馆,0,0.0,,,120.168726,30.283264,0,0.0,革命历史纪念馆,
+509,临安城遗址(太庙遗址),0,0.0,,,120.1761603924,30.2384659294,0,0.0,临安城遗址太庙遗址,
+510,丁兰街道图书馆,0,0.0,,,120.2341810872,30.3536441709,0,0.0,丁兰街道图书馆,
+511,古荡文化家园,0,0.0,,,120.1243614383,30.2912897259,0,0.0,古荡文化家园,
+512,临平图书馆,0,0.0,,,120.3038020918,30.428817127,0,0.0,临平图书馆,
+513,余杭纸伞馆,0,0.0,,,119.971475017,30.3991774554,0,0.0,余杭纸伞馆,
+514,明远BOOK,0,0.0,,,120.1568077975,30.2737824647,0,0.0,明远,BOOK
+515,淳安县图书馆,0,0.0,,,119.1190745001,29.6009402597,0,0.0,淳安县图书馆,
+516,余杭区图书馆(仓前分馆),0,0.0,,,120.0036861796,30.2958738637,0,0.0,余杭区图书馆仓前分馆,
+517,少年宫广场,0,0.0,,,120.1621129243,30.2668151131,0,0.0,少年宫广场,
+518,杭州图书馆(运动分馆),0,0.0,,,120.0527859216,30.2945224785,0,0.0,杭州图书馆运动分馆,
+519,钱塘书房,0,0.0,,,120.2938345221,30.3115745759,0,0.0,钱塘书房,
+520,杭州图书馆(财商主题分馆),0,0.0,,,120.1679472458,30.3184122509,0,0.0,杭州图书馆财商主题分馆,
+521,临平图书馆,0,0.0,,,120.315056,30.414574,0,0.0,临平图书馆,
+522,杭州市萧山图书馆,0,0.0,,,120.2741210073,30.190836318,0,0.0,杭州市萧山图书馆,
+523,杭州图书馆(生活主题分馆),0,100.0,,,120.1741828341,30.2604842935,0,0.0,杭州图书馆生活主题分馆,
+524,宇宙画廊,0,0.0,,,120.196697,30.1647,0,0.0,宇宙画廊,
+525,天目里美术馆,0,98.0,,,120.10589,30.271845,0,0.0,天目里美术馆,
+526,零伍柒-壹号码头,0,0.0,,,120.1844674433,30.2195942221,0,0.0,零伍柒壹号码头,
+527,田野和季风,0,0.0,,,120.066746,30.115951,0,0.0,田野和季风,
+528,永兴寺,0,0.0,,,120.0813424142,30.2402766168,0,0.0,永兴寺,
+529,白龙寺,0,0.0,,,120.4594781914,30.1703390248,0,0.0,白龙寺,
+530,银月廊桥,0,0.0,,,119.716962,30.240384,0,0.0,银月廊桥,
+531,萝婆寺,0,0.0,,,120.2838861738,30.1493924033,0,0.0,萝婆寺,
+532,西兴过塘行码头专题陈列馆,0,0.0,,,120.2290347331,30.1974363711,0,0.0,西兴过塘行码头专题陈列馆,
+533,禹皇惮寺,0,0.0,,,120.2805704271,30.4989583597,0,0.0,禹皇惮寺,
+534,临浦峙山寺,0,100.0,,,120.2543248627,30.0450947415,0,0.0,临浦峙山寺,
+535,衙前农民运动纪念馆,0,0.0,,,120.414372,30.171918,0,0.0,衙前农民运动纪念馆,
+536,金都夏宫图书馆,0,0.0,,,120.2812925058,30.4363780761,0,0.0,金都夏宫图书馆,
+537,杭州文化创意产业博览会,0,0.0,,,120.2062498973,30.1674071527,0,0.0,杭州文化创意产业博览会,
+538,金沙滩游乐园,0,0.0,,,120.225954,30.12653,0,0.0,金沙滩游乐园,
+539,适家城市文化新空间,0,0.0,,,120.1720738136,30.2597116766,0,0.0,适家城市文化新空间,
+540,杭州市萧山文化中心,0,0.0,,,120.2740541367,30.1908560459,0,0.0,杭州市萧山文化中心,
+541,悦客会(大悦城店),0,0.0,,,120.1361537153,30.3087026217,0,0.0,悦客会大悦城店,
+542,花鹿原乡村美学体验基地,0,0.0,,,119.91932492,29.9822423005,0,0.0,花鹿原乡村美学体验基地,
+543,北航杭州创新研究院航空航天科普体验展厅,0,0.0,,,120.2135892039,30.201480552,0,0.0,北航杭州创新研究院航空航天科普体验展厅,
+544,瓶窑风筝灯彩馆,0,0.0,,,119.971637426,30.3991264952,0,0.0,瓶窑风筝灯彩馆,
+545,桐庐青少年宫,0,0.0,,,119.6922824116,29.7916297193,0,0.0,桐庐青少年宫,
+546,八爪鱼(西田城购物中心店),0,0.0,,,120.1008647751,30.3470181848,0,0.0,八爪鱼西田城购物中心店,
+547,浙江图书馆古籍部,0,0.0,,,120.1479648596,30.2564517754,0,0.0,浙江图书馆古籍部,
+548,净慈美术馆,0,0.0,,,120.1556057103,30.2354738455,0,0.0,净慈美术馆,
+549,ANYWAY无解,0,0.0,,,120.3360597425,30.3146642729,0,0.0,无解,ANYWAY
+550,衙前镇项漾村文化活动中心,0,0.0,,,120.4030682508,30.1705764963,0,0.0,衙前镇项漾村文化活动中心,
+551,探洞工场（杭州店）,0,20.0,,,120.23348,30.274382,0,0.0,探洞工场杭州店,
+552,虫洞创意空间,0,0.0,,,120.0387093703,30.3863422464,0,0.0,虫洞创意空间,
+553,画英雄,0,0.0,,,120.1541085098,30.2834134804,0,0.0,画英雄,
+554,自然造物民艺研究中心,0,0.0,,,119.973043336,30.4005662079,0,0.0,自然造物民艺研究中心,
+555,LUCK GALLERY,0,0.0,,,120.1759203337,30.2237284057,0,0.0,,LUCKGALLERY
+556,余杭方志馆,0,0.0,,,120.1874438756,30.4832041934,0,0.0,余杭方志馆,
+557,良渚玉雕馆,0,0.0,,,119.9721468635,30.3993567783,0,0.0,良渚玉雕馆,
+558,元白展厅,0,0.0,,,120.0530513069,30.2308860748,0,0.0,元白展厅,
+559,JOYFULL弗满艺术空间,0,0.0,,,120.1738806884,30.2257166144,0,0.0,弗满艺术空间,JOYFULL
+560,匠呓轩,0,0.0,,,120.0656801922,30.1878616635,0,0.0,匠呓轩,
+561,杭州市青少年发展中心,0,0.0,,,120.216725145,30.2539870486,0,0.0,杭州市青少年发展中心,
+562,鸥鹭书院,0,0.0,,,120.2743196803,30.1890730805,0,0.0,鸥鹭书院,
+563,党湾镇文化中心,0,0.0,,,120.5559408741,30.2315217617,0,0.0,党湾镇文化中心,
+564,杭州市职工文化中心,0,0.0,,,120.2252163802,30.2937799141,0,0.0,杭州市职工文化中心,
+565,书香同城,0,80.0,,,119.7087611222,29.8145932518,0,0.0,书香同城,
+566,伏尔泰·拉姆图书馆(杭州创意设计中心店),0,0.0,,,120.2124954891,30.2846376523,0,0.0,伏尔泰拉姆图书馆杭州创意设计中心店,
+567,张大仙庙,0,0.0,,,120.1451667397,30.3241515508,0,0.0,张大仙庙,
+568,启杏堂·庄园,0,0.0,,,120.0341393126,30.1369170063,0,0.0,启杏堂庄园,
+569,梓桐文化中心,0,0.0,,,118.7692729613,29.6115424163,0,0.0,梓桐文化中心,
+570,杭州孝道文化馆,0,0.0,,,120.2430740736,30.3896517808,0,0.0,杭州孝道文化馆,
+571,四无粮仓陈列馆,0,0.0,,,120.0137296362,30.2982750043,0,0.0,四无粮仓陈列馆,
+572,571 Art Space,0,0.0,,,120.174970803,30.2236152047,0,0.0,,ArtSpace
+573,森雨漫书馆,0,0.0,,,120.0613574648,30.2528280837,0,0.0,森雨漫书馆,
+574,柒月图书馆,0,0.0,,,119.7677434392,30.2667897267,0,0.0,柒月图书馆,
+575,瓜沥镇文体中心,0,0.0,,,120.4637359544,30.1943493812,0,0.0,瓜沥镇文体中心,
+576,建德市文化馆,0,0.0,,,119.2985593192,29.4878015563,0,0.0,建德市文化馆,
+577,我不想妨碍你工作报,0,86.0,,,120.1677657234,30.2703029578,0,0.0,我不想妨碍你工作报,
+578,钱塘观礼,0,0.0,,,120.0636564156,30.1886943121,0,0.0,钱塘观礼,
+579,杭州图书馆茶文化主题分馆,0,0.0,,,120.0498288533,30.1929855134,0,0.0,杭州图书馆茶文化主题分馆,
+580,岳飞纪念馆,0,0.0,,,120.141111,30.259243,0,0.0,岳飞纪念馆,
+581,浙江昆剧团,0,0.0,,,120.1757120267,30.287970338,0,0.0,浙江昆剧团,
+582,港南村,0,0.0,,,120.028765,30.414644,0,0.0,港南村,
+583,淳安县图书馆,0,0.0,,,119.0469918049,29.6076626113,0,0.0,淳安县图书馆,
+584,良渚门户公园,0,0.0,,,120.1408182537,30.3470135685,0,0.0,良渚门户公园,
+585,通益公纱厂旧址,0,0.0,,,120.1442608777,30.3247613769,0,0.0,通益公纱厂旧址,
+586,燕子湖公园,0,0.0,,,120.2461826286,30.4150234349,0,0.0,燕子湖公园,
+587,中兴东岳庙,0,0.0,,,120.174735,30.244247,0,0.0,中兴东岳庙,
+588,畲乡民族村,0,0.0,,,119.5596611072,29.8138372566,0,0.0,畲乡民族村,
+589,寓山美术馆,0,0.0,,,120.106052,30.172477,0,0.0,寓山美术馆,
+590,心灵的畅想-莫奈艺术沉浸式体验馆,0,0.0,,,120.16975,30.278408,0,0.0,心灵的畅想莫奈艺术沉浸式体验馆,
+591,兔子山国际音乐公园,0,0.0,,,120.0597944961,30.1931075599,0,0.0,兔子山国际音乐公园,
+592,亿年火山遗址,0,0.0,,,120.1284810936,29.9706625852,0,0.0,亿年火山遗址,
+593,报先寺,0,0.0,,,120.1163764069,30.2719412085,0,0.0,报先寺,
+594,金莲寺,0,0.0,,,120.0396951906,30.2084134772,0,0.0,金莲寺,
+595,越王路孙氏宗祠,0,0.0,,,120.2406538303,30.1631208839,0,0.0,越王路孙氏宗祠,
+596,萧山·机器人博展中心,0,0.0,,,120.3536494607,30.2250670274,0,0.0,萧山机器人博展中心,
+597,临平体育公园,0,60.0,,,120.2836591975,30.403052345,0,0.0,临平体育公园,
+598,MINI博物馆,0,0.0,,,120.1892549811,30.3500084187,0,0.0,博物馆,MINI
+599,之星博览中心,0,0.0,,,120.190319643,30.3061671734,0,0.0,之星博览中心,
+600,竹影七都源,0,0.0,,,120.131308,29.972214,0,0.0,竹影七都源,
+601,东湖公园,0,0.0,,,120.2978463758,30.3903170816,0,0.0,东湖公园,
+602,云夕庄园,0,0.0,,,120.059764,30.182543,0,0.0,云夕庄园,
+603,杭州乐活岛,0,60.0,,,119.496844,29.599254,0,0.0,杭州乐活岛,
+604,梅蓉村,0,0.0,,,119.742938,29.856395,0,0.0,梅蓉村,
+605,梅里村,0,0.0,,,120.2300761208,30.0003351053,0,0.0,梅里村,
+606,王安禅寺,0,0.0,,,120.100856,30.111659,0,0.0,王安禅寺,
+607,红山,0,0.0,,,120.411914,30.254453,0,0.0,红山,
+608,球山岭,0,0.0,,,118.733126,29.548964,0,0.0,球山岭,
+609,兰家湾,0,0.0,,,120.1303541482,30.2649722872,0,0.0,兰家湾,
+610,垂云洞,0,0.0,,,119.53915,29.931641,0,0.0,垂云洞,
+611,兰江,0,0.0,,,119.537327,29.475478,0,0.0,兰江,
+612,天竺三寺,0,0.0,,,120.113256,30.242915,0,0.0,天竺三寺,
+613,莫角山遗址,0,0.0,,,119.996088,30.397927,0,0.0,莫角山遗址,
+614,大海岭,0,0.0,,,119.5436784552,30.4312398485,0,0.0,大海岭,
+615,中河,0,0.0,,,120.179486,30.222505,0,0.0,中河,
+616,松岭岗,0,0.0,,,119.356253,30.27964,0,0.0,松岭岗,
+617,五丰岛,0,0.0,,,120.1386264639,30.0995845281,0,0.0,五丰岛,
+618,1928文化创意园,0,0.0,,,120.2233644947,30.3205773001,0,0.0,文化创意园,
+619,西溪天堂West Brook,0,96.0,,,120.0970050052,30.2708540133,0,0.0,西溪天堂,WestBrook
+620,富春江特大桥,0,0.0,,,119.911246,29.970577,0,0.0,富春江特大桥,
+621,玉皇山南基金小镇2期,0,0.0,,,120.1511688048,30.2100268942,0,0.0,玉皇山南基金小镇期,
+622,董公祠,0,0.0,,,119.9688414927,30.0512820834,0,0.0,董公祠,
+623,铁井,0,0.0,,,118.9838659371,29.6115919617,0,0.0,铁井,
+624,阿海福美术馆,0,0.0,,,120.1689737786,30.2834395342,0,0.0,阿海福美术馆,
+625,仓美术馆CANG ART MUSEUM,0,100.0,,,120.0776899456,30.1572987333,0,0.0,仓美术馆,CANGARTMUSEUM
+626,恒生科技园,0,0.0,,,120.0122221113,30.2841650845,0,0.0,恒生科技园,
+627,浙江地质科创园地质博物馆,0,0.0,,,120.1898069324,30.1909662317,0,0.0,浙江地质科创园地质博物馆,
+628,逸云寄庐,0,0.0,,,120.1526617018,30.2585538039,0,0.0,逸云寄庐,
+629,广福里,0,0.0,,,120.1646940926,30.2466214245,0,0.0,广福里,
+630,西湖创意谷,0,0.0,,,120.1734731221,30.2526156682,0,0.0,西湖创意谷,
+631,富春山居数字诗路文化体验馆,0,0.0,,,120.0176817345,30.0941902503,0,0.0,富春山居数字诗路文化体验馆,
+632,仁·社区美术馆,0,0.0,,,120.1664688708,30.2713510667,0,0.0,仁社区美术馆,
+633,目术塘创意园,0,0.0,,,120.1572831587,30.2113091834,0,0.0,目术塘创意园,
+634,lomo创意谷,0,0.0,,,120.1758796195,30.2246149135,0,0.0,创意谷,lomo
+635,长城178文创园,0,0.0,,,120.1849833146,30.2270685146,0,0.0,长城文创园,
+636,壹向艺术空间,0,0.0,,,120.1441933364,30.2268352889,0,0.0,壹向艺术空间,
+637,经纬国际创意园,0,0.0,,,120.1968697054,30.3306265125,0,0.0,经纬国际创意园,
+638,运河亚运公园,0,100.0,,,120.1083002987,30.3229915313,0,0.0,运河亚运公园,
+639,科技博悟馆,0,0.0,,,120.0883274129,30.1358521275,0,0.0,科技博悟馆,
+640,九阳创意工业园,0,0.0,,,120.3504634244,30.3436045969,0,0.0,九阳创意工业园,
+641,临浦城市公园,0,0.0,,,120.2495728509,30.0665537464,0,0.0,临浦城市公园,
+642,5658文创园,0,0.0,,,120.1764904899,30.2684302714,0,0.0,文创园,
+643,KUYE·裤爷炼金室·银饰DIY,0,0.0,,,120.1834168017,30.1911460304,0,0.0,裤爷炼金室银饰,KUYEDIY
+644,怪力青年美术馆,0,0.0,,,120.1330292148,30.3392132513,0,0.0,怪力青年美术馆,
+645,杭州西溪海狮主题乐园,0,0.0,,,120.045015,30.250863,0,0.0,杭州西溪海狮主题乐园,
+646,戏游·南宋记忆,0,0.0,,,120.17611,30.244783,0,0.0,戏游南宋记忆,
+647,小古城村水上嘉年华,0,0.0,,,119.870771,30.397574,0,0.0,小古城村水上嘉年华,
+648,江南春堂,0,0.0,,,119.2890902707,29.4772899264,0,0.0,江南春堂,
+649,白石港公园,0,0.0,,,120.229924347,30.3029657818,0,0.0,白石港公园,
+650,石桥武林新城文化公园,0,0.0,,,120.1927469194,30.33688927,0,0.0,石桥武林新城文化公园,
+651,谢村体育公园,0,0.0,,,120.1397863181,30.3474527969,0,0.0,谢村体育公园,
+652,大草坪游憩公园,0,0.0,,,119.7810385276,30.2432684911,0,0.0,大草坪游憩公园,
+653,心语家苑文化公园,0,0.0,,,120.2549519938,30.3985613489,0,0.0,心语家苑文化公园,
+654,浩楠四季果园,0,0.0,,,120.173806,29.941005,0,0.0,浩楠四季果园,
+655,乐老城隍庙,0,0.0,,,120.4668757807,30.2994493943,0,0.0,乐老城隍庙,
+656,幸运桥-观景台,0,0.0,,,119.0109890083,29.617926496,0,0.0,幸运桥观景台,
+657,鹿苑,0,0.0,,,119.9958665844,30.3931580256,0,0.0,鹿苑,
+658,四歌樱花园,0,0.0,,,120.0095159774,30.3428745643,0,0.0,四歌樱花园,
+659,嘉木礼茶广场,0,0.0,,,120.0593810856,30.1911005692,0,0.0,嘉木礼茶广场,
+660,莲池,0,0.0,,,120.1466211023,30.2563361308,0,0.0,莲池,
+661,良渚梓蔻花园,0,0.0,,,120.084907,30.410557,0,0.0,良渚梓蔻花园,
+662,金莲池,0,0.0,,,120.1028273425,30.2490584161,0,0.0,金莲池,
+663,清凉峰玫瑰小镇,0,0.0,,,119.004238,30.122441,0,0.0,清凉峰玫瑰小镇,
+664,四宜亭,0,0.0,,,120.1693599421,30.2403535836,0,0.0,四宜亭,
+665,济公殿,0,0.0,,,120.1550404743,30.2348815005,0,0.0,济公殿,
+666,千岛湖文化大观园,0,0.0,,,119.0267627684,29.6056446555,0,0.0,千岛湖文化大观园,
+667,陆城门,0,0.0,,,120.000055,30.388783,0,0.0,陆城门,
+668,安家塘21号建筑,0,0.0,,,120.1496803342,30.2094205257,0,0.0,安家塘号建筑,
+669,雪舫,0,0.0,,,120.1364677847,30.2372905507,0,0.0,雪舫,
+670,龙门古镇-连理树,0,0.0,,,119.9520778171,29.9101736147,0,0.0,龙门古镇连理树,
+671,蜈蚣岭,0,0.0,,,119.8176116818,30.2063126279,0,0.0,蜈蚣岭,
+672,戴村仙女湖,0,0.0,,,120.1856351145,30.0199152193,0,0.0,戴村仙女湖,
+673,西湖风景名胜区-圣塘闸亭,0,0.0,,,120.1583181706,30.2686752682,0,0.0,西湖风景名胜区圣塘闸亭,
+674,坝子桥,0,100.0,,,120.184519,30.279896,0,0.0,坝子桥,
+675,神舟基地景点,0,0.0,,,120.1347738428,30.2493763155,0,0.0,神舟基地景点,
+676,乌龙涧铁道铁轨景,0,0.0,,,119.9598331047,30.2984042285,0,0.0,乌龙涧铁道铁轨景,
+677,运河映巷影视文化街区,0,0.0,,,120.21325646,30.2800481802,0,0.0,运河映巷影视文化街区,
+678,圆融楼,0,0.0,,,120.1093979986,30.2401506507,0,0.0,圆融楼,
+679,金莱街,0,0.0,,,120.2791650067,30.1874626356,0,0.0,金莱街,
+680,城隍牌楼,0,0.0,,,120.1771911245,30.2408539167,0,0.0,城隍牌楼,
+681,杭州虎山水库,0,0.0,,,120.208569429,30.3653887785,0,0.0,杭州虎山水库,
+682,梅花凉亭,0,0.0,,,120.159127,30.268753,0,0.0,梅花凉亭,
+683,沙漠绿洲多肉植物园,0,0.0,,,119.104332,29.599908,0,0.0,沙漠绿洲多肉植物园,
+684,五彩萌宠乐园,0,0.0,,,119.9152740861,30.0008465703,0,0.0,五彩萌宠乐园,
+685,叶庆文艺术馆,0,0.0,,,120.249822343,30.3997328773,0,0.0,叶庆文艺术馆,
+686,拱墅区非遗馆,0,0.0,,,120.1478782316,30.3235554398,0,0.0,拱墅区非遗馆,
+687,淳安县科技馆,0,0.0,,,119.1179691023,29.6001252447,0,0.0,淳安县科技馆,
+688,中国美术学院民艺博物馆,0,0.0,,,120.085337,30.160237,0,0.0,中国美术学院民艺博物馆,
+689,千鹤妇女精神教育基地,0,0.0,,,119.4756032462,29.5466819937,0,0.0,千鹤妇女精神教育基地,
+690,杭州当代美术馆,0,0.0,,,120.2279352886,30.3005174208,0,0.0,杭州当代美术馆,
+691,峙山公园,0,0.0,,,120.2527183028,30.0446897671,0,0.0,峙山公园,
+692,新安江国际滨水公园彩绘田园,0,0.0,,,119.3779520314,29.5122320269,0,0.0,新安江国际滨水公园彩绘田园,
+693,光达美术馆,0,0.0,,,120.152079447,30.2119631931,0,0.0,光达美术馆,
+694,桐庐县气象科普馆,0,0.0,,,119.679879,29.809051,0,0.0,桐庐县气象科普馆,
+695,青山公园,0,0.0,,,119.825676,30.250279,0,0.0,青山公园,
+696,新塘公园,0,0.0,,,119.0542792463,29.617454354,0,0.0,新塘公园,
+697,空港体育公园,0,0.0,,,120.4602036969,30.2578475725,0,0.0,空港体育公园,
+698,富春江江鲜展示馆,0,0.0,,,119.8297388839,29.8942294866,0,0.0,富春江江鲜展示馆,
+699,迎宾公园,0,0.0,,,120.3110310704,30.3942546067,0,0.0,迎宾公园,
+700,崇鉴艺术馆,0,0.0,,,120.1584542031,30.2192921947,0,0.0,崇鉴艺术馆,
+701,运河金石博物馆,0,0.0,,,120.1451392284,30.3248428721,0,0.0,运河金石博物馆,
+702,大关公园,0,0.0,,,120.1625761022,30.3090738818,0,0.0,大关公园,
+703,生态湿地公园,0,0.0,,,120.3739886177,30.3210585852,0,0.0,生态湿地公园,
+704,银湖公园,0,0.0,,,119.9917616913,30.1481140478,0,0.0,银湖公园,
+705,石林火车公园,0,0.0,,,119.1965314367,29.4911554144,0,0.0,石林火车公园,
+706,江滨公园,0,40.0,,,119.6842046375,29.807766858,0,0.0,江滨公园,
+707,MG19七章公园,0,0.0,,,120.2706991032,30.3285435866,0,0.0,七章公园,MG
+708,凤凰山休闲公园,0,0.0,,,119.9494225589,30.2581280633,0,0.0,凤凰山休闲公园,
+709,利乐津梁,0,0.0,,,120.1331895502,30.2042467123,0,0.0,利乐津梁,
+710,鸠坑茶博馆,0,0.0,,,118.7220413162,29.6889935867,0,0.0,鸠坑茶博馆,
+711,浙江理工大学下沙（校区）丝绸博物馆,0,0.0,,,120.3575388017,30.3177110739,0,0.0,浙江理工大学下沙校区丝绸博物馆,
+712,龙山公园,0,0.0,,,120.2022013207,30.3663512693,0,0.0,龙山公园,
+713,骑行公园,0,0.0,,,120.037951329,30.1874703803,0,0.0,骑行公园,
+714,地质文化体验中心,0,0.0,,,120.1900578603,30.1908280916,0,0.0,地质文化体验中心,
+715,杭州迪塞卡卡丁车馆,0,0.0,,,120.367415,30.31647,0,0.0,杭州迪塞卡卡丁车馆,
+716,西施文化公园,0,0.0,,,120.255738,30.057179,0,0.0,西施文化公园,
+717,湖山公园,0,0.0,,,119.0488524103,29.6078518172,0,0.0,湖山公园,
+718,子胥公园,0,0.0,,,119.5595415324,29.6215624383,0,0.0,子胥公园,
+719,凤山公园,0,0.0,,,120.1799327218,30.2279341264,0,0.0,凤山公园,
+720,西河公园,0,0.0,,,120.2694973827,30.1640595353,0,0.0,西河公园,
+721,南宋名人园,0,0.0,,,120.1775338446,30.2528500344,0,0.0,南宋名人园,
+722,靖江公园,0,0.0,,,120.4784968635,30.2334418339,1,0.0,靖江公园,
+723,水美公园,0,0.0,,,120.3222488857,30.3907305815,0,0.0,水美公园,
+724,墩祥街地铁商业街,0,0.0,,,120.0933296878,30.3374816705,0,0.0,墩祥街地铁商业街,
+725,儿童公园,0,0.0,,,119.954347,30.059895,0,0.0,儿童公园,
+726,狮山公园,0,0.0,,,119.8317722162,30.2807943181,0,0.0,狮山公园,
+727,南翔公园,0,0.0,,,120.447816,30.263233,0,0.0,南翔公园,
+728,千岛湖啤酒激情广场,0,0.0,,,119.1536909369,29.6136252755,0,0.0,千岛湖啤酒激情广场,
+729,市民公园,0,0.0,,,120.1629690086,30.2794828971,0,0.0,市民公园,
+730,知章公园,0,0.0,,,120.2853325486,30.1472053553,0,0.0,知章公园,
+731,滨河公园,0,0.0,,,120.0988329357,30.451298698,0,0.0,滨河公园,
+732,申花公园,0,0.0,,,120.1157225732,30.3137664479,0,0.0,申花公园,
+733,梅林公园,0,0.0,,,119.7099572793,29.8099119627,0,0.0,梅林公园,
+734,连心公园,0,0.0,,,119.6380645906,29.8587684534,0,0.0,连心公园,
+735,建德江滨公园,0,0.0,,,119.2845194551,29.4761907334,0,0.0,建德江滨公园,
+736,东新公园,0,0.0,,,120.1792185692,30.3033395734,0,0.0,东新公园,
+737,宪法公园,0,0.0,,,120.2064751479,30.2149099974,0,0.0,宪法公园,
+738,小江公园,0,0.0,,,120.1311726694,30.1407736349,0,0.0,小江公园,
+739,望湖公园,0,0.0,,,119.747025,30.236006,0,0.0,望湖公园,
+740,天煌公园,0,0.0,,,120.0806214086,30.1261550928,0,0.0,天煌公园,
+741,畲族文化公园,0,0.0,,,119.2340455022,29.5642644927,0,0.0,畲族文化公园,
+742,施家瑭公园,0,0.0,,,119.0505310946,29.6070925236,0,0.0,施家瑭公园,
+743,东门公园,0,0.0,,,119.4519239736,29.9338208849,0,0.0,东门公园,
+744,城河公园,0,0.0,,,120.2880910187,30.1660334399,0,0.0,城河公园,
+745,新城时代广场,0,0.0,,,120.2132802558,30.2714516034,0,0.0,新城时代广场,
+746,渔港公园,0,0.0,,,119.0343263417,29.6067677099,0,0.0,渔港公园,
+747,公望美术馆,0,0.0,,,119.944506,30.026704,0,0.0,公望美术馆,
+748,西湖国画艺术馆,0,0.0,,,120.1775681971,30.2431042105,0,0.0,西湖国画艺术馆,
+749,淳安政协书画院,0,0.0,,,119.0200586768,29.599741514,0,0.0,淳安政协书画院,
+750,江南文学会馆,0,0.0,,,120.1388805131,30.2586405416,0,0.0,江南文学会馆,
+751,刘江艺术馆,0,0.0,,,120.1776437838,30.2445129361,0,0.0,刘江艺术馆,
+752,二龙山,0,0.0,,,120.1293748545,30.2081655494,0,0.0,二龙山,
+753,吉庆山,0,0.0,,,120.1245837541,30.2403972206,0,0.0,吉庆山,
+754,爱之谷,0,0.0,,,119.539662,29.934141,0,0.0,爱之谷,
+755,凌云天桥,0,0.0,,,119.541018,29.932582,0,0.0,凌云天桥,
+756,天使之翼,0,0.0,,,119.542528,29.933907,0,0.0,天使之翼,
+757,邮政分局旧址,0,0.0,,,120.1776706889,30.2453479282,0,0.0,邮政分局旧址,
+758,山沟沟玻璃桥,0,0.0,,,119.7252092903,30.4291099119,0,0.0,山沟沟玻璃桥,
+759,浦发图书信息楼,0,0.0,,,120.3896123873,30.3281640928,0,0.0,浦发图书信息楼,
+760,中共余杭历史馆,0,0.0,,,120.3035709681,30.4097820362,0,0.0,中共余杭历史馆,
+761,西湖区图书馆,0,0.0,,,120.1051932865,30.2887506789,0,0.0,西湖区图书馆,
+762,远洋国际YEAH街区,0,0.0,,,120.1490244803,30.3121562788,0,0.0,远洋国际街区,YEAH
+763,西溪艺得美术馆,0,0.0,,,120.0847208677,30.287162635,0,0.0,西溪艺得美术馆,
+764,下城图书馆,0,0.0,,,120.176847,30.297734,0,0.0,下城图书馆,
+765,杭州少年儿童图书馆,0,0.0,,,120.1416054979,30.2694824037,0,0.0,杭州少年儿童图书馆,
+766,富义仓艺术中心,0,94.0,,,120.156359,30.301694,1,0.0,富义仓艺术中心,
+767,新安公园,0,0.0,,,120.28482,30.183233,0,0.0,新安公园,
+768,北城墙遗址展示区,0,0.0,,,119.9988459706,30.4057752685,0,0.0,北城墙遗址展示区,
+769,景芳公园,0,94.0,,,120.2170826694,30.2748765609,0,0.0,景芳公园,
+770,北塘公园,0,96.0,,,120.2414858918,30.1961474256,0,0.0,北塘公园,
+771,上八眼井,0,0.0,,,120.1724445565,30.2442822612,0,0.0,上八眼井,
+772,涌金公园,0,100.0,,,120.1668173795,30.2517459367,0,0.0,涌金公园,
+773,紫新汇艺术馆,0,0.0,,,120.0989691327,30.2969847372,0,0.0,紫新汇艺术馆,
+774,大马山,0,0.0,,,120.0671877097,30.2317107486,0,0.0,大马山,
+775,古新河公园,0,0.0,,,120.1565500265,30.2858566286,0,0.0,古新河公园,
+776,城西公园,0,0.0,,,120.092712801,30.2658536076,0,0.0,城西公园,
+777,梦笔园公园,0,0.0,,,120.2776070913,30.1675504938,0,0.0,梦笔园公园,
+778,扇子山,0,0.0,,,120.0791410208,30.2449788375,0,0.0,扇子山,
+779,南宋皇城小镇,0,100.0,,,120.1761308986,30.2247959196,0,0.0,南宋皇城小镇,
+780,童公尖,0,0.0,,,119.0222198901,30.2419268285,0,0.0,童公尖,
+781,圣塘路别墅群,0,0.0,,,120.1641748726,30.2636988198,0,0.0,圣塘路别墅群,
+782,杨乃武墓,0,0.0,,,119.9062273506,30.2880547643,0,0.0,杨乃武墓,
+783,白鹤峰,0,0.0,,,120.1253109215,30.2219271078,0,0.0,白鹤峰,
+784,马市街民居建筑,0,80.0,,,120.1820806141,30.2616031521,0,0.0,马市街民居建筑,
+785,钱江世纪城体育公园,0,0.0,,,120.2816429893,30.2238380636,0,0.0,钱江世纪城体育公园,
+786,吴敬斋旧居,0,0.0,,,120.1766638353,30.245754587,0,0.0,吴敬斋旧居,
+787,江南春公园,0,0.0,,,120.4470808725,30.196334848,0,0.0,江南春公园,
+788,徐宅,0,0.0,,,120.1767192228,30.2552659065,0,0.0,徐宅,
+789,百丈岭,0,0.0,,,119.0148501337,30.2077660065,0,0.0,百丈岭,
+790,兴惠公园,0,0.0,,,120.3824345955,30.1744766763,0,0.0,兴惠公园,
+791,永兴公园,0,0.0,,,120.2722486253,30.1664997494,0,0.0,永兴公园,
+792,艺尚人才公园,0,0.0,,,120.3022410297,30.3932703663,0,0.0,艺尚人才公园,
+793,丁家花园,0,0.0,,,120.1737046789,30.2525430425,0,0.0,丁家花园,
+794,五常湿地,0,0.0,,,120.0320806033,30.2759194814,0,0.0,五常湿地,
+795,洪桐公园,0,80.0,,,119.9266955958,30.3052918295,0,0.0,洪桐公园,
+796,峡川湖,0,0.0,,,119.0478519042,30.0893715047,0,0.0,峡川湖,
+797,越王峥,0,0.0,,,120.3419055449,30.0925580987,0,0.0,越王峥,
+798,中华书局分局旧址,0,0.0,,,120.1716263665,30.2585174518,0,0.0,中华书局分局旧址,
+799,济民园,0,0.0,,,120.2554116721,30.1909302896,0,0.0,济民园,
+800,汪宅,0,0.0,,,120.1795335844,30.2436702508,0,0.0,汪宅,
+801,乾隆御碑与水利通判厅遗址,0,0.0,,,120.19132,30.485249,0,0.0,乾隆御碑与水利通判厅遗址,
+802,孤云草舍,0,0.0,,,120.1500523424,30.2620107142,0,0.0,孤云草舍,
+803,锦鳞公园,0,0.0,,,120.3554776862,30.3143114474,0,0.0,锦鳞公园,
+804,向公休闲文化公园,0,100.0,,,120.4789677978,30.3084227634,0,0.0,向公休闲文化公园,
+805,闻堰人民公园,0,0.0,,,120.1905197298,30.1278866195,0,0.0,闻堰人民公园,
+806,下孙古邨,0,60.0,,,120.241267852,30.1635481286,0,0.0,下孙古邨,
+807,仓前粮仓,0,0.0,,,120.0136135942,30.2981248844,0,0.0,仓前粮仓,
+808,老余杭南湖,0,0.0,,,119.9376540753,30.2721267705,0,0.0,老余杭南湖,
+809,良渚花千谷,0,0.0,,,119.997538331,30.424073001,0,0.0,良渚花千谷,
+810,红梅公园,0,0.0,,,120.1961721831,30.3001813022,0,0.0,红梅公园,
+811,建德白岭坑水库,0,0.0,,,119.1950969053,29.2893270079,0,0.0,建德白岭坑水库,
+812,月坪公园,0,0.0,,,119.2843372269,29.4801865709,0,0.0,月坪公园,
+813,打铁关历史文化碑廊,0,0.0,,,120.1826145779,30.287621269,0,0.0,打铁关历史文化碑廊,
+814,临平运动公园,0,0.0,,,120.2750080344,30.4188119671,0,0.0,临平运动公园,
+815,杭州市天子岭循环经济产业园区,0,0.0,,,120.2030416546,30.394077168,0,0.0,杭州市天子岭循环经济产业园区,
+816,中山路步行街,0,0.0,,,119.2231143825,29.3665559352,0,0.0,中山路步行街,
+817,安吉路35号别墅建筑,0,0.0,,,120.1640467699,30.2722809745,0,0.0,安吉路号别墅建筑,
+818,岳官巷吴宅,0,86.0,,,120.1822448301,30.2649129582,0,0.0,岳官巷吴宅,
+819,杨旗公园,0,0.0,,,118.5580454917,29.4371366681,0,0.0,杨旗公园,
+820,红巷生活广场,0,0.0,,,120.1789376607,30.2606592573,0,0.0,红巷生活广场,
+821,瓜沥塘头公园,0,0.0,,,120.4696006483,30.1830755007,0,0.0,瓜沥塘头公园,
+822,三昧庵巷8号建筑,0,0.0,,,120.1838120869,30.2479338647,0,0.0,三昧庵巷号建筑,
+823,里畈水库,0,0.0,,,119.6142714826,30.3430117809,0,0.0,里畈水库,
+824,皇国山市民公园,0,0.0,,,120.2312861071,30.4681762546,0,0.0,皇国山市民公园,
+825,白沙公园,0,0.0,,,119.2909350771,29.4723423663,0,0.0,白沙公园,
+826,康桥花海,0,0.0,,,120.1547850936,30.3702833159,0,0.0,康桥花海,
+827,时代公园,0,0.0,,,120.2758144014,30.1833986025,0,0.0,时代公园,
+828,古清泰门公园,0,0.0,,,120.1911373809,30.2529084047,0,0.0,古清泰门公园,
+829,拱墅区爱心科技体验馆,0,0.0,,,120.1475760217,30.3043881457,0,0.0,拱墅区爱心科技体验馆,
+830,恒德东方森林,0,0.0,,,119.9488660419,30.4123118553,0,0.0,恒德东方森林,
+831,富阳气象科普公园,0,0.0,,,119.96136161,30.0585235491,0,0.0,富阳气象科普公园,
+832,环翠楼,0,0.0,,,120.1757819975,30.2450913983,0,0.0,环翠楼,
+833,新塘高铁公园,0,0.0,,,120.3076067204,30.1552254493,0,0.0,新塘高铁公园,
+834,十竹斎艺术馆,0,0.0,,,120.175773995,30.2695304575,0,0.0,十竹斎艺术馆,
+835,五柳芳庭,0,0.0,,,120.181858,30.245541,0,0.0,五柳芳庭,
+836,仓前羊锅村,0,0.0,,,119.9761571855,30.3179938446,0,0.0,仓前羊锅村,
+837,东城文体公园,0,0.0,,,120.2761207013,30.314715818,0,0.0,东城文体公园,
+838,陆游诗词碑廊,0,0.0,,,120.1746282292,30.2676193881,0,0.0,陆游诗词碑廊,
+839,威坪广场,0,0.0,,,118.7930760639,29.7280785165,0,0.0,威坪广场,
+840,钦堂公园,0,0.0,,,119.577528815,29.7143436296,0,0.0,钦堂公园,
+841,狮象湾,0,0.0,,,120.1222790685,30.2166401459,0,0.0,狮象湾,
+842,健康主题公园,0,0.0,,,119.6838416381,29.7973390943,0,0.0,健康主题公园,
+843,西湾坑神仙谷风景区,0,0.0,,,119.4398929202,29.4513395291,0,0.0,西湾坑神仙谷风景区,
+844,仁智里1至18号建筑,0,0.0,,,120.1814489393,30.247112826,0,0.0,仁智里至号建筑,
+845,恩波公园,0,0.0,,,119.9608541833,30.0553096269,0,0.0,恩波公园,
+846,梅鹤堂,0,0.0,,,120.1667628702,30.2655556958,0,0.0,梅鹤堂,
+847,30°C创意园,0,0.0,,,120.2043508427,30.3294566061,0,0.0,创意园,C
+848,下梓公园,0,0.0,,,119.6053018864,29.6745762034,0,0.0,下梓公园,
+849,运河中央公园,0,0.0,,,120.1327578118,30.322078001,0,0.0,运河中央公园,
+850,超山文化创意园,0,0.0,,,120.2254127425,30.4518924922,0,0.0,超山文化创意园,
+851,国家厂丝储备杭州仓库建筑,0,0.0,,,120.1514826574,30.3059392175,0,0.0,国家厂丝储备杭州仓库建筑,
+852,井山坞生态园,0,0.0,,,120.222372,30.15519,0,0.0,井山坞生态园,
+853,宋烈文侯张宪墓址,0,0.0,,,120.1359029415,30.2600502018,0,0.0,宋烈文侯张宪墓址,
+854,三官堂,0,0.0,,,120.0967279085,30.3020582481,0,0.0,三官堂,
+855,双溪风情小镇,0,0.0,,,119.8349675482,30.4088442834,0,0.0,双溪风情小镇,
+856,樱花谷乐园,0,70.0,,,119.8867157421,30.429326832,0,0.0,樱花谷乐园,
+857,古南星桥,0,100.0,,,120.1793220227,30.2325469505,0,0.0,古南星桥,
+858,信息港公园,0,0.0,,,120.2570938884,30.2145498488,0,0.0,信息港公园,
+859,镬子山公园,0,0.0,,,119.9619296566,30.058577161,0,0.0,镬子山公园,
+860,吴越文化公园,0,0.0,,,119.741434021,30.2325202312,0,0.0,吴越文化公园,
+861,申屠氏宗祠,0,80.0,,,119.8343905531,29.8660401295,0,0.0,申屠氏宗祠,
+862,水文化公园,0,0.0,,,120.1847345918,30.2782670409,0,0.0,水文化公园,
+863,将台山,0,0.0,,,120.1616006203,30.2224203777,0,0.0,将台山,
+864,市民林,0,0.0,,,120.163566396,30.2426283427,0,0.0,市民林,
+865,候潮公园,0,74.0,,,120.18151,30.232806,0,0.0,候潮公园,
+866,三训堂,0,0.0,,,120.1626494488,30.2451526469,0,0.0,三训堂,
+867,凯旋体育文化公园,0,0.0,,,120.1969801033,30.2762992962,0,0.0,凯旋体育文化公园,
+868,茶语公园,0,0.0,,,120.0254034464,30.3757443367,0,0.0,茶语公园,
+869,梦栖小镇设计中心,0,0.0,,,120.0387704346,30.385892047,0,0.0,梦栖小镇设计中心,
+870,IT公园,0,0.0,,,120.0139818712,30.2814649944,0,0.0,公园,IT
+871,长河古镇,0,0.0,,,120.1995635415,30.1785074071,0,0.0,长河古镇,
+872,文化公园,0,0.0,,,119.1959234789,29.7402446671,0,0.0,文化公园,
+873,高沙渠公园,0,0.0,,,120.3346208209,30.3246306221,0,0.0,高沙渠公园,
+874,文澜化雨,0,0.0,,,120.1352032921,30.3296761751,0,0.0,文澜化雨,
+875,北峰塔,0,0.0,,,119.5317428832,29.5490259106,0,0.0,北峰塔,
+876,龙山水库,0,0.0,,,120.202389579,30.3638208488,0,0.0,龙山水库,
+877,东河清廉文化园,0,0.0,,,120.1849705498,30.2791745938,0,0.0,东河清廉文化园,
+878,大凰山,0,0.0,,,120.1279843238,30.2055829938,0,0.0,大凰山,
+879,浙东运河萧山展示馆,0,100.0,,,120.2780228828,30.167825649,0,0.0,浙东运河萧山展示馆,
+880,夹城夜月文化公园,0,0.0,,,120.1590646943,30.2960295742,0,0.0,夹城夜月文化公园,
+881,锦绣清风园,0,0.0,,,120.1592005845,30.2945653859,0,0.0,锦绣清风园,
+882,钱塘生态公园,0,0.0,,,120.3211330385,30.3037710542,0,0.0,钱塘生态公园,
+883,狮城归来馆,0,0.0,,,118.678491,29.47914,0,0.0,狮城归来馆,
+884,孝子湾文化公园,0,0.0,,,119.7287089597,29.9191213419,0,0.0,孝子湾文化公园,
+885,天目溪公园,0,90.0,,,119.6777137212,29.8177504765,0,0.0,天目溪公园,
+886,清远里公园,0,0.0,,,120.176458742,30.2696907451,0,0.0,清远里公园,
+887,贤明山公园,0,0.0,,,119.7391549222,29.9654441878,0,0.0,贤明山公园,
+888,民生园,0,0.0,,,120.1957102676,30.2840181254,0,0.0,民生园,
+889,百旗山,0,0.0,,,119.452194477,29.5676125102,0,0.0,百旗山,
+890,围垦文化公园,0,0.0,,,120.3945660105,30.307548061,0,0.0,围垦文化公园,
+891,王锦培旧居,0,0.0,,,120.174079,30.248574,0,0.0,王锦培旧居,
+892,米市文化公园,0,0.0,,,120.1632965557,30.278977128,0,0.0,米市文化公园,
+893,传统工艺馆,0,0.0,,,120.1823619423,30.2648904616,0,0.0,传统工艺馆,
+894,青年林,0,0.0,,,120.3409394173,30.282338834,0,0.0,青年林,
+895,观音塘公园,0,0.0,,,120.206943145,30.2462553721,0,0.0,观音塘公园,
+896,西湖法国红酒文化陈列馆,0,0.0,,,120.162939,30.243852,0,0.0,西湖法国红酒文化陈列馆,
+897,杭州老虎洞南宋窑址,0,80.0,,,120.1624302576,30.2158341337,0,0.0,杭州老虎洞南宋窑址,
+898,浙江省文化馆(西湖文化广场),0,0.0,,,120.1710924553,30.2833291957,0,0.0,浙江省文化馆西湖文化广场,
+899,双流公园,0,0.0,,,120.070274648,30.1512011665,0,0.0,双流公园,
+900,入区口公园,0,0.0,,,120.2595490865,30.4626320741,0,0.0,入区口公园,
+901,小埃菲尔铁塔,0,0.0,,,120.2544148416,30.3894652953,0,0.0,小埃菲尔铁塔,
+902,铜鉴湖花海,0,0.0,,,120.079714,30.123865,0,0.0,铜鉴湖花海,
+903,淳果小镇火龙果基地,0,0.0,,,119.1403712991,29.6443858859,0,0.0,淳果小镇火龙果基地,
+904,岝萼山公园,0,0.0,,,119.3974310041,30.1936504595,0,0.0,岝萼山公园,
+905,象山国际艺术区,0,0.0,,,120.0854152404,30.1547732346,0,0.0,象山国际艺术区,
+906,贺家山,0,0.0,,,120.1518319179,30.214631608,0,0.0,贺家山,
+907,新农都会展中心,0,0.0,,,120.3087447836,30.2065280985,0,0.0,新农都会展中心,
+908,桐庐规划馆,0,0.0,,,119.6939889395,29.8066923186,0,0.0,桐庐规划馆,
+909,大象艺术馆,0,0.0,,,120.2567398192,30.1742383652,0,0.0,大象艺术馆,
+910,云栖小镇国际会展中心一期,0,0.0,,,120.0913776564,30.1335518532,0,0.0,云栖小镇国际会展中心一期,
+911,江墅铁道陈列馆,0,0.0,,,120.149709,30.319244,0,0.0,江墅铁道陈列馆,
+912,雷峰塔文物馆,0,94.0,,,120.1499859388,30.2570363008,0,0.0,雷峰塔文物馆,
+913,浣花斋美术馆,0,0.0,,,120.1777505811,30.2440879219,0,0.0,浣花斋美术馆,
+914,浙江测绘与地理信息科技博物馆,0,0.0,,,120.0333734869,30.2778446369,0,0.0,浙江测绘与地理信息科技博物馆,
+915,万融茶界科技馆,0,0.0,,,120.0645165686,30.1890560722,0,0.0,万融茶界科技馆,
+916,浙江鸿民陨石文化博物馆,0,0.0,,,120.1941284513,30.2637893271,0,0.0,浙江鸿民陨石文化博物馆,
+917,杭州铁路博物馆知青纪念馆,0,0.0,,,120.1419002497,30.2073130083,0,0.0,杭州铁路博物馆知青纪念馆,
+918,荣美术馆,0,0.0,,,120.0846243332,30.1547589171,0,0.0,荣美术馆,
+919,博艺美术馆,0,0.0,,,120.1439208993,30.3281810273,0,0.0,博艺美术馆,
+920,中国建筑陶瓷博物馆浙江分馆,0,0.0,,,120.1558779803,30.2131065016,0,0.0,中国建筑陶瓷博物馆浙江分馆,
+921,浙江大茗堂茶科技体验馆,0,0.0,,,120.0649686288,30.1892022123,0,0.0,浙江大茗堂茶科技体验馆,
+922,中国千岛湖中医药博物馆,0,0.0,,,119.124791293,29.8570490408,0,0.0,中国千岛湖中医药博物馆,
+923,中国美院展览馆,0,0.0,,,120.1668673074,30.2494255201,0,0.0,中国美院展览馆,
+924,建德博物馆,0,100.0,,,119.300551,29.47444,0,0.0,建德博物馆,
+925,千岛湖石林港湾运动小镇Qiandao Lake Shilin Habour,0,100.0,,,119.094279,29.475777,0,0.0,千岛湖石林港湾运动小镇,QiandaoLakeShilinHabour
+926,望宸阁,0,100.0,,,120.1925939641,30.3650659593,0,0.0,望宸阁,
+927,上塘河风情小镇,0,0.0,,,120.181662,30.338759,0,0.0,上塘河风情小镇,
+928,建德新安江玉温泉水上乐园,0,0.0,,,119.214957499,29.3749222411,0,0.0,建德新安江玉温泉水上乐园,
+929,劝学公园,0,100.0,,,120.024129552,30.3556731614,0,0.0,劝学公园,
+930,w摄影基地,0,0.0,,,120.226399,30.179247,0,0.0,摄影基地,w
+931,空山美术馆,0,0.0,,,120.1730473752,30.2263121806,0,0.0,空山美术馆,
+932,丰收湖公园,0,0.0,,,120.2874337795,30.3357011046,0,0.0,丰收湖公园,
+933,武盛古街,0,0.0,,,119.440331,29.934497,0,0.0,武盛古街,
+934,富阳博物馆,0,0.0,,,119.944788,30.026888,0,0.0,富阳博物馆,
+935,中国昌化鸡血石博物馆,0,0.0,,,119.73594,30.231755,0,0.0,中国昌化鸡血石博物馆,
+936,浙江大学艺术与考古博物馆,0,88.0,,,120.077884,30.303277,0,0.0,浙江大学艺术与考古博物馆,
+937,浙江省现代陶瓷艺术博物馆,0,0.0,,,120.2227359766,30.1326471529,1,0.0,浙江省现代陶瓷艺术博物馆,
+938,状元里,0,0.0,,,119.602827,30.044052,0,0.0,状元里,
+939,萧山信息港小镇,0,0.0,,,120.254082,30.209957,0,0.0,萧山信息港小镇,
+940,小营江南红巷,0,100.0,,,120.183812,30.258146,0,0.0,小营江南红巷,
+941,丁兰智慧小镇,0,0.0,,,120.239801,30.387068,0,0.0,丁兰智慧小镇,
+942,大地之野龙坞小森林,0,0.0,,,120.047222,30.183496,0,0.0,大地之野龙坞小森林,
+943,彭埠老街,0,94.0,,,120.2319127962,30.2945402898,0,0.0,彭埠老街,
+944,杭州印象星空光影艺术馆（南宋御街店）,0,100.0,,,120.177422,30.245431,0,0.0,杭州印象星空光影艺术馆南宋御街店,
+945,拱墅区图书馆,0,0.0,,,120.13226646,30.3264342385,0,0.0,拱墅区图书馆,
+946,铜鉴湖云栖公园,0,70.0,,,120.079425,30.130703,0,0.0,铜鉴湖云栖公园,
+947,由老九柯尔鸭萌宠乐园,0,0.0,,,120.184689,30.330497,0,0.0,由老九柯尔鸭萌宠乐园,
+948,鹅溪畲寨,0,0.0,,,119.549362,29.816168,0,0.0,鹅溪畲寨,
+949,下姜秘境花园,0,0.0,,,118.731854,29.379139,0,0.0,下姜秘境花园,
+950,妙笔智慧乐园,0,100.0,,,119.479349,29.949546,0,0.0,妙笔智慧乐园,
+951,钱唐农园,0,94.0,,,120.260751,30.297304,0,0.0,钱唐农园,
+952,大嘴蛙萌宠乐园,0,0.0,,,120.25828,30.189086,0,0.0,大嘴蛙萌宠乐园,
+953,杭州独角兽星空艺术馆（湖滨银泰in77旗舰店）,0,84.0,,,120.170069,30.25926,0,0.0,杭州独角兽星空艺术馆湖滨银泰旗舰店,in
+954,余杭运河街道千亩荷塘,0,0.0,,,120.3195185611,30.5094008898,0,0.0,余杭运河街道千亩荷塘,
+955,南阳镇敬天竺禅院,0,0.0,,,120.4434956926,30.2962796633,0,0.0,南阳镇敬天竺禅院,
+956,龙坞水库,0,0.0,,,119.8558458182,30.4846484402,0,0.0,龙坞水库,
+957,青山村,0,100.0,,,119.8398848157,30.48035104,0,0.0,青山村,
+958,西可科技园,0,0.0,,,120.2007592917,30.1954800728,0,0.0,西可科技园,
+959,杭州星空恋爱解压馆(湖滨in77店)Hangzhou Star Love And Relief Hall (Hubin In77),0,0.0,,,120.170069,30.25926,0,0.0,杭州星空恋爱解压馆湖滨店,inHangzhouStarLoveAndReliefHallHubinIn
+960,艺尚小镇Yishang Town,0,100.0,,,120.2948585166,30.3889994932,0,0.0,艺尚小镇,YishangTown
+961,怡乐园Yile Garden,0,0.0,,,120.3525554686,30.3098030057,0,0.0,怡乐园,YileGarden
+962,"凤川街道翙岗古村Huigang Ancient Village, Fengchuan Street",0,100.0,,,119.7833347817,29.8197214259,0,0.0,凤川街道翙岗古村,HuigangAncientVillageFengchuanStreet
+963,戴公馆Dai Palace,0,80.0,,,119.8448112282,29.8561219763,0,0.0,戴公馆,DaiPalace
+964,杭黄铁路展览馆Hangzhou-Huangshan Railway Exhibition Hall,0,0.0,,,119.1988062328,29.741646154,0,0.0,杭黄铁路展览馆,HangzhouHuangshanRailwayExhibitionHall
+965,安荣巷·钱皇艺术收藏特色街,0,0.0,,,120.1686269896,30.247919756,0,0.0,安荣巷钱皇艺术收藏特色街,
+966,上湖客栈,0,0.0,,,120.1617836775,30.2793971417,0,0.0,上湖客栈,
+967,凤凰神殿,0,0.0,,,119.0748563437,29.8489416939,0,0.0,凤凰神殿,
+968,1208创意公园1208 Creative Park,0,0.0,,,120.3697525447,30.3223445489,0,0.0,创意公园,CreativePark
+969,北湖草荡Beihu Grassland,0,0.0,,,119.9434745326,30.3723226326,0,0.0,北湖草荡,BeihuGrassland
+970,中美合作抗战纪念馆Memorial Hall of Sino-U.S. Cooperation in Anti-Japanese War,0,0.0,,,120.166272,29.95128,0,0.0,中美合作抗战纪念馆,MemorialHallofSinoUSCooperationinAntiJapaneseWar
+971,纸伞展示馆,0,0.0,,,119.8927046848,30.4447631797,0,0.0,纸伞展示馆,
+972,西博会国际花展,0,0.0,,,120.1941374194,30.3461432148,0,0.0,西博会国际花展,
+973,城隍庙遗址公园Town God's Temple Site Park,0,0.0,,,119.6802058742,29.8116025053,0,0.0,城隍庙遗址公园,TownGodsTempleSitePark
+974,东岳庙Dongyue Temple,0,100.0,,,120.2529943136,30.1812332883,0,0.0,东岳庙,DongyueTemple
+975,杭州眼镜博物馆,0,0.0,,,120.1710601628,30.2569597337,0,0.0,杭州眼镜博物馆,
+976,宋代玉器博物馆,0,0.0,,,120.169290201,30.2408847508,0,0.0,宋代玉器博物馆,
+977,潮音禅院Chaoyin Temple,0,0.0,,,120.317901469,30.30469882,0,0.0,潮音禅院,ChaoyinTemple
+978,范仲淹纪念馆Fan Zhongyan Memorial Hall,0,0.0,,,119.6988965578,29.7948495543,0,0.0,范仲淹纪念馆,FanZhongyanMemorialHall
+979,东溪德必易园创意产业园,0,0.0,,,120.2238827134,30.2968286978,0,0.0,东溪德必易园创意产业园,
+980,卧龙浜公园Wolongbang Park,0,0.0,,,120.1680799906,30.3849107593,0,0.0,卧龙浜公园,WolongbangPark
+981,汇林科技创意园Huilin Science and Technology Creative Park,0,0.0,,,120.2458167472,30.2043676106,0,0.0,汇林科技创意园,HuilinScienceandTechnologyCreativePark
+982,药王庙Medicine King Temple,0,0.0,,,120.2978154719,30.213022575,0,0.0,药王庙,MedicineKingTemple
+983,听雨楼美术馆,0,0.0,,,120.1599921364,30.2363582446,0,0.0,听雨楼美术馆,
+984,栖云寺Qiyun Temple,0,0.0,,,120.165714,30.222076,0,0.0,栖云寺,QiyunTemple
+985,杭州沿江湿地公园Hangzhou Riverside Wetland Park,0,70.0,,,120.3646313269,30.2684289858,0,0.0,杭州沿江湿地公园,HangzhouRiversideWetlandPark
+986,神仙洞探险基地Fairy Cave Exploration Base,0,0.0,,,119.5526339115,29.8537066134,0,0.0,神仙洞探险基地,FairyCaveExplorationBase
+987,长谷洞天景区Canggu Dongtian Scenic Area,0,0.0,,,120.1593263412,30.2733988172,0,0.0,长谷洞天景区,CangguDongtianScenicArea
+988,临安新四军历史纪念馆Lin'an New Fourth Army Historical Memorial Hall,0,0.0,,,119.7897178783,30.1682341611,0,0.0,临安新四军历史纪念馆,LinanNewFourthArmyHistoricalMemorialHall
+989,五福里建筑群Wufuli Architectural Complex,0,100.0,,,120.172566969,30.2591272687,0,0.0,五福里建筑群,WufuliArchitecturalComplex
+990,老虎洞山风景区Tiger Cave Mountain Scenic Area,0,0.0,,,120.2038855758,30.1337768059,0,0.0,老虎洞山风景区,TigerCaveMountainScenicArea
+991,吴昌硕先生纪念馆,0,0.0,,,120.22343406,30.4405489749,0,0.0,吴昌硕先生纪念馆,
+992,基督教磐石堂Christian Panshi Church,0,0.0,,,120.328461,30.298102,0,0.0,基督教磐石堂,ChristianPanshiChurch
+993,唯美公园,0,0.0,,,120.1517458424,30.3319252664,0,0.0,唯美公园,
+994,元谷创意园Yuangu Creative Park,0,0.0,,,120.1369187488,30.3120408174,0,0.0,元谷创意园,YuanguCreativePark
+995,留下古玩藏品一条街Liuxia Street of Antique Collections,0,0.0,,,120.0630737746,30.2472083192,0,0.0,留下古玩藏品一条街,LiuxiaStreetofAntiqueCollections
+996,杭州大城北规划展示馆Hangzhou Dachengbei Planning Exhibition Hall,0,0.0,,,120.144665516,30.3320071913,0,0.0,杭州大城北规划展示馆,HangzhouDachengbeiPlanningExhibitionHall
+997,气象科普体验馆Meteorological Science Experience Hall,0,0.0,,,120.1755635005,30.2294959738,0,0.0,气象科普体验馆,MeteorologicalScienceExperienceHall
+998,显宁寺Xianning Temple,0,0.0,,,120.2019947914,30.37910589,0,0.0,显宁寺,XianningTemple
+999,欢潭村Huantan Village,0,90.0,,,120.3183619622,29.9588948016,0,0.0,欢潭村,HuantanVillage
+1000,萧山首届迪斯尼童玩嘉年华Disney Children Carnival,0,90.0,,,120.2260078748,30.1417884125,0,0.0,萧山首届迪斯尼童玩嘉年华,DisneyChildrenCarnival
+1001,吴理人民俗艺术馆,0,0.0,,,120.1452524551,30.3235333114,0,0.0,吴理人民俗艺术馆,
+1002,"萧山进化吉山梅园Jishan Plum Garden, Jinhua Town, Xiaoshan",0,86.0,,,120.3424486399,30.0015010599,0,0.0,萧山进化吉山梅园,JishanPlumGardenJinhuaTownXiaoshan
+1003,福济寺Fuji Temple,0,0.0,,,120.2218636156,30.3341102759,0,0.0,福济寺,FujiTemple
+1004,梦里水乡Dream Water Town Scenic Area,0,0.0,,,120.1905747924,30.483024607,0,0.0,梦里水乡,DreamWaterTownScenicArea
+1005,萧山人民卫士纪念馆,0,0.0,,,120.4466373946,30.1796885629,0,0.0,萧山人民卫士纪念馆,
+1006,杭州青年运动史馆,0,0.0,,,120.1720170187,30.2618720866,0,0.0,杭州青年运动史馆,
+1007,造否空间盒子美术馆BuilTiFou Boxes Art Museum,0,0.0,,,120.0727073167,30.1417736972,0,0.0,造否空间盒子美术馆,BuilTiFouBoxesArtMuseum
+1008,静逸堂画廊Jingyitang Gallery,0,0.0,,,120.1719801849,30.193280073,0,0.0,静逸堂画廊,JingyitangGallery
+1009,大井巷历史街区Dajingxiang Historic Block,0,94.0,,,120.1735103226,30.2457205523,0,0.0,大井巷历史街区,DajingxiangHistoricBlock
+1010,泗水新村建筑群Architectural Complex of Sishui New Village,0,0.0,,,120.1722741322,30.2545319441,0,0.0,泗水新村建筑群,ArchitecturalComplexofSishuiNewVillage
+1011,东湖路市民公园Donghu Road Civic Park,0,0.0,,,120.2941927712,30.3083846177,0,0.0,东湖路市民公园,DonghuRoadCivicPark
+1012,渔人码头生态公园Fisherman's Wharf Ecological Park,0,0.0,,,120.2300538661,30.2670039345,0,0.0,渔人码头生态公园,FishermansWharfEcologicalPark
+1013,世界硒都展览馆World Selenium City Exhibition Hall,0,0.0,,,120.1289653688,30.2825088297,0,0.0,世界硒都展览馆,WorldSeleniumCityExhibitionHall
+1014,临江围垦文化园Linjiang Reclamation Cultural Park,0,0.0,,,120.5835260428,30.3052688777,0,0.0,临江围垦文化园,LinjiangReclamationCulturalPark
+1015,珊湖沙水库,0,0.0,,,120.1181961208,30.1849537992,0,0.0,珊湖沙水库,
+1016,信雅达·三清上艺术中心Sunyard Art,0,0.0,,,120.2049771813,30.2146950347,0,0.0,信雅达三清上艺术中心,SunyardArt
+1017,江南古村落Jiangnan Ancient Village,0,60.0,,,119.8423661964,29.8620914196,0,0.0,江南古村落,JiangnanAncientVillage
+1018,富阳革命英雄纪念碑Fuyang Revolutionary Heroes Monument,0,0.0,,,119.978827814,30.0630801069,0,0.0,富阳革命英雄纪念碑,FuyangRevolutionaryHeroesMonument
+1019,奥飞欢乐世界Alphaland,0,0.0,,,120.3337053961,30.3159729285,0,0.0,奥飞欢乐世界,Alphaland
+1020,杨乃武与小白菜冤案资料陈列馆Exhibition Hall of Materials on the Unjust Case of Yang Naiwu and Xiaobaicai,0,0.0,,,119.975645,30.247399,0,0.0,杨乃武与小白菜冤案资料陈列馆,ExhibitionHallofMaterialsontheUnjustCaseofYangNaiwuandXiaobaicai
+1021,杭州海塘遗址博物馆Hangzhou Museum of Seawall Sites,0,98.0,,,120.2775899603,30.3152361821,1,0.0,杭州海塘遗址博物馆,HangzhouMuseumofSeawallSites
+1022,钟山石雕艺术馆Zhongshan Stone Carving Art Gallery,0,0.0,,,119.5443501085,29.7701523087,0,0.0,钟山石雕艺术馆,ZhongshanStoneCarvingArtGallery
+1023,梦娜斯庄园Muunas Manor,0,0.0,,,120.1621429431,29.9564027962,1,0.0,梦娜斯庄园,MuunasManor
+1024,拉姆美术馆Musée l’Amour,0,0.0,,,120.1744339995,30.2551250753,0,0.0,拉姆美术馆,MuselAmour
+1025,窑头山Yaotoushan Village,0,0.0,,,119.7057639512,30.4055395301,0,0.0,窑头山,YaotoushanVillage
+1026,中国·大麦本草博物馆The Barley Green Museum of China,0,100.0,,,120.0999376219,30.1351008526,0,0.0,中国大麦本草博物馆,TheBarleyGreenMuseumofChina
+1027,塘栖古镇步行街Tanglou Ancient Town Pedestrian Street,0,40.0,,,120.1966543948,30.4857361425,0,0.0,塘栖古镇步行街,TanglouAncientTownPedestrianStreet
+1028,瓶窑老街Pingyao Old Street,0,92.0,,,119.973625,30.400534,2,0.0,瓶窑老街,PingyaoOldStreet
+1029,天竺佛缘步行街Tianzhu Foyuan Pedestrian Street,0,100.0,,,120.112361,30.245337,0,0.0,天竺佛缘步行街,TianzhuFoyuanPedestrianStreet
+1030,"杭州市之江凤凰国际创意园区Zhijiang Phoenix International Creative Park, Hangzhou",0,0.0,,,120.071641978,30.1419261457,0,0.0,杭州市之江凤凰国际创意园区,ZhijiangPhoenixInternationalCreativeParkHangzhou
+1031,万达金街,0,98.0,,,120.124711,30.33693,1,0.0,万达金街,
+1032,西兴历史街区Xixing Historic District,0,70.0,,,120.1831535085,30.2478648617,0,0.0,西兴历史街区,XixingHistoricDistrict
+1033,湘湖三期Xianghu Lake Phase III,0,80.0,,,120.2187304642,30.1280486917,1,0.0,湘湖三期,XianghuLakePhaseIII
+1034,富春江国家森林公园Fuchunjiang National Forest Park,0,94.0,,,119.513069845,29.547945428,1,0.0,富春江国家森林公园,FuchunjiangNationalForestPark
+1035,余杭大径山乡村国家公园Yuhang Dajing Shan Xiangcun National Park,0,80.0,,,119.84594,30.401422,0,0.0,余杭大径山乡村国家公园,YuhangDajingShanXiangcunNationalPark
+1036,小古城遗址Xiaogucheng Relic Site,0,0.0,,,119.8879648285,30.3882586131,0,0.0,小古城遗址,XiaoguchengRelicSite
+1037,跑马场Racecourse,0,0.0,,,120.0653105255,30.3901213596,0,0.0,跑马场,Racecourse
+1038,桐庐纪龙山野营探险基地Tonglu Jilong Shan Yeying Tanxian Base,0,100.0,,,119.555204,29.923472,1,0.0,桐庐纪龙山野营探险基地,TongluJilongShanYeyingTanxianBase
+1039,秀山美地休闲农庄Xiushanmeidi Leisure Farm,0,0.0,,,120.1224695273,30.4194844043,0,0.0,秀山美地休闲农庄,XiushanmeidiLeisureFarm
+1040,淳安博物馆Chun’an County Museum,0,100.0,,,119.1189367492,29.6011376588,0,0.0,淳安博物馆,ChunanCountyMuseum
+1041,"龙坞茶镇·九街Ninth Street, Longwu Tea Town",0,0.0,,,120.0635790572,30.1889925543,0,0.0,龙坞茶镇九街,NinthStreetLongwuTeaTown
+1042,拱墅区文化规划馆Gongshu District Cultural Planning Museum,0,0.0,,,120.13481,30.308174,0,0.0,拱墅区文化规划馆,GongshuDistrictCulturalPlanningMuseum
+1043,塘超小径Tangchao Trail,0,0.0,,,120.1972990188,30.448916976,0,0.0,塘超小径,TangchaoTrail
+1044,鲍家塘Baojiatang Village,0,0.0,,,120.1033468625,30.3690436583,0,0.0,鲍家塘,BaojiatangVillage
+1045,"杭州第二棉纺织厂旧址毛主席塑像Statue of Chairman Mao, Site of Hangzhou No. 2 Cotton Mill",0,0.0,,,120.26828,30.177622,0,0.0,杭州第二棉纺织厂旧址毛主席塑像,StatueofChairmanMaoSiteofHangzhouNoCottonMill
+1046,拜石揖卉Baishi Yihui Scenic Spot,0,0.0,,,120.13962,30.258009,0,0.0,拜石揖卉,BaishiYihuiScenicSpot
+1047,寿昌古镇Shouchang Town,0,100.0,,,119.2286613811,29.3646105362,0,0.0,寿昌古镇,ShouchangTown
+1048,杭州jmy球鞋文化馆,0,0.0,,,120.08884,30.169483,0,0.0,杭州球鞋文化馆,jmy
+1049,小桐洲村,0,0.0,,,119.8308599728,29.9102659958,0,0.0,小桐洲村,
+1050,万亩原生湿地健康文旅大城,0,0.0,,,119.2996,29.46266,0,0.0,万亩原生湿地健康文旅大城,
+1051,里洋坞,0,0.0,,,119.611916,29.446568,0,0.0,里洋坞,
+1052,铜岭桥村Tonglingqiao Village,0,0.0,,,119.8733386112,30.1968830138,0,0.0,铜岭桥村,TonglingqiaoVillage
+1053,富阳花海蓝田Fuyang Flower Sea,0,0.0,,,119.92868,30.00052,0,0.0,富阳花海蓝田,FuyangFlowerSea
+1054,"杭州西湖风景名胜区-海月水景公园Haiyue Waterscape Park, Hangzhou West Lake Scenic Area",0,0.0,,,120.1540050949,30.2094378824,1,0.0,杭州西湖风景名胜区海月水景公园,HaiyueWaterscapeParkHangzhouWestLakeScenicArea
+1055,云超养犬场,0,0.0,,,120.5140129755,30.1978571321,0,0.0,云超养犬场,
+1056,神风谷Shenfeng Valley,0,0.0,,,119.5679,30.412329,0,0.0,神风谷,ShenfengValley
+1057,榔树塆Langshuwan Village,0,0.0,,,119.19282,30.25912,0,0.0,榔树塆,LangshuwanVillage
+1058,压湖山Yahu Mountain,0,0.0,,,120.2196215514,30.1244277221,0,0.0,压湖山,YahuMountain
+1059,"千岛湖风景区-芳菲隐珠公园Fangfei Yinzhu Park, Qiandao Lake Scenic Area",0,100.0,,,119.0528256234,29.6398405825,0,0.0,千岛湖风景区芳菲隐珠公园,FangfeiYinzhuParkQiandaoLakeScenicArea
+1060,阆仙洞,0,0.0,山泉与怪石纵横，曲道通幽，别有洞天,,19.690074871,29.8533243757,0,0.0,阆仙洞,
+1061,商旅卡全国版,0,0.0,全方位优惠服务尽在一卡中,,0.0,0.0,0,0.0,商旅卡全国版,
+1062,杭州旅行跟拍,0,0.0,旅行跟拍,,0.0,0.0,0,0.0,杭州旅行跟拍,
+1063,建德富春俱舍,0,0.0,,,0.0,0.0,0,0.0,建德富春俱舍,
+1064,杭州扶苏绘画艺术空间Fusu Painting Art Space,0,0.0,,,120.2133889281,30.2687564956,0,0.0,杭州扶苏绘画艺术空间,FusuPaintingArtSpace
+1065,龙光桥村Longguangqiao Village,0,0.0,,,120.23563,30.507671,0,0.0,龙光桥村,LongguangqiaoVillage
+1066,"华乐城曹勇国际艺术馆Cao Yong International Art Museum, Huale City",0,0.0,,,120.291016,30.350887,0,0.0,华乐城曹勇国际艺术馆,CaoYongInternationalArtMuseumHualeCity
+1067,每一天农业合作社,0,0.0,,,119.68974,30.239971,0,0.0,每一天农业合作社,
+1068,黑驴庵Heilv Nunnery,0,0.0,,,119.53329,30.357246,0,0.0,黑驴庵,HeilvNunnery
+1069,新联航空科普中心Xinlian Aviation Science Center,0,82.0,,,119.219772,29.374181,2,0.0,新联航空科普中心,XinlianAviationScienceCenter
+1070,杭州万季景园艺有限公司,0,0.0,,,120.205025,30.322126,0,0.0,杭州万季景园艺有限公司,
+1071,赤子坞Chiziwu Village,0,0.0,,,119.963875,30.207241,0,0.0,赤子坞,ChiziwuVillage
+1072,黄泥弯Huangniwan Village,0,0.0,,,118.538445,29.50051,0,0.0,黄泥弯,HuangniwanVillage
+1073,西山爽气,0,100.0,,,120.13864,30.249533,1,0.0,西山爽气,
+1074,大园坪,0,0.0,,,119.2382981496,30.2548368264,0,0.0,大园坪,
+1075,邱山大街140No.140 Qiushan Street,0,0.0,,,120.302956,30.424963,0,0.0,邱山大街,NoQiushanStreet
+1076,昌化溪(东转线)Changhua Creek (East Transfer Line),0,0.0,,,119.202459,30.184721,0,0.0,昌化溪东转线,ChanghuaCreekEastTransferLine
+1077,绍兴上虞少楷园艺,0,0.0,,,120.431157,30.193026,0,0.0,绍兴上虞少楷园艺,
+1078,竹源坞Zhuyuanwu Village,0,100.0,,,119.330877,29.967188,1,0.0,竹源坞,ZhuyuanwuVillage
+1079,锦坑桥村口Jinkengqiao Village,0,0.0,,,119.286187,30.126641,0,0.0,锦坑桥村口,JinkengqiaoVillage
+1080,上安岭Shanganling Village,0,0.0,,,118.759752,29.582285,0,0.0,上安岭,ShanganlingVillage
+1081,绿鑫园艺,0,0.0,,,120.205071,30.322003,0,0.0,绿鑫园艺,
+1082,杭州新友园艺,0,0.0,,,120.206743,30.324605,0,0.0,杭州新友园艺,
+1083,玉屏书院二,0,0.0,,,120.164063,30.263791,0,0.0,玉屏书院二,
+1084,北坞坑Beiwukeng Village,0,0.0,,,119.949185,29.772485,0,0.0,北坞坑,BeiwukengVillage
+1085,镜洪村Jinghong Village,0,0.0,,,118.919767,29.732992,0,0.0,镜洪村,JinghongVillage
+1086,於潜镇图书分馆Yuqian Town Branch Library,0,80.0,,,119.405506,30.194234,0,0.0,於潜镇图书分馆,YuqianTownBranchLibrary
+1087,秦公寺Qingong Temple,0,0.0,,,120.040107,29.881986,0,0.0,秦公寺,QingongTemple
+1088,梅子坞Meiziwu Village,0,0.0,,,119.554308,30.162987,0,0.0,梅子坞,MeiziwuVillage
+1089,径山五峰茶,0,0.0,,,120.309473,30.425204,0,0.0,径山五峰茶,
+1090,果道夫家庭农场,0,0.0,,,119.417882,29.735001,0,0.0,果道夫家庭农场,
+1091,"萧山区义桥镇湘南村Xiangnan Village, Yiqiao Town, Xiaoshan District",0,0.0,,,120.2034460336,30.0916165995,0,0.0,萧山区义桥镇湘南村,XiangnanVillageYiqiaoTownXiaoshanDistrict
+1092,潘家坞Panjiawu Village,0,0.0,,,120.014266,29.818831,0,0.0,潘家坞,PanjiawuVillage
+1093,长征桥文化公园Long March Bridge Cultural Park,0,0.0,,,120.139395,30.315431,0,0.0,长征桥文化公园,LongMarchBridgeCulturalPark
+1094,"灵栖胜境-霭云洞Aiyun Cave, Spiritual Habitat",0,0.0,,,119.093616,29.391364,0,0.0,灵栖胜境霭云洞,AiyunCaveSpiritualHabitat
+1095,普宁牡丹园Puning Peony Garden,0,0.0,,,120.130091,30.436052,1,0.0,普宁牡丹园,PuningPeonyGarden
+1096,潘家坞Panjiawu,0,0.0,,,119.2664223719,29.8135971037,0,0.0,潘家坞,Panjiawu
+1097,厚屏村Houping Village,0,0.0,,,118.839217,29.770691,0,0.0,厚屏村,HoupingVillage
+1098,北京智化寺铜钟,0,100.0,,,120.203447,30.107414,0,0.0,北京智化寺铜钟,
+1099,吴松江大师石雕艺术工作室Stone Carving Art Studio of Master Wu Songjiang,0,0.0,,,120.177338,30.247639,0,0.0,吴松江大师石雕艺术工作室,StoneCarvingArtStudioofMasterWuSongjiang
+1100,"临安市龙岗镇汽家湾村老年活动中心Elderly Activity Center of Qijiawan Village, Longgang Town, Lin’an City",0,0.0,,,119.137722,30.165589,0,0.0,临安市龙岗镇汽家湾村老年活动中心,ElderlyActivityCenterofQijiawanVillageLonggangTownLinanCity
+1101,"临平老城区文化艺术长廊文化艺术交流中心Cultural and Art Exchange Center, Linping Old Town Cultural and Art Corridor",0,0.0,,,120.302533,30.430258,0,0.0,临平老城区文化艺术长廊文化艺术交流中心,CulturalandArtExchangeCenterLinpingOldTownCulturalandArtCorridor
+1102,桃源谷基地Taoyuan Valley Development Base,0,0.0,,,119.5350785108,29.8782252597,0,0.0,桃源谷基地,TaoyuanValleyDevelopmentBase
+1103,猫宁艺术馆,0,0.0,,,120.1828,30.222877,0,0.0,猫宁艺术馆,
+1104,沽桥老集镇展示馆,0,0.0,,,120.1509221104,30.3940188311,0,0.0,沽桥老集镇展示馆,
+1105,依洛村Yiluo Village,0,0.0,,,119.8004572886,30.0742973979,0,0.0,依洛村,YiluoVillage
+1106,仙杉养生谷Xianshan Health Valley,0,0.0,,,118.774155,29.335295,0,0.0,仙杉养生谷,XianshanHealthValley
+1107,黄泥坪,0,0.0,,,119.2877192357,30.2160361557,0,0.0,黄泥坪,
+1108,金花坞Jinhuawu Scenic Spot,0,0.0,,,119.350239,29.944968,0,0.0,金花坞,JinhuawuScenicSpot
+1109,十一工段,0,0.0,,,120.6232476442,30.3106673814,0,0.0,十一工段,
+1110,倒爬坞Daopawu Village,0,100.0,,,119.942737,30.149333,0,0.0,倒爬坞,DaopawuVillage
+1111,杭州花园岗园林绿化建设有限公司,0,0.0,,,120.120147,30.324403,0,0.0,杭州花园岗园林绿化建设有限公司,
+1112,外居仁Waijuren Village,0,0.0,,,119.818889,30.180401,0,0.0,外居仁,WaijurenVillage
+1113,张毛村Zhangmao Village,0,0.0,,,120.171442,29.96851,0,0.0,张毛村,ZhangmaoVillage
+1114,浙江监狱陈列馆Zhejiang Prison Exhibition Hall,0,0.0,,,120.313578,30.350771,0,0.0,浙江监狱陈列馆,ZhejiangPrisonExhibitionHall
+1115,白峰山村,0,100.0,,,119.802068,30.087964,0,0.0,白峰山村,
+1116,"桐庐芦茨湾民族游戏园Ethnic Amusement Park, Luci Bay, Tonglu",0,0.0,,,119.679532,29.692984,0,0.0,桐庐芦茨湾民族游戏园,EthnicAmusementParkLuciBayTonglu
+1117,严官药井,0,0.0,,,120.1754809746,30.2356993514,0,0.0,严官药井,
+1118,九溪2号桥Jiuxi No.2 Bridge,0,80.0,,,120.122711,30.198373,1,0.0,九溪号桥,JiuxiNoBridge
+1119,屏湖村枇杷基地Loquat Base in Pinghu Village,0,0.0,,,119.004967,29.661443,0,0.0,屏湖村枇杷基地,LoquatBaseinPinghuVillage
+1120,杭州友情园艺有限公司,0,0.0,,,120.430888,30.192152,0,0.0,杭州友情园艺有限公司,
+1121,"九溪1号桥Bridge No.1, Jiuxi",0,90.0,,,120.12358,30.197475,1,0.0,九溪号桥,BridgeNoJiuxi
+1122,华侨城芳菲与城销售展示中心,0,0.0,,,120.2260480291,30.3712709644,0,0.0,华侨城芳菲与城销售展示中心,
+1123,深坑坞Shenkeng Dock,0,0.0,,,119.326976,29.998894,0,0.0,深坑坞,ShenkengDock
+1124,笨鸟的第1个园区,0,0.0,,,120.210765,30.159773,0,0.0,笨鸟的第个园区,
+1125,滨江樱花跑道Riverside Sakura Runway,0,100.0,,,120.1564069842,30.197464146,0,0.0,滨江樱花跑道,RiversideSakuraRunway
+1126,玉泉寺Yuquan Temple,0,80.0,,,119.5295400636,29.562051418,0,0.0,玉泉寺,YuquanTemple
+1127,乌龟山Wugui Mountain,0,0.0,,,120.1640795674,30.2160170614,0,0.0,乌龟山,WuguiMountain
+1128,南屏山公园Nanpingshan Park,0,0.0,,,119.2312457165,30.163188358,0,0.0,南屏山公园,NanpingshanPark
+1129,千宇科技酷爆卡丁车俱乐部Qianyu Keji Kubaokadingche Club,0,0.0,,,119.0404041675,29.6490292213,0,0.0,千宇科技酷爆卡丁车俱乐部,QianyuKejiKubaokadingcheClub
+1130,虎山公园Hushan Park,0,100.0,,,120.2097876539,30.3660293326,0,0.0,虎山公园,HushanPark
+1131,大资福庙Dazifu Temple,0,90.0,,,120.1656995025,30.2152805025,0,0.0,大资福庙,DazifuTemple
+1132,白马湖国际会展中心Baimahu Guoji Huizhan Center,0,100.0,,,120.208987,30.167279,0,0.0,白马湖国际会展中心,BaimahuGuojiHuizhanCenter
+1133,浙江大学医学人体博物馆Zhejiang Daxue Yixue Renti Museum,0,0.0,,,120.090431,30.301947,0,0.0,浙江大学医学人体博物馆,ZhejiangDaxueYixueRentiMuseum
+1134,葛岭Geling Mountain,0,94.0,,,120.15143,30.264007,3,0.0,葛岭,GelingMountain
+1135,火山云石景区Huoshan Yunshi Scenic Area,0,100.0,,,120.1285041148,29.97063154,0,0.0,火山云石景区,HuoshanYunshiScenicArea
+1136,大奇山疯狂蚂蚁冒险森林乐园Daqi Shan Fengkuang Mayi Maoxian Forest Amusement Park,0,0.0,,,119.7275868517,29.7755639161,0,0.0,大奇山疯狂蚂蚁冒险森林乐园,DaqiShanFengkuangMayiMaoxianForestAmusementPark
+1137,逸庐Yilu Cottage,0,0.0,,,120.1693597461,30.2670616745,0,0.0,逸庐,YiluCottage
+1138,宝石山下一弄Baoshishan (Xiayi Lane),0,90.0,,,120.1599200835,30.2664907081,1,0.0,宝石山下一弄,BaoshishanXiayiLane
+1139,"杭州桐庐野外拓展训练营Tonglu Outdoor Development Training Camp, Hangzhou",0,0.0,,,119.69208,29.795483,0,0.0,杭州桐庐野外拓展训练营,TongluOutdoorDevelopmentTrainingCampHangzhou
+1140,北山公园Beishan Park,0,86.0,,,120.2844522242,30.1768510531,0,0.0,北山公园,BeishanPark
+1141,大明山庄Daming Villa,0,0.0,,,119.000607,30.06245,0,0.0,大明山庄,DamingVilla
+1142,浙西天滩风景区Zhexi Tiantan Scenic Area,0,0.0,,,119.1099793466,30.1969236038,0,0.0,浙西天滩风景区,ZhexiTiantanScenicArea
+1143,江南慢村Jiangnanmancun Sceneic Area,0,0.0,,,119.9033603357,30.242973686,0,0.0,江南慢村,JiangnanmancunSceneicArea
+1144,永安山滑翔伞训练基地Yong'an Shan Huaxiangsan Xunlian Base,0,96.0,,,119.9320449654,29.8753956658,0,0.0,永安山滑翔伞训练基地,YonganShanHuaxiangsanXunlianBase
+1145,动漫广场会展中心Dongman Guangchang Huizhan Center,0,0.0,,,120.2098022339,30.1674642745,0,0.0,动漫广场会展中心,DongmanGuangchangHuizhanCenter
+1146,杭州郁达夫故居Yudafu Hangzhou Former Residence,0,80.0,,,120.190349,30.259138,1,0.0,杭州郁达夫故居,YudafuHangzhouFormerResidence
+1147,海豚伴游中心Haitunbanyou Center,0,0.0,,,120.2330001099,30.1490574076,0,0.0,海豚伴游中心,HaitunbanyouCenter
+1148,杭州雷锋纪念馆Hangzhou Leifeng Memorial Hall,0,0.0,,,120.115138,30.27706,0,0.0,杭州雷锋纪念馆,HangzhouLeifengMemorialHall
+1149,乾隆古道Qianlong Ancient Path,0,86.0,,,120.1244598112,30.2236439837,1,0.0,乾隆古道,QianlongAncientPath
+1150,临平大剧院HangzhouYuhang Grand Theater,0,100.0,,,120.2998005033,30.392177597,2,0.0,临平大剧院,HangzhouYuhangGrandTheater
+1151,大慈岩寺Daci Cliff Temple,0,0.0,,,119.2924396653,29.3140300569,1,0.0,大慈岩寺,DaciCliffTemple
+1152,白马湖公园Baimahu,0,0.0,,,120.2132887743,30.1657451204,0,0.0,白马湖公园,Baimahu
+1153,中国动漫博物馆Zhongguodongman Museum,0,20.0,,,120.212124,30.167944,0,0.0,中国动漫博物馆,ZhongguodongmanMuseum
+1154,章太炎故居Zhang Taiyan Former Residence,0,92.0,,,120.006260554,30.2955296168,1,0.0,章太炎故居,ZhangTaiyanFormerResidence
+1155,太湖源头风景区Taihu Yuantou Scenic Area,0,90.0,,,119.567251,30.412984,0,0.0,太湖源头风景区,TaihuYuantouScenicArea
+1156,"吴山大观Wushan Daguan Scenic Spot, West Lake",0,100.0,,,120.1720696748,30.2425924307,0,0.0,吴山大观,WushanDaguanScenicSpotWestLake
+1157,龙井寺Longjing Temple,0,0.0,,,120.1181716881,30.2278734304,0,0.0,龙井寺,LongjingTemple
+1158,云栖竹径碑亭Yunqi Zhujing Stele Pavilion,0,80.0,,,120.0982170889,30.1971621481,1,0.0,云栖竹径碑亭,YunqiZhujingStelePavilion
+1159,富春山水孙权故里Sun Quan Hometown,0,0.0,,,119.8910544233,29.946737984,0,0.0,富春山水孙权故里,SunQuanHometown
+1160,驴妈妈旅游网,0,0.0,,,120.1220004996,30.3113235401,0,0.0,驴妈妈旅游网,
+1161,西湖龙井茶文化景区Xihu Longjingcha Culture Sceneic Area,0,74.0,,,120.1250170138,30.2315890081,2,0.0,西湖龙井茶文化景区,XihuLongjingchaCultureSceneicArea
+1162,西山国家森林公园灵山风景区Xishan National Forest Park Lingshan Scenic Area,0,0.0,,,120.0489305262,30.1227958251,0,0.0,西山国家森林公园灵山风景区,XishanNationalForestParkLingshanScenicArea
+1163,大岩山风景旅游度假区Dayan Mountain Scenic Resort,0,0.0,,,120.3264303329,29.9662126838,0,0.0,大岩山风景旅游度假区,DayanMountainScenicResort
+1164,西天目山风景区Xitianmu Mountain Sceneic Area,0,80.0,,,119.454759448,30.3180409748,1,0.0,西天目山风景区,XitianmuMountainSceneicArea
+1165,中国水博览园China Water Expo Park,0,0.0,,,120.320002,30.266668,0,0.0,中国水博览园,ChinaWaterExpoPark
+1166,湘湖花海Xianghu Flower Sea,0,90.0,,,120.228013,30.123481,0,0.0,湘湖花海,XianghuFlowerSea
+1167,吴山广场Wushan Square,0,100.0,,,120.1697760491,30.2439474595,1,0.0,吴山广场,WushanSquare
+1168,未来世界Weilai World,0,0.0,,,120.0829551681,30.173059399,0,0.0,未来世界,WeilaiWorld
+1169,西冷印社Xiling Seal Engraver's Society,0,94.0,,,120.146125,30.257083,3,0.0,西冷印社,XilingSealEngraversSociety
+1170,径山寺铜钟Jingshansi Bronze Bell,0,100.0,,,119.7602273051,30.3911261768,1,0.0,径山寺铜钟,JingshansiBronzeBell
+1171,于谦纪念馆Yuqian Memorial Hall,0,80.0,,,120.1301651744,30.4359100383,0,0.0,于谦纪念馆,YuqianMemorialHall
+1172,桐庐生仙里风景区Tonglu Shengxianli Sceneic Area,0,86.0,,,119.3188498888,29.9400078765,0,0.0,桐庐生仙里风景区,TongluShengxianliSceneicArea
+1173,704工程,0,80.0,,,120.133660053,30.2385247715,0,0.0,工程,
+1174,"城西公园West Leisure Park, Hangzhou",0,0.0,,,120.0927146212,30.2658587163,0,0.0,城西公园,WestLeisureParkHangzhou
+1175,小青攀岩场Xiaoqing Rock Climbing Field,0,0.0,,,120.039631,30.120065,0,0.0,小青攀岩场,XiaoqingRockClimbingField
+1176,双城国际Shuangcheng International,0,0.0,,,120.207433,30.213083,0,0.0,双城国际,ShuangchengInternational
+1177,左岸万国花园Zuo'an·wanguo Garden,0,86.0,,,120.2189028172,30.2243264324,0,0.0,左岸万国花园,ZuoanwanguoGarden
+1178,钱塘江绿道Qiantang River Greenway,0,96.0,,,120.154335,30.196725,3,0.0,钱塘江绿道,QiantangRiverGreenway
+1179,厉杭二公祠Memorial Temple of the Revered Mr. Li and Mr. Hang,0,100.0,,,120.077898,30.270218,2,0.0,厉杭二公祠,MemorialTempleoftheReveredMrLiandMrHang
+1180,莲花滩观鸟区域Lotus Beach Bird Watching Area,0,92.0,,,120.087668,30.270808,1,0.0,莲花滩观鸟区域,LotusBeachBirdWatchingArea
+1181,清平山堂Qingping Mountain Hall,0,100.0,,,120.078058,30.274142,2,0.0,清平山堂,QingpingMountainHall
+1182,何家村Hejia Village,0,0.0,,,120.043445,30.188988,0,0.0,何家村,HejiaVillage
+1183,桑蚕丝绸故事馆Silk Story Hall,0,100.0,,,120.0763254981,30.2783393496,1,0.0,桑蚕丝绸故事馆,SilkStoryHall
+1184,方志敏同志临时住所,0,0.0,,,118.431500757,29.505006946,0,0.0,方志敏同志临时住所,
+1185,杭州西湖星空魔幻城（星空艺术馆品牌旗舰店）Hangzhou Starry Magic City,0,92.0,,,120.171101,30.260369,1,0.0,杭州西湖星空魔幻城星空艺术馆品牌旗舰店,HangzhouStarryMagicCity
+1186,"西溪且留下(河渚街分店)Xixi, Leaving Behind Temporarily",0,100.0,,,120.0762995124,30.2785391705,4,0.0,西溪且留下河渚街分店,XixiLeavingBehindTemporarily
+1187,浙江观吟艺术博物馆Zhejiangguanyin Art Museum,0,0.0,,,120.146718,30.329384,0,0.0,浙江观吟艺术博物馆,ZhejiangguanyinArtMuseum
+1188,浙江中医药博物馆新馆Zhejiang Zhongyiyao Museum,0,0.0,,,120.154694,30.183775,0,0.0,浙江中医药博物馆新馆,ZhejiangZhongyiyaoMuseum
+1189,杭州市余杭区颉德文化博物馆Hangzhoushi Yuhangqu Jiede Culture Museum,0,0.0,,,120.315255,30.416461,0,0.0,杭州市余杭区颉德文化博物馆,HangzhoushiYuhangquJiedeCultureMuseum
+1190,杭州市萧山区东沙农耕博物馆Hangzhoushi Xiao Shan Qu Dongsha Nonggeng Museum,0,0.0,,,120.46466,30.196598,0,0.0,杭州市萧山区东沙农耕博物馆,HangzhoushiXiaoShanQuDongshaNonggengMuseum
+1191,杭州西湖丝绸文化博物馆Hangzhou West Lake Silk Culture Museum,0,100.0,,,120.103168,30.183347,1,0.0,杭州西湖丝绸文化博物馆,HangzhouWestLakeSilkCultureMuseum
+1192,浙江辛亥革命纪念馆Zhejiang Xinhaigeming Memorial Hall,0,0.0,,,120.121211,30.233293,0,0.0,浙江辛亥革命纪念馆,ZhejiangXinhaigemingMemorialHall
+1193,杭州土火斋博物馆Hangzhou Tuhuozhai Gutaoci Museum,0,0.0,,,120.272643837,30.3153475694,0,0.0,杭州土火斋博物馆,HangzhouTuhuozhaiGutaociMuseum
+1194,浙江淳德中医药博物馆Zhejiang Chunde Zhongyiyao Museum,0,0.0,,,120.177523,30.242662,0,0.0,浙江淳德中医药博物馆,ZhejiangChundeZhongyiyaoMuseum
+1195,淳安县中国工农红军北上抗日先遣队纪念馆Chun'anxian Zhongguo Gongnonghongjun Beishang Kangri Xianqiandui Memorial Hall,0,0.0,,,118.447024,29.508384,0,0.0,淳安县中国工农红军北上抗日先遣队纪念馆,ChunanxianZhongguoGongnonghongjunBeishangKangriXianqianduiMemorialHall
+1196,杭州西湖本山龙井茶叶博物馆Hangzhou Xihu Ben Shan Longjing Chaye Museum,0,94.0,,,120.0940223615,30.1956011083,1,0.0,杭州西湖本山龙井茶叶博物馆,HangzhouXihuBenShanLongjingChayeMuseum
+1197,杭州神博农家博物苑,0,0.0,,,120.306353,30.272098,0,0.0,杭州神博农家博物苑,
+1198,杭州市萧山区梦娜斯酒文化博物馆Hangzhoushi Xiao Shan Qumengnasijiu Culture Museum,0,0.0,,,120.162872,29.957243,0,0.0,杭州市萧山区梦娜斯酒文化博物馆,HangzhoushiXiaoShanQumengnasijiuCultureMuseum
+1199,杭州市余杭博物馆Hangzhoushi Yuhang Museum,0,0.0,,,120.312577,30.420187,0,0.0,杭州市余杭博物馆,HangzhoushiYuhangMuseum
+1200,浙江安贤生命博物馆Zhejiang Anxian Shengming Museum,0,0.0,,,120.193179,30.380494,0,0.0,浙江安贤生命博物馆,ZhejiangAnxianShengmingMuseum
+1201,浙江旅游博物馆Zhejiang Tourism Museum,0,0.0,,,120.31229,30.25097,0,0.0,浙江旅游博物馆,ZhejiangTourismMuseum
+1202,"玉古路枫叶大道Maple Leaf Avenue, Yugu Road",0,0.0,,,120.134106,30.271513,0,0.0,玉古路枫叶大道,MapleLeafAvenueYuguRoad
+1203,"灵隐路枫叶大道Maple Leaf Avenue, Lingyin Road",0,86.0,,,120.114592,30.249798,0,0.0,灵隐路枫叶大道,MapleLeafAvenueLingyinRoad
+1204,楼塔古镇Louta Ancient Town,0,90.0,,,120.139237,29.91201,1,0.0,楼塔古镇,LoutaAncientTown
+1205,湘湖金融小镇Xianghu Financial Town,0,84.0,,,120.2323,30.125628,8,0.0,湘湖金融小镇,XianghuFinancialTown
+1206,杭州西湖龙井茶博物馆Hangzhou Xihu Longjingcha Museum,0,80.0,,,120.0635018928,30.1888116521,2,0.0,杭州西湖龙井茶博物馆,HangzhouXihuLongjingchaMuseum
+1207,创意设计中心Hangzhou Chuangyi Sheji Center,0,0.0,,,120.2114870357,30.2852908718,0,0.0,创意设计中心,HangzhouChuangyiShejiCenter
+1208,续范亭题刻Inscription of Xu Fanting,0,0.0,,,120.141339,30.260733,0,0.0,续范亭题刻,InscriptionofXuFanting
+1209,井山湖农耕文化公园Jingshanhu Nonggeng Culture Park,0,80.0,,,120.2178540455,30.1560013058,1,0.0,井山湖农耕文化公园,JingshanhuNonggengCulturePark
+1210,无门洞石窟Wumendong Grottoes,0,0.0,,,120.1283169425,30.2280845525,0,0.0,无门洞石窟,WumendongGrottoes
+1211,方家山公园Fangjia Mountain Park,0,90.0,,,119.9915694503,30.2250769242,2,0.0,方家山公园,FangjiaMountainPark
+1212,"皋亭山千桃园Peach Garden, Gaoting Mountain",0,92.0,,,120.2404209665,30.3860351978,4,0.0,皋亭山千桃园,PeachGardenGaotingMountain
+1213,杭州碑林Hangzhou Forest of Steles,0,0.0,,,120.168465,30.247581,0,0.0,杭州碑林,HangzhouForestofSteles
+1214,阳光公园Mingzhuguanguang Park,0,90.0,,,119.0497398987,29.6341478057,4,0.0,阳光公园,MingzhuguanguangPark
+1215,闲林老街Xianlin Street,0,88.0,,,119.992122,30.229241,2,0.0,闲林老街,XianlinStreet
+1216,观荷桥Lotus Viewing Bridge,0,0.0,,,120.223775,30.120543,0,0.0,观荷桥,LotusViewingBridge
+1217,复兴大桥Fuxing Bridge,0,96.0,,,120.185521,30.213829,0,0.0,复兴大桥,FuxingBridge
+1218,富春江夜游Fuchun River Night Tour,0,82.0,,,119.695765,29.816159,0,0.0,富春江夜游,FuchunRiverNightTour
+1219,凤山水城门遗址Hangzhou Feng Shan Shui Chengmen Ruins,0,86.0,,,120.176437,30.232844,3,0.0,凤山水城门遗址,HangzhouFengShanShuiChengmenRuins
+1220,东山村,0,0.0,,,120.10839,30.424849,0,0.0,东山村,
+1221,森林七彩滑道上站,0,0.0,,,119.22437,29.592483,0,0.0,森林七彩滑道上站,
+1222,湖源大桥Huyuan Bridge,0,0.0,,,119.956338,29.815332,0,0.0,湖源大桥,HuyuanBridge
+1223,千岛湖广场Qiandaohu Square,0,90.0,,,119.0586389481,29.6085339847,12,0.0,千岛湖广场,QiandaohuSquare
+1224,千岛湖自然博物馆Qiandaohuziran Museum,0,84.0,,,119.025416,29.605672,4,0.0,千岛湖自然博物馆,QiandaohuziranMuseum
+1225,浙江工业大学(屏峰校区)Zhejianggongye University (pingfengxiaoqu),0,94.0,,,120.0476527565,30.2341772715,8,0.0,浙江工业大学屏峰校区,ZhejianggongyeUniversitypingfengxiaoqu
+1226,杭州创意设计中心,0,0.0,,,120.211487,30.285291,0,0.0,杭州创意设计中心,
+1227,千岛湖西北湖区Northwest District of Qiandao Lake,0,0.0,,,118.96956,29.65947,0,0.0,千岛湖西北湖区,NorthwestDistrictofQiandaoLake
+1228,临平苗圃Linping Nursery,0,100.0,,,120.2839823565,30.4036325879,3,0.0,临平苗圃,LinpingNursery
+1229,"宋城-祝家庄Village of Family Zhu, Songcheng Park",0,88.0,,,120.103675,30.175794,3,0.0,宋城祝家庄,VillageofFamilyZhuSongchengPark
+1230,钱新市政园林,0,0.0,,,120.211037,30.294097,0,0.0,钱新市政园林,
+1231,景兴路666号稻谷公园Jingxinglu 666 Hao Daogu Park,0,100.0,,,120.011263,30.280695,0,0.0,景兴路号稻谷公园,JingxingluHaoDaoguPark
+1232,大明湖采矿遗迹,0,0.0,,,118.997972,30.031139,0,0.0,大明湖采矿遗迹,
+1233,虎啸庙,0,0.0,,,120.155329,30.126421,0,0.0,虎啸庙,
+1234,虎啸深山,0,0.0,,,119.996444,30.163797,0,0.0,虎啸深山,
+1235,后拔公园,0,0.0,,,119.952486,30.056808,0,0.0,后拔公园,
+1236,世茂园艺,0,0.0,,,119.295876,29.482221,0,0.0,世茂园艺,
+1237,华谊园艺,0,0.0,,,120.342733,30.184236,0,0.0,华谊园艺,
+1238,"西溪国家湿地公园-水墨西溪Ink Painting Xixi, Xixi Wetland Park",0,0.0,,,120.055929,30.262275,1,0.0,西溪国家湿地公园水墨西溪,InkPaintingXixiXixiWetlandPark
+1239,桐坞古庙,0,0.0,,,120.055351,30.200018,0,0.0,桐坞古庙,
+1240,太空计划,0,0.0,,,120.095846,30.274596,0,0.0,太空计划,
+1241,状元桥Number One Scholar Bridge,0,86.0,,,119.009886,29.617123,2,0.0,状元桥,NumberOneScholarBridge
+1242,淡泊轻云,0,0.0,,,120.14414,30.231283,0,0.0,淡泊轻云,
+1243,笑笑橙青少年消防应急安全体验馆Xiaoxiaocheng Qingshaonian Xiaofang Yingji Anquan Experience Hall,0,86.0,,,120.1861991068,30.199409552,0,0.0,笑笑橙青少年消防应急安全体验馆,XiaoxiaochengQingshaonianXiaofangYingjiAnquanExperienceHall
+1244,市林场泷江分场,0,0.0,,,119.646551,29.635866,0,0.0,市林场泷江分场,
+1245,红色茶山Hongse Cha Shan Guojia 3A Tourism Sceneic Area,0,0.0,,,118.449199,29.505171,0,0.0,红色茶山,HongseChaShanGuojiaATourismSceneicArea
+1246,杭州建业苗木专业合作社(花木城)办事处,0,0.0,,,120.342218,30.185359,0,0.0,杭州建业苗木专业合作社花木城办事处,
+1247,杭州萧山坎山神绿园艺场驻花木城办事处,0,0.0,,,120.344179,30.184234,0,0.0,杭州萧山坎山神绿园艺场驻花木城办事处,
+1248,嵊州御林园艺驻萧山办事处,0,0.0,,,120.343186,30.182623,0,0.0,嵊州御林园艺驻萧山办事处,
+1249,中国扇博物馆-折扇起源于发展,0,0.0,,,120.144517,30.32486,0,0.0,中国扇博物馆折扇起源于发展,
+1250,中国刀剪剑博物馆-剪刀的起源和发展,0,0.0,,,120.144454,30.322476,0,0.0,中国刀剪剑博物馆剪刀的起源和发展,
+1251,径山镇绿景水产养殖场,0,0.0,,,119.834755,30.333816,0,0.0,径山镇绿景水产养殖场,
+1252,杭州和隆园艺有限公司,0,0.0,,,120.215379,30.242927,0,0.0,杭州和隆园艺有限公司,
+1253,杭州临安万亩茶山家庭农场,0,0.0,,,119.612477,30.414671,0,0.0,杭州临安万亩茶山家庭农场,
+1254,杭州和隆园艺有限公司,0,0.0,,,120.210173,30.258724,0,0.0,杭州和隆园艺有限公司,
+1255,富阳受降绿化园林园艺场,0,0.0,,,119.970724,30.132954,0,0.0,富阳受降绿化园林园艺场,
+1256,天目普同塔Tianmu Putong Pagoda,0,0.0,,,119.442451,30.344219,0,0.0,天目普同塔,TianmuPutongPagoda
+1257,塔莎园艺有限公司,0,0.0,,,120.225102,30.185531,0,0.0,塔莎园艺有限公司,
+1258,浩鹏花卉苗木,0,0.0,,,119.945947,30.289053,0,0.0,浩鹏花卉苗木,
+1259,芦茨寺Luci Temple,0,100.0,,,119.685390265,29.6924238624,0,0.0,芦茨寺,LuciTemple
+1260,云门寺生态茶场,0,0.0,,,120.159508,29.998759,0,0.0,云门寺生态茶场,
+1261,空谷书斋,0,0.0,,,120.078977,30.147558,0,0.0,空谷书斋,
+1262,千岛湖初源家庭农场Qiandaohu Chuyuan Jiating Farm,0,0.0,,,118.441537,29.395411,0,0.0,千岛湖初源家庭农场,QiandaohuChuyuanJiatingFarm
+1263,瑶山遗址(西出口),0,0.0,,,120.023776,30.428154,0,0.0,瑶山遗址西出口,
+1264,儒闾村林场,0,0.0,,,119.680845,29.748475,0,0.0,儒闾村林场,
+1265,杭州鹏里园林绿化有限公司,0,0.0,,,120.342432,30.185074,0,0.0,杭州鹏里园林绿化有限公司,
+1266,上茅家埠Shangmaojiabu Village,0,100.0,,,120.124538,30.244258,0,0.0,上茅家埠,ShangmaojiabuVillage
+1267,李家坞公园Lijiawu Park,0,0.0,,,119.0539919832,29.6105850826,0,0.0,李家坞公园,LijiawuPark
+1268,塘印别馆古羽文创巡特展,0,0.0,,,120.191561,30.485847,0,0.0,塘印别馆古羽文创巡特展,
+1269,萧山林场泽坞分场,0,0.0,,,120.186609,29.967799,0,0.0,萧山林场泽坞分场,
+1270,龙门林场湖源林场,0,0.0,,,119.915057,29.811311,0,0.0,龙门林场湖源林场,
+1271,良渚古城遗址水利系统老虎岭遗址Liangzhu Gucheng Yizhi Shuili Xitong Laohuling Ruins,0,0.0,,,119.918651,30.422024,0,0.0,良渚古城遗址水利系统老虎岭遗址,LiangzhuGuchengYizhiShuiliXitongLaohulingRuins
+1272,最底处,0,0.0,,,119.644538,30.02016,0,0.0,最底处,
+1273,夹城文化公园,0,0.0,,,120.158969,30.296116,0,0.0,夹城文化公园,
+1274,桐庐县广王庙,0,0.0,,,119.360417,29.852108,0,0.0,桐庐县广王庙,
+1275,韩氏祠堂,0,0.0,,,120.211443,30.097195,0,0.0,韩氏祠堂,
+1276,国标沙场,0,0.0,,,119.614039,29.705306,0,0.0,国标沙场,
+1277,浙江省第一医院-院史陈列馆,0,0.0,,,120.184685,30.261064,0,0.0,浙江省第一医院院史陈列馆,
+1278,柏塘垅公园,0,0.0,,,119.590005,29.677746,0,0.0,柏塘垅公园,
+1279,桐庐凌峰园林园艺场,0,0.0,,,119.719807,29.778596,0,0.0,桐庐凌峰园林园艺场,
+1280,中国竹乡安吉孝丰园艺场,0,0.0,,,120.337291,30.183775,0,0.0,中国竹乡安吉孝丰园艺场,
+1281,通儒亭Tongru Pavilion,0,0.0,,,119.545743,29.676879,0,0.0,通儒亭,TongruPavilion
+1282,中科院-华南植物园产品体验馆Zhongkeyuan-Huanan Zhiwuyuan Chanpin Experience Hall,0,100.0,,,119.557500935,29.6237935439,0,0.0,中科院华南植物园产品体验馆,ZhongkeyuanHuananZhiwuyuanChanpinExperienceHall
+1283,安吉孝丰文红园艺场,0,0.0,,,120.340563,30.185519,0,0.0,安吉孝丰文红园艺场,
+1284,宋河西街Songhexi Street,0,40.0,,,120.105799,30.176374,1,0.0,宋河西街,SonghexiStreet
+1285,"萧山三昧殿Samadhi Palace, Xiaoshan District",0,0.0,,,120.381257,30.203101,0,0.0,萧山三昧殿,SamadhiPalaceXiaoshanDistrict
+1286,临安区龙塘龙虾养殖场,0,0.0,,,119.310145,30.127529,0,0.0,临安区龙塘龙虾养殖场,
+1287,临安天泷甲鱼养殖场,0,0.0,,,119.775226,30.180837,0,0.0,临安天泷甲鱼养殖场,
+1288,中国北仑老虞苗圃,0,0.0,,,120.338372,30.182795,0,0.0,中国北仑老虞苗圃,
+1289,宁波北仑青青花木场,0,0.0,,,120.344237,30.182249,0,0.0,宁波北仑青青花木场,
+1290,奉化绿丰花木场,0,0.0,,,120.339935,30.183095,0,0.0,奉化绿丰花木场,
+1291,奉化萧王庙绿茵园艺场,0,0.0,,,120.338237,30.182455,0,0.0,奉化萧王庙绿茵园艺场,
+1292,临安区柳庄家禽专业合作社,0,0.0,,,119.386446,30.242975,0,0.0,临安区柳庄家禽专业合作社,
+1293,宁波北仑建伟园艺场,0,0.0,,,120.33759,30.183037,0,0.0,宁波北仑建伟园艺场,
+1294,90公社,0,0.0,,,118.6786861396,29.4599817482,0,0.0,公社,
+1295,建德市寿昌镇祥红养鸡场,0,0.0,,,119.23839,29.359398,0,0.0,建德市寿昌镇祥红养鸡场,
+1296,"瑶琳仙境-一厅Hall 1, Yaolin Wonderland",0,86.0,,,119.5437660234,29.8907629837,3,0.0,瑶琳仙境一厅,HallYaolinWonderland
+1297,"瑶琳仙境-三厅No.3 Hall, Yaolin Wonderland",0,86.0,,,119.545977,29.891605,4,0.0,瑶琳仙境三厅,NoHallYaolinWonderland
+1298,骑龙巷Qilong Alley,0,78.0,,,119.050781,29.609826,12,0.0,骑龙巷,QilongAlley
+1299,丝绸之路宝石壁画光影沉浸式艺术展,0,0.0,,,120.173554,30.192398,0,0.0,丝绸之路宝石壁画光影沉浸式艺术展,
+1300,河上古镇(凤凰坞村)Heshang Ancient Town (Fenghuangwu Village),0,100.0,,,120.1682240133,29.9532257269,1,0.0,河上古镇凤凰坞村,HeshangAncientTownFenghuangwuVillage
+1301,富阳农夫乐九重天生态农场Fuyang Nongfu Lejiu Zhong Tian Ecology Farm,0,0.0,,,120.022024,30.071552,0,0.0,富阳农夫乐九重天生态农场,FuyangNongfuLejiuZhongTianEcologyFarm
+1302,迷邓花园Mideng Garden,0,80.0,,,120.172785,30.227029,6,0.0,迷邓花园,MidengGarden
+1303,西湖区青芝坞城市文化公园Xihuqu Qingzhiwu Chengshi Culture Park,0,100.0,,,120.130579,30.264506,1,0.0,西湖区青芝坞城市文化公园,XihuquQingzhiwuChengshiCulturePark
+1304,魁星楼Kuixing Tower,0,100.0,,,119.0253342934,29.602806554,5,0.0,魁星楼,KuixingTower
+1305,常书鸿美术馆Changshuhong Galley,0,96.0,,,120.150514,30.257136,2,0.0,常书鸿美术馆,ChangshuhongGalley
+1306,贺庙Hemiao Village,0,100.0,,,119.020376,29.599953,1,0.0,贺庙,HemiaoVillage
+1307,大塘坞水库Datang Wu Reservoir,0,0.0,,,119.259176,30.123578,0,0.0,大塘坞水库,DatangWuReservoir
+1308,杭州小埃菲尔铁塔TianduCheng Eifel Tower,0,90.0,,,120.254293,30.389177,0,0.0,杭州小埃菲尔铁塔,TianduChengEifelTower
+1309,金都服装街JinDu FuZhuang Jie,0,0.0,,,119.6835531208,29.8143289065,0,0.0,金都服装街,JinDuFuZhuangJie
+1310,杭州古城墙陈列馆HangZhou GuChengQiang ChenLieGuan,0,82.0,,,120.1943512032,30.2638647113,3,0.0,杭州古城墙陈列馆,HangZhouGuChengQiangChenLieGuan
+1311,杭州九曲营步行街JiuQuYing BuXingJie,0,0.0,,,120.3080966743,30.429923132,0,0.0,杭州九曲营步行街,JiuQuYingBuXingJie
+1312,杭州靖江镇靖东村科普活动站JingJiangZhenJingDong Cun KePu HuoDongZhan,0,0.0,,,120.4802958264,30.2359015652,0,0.0,杭州靖江镇靖东村科普活动站,JingJiangZhenJingDongCunKePuHuoDongZhan
+1313,杭州金沙学府商业步行街JinSha XueFu ShangYe BuXingJie,0,0.0,,,120.3929685827,30.310843793,0,0.0,杭州金沙学府商业步行街,JinShaXueFuShangYeBuXingJie
+1314,杭州近江海鲜美食街JinJiang HaiXian MeiShiJie,0,0.0,,,120.1976954807,30.2454127644,0,0.0,杭州近江海鲜美食街,JinJiangHaiXianMeiShiJie
+1315,杭州锦绣天地休闲风情街JinXiu TianDi XiuXian FengQing Jie,0,0.0,,,120.1657083789,30.2674042617,0,0.0,杭州锦绣天地休闲风情街,JinXiuTianDiXiuXianFengQingJie
+1316,杭州佳境艺术馆JiaJing YiShuGuan,0,0.0,,,120.2755051661,30.2226947767,0,0.0,杭州佳境艺术馆,JiaJingYiShuGuan
+1317,杭州西溪水浒文化展示馆HangZhou XiXi ShuiHu WenHua ZhanShiGuan,0,90.0,,,120.0773555604,30.2804292357,2,0.0,杭州西溪水浒文化展示馆,HangZhouXiXiShuiHuWenHuaZhanShiGuan
+1318,杭州市城区河道陈列馆HangZhouShi ChengQu HeDao ChenLieGuan,0,0.0,,,120.1952194449,30.2638045255,0,0.0,杭州市城区河道陈列馆,HangZhouShiChengQuHeDaoChenLieGuan
+1319,杭州近代教育史陈列馆HangZhou JinDai JiaoYu Shi ChenLieGuan,0,92.0,,,120.189583,30.262986,2,0.0,杭州近代教育史陈列馆,HangZhouJinDaiJiaoYuShiChenLieGuan
+1320,杭州高沙商业街GaoSha ShangYeJie,0,0.0,,,120.3417611211,30.3214463832,0,0.0,杭州高沙商业街,GaoShaShangYeJie
+1321,杭州东园宋词一条街DongYuan SongCi YiTiao Jie,0,0.0,,,120.191324,30.272986,0,0.0,杭州东园宋词一条街,DongYuanSongCiYiTiaoJie
+1322,杭州都市丽人·步行街DuShi LiRen BuXingJie,0,0.0,,,120.2697232463,30.1835854855,0,0.0,杭州都市丽人步行街,DuShiLiRenBuXingJie
+1323,杭州打铁关历史文化陈列馆DaTieGuan LiShi WenHua ChenLieGuan,0,0.0,,,120.183123,30.28683,0,0.0,杭州打铁关历史文化陈列馆,DaTieGuanLiShiWenHuaChenLieGuan
+1324,大学城商业街DaXueCheng ShangYeJie,0,0.0,,,119.7274477217,30.2644531584,0,0.0,大学城商业街,DaXueChengShangYeJie
+1325,杭州中都街ZhongDu Jie,0,0.0,,,120.3096898149,30.426873522,0,0.0,杭州中都街,ZhongDuJie
+1326,中国社区建设展示中心ZhongGuo SheQu JianShe ZhanShi ZhongXin,0,0.0,,,120.1808193212,30.2424009445,0,0.0,中国社区建设展示中心,ZhongGuoSheQuJianSheZhanShiZhongXin
+1327,浙江省杭州市星光大道步行街ZheJiangSheng HangZhouShi XingGuang DaDao BuXingJie,0,92.0,,,120.215752,30.214367,20,0.0,浙江省杭州市星光大道步行街,ZheJiangShengHangZhouShiXingGuangDaDaoBuXingJie
+1328,浙江展览馆ZheJiang ZhanLanGuan,0,82.0,,,120.169795,30.278458,4,0.0,浙江展览馆,ZheJiangZhanLanGuan
+1329,浙江省京杭运河陈列馆ZheJiangSheng JingHang YunHe ChenLieGuan,0,88.0,,,120.242865,30.285263,10,0.0,浙江省京杭运河陈列馆,ZheJiangShengJingHangYunHeChenLieGuan
+1330,浙江省杭州市紫荆商街步行街ZheJiangSheng HangZhouShi ZiJingShang Jie BuXingJie,0,0.0,,,120.1920183619,30.3452797278,0,0.0,浙江省杭州市紫荆商街步行街,ZheJiangShengHangZhouShiZiJingShangJieBuXingJie
+1331,杭州闸弄口街道创业一条街ZhaNongKou JieDao ChuangYe YiTiao Jie,0,0.0,,,120.2026659093,30.2892720095,0,0.0,杭州闸弄口街道创业一条街,ZhaNongKouJieDaoChuangYeYiTiaoJie
+1332,杭州余杭区书法家协会创作展示中心YuHangQu ShuFaJia XieHui ChuangZuo ZhanShi ZhongXin,0,0.0,,,120.3025297184,30.4134512018,0,0.0,杭州余杭区书法家协会创作展示中心,YuHangQuShuFaJiaXieHuiChuangZuoZhanShiZhongXin
+1333,杭州文化路时尚女装街WenHua Lu ShiShang NvZhuang Jie,0,0.0,,,120.2747797249,30.167686588,0,0.0,杭州文化路时尚女装街,WenHuaLuShiShangNvZhuangJie
+1334,萧山区瓜沥镇科普活动中心XiaoShanQu GuaLiZhen KePu HuoDong ZhongXin,0,0.0,,,120.4655940391,30.185644092,0,0.0,萧山区瓜沥镇科普活动中心,XiaoShanQuGuaLiZhenKePuHuoDongZhongXin
+1335,杭州西城年华商街XiCheng NianHuaShang Jie,0,0.0,,,120.1033610514,30.3140364017,0,0.0,杭州西城年华商街,XiChengNianHuaShangJie
+1336,杭州武林路时尚女装街WuLin Lu ShiShang NvZhuang Jie,0,100.0,,,120.1665228436,30.2675818507,1,0.0,杭州武林路时尚女装街,WuLinLuShiShangNvZhuangJie
+1337,杭州童装特色街TongZhuang TeSeJie,0,0.0,,,120.2841162958,30.184580846,0,0.0,杭州童装特色街,TongZhuangTeSeJie
+1338,四季青中国服装第一街SiJiQing ZhongGuo FuZhuang DiYiJie,0,92.0,,,120.203441,30.253145,14,0.0,四季青中国服装第一街,SiJiQingZhongGuoFuZhuangDiYiJie
+1339,杭州天阳明珠地下商业街TianYang MingZhu DiXia ShangYeJie,0,0.0,,,120.1708173533,30.263894407,0,0.0,杭州天阳明珠地下商业街,TianYangMingZhuDiXiaShangYeJie
+1340,杭州市民中心地铁商业ShiMin ZhongXin DiTie ShangYe,0,88.0,,,120.2189057774,30.2533081982,3,0.0,杭州市民中心地铁商业,ShiMinZhongXinDiTieShangYe
+1341,杭州绍兴路汽车精品街ShaoXing Lu QiChe JingPin Jie,0,0.0,,,120.16844836,30.3104554584,0,0.0,杭州绍兴路汽车精品街,ShaoXingLuQiCheJingPinJie
+1342,杭州胜利河美食街ShengLiHe MeiShiJie,0,96.0,,,120.160462,30.303432,0,0.0,杭州胜利河美食街,ShengLiHeMeiShiJie
+1343,杭州木制品街MuZhiPin Jie,0,0.0,,,120.0999506392,30.3243613353,0,0.0,杭州木制品街,MuZhiPinJie
+1344,西湖龙井山园West Lake Longjing Resort,0,86.0,,,120.1597123578,30.2670126189,4,0.0,西湖龙井山园,WestLakeLongjingResort
+1345,陆羽泉文化主题公园Hangzhou Luyu Spring Cultural Amusement/theme park,0,90.0,,,119.857408397,30.3452331543,1,0.0,陆羽泉文化主题公园,HangzhouLuyuSpringCulturalAmusementthemepark
+1346,杭州娃哈哈集团下沙工业园Xiasha Industrial Park of Hangzhou Wahaha Group,0,90.0,,,119.8573486647,30.3451940214,0,0.0,杭州娃哈哈集团下沙工业园,XiashaIndustrialParkofHangzhouWahahaGroup
+1347,杭州小白菜民俗风情园Hangzhou Cabbage Folk Customs Garden,0,0.0,,,119.9452897365,30.2787608725,0,0.0,杭州小白菜民俗风情园,HangzhouCabbageFolkCustomsGarden
+1348,绿景塘农业景区Green View Pond Agricultural Attractions,0,100.0,,,119.8723599175,30.3822007735,0,0.0,绿景塘农业景区,GreenViewPondAgriculturalAttractions
+1349,太湖源农家山庄Farmer's Villa of Taihuyuan,0,0.0,,,119.6357601859,30.2670185571,0,0.0,太湖源农家山庄,FarmersVillaofTaihuyuan
+1350,黛色参天亭Daise Cantian,0,0.0,,,120.133536,30.24725,0,0.0,黛色参天亭,DaiseCantian
+1351,佛窟探秘Buddhist Grotto Quest,0,0.0,,,120.103019,30.176089,0,0.0,佛窟探秘,BuddhistGrottoQuest
+1352,思源廊,0,0.0,,,119.570113,30.410195,0,0.0,思源廊,
+1353,云碧潭Yunbi Pond,0,0.0,,,119.570374,30.410721,0,0.0,云碧潭,YunbiPond
+1354,龙须壁,0,0.0,,,119.571779,30.410553,0,0.0,龙须壁,
+1355,观乐楼,0,0.0,,,120.146375,30.257189,0,0.0,观乐楼,
+1356,西兴大桥the bridge of Xi Xing,0,80.0,,,120.226312,30.232002,0,0.0,西兴大桥,thebridgeofXiXing
+1357,石门檀石禅寺Tanshi Temple,0,0.0,,,119.866827,30.444088,0,0.0,石门檀石禅寺,TanshiTemple
+1358,立马回头公交站,0,100.0,,,120.122336,30.249172,1,0.0,立马回头公交站,
+1359,三深大会堂Sanshen Meeting Hall,0,60.0,,,120.077017,30.278464,0,0.0,三深大会堂,SanshenMeetingHall
+1360,"杭州东信和创园Dongxin Innovation Park, Hangzhou",0,84.0,,,120.052869,30.231266,4,0.0,杭州东信和创园,DongxinInnovationParkHangzhou
+1361,后亩山村Houmushan Village,0,0.0,,,119.94686,29.855509,0,0.0,后亩山村,HoumushanVillage
+1362,"工部冬官第Ministry of Works, Longmen Ancient Town",0,0.0,,,119.95473,29.908877,0,0.0,工部冬官第,MinistryofWorksLongmenAncientTown
+1363,龙门山飞瀑Longmen Mountain Waterfall,0,80.0,,,119.957586,29.906498,0,0.0,龙门山飞瀑,LongmenMountainWaterfall
+1364,华源文化创意园,0,0.0,,,120.132751,30.319915,0,0.0,华源文化创意园,
+1365,武林门码头Wulinmen Wharf,0,90.0,,,120.168823,30.279963,11,0.0,武林门码头,WulinmenWharf
+1366,杭州高级中学Zhejiang Hangzhou High School,0,98.0,,,120.179143,30.271039,9,0.0,杭州高级中学,ZhejiangHangzhouHighSchool
+1367,抟云塔Tuanyun Tower,0,0.0,,,119.340418,29.334675,0,0.0,抟云塔,TuanyunTower
+1368,嘉德威钢琴国际工业艺术旅游基地Jiadewei Gangqin Guoji Gongye Art Tourism Base,0,0.0,,,120.22328,30.343422,0,0.0,嘉德威钢琴国际工业艺术旅游基地,JiadeweiGangqinGuojiGongyeArtTourismBase
+1369,"西溪黑根蜡像馆Hagen Wax Museum, Xixi Wetland",0,0.0,,,120.056357,30.254346,0,0.0,西溪黑根蜡像馆,HagenWaxMuseumXixiWetland
+1370,鱼潭村Yutan Village,0,0.0,,,119.317795,30.06692,0,0.0,鱼潭村,YutanVillage
+1371,公元大厦AD Building,0,0.0,,,120.137803,30.270547,0,0.0,公元大厦,ADBuilding
+1372,指南山Zhinanshan Mountain,0,100.0,,,119.5841564608,30.3657311536,0,0.0,指南山,ZhinanshanMountain
+1373,望江亭Wangjian Pavilion,0,0.0,,,120.1159482922,30.2100641165,0,0.0,望江亭,WangjianPavilion
+1374,新西湖花园Xinxihu Garden,0,0.0,,,120.094801,30.172093,0,0.0,新西湖花园,XinxihuGarden
+1375,浙江商业职业技术学院Zhejiang Shangye Zhiye Jishu College,0,0.0,,,120.169879,30.18019,0,0.0,浙江商业职业技术学院,ZhejiangShangyeZhiyeJishuCollege
+1376,浙江艺术职业学院Zhejiang Vocational Academy of Art,0,0.0,,,120.162393,30.180381,0,0.0,浙江艺术职业学院,ZhejiangVocationalAcademyofArt
+1377,葫芦飞瀑Gourd Waterfall,0,80.0,,,119.500607,29.544097,0,0.0,葫芦飞瀑,GourdWaterfall
+1378,吴越遗址Wuyue Ruins,0,0.0,,,120.2431852403,30.1556583772,0,0.0,吴越遗址,WuyueRuins
+1379,西兴古镇Xixing Ancient Town,0,86.0,,,120.239179,30.193554,16,0.0,西兴古镇,XixingAncientTown
+1380,西许村Xixu Village,0,0.0,,,120.322566,30.168912,0,0.0,西许村,XixuVillage
+1381,三公园San Park,0,80.0,,,120.167312,30.260381,2,0.0,三公园,SanPark
+1382,寺坞岭Siwuling Mountain,0,80.0,,,120.1419327672,30.049581295,1,0.0,寺坞岭,SiwulingMountain
+1383,拓林瀑Tuolin Waterfall,0,0.0,,,119.127719,30.197443,0,0.0,拓林瀑,TuolinWaterfall
+1384,丽水路Lishui Road,0,0.0,,,120.146292,30.321899,0,0.0,丽水路,LishuiRoad
+1385,南宋怪宅Nansong Strange Residence,0,0.0,,,120.173109,30.245879,0,0.0,南宋怪宅,NansongStrangeResidence
+1386,湖滨路步行街Hubinlu Walking Street,0,92.0,,,120.165672,30.262981,12,0.0,湖滨路步行街,HubinluWalkingStreet
+1387,湖滨公园Hubin Park,0,96.0,,,119.050474,29.617783,4,0.0,湖滨公园,HubinPark
+1388,思鑫坊历史陈列馆Sixin Lane,0,96.0,,,120.172334,30.261542,1,0.0,思鑫坊历史陈列馆,SixinLane
+1389,锅庄狂欢Guozhuang Carnival,0,98.0,可以体验到原汁原味的藏羌锅庄,,120.104369,30.1764,0,0.0,锅庄狂欢,GuozhuangCarnival
+1390,杭州印,0,0.0,杭州印，是浙江杭州市的新地标建筑，坐落在钱塘江边，高约百米，因为外形奇特，像一条裤腿瘦、一条裤腿肥的西裤，被市民称为“粗细腿”，也是中国新奇葩建筑之一。,,120.21187,30.217368,0,0.0,杭州印,
+1391,余杭水泥厂,0,0.0,杭州一处新的网红拍照地。,,120.0002,30.227292,0,0.0,余杭水泥厂,
+1392,亚细亚号火车,0,0.0,,,120.171214,30.219086,0,0.0,亚细亚号火车,
+1393,象山艺术公社,0,0.0,象山艺术公社位于西湖区转塘街道象山南麓，建成后是一所全天候、多形态、开放式的艺术公园，将成为山水、城村互构的艺术人文社区，文化、创意交织的艺术产业公园，社会、学院联动的艺术交流平台。,,120.08125,30.157536,1,0.0,象山艺术公社,
+1394,黄弹山Huangdan Mountain,0,0.0,,,120.0652429507,29.8545808748,0,0.0,黄弹山,HuangdanMountain
+1395,谒王殿,0,0.0,,,119.730082,30.243255,0,0.0,谒王殿,
+1396,浙江大学西溪校区Zhejiang University Xixi Campus （South Gate）,0,94.0,,,120.147457,30.28066,37,0.0,浙江大学西溪校区,ZhejiangUniversityXixiCampusSouthGate
+1397,酷嗒动物文化乐园Kudadongwu Culture Amusement Park,0,0.0,,,120.046062,30.251082,1,0.0,酷嗒动物文化乐园,KudadongwuCultureAmusementPark
+1398,龙兴寺经幢Longxing Temple Buddhism Lection Building,0,86.0,,,120.169867,30.270145,5,0.0,龙兴寺经幢,LongxingTempleBuddhismLectionBuilding
+1399,CBD公园CBD Park (Zhijiang Road),0,98.0,,,120.218627,30.243363,27,0.0,公园,CBDCBDParkZhijiangRoad
+1400,嘉华国际商务中心Jiahua International Business Center,0,0.0,,,120.1469961462,30.2760265327,0,0.0,嘉华国际商务中心,JiahuaInternationalBusinessCenter
+1401,安龙漫公园Anlongman Park,0,0.0,,,119.078243,29.67124,0,0.0,安龙漫公园,AnlongmanPark
+1402,"观音寺白塔White Pagoda, Guanyin Temple",0,70.0,,,120.136423,30.202591,3,0.0,观音寺白塔,WhitePagodaGuanyinTemple
+1403,湖滨国际名品街Hubin Guoji Mingpin Street,0,90.0,,,120.1685917798,30.2595631118,87,0.0,湖滨国际名品街,HubinGuojiMingpinStreet
+1404,水南庙Shuinanmiao,0,0.0,,,120.1906693157,30.4806383894,0,0.0,水南庙,Shuinanmiao
+1405,蔡永祥陈列馆Caiyongxiang Exhibition Hall,0,80.0,,,120.140789,30.204638,3,0.0,蔡永祥陈列馆,CaiyongxiangExhibitionHall
+1406,宝石山造像Baoshishan Statue,0,84.0,,,120.156056,30.266193,5,0.0,宝石山造像,BaoshishanStatue
+1407,淘气宝儿童乐园,0,0.0,,,120.255,30.0536,0,0.0,淘气宝儿童乐园,
+1408,新沙岛玫瑰园Xinsha Island Rose Garden,0,68.0,,,120.0057123217,30.0445900749,1,0.0,新沙岛玫瑰园,XinshaIslandRoseGarden
+1409,浙江省科技馆Zhejiang Science and Technology Museum,0,92.0,,,120.171172,30.282042,26,0.0,浙江省科技馆,ZhejiangScienceandTechnologyMuseum
+1410,中策烹饪艺术博物馆Zhongce Cuisine Art Museum,0,0.0,,,120.156,30.2887,0,0.0,中策烹饪艺术博物馆,ZhongceCuisineArtMuseum
+1411,青石禅寺Qingshi Temple,0,0.0,,,120.253747,30.353454,0,0.0,青石禅寺,QingshiTemple
+1412,大佛寺Dafu Temple,0,86.0,,,120.159845,30.2664,16,0.0,大佛寺,DafuTemple
+1413,古天竺中印禅院Ancient Tianzhu Zhongyin Temple,0,80.0,,,120.098305,30.2438,1,0.0,古天竺中印禅院,AncientTianzhuZhongyinTemple
+1414,"杭州美丽洲基督教会文新堂Wenxin Church of Meilizhou Christian Church, Hangzhou",0,0.0,,,120.113,30.2826,0,0.0,杭州美丽洲基督教会文新堂,WenxinChurchofMeilizhouChristianChurchHangzhou
+1415,杭州市革命烈士纪念馆Hangzhoushi Geming Lieshi Memorial Hall,0,100.0,,,120.140395,30.203853,2,0.0,杭州市革命烈士纪念馆,HangzhoushiGemingLieshiMemorialHall
+1416,南都·黄龙广场Nandu Huanglong Square,0,0.0,,,120.141,30.2715,0,0.0,南都黄龙广场,NanduHuanglongSquare
+1417,石莲亭Shilian Pavilion,0,100.0,,,120.121159,30.249418,2,0.0,石莲亭,ShilianPavilion
+1418,耶稣堂Jesus Church,0,78.0,,,120.192447,30.485786,3,0.0,耶稣堂,JesusChurch
+1419,白居易纪念馆Baijuyi Memorial Hall,0,100.0,,,120.151267,30.258241,2,0.0,白居易纪念馆,BaijuyiMemorialHall
+1420,之江大学旧址Zhijiang University Site,0,92.0,,,120.132458,30.198685,3,0.0,之江大学旧址,ZhijiangUniversitySite
+1421,淳安江滨公园Jiangbin Park,0,96.0,,,119.04193,29.611046,9,0.0,淳安江滨公园,JiangbinPark
+1422,赵之谦纪念亭Zhao Zhiqian Memorial Pavilion (Zhao Zhiqian's Tomb),0,100.0,,,120.1376518923,30.2457007801,0,0.0,赵之谦纪念亭,ZhaoZhiqianMemorialPavilionZhaoZhiqiansTomb
+1423,富春山馆Fuchun Mountain Pavilion,0,98.0,,,119.9456255421,30.026960016,3,0.0,富春山馆,FuchunMountainPavilion
+1424,中国共产党杭州历史馆Chinese Communist Party History Museum Hangzhou,0,0.0,,,120.151411,30.263014,0,0.0,中国共产党杭州历史馆,ChineseCommunistPartyHistoryMuseumHangzhou
+1425,清真寺Mosque,0,98.0,,,120.226602,30.280397,8,0.0,清真寺,Mosque
+1426,坚匏别墅Jianpao Villa,0,96.0,,,120.156496,30.266099,5,0.0,坚匏别墅,JianpaoVilla
+1427,市南街Shinan Street,0,86.0,,,120.193253218,30.4852333069,12,0.0,市南街,ShinanStreet
+1428,水北粮站Shuibei Grain Supply Center,0,80.0,,,120.190762,30.484688,8,0.0,水北粮站,ShuibeiGrainSupplyCenter
+1429,八觉亭Bajue Pavilion,0,90.0,,,120.1264882904,30.2093199071,1,0.0,八觉亭,BajuePavilion
+1430,普福庵Pufu Nunnery,0,60.0,,,120.174,30.2413,1,0.0,普福庵,PufuNunnery
+1431,太史第弄Court Historian Mansion Lane,0,82.0,,,120.1951113732,30.4844112396,5,0.0,太史第弄,CourtHistorianMansionLane
+1432,水下古城文化科技主题乐园Shuixia Gucheng Wenhua Keji Theme Amusement Park,0,64.0,,,119.0386724167,29.6504221251,36,0.0,水下古城文化科技主题乐园,ShuixiaGuchengWenhuaKejiThemeAmusementPark
+1433,"塘栖御碑码头Yubei Wharf, Tangqi Ancient Town",0,82.0,,,120.191555,30.485101,9,0.0,塘栖御碑码头,YubeiWharfTangqiAncientTown
+1434,704工程704 Project (Lin Biao Hangzhou Palace),0,82.0,,,120.1316007319,30.2393953881,17,0.0,工程,ProjectLinBiaoHangzhouPalace
+1435,基督教三墩福音堂Christian Sandun Church,0,0.0,,,120.08289,30.335657,0,0.0,基督教三墩福音堂,ChristianSandunChurch
+1436,狮子正宗禅寺Lion Pagoda,0,0.0,,,119.445463,30.345543,0,0.0,狮子正宗禅寺,LionPagoda
+1437,江东大桥Jiangdong Bridge,0,0.0,,,120.1622157295,30.2788593771,0,0.0,江东大桥,JiangdongBridge
+1438,观光巴士水下古城遗址Guanguang Bashi Shuixia Gucheng Ruins,0,0.0,,,118.6789060448,29.4795960264,0,0.0,观光巴士水下古城遗址,GuanguangBashiShuixiaGuchengRuins
+1439,水德城隍庙Shuide Town God's Temple,0,0.0,,,120.309,30.1891,0,0.0,水德城隍庙,ShuideTownGodsTemple
+1440,南宋遗址陈列馆Nansong Museum,0,96.0,,,120.176244,30.235529,14,0.0,南宋遗址陈列馆,NansongMuseum
+1441,大涤山Dadi Mountain,0,0.0,,,119.9374586979,30.2438369838,0,0.0,大涤山,DadiMountain
+1442,杭州圣母无原罪主教座堂Hangzhou Immaculate Conception Cathedral,0,0.0,,,120.1741404825,30.2738472934,0,0.0,杭州圣母无原罪主教座堂,HangzhouImmaculateConceptionCathedral
+1443,杭州霞山Xiashan Mountain Scenic Resort of Hangzhou,0,0.0,,,118.6657686183,29.4731551276,0,0.0,杭州霞山,XiashanMountainScenicResortofHangzhou
+1444,钱江新城森林公园Hangzhou Forest Park,0,98.0,,,120.21647,30.245157,8,0.0,钱江新城森林公园,HangzhouForestPark
+1445,浙江中医药大学(东南门)Zhejiang Chinese Medical University （Southeast Gate）,0,92.0,,,120.1563575138,30.1787204742,10,0.0,浙江中医药大学东南门,ZhejiangChineseMedicalUniversitySoutheastGate
+1446,笕桥中央航校旧址Central Aviation School Site of Jianqiao,0,0.0,,,119.9780177024,30.3827721991,0,0.0,笕桥中央航校旧址,CentralAviationSchoolSiteofJianqiao
+1447,韩美林艺术馆Hanmeilin Art Museum,0,94.0,,,120.1263550523,30.2576500791,6,0.0,韩美林艺术馆,HanmeilinArtMuseum
+1448,文化生活广场Wenhuashenghuo Square,0,0.0,,,120.093,30.3411,0,0.0,文化生活广场,WenhuashenghuoSquare
+1449,冠山公园Binjiangguan Mountain Park,0,0.0,,,120.197715,30.168066,0,0.0,冠山公园,BinjiangguanMountainPark
+1450,润贸生活广场南广场Runmao Shenghuo Guangchang Nan Square,0,0.0,,,120.22,30.3212,0,0.0,润贸生活广场南广场,RunmaoShenghuoGuangchangNanSquare
+1451,宁围市民公园Ningweishimin Park,0,96.0,,,120.286839,30.222306,4,0.0,宁围市民公园,NingweishiminPark
+1452,富阳市城市森林公园Fuyangshi Chengshi Forest Park,0,0.0,,,119.968827948,30.0723113691,0,0.0,富阳市城市森林公园,FuyangshiChengshiForestPark
+1453,雷锋广场Leifeng Square,0,0.0,,,120.211388,30.274876,0,0.0,雷锋广场,LeifengSquare
+1454,临安市玉泉寺Lin'anshi Yuquan Temple,0,0.0,,,119.699,30.2408,0,0.0,临安市玉泉寺,LinanshiYuquanTemple
+1455,中国耕织图文化园China Cultural Park of Farming and Weaving Pictures,0,80.0,,,119.4020991288,30.2254433525,3,0.0,中国耕织图文化园,ChinaCulturalParkofFarmingandWeavingPictures
+1456,皋亭山公墓,0,0.0,,,120.230868,30.392014,0,0.0,皋亭山公墓,
+1457,小镇水景公园Xiaozhenshuijing Park,0,0.0,,,120.152,30.2089,0,0.0,小镇水景公园,XiaozhenshuijingPark
+1458,华浙公园Huazhe Park,0,0.0,,,120.1673553906,30.2806587649,0,0.0,华浙公园,HuazhePark
+1459,挹江亭,0,0.0,,,120.149672298,30.2188514899,0,0.0,挹江亭,
+1460,市民演艺广场Shiminyanyi Square,0,0.0,,,120.219,30.2124,0,0.0,市民演艺广场,ShiminyanyiSquare
+1461,乐科世健康梦想广场Lekeshi Jiankang Mengxiang Square,0,0.0,,,120.19,30.2679,0,0.0,乐科世健康梦想广场,LekeshiJiankangMengxiangSquare
+1462,突击风暴真人CS(宝石山基地),0,0.0,,,120.018,30.2125,0,0.0,突击风暴真人宝石山基地,CS
+1463,麦岭沙公园Mailingsha Park,0,0.0,,,120.124593,30.148185,0,0.0,麦岭沙公园,MailingshaPark
+1464,灵古寺Linggusi,0,0.0,,,119.714,29.6602,0,0.0,灵古寺,Linggusi
+1465,颐乐园,0,0.0,,,120.382,30.1811,0,0.0,颐乐园,
+1466,天仙庙Tianxian Temple,0,0.0,,,120.192,30.2854,0,0.0,天仙庙,TianxianTemple
+1467,浙江·人类与自然油画院Zhejiang Academy of Human and Nature Oil Painting,0,0.0,,,120.172,30.2829,2,0.0,浙江人类与自然油画院,ZhejiangAcademyofHumanandNatureOilPainting
+1468,明宅Ming Residence,0,0.0,,,120.1823695486,30.2716850918,0,0.0,明宅,MingResidence
+1469,中山纪念林Zhongshan Memorial Forest,0,0.0,,,120.17,30.2296,0,0.0,中山纪念林,ZhongshanMemorialForest
+1470,陈夔龙墓Chen Kuilong Cemetery,0,60.0,,,120.13699,30.234719,1,0.0,陈夔龙墓,ChenKuilongCemetery
+1471,广福禅寺Guangfuchan Temple,0,0.0,,,120.052459,30.282436,0,0.0,广福禅寺,GuangfuchanTemple
+1472,中策财会博物馆Zhongce Accounting Museum,0,0.0,,,120.156,30.3025,0,0.0,中策财会博物馆,ZhongceAccountingMuseum
+1473,龙吟狮吼亭Dragon and Lion Roar Pavilion,0,0.0,,,120.024,30.2025,0,0.0,龙吟狮吼亭,DragonandLionRoarPavilion
+1474,西溪城市文化公园Xixi City Culture Park,0,90.0,,,120.147748,30.287495,24,0.0,西溪城市文化公园,XixiCityCulturePark
+1475,城隍庙Town God's Temple,0,100.0,,,120.136793,30.452523,1,0.0,城隍庙,TownGodsTemple
+1476,耶稣堂弄Jesus Alley,0,0.0,,,120.173,30.275,0,0.0,耶稣堂弄,JesusAlley
+1477,君悦广场Junyue Square,0,0.0,,,119.693,29.8061,0,0.0,君悦广场,JunyueSquare
+1478,万寿亭Wanshouting,0,80.0,,,120.167954,30.27558,5,0.0,万寿亭,Wanshouting
+1479,白龙寺礼堂,0,0.0,,,119.911,30.1304,0,0.0,白龙寺礼堂,
+1480,雷锋广场Leifeng Square,0,0.0,,,119.681,29.8108,0,0.0,雷锋广场,LeifengSquare
+1481,植物分类区Plant Classification Area,0,0.0,,,120.128,30.2579,0,0.0,植物分类区,PlantClassificationArea
+1482,定慧寺Dinghui Temple,0,0.0,,,120.187415,30.339023,0,0.0,定慧寺,DinghuiTemple
+1483,长河革命历史纪念馆Changhe Geming Lishi Memorial Hall,0,0.0,,,120.2011854478,30.1764042996,0,0.0,长河革命历史纪念馆,ChangheGemingLishiMemorialHall
+1484,勾庄公园Gouzhuang Park,0,0.0,,,120.093072,30.359606,0,0.0,勾庄公园,GouzhuangPark
+1485,经济植物区Economic Plant Area,0,0.0,,,120.128,30.2591,0,0.0,经济植物区,EconomicPlantArea
+1486,大水坑庵边Dashuikeng Anbian Village,0,0.0,,,118.95,30.1538,0,0.0,大水坑庵边,DashuikengAnbianVillage
+1487,中国院子易辰·江南大院展示中心Zhongguo Yuanzi Yichen·Jiangnan Dayuan Zhanshi Center,0,0.0,,,120.147,30.2731,0,0.0,中国院子易辰江南大院展示中心,ZhongguoYuanziYichenJiangnanDayuanZhanshiCenter
+1488,突击风暴真人CS,0,0.0,,,120.095,30.2809,0,0.0,突击风暴真人,CS
+1489,民族日报社纪念馆Minzu Ribaoshe Memorial Hall,0,0.0,,,119.421567,30.213786,0,0.0,民族日报社纪念馆,MinzuRibaosheMemorialHall
+1490,天水同方健身公园Tianshui Tongfang Fitness Park,0,0.0,,,120.173,30.271,0,0.0,天水同方健身公园,TianshuiTongfangFitnessPark
+1491,城厢基督教堂Chengxiang Christian Church,0,0.0,,,120.284371,30.168882,0,0.0,城厢基督教堂,ChengxiangChristianChurch
+1492,桃花园Tao Garden,0,0.0,,,120.122421,30.257605,0,0.0,桃花园,TaoGarden
+1493,报恩寺遗址Bao'ensi Relic Site,0,0.0,,,120.1674329657,30.2313497017,0,0.0,报恩寺遗址,BaoensiRelicSite
+1494,北沃童乐园,0,0.0,,,120.197,30.1995,0,0.0,北沃童乐园,
+1495,淘气宝乐园,0,0.0,,,120.26,29.983,0,0.0,淘气宝乐园,
+1496,少儿公园自行车租赁点,0,0.0,,,120.142,30.2216,0,0.0,少儿公园自行车租赁点,
+1497,星艺乐园,0,0.0,,,120.199,30.2351,0,0.0,星艺乐园,
+1498,杭州植物园-洪春桥售票处,0,80.0,,,120.129,30.2543,2,0.0,杭州植物园洪春桥售票处,
+1499,雷锋广场(机场路一巷)Leifeng Square (jichangluyixiang),0,0.0,,,120.197,30.2961,0,0.0,雷锋广场机场路一巷,LeifengSquarejichangluyixiang
+1500,百花广场Baihua Square,0,0.0,,,119.96,29.9043,0,0.0,百花广场,BaihuaSquare
+1501,基督教下城区朝晖教会Jidu Jiao Xia Chengqu Zhaohui Church,0,0.0,,,120.167,30.2903,0,0.0,基督教下城区朝晖教会,JiduJiaoXiaChengquZhaohuiChurch
+1502,现场为您画像,0,100.0,,,120.165,30.2628,0,0.0,现场为您画像,
+1503,大塘巷社区统战联谊会(侨之家)、聚侨堂,0,0.0,,,120.166,30.2859,0,0.0,大塘巷社区统战联谊会侨之家聚侨堂,
+1504,财通广场Caitong Square,0,0.0,,,120.391,30.3278,0,0.0,财通广场,CaitongSquare
+1505,华丰中心广场Huafeng Center Square,0,0.0,,,120.205,30.3442,0,0.0,华丰中心广场,HuafengCenterSquare
+1506,稻香园-社区文化广场Daoxiangyuan-Shequ Culture Square,0,96.0,,,120.162402,30.290756,12,0.0,稻香园社区文化广场,DaoxiangyuanShequCultureSquare
+1507,裴裴半永久,0,0.0,,,120.231,30.2031,0,0.0,裴裴半永久,
+1508,文化休闲广场Culture Leisure Square,0,0.0,,,120.187,30.2824,0,0.0,文化休闲广场,CultureLeisureSquare
+1509,啵啵爱乐园(笕桥店),0,0.0,,,120.221,30.321,0,0.0,啵啵爱乐园笕桥店,
+1510,浙江大学(华家池校区)-土壤标本陈列馆Zhejiang Daxue (Huajiachixiaoqu) -Turang Biaoben Exhibition Hall,0,0.0,,,120.204,30.2783,0,0.0,浙江大学华家池校区土壤标本陈列馆,ZhejiangDaxueHuajiachixiaoquTurangBiaobenExhibitionHall
+1511,新华广场Xinhua Square,0,0.0,,,120.302,30.2177,0,0.0,新华广场,XinhuaSquare
+1512,戚家池社区文化广场Qijiachi Shequ Culture Square,0,0.0,,,120.273,30.1473,0,0.0,戚家池社区文化广场,QijiachiShequCultureSquare
+1513,华山连天美·湖滨LOVE广场Hua Shan Liantianmei·hubin Love Square,0,80.0,,,120.17,30.2615,1,0.0,华山连天美湖滨广场,LOVEHuaShanLiantianmeihubinLoveSquare
+1514,华成科技广场Huachengkeji Square,0,0.0,,,120.254,30.1889,0,0.0,华成科技广场,HuachengkejiSquare
+1515,爱情广场Aiqing Square,0,0.0,,,120.104,30.1774,1,0.0,爱情广场,AiqingSquare
+1516,明真宫社区-志愿者服务广场Mingzhengong Shequ-Zhiyuanzhe Fuwu Square,0,0.0,,,120.145,30.3111,0,0.0,明真宫社区志愿者服务广场,MingzhengongShequZhiyuanzheFuwuSquare
+1517,文化小广场Wenhuaxiao Square,0,0.0,,,120.128,30.297,0,0.0,文化小广场,WenhuaxiaoSquare
+1518,景华社区-生育文化园Fertility Cultural Park of Jinghua Community,0,0.0,,,120.216,30.2791,0,0.0,景华社区生育文化园,FertilityCulturalParkofJinghuaCommunity
+1519,州治广场Zhouzhi Square,0,0.0,,,120.176,30.244,0,0.0,州治广场,ZhouzhiSquare
+1520,青春广场Qingchun Square,0,0.0,,,120.167,30.1809,0,0.0,青春广场,QingchunSquare
+1521,翔园,0,0.0,,,120.169,30.3017,0,0.0,翔园,
+1522,南湖公园Nanhu Park,0,90.0,,,119.929342,30.262423,4,0.0,南湖公园,NanhuPark
+1523,桐庐县城南街道成成沙场,0,0.0,,,119.679,29.7775,0,0.0,桐庐县城南街道成成沙场,
+1524,古荡湾社区文化小广场Gudangwan Shequ Wenhua Xiao Square,0,0.0,,,120.136,30.2858,0,0.0,古荡湾社区文化小广场,GudangwanShequWenhuaXiaoSquare
+1525,心连心广场Xinlianxin Square,0,0.0,,,120.138,30.2842,0,0.0,心连心广场,XinlianxinSquare
+1526,Music PARK根据地·音乐公园Music Park Genjudi·Yinyue,0,0.0,,,120.138,30.2544,0,0.0,根据地音乐公园,MusicPARKMusicParkGenjudiYinyue
+1527,安乐园,0,0.0,,,120.257,30.3635,0,0.0,安乐园,
+1528,中心广场Central Square,0,0.0,,,119.948,30.1012,0,0.0,中心广场,CentralSquare
+1529,白乌村文化小广场Baiwucun Wenhua Xiao Square,0,0.0,,,120.116,30.1015,0,0.0,白乌村文化小广场,BaiwucunWenhuaXiaoSquare
+1530,航民山前广场Hangminshanqian Square,0,0.0,,,120.455,30.1889,0,0.0,航民山前广场,HangminshanqianSquare
+1531,桐荫堂书院,0,0.0,,,120.2,30.3297,0,0.0,桐荫堂书院,
+1532,稻草人广场Daocaoren Square,0,0.0,,,119.071,30.2627,0,0.0,稻草人广场,DaocaorenSquare
+1533,安桥文化广场Anqiao Culture Square,0,0.0,,,120.265,30.1533,0,0.0,安桥文化广场,AnqiaoCultureSquare
+1534,向阳社区-文化广场Xiangyang Shequ- Culture Square,0,0.0,,,120.263,30.142,0,0.0,向阳社区文化广场,XiangyangShequCultureSquare
+1535,启航杨汛文化广场Qihang Yangxun Cultural Plaza,0,0.0,,,120.364,30.1593,1,0.0,启航杨汛文化广场,QihangYangxunCulturalPlaza
+1536,千岛湖珍珠广场Qiandao Lake Pearl Square,0,88.0,,,119.119657,29.603985,6,0.0,千岛湖珍珠广场,QiandaoLakePearlSquare
+1537,"杭州富阳谢家溪耶稣堂Xiejiaxi Church of Jesus in Fuyang, Hangzhou",0,0.0,,,119.928,30.0213,0,0.0,杭州富阳谢家溪耶稣堂,XiejiaxiChurchofJesusinFuyangHangzhou
+1538,沙里吴文化广场Shaliwu Culture Square,0,0.0,,,120.265,30.124,0,0.0,沙里吴文化广场,ShaliwuCultureSquare
+1539,北门广场Beimen Square,0,0.0,,,118.673,29.4792,0,0.0,北门广场,BeimenSquare
+1540,孔成儿童乐园,0,0.0,,,120.294,30.3592,0,0.0,孔成儿童乐园,
+1541,永仁寺Yongren Temple,0,0.0,,,120.29,30.3635,0,0.0,永仁寺,YongrenTemple
+1542,小区游乐园,0,0.0,,,120.117,30.2778,0,0.0,小区游乐园,
+1543,源茂里近代建筑群Modern Buildings in Yuanmaoli,0,90.0,,,120.17833,30.249719,2,0.0,源茂里近代建筑群,ModernBuildingsinYuanmaoli
+1544,永和祥南货店旧址Yonghexiang Nanhuodian Site,0,0.0,,,120.178,30.2434,0,0.0,永和祥南货店旧址,YonghexiangNanhuodianSite
+1545,国药馆,0,0.0,,,120.177,30.2425,0,0.0,国药馆,
+1546,红果果乐园,0,0.0,,,120.238,30.3595,0,0.0,红果果乐园,
+1547,中山中路近代建筑群Modern Buildings on Zhongshan Middle Road,0,90.0,,,120.165498,30.246743,3,0.0,中山中路近代建筑群,ModernBuildingsonZhongshanMiddleRoad
+1548,现场艺术画像,0,0.0,,,120.167,30.2601,0,0.0,现场艺术画像,
+1549,五幸公园Wuxing Park,0,0.0,,,120.069,30.3366,0,0.0,五幸公园,WuxingPark
+1550,万嘉庙Wanjia Temple,0,0.0,,,120.322,30.3609,0,0.0,万嘉庙,WanjiaTemple
+1551,杭州基督教会-半山堂Hangzhou Christian Mid-level Church,0,0.0,,,120.197,30.3629,0,0.0,杭州基督教会半山堂,HangzhouChristianMidlevelChurch
+1552,余杭区沾桥基督教堂Yuhangqu Zhanqiao Christ Church,0,100.0,,,120.15,30.3955,0,0.0,余杭区沾桥基督教堂,YuhangquZhanqiaoChristChurch
+1553,和睦基督教堂Hemu Christ Church,0,100.0,,,120.260369947,30.3670771084,0,0.0,和睦基督教堂,HemuChristChurch
+1554,丁兰公园Dinglan Park,0,0.0,,,120.2391301701,30.3600112253,0,0.0,丁兰公园,DinglanPark
+1555,天下玉家,0,0.0,,,120.177,30.2457,0,0.0,天下玉家,
+1556,叶种德堂,0,100.0,,,120.177,30.2451,0,0.0,叶种德堂,
+1557,天王宝殿Palace of Heavenly Kings,0,80.0,,,120.239,30.3935,1,0.0,天王宝殿,PalaceofHeavenlyKings
+1558,孟成儿童乐园,0,0.0,,,120.243,30.3527,0,0.0,孟成儿童乐园,
+1559,径山茶展示,0,0.0,,,119.839298,30.406836,0,0.0,径山茶展示,
+1560,许引之墓Tomb of Xu Yinzhi,0,0.0,,,120.125028,30.223231,0,0.0,许引之墓,TombofXuYinzhi
+1561,天阳游乐园,0,0.0,,,120.093,30.3657,0,0.0,天阳游乐园,
+1562,石斛博物馆Shihu Museum,0,0.0,,,120.118,30.3814,0,0.0,石斛博物馆,ShihuMuseum
+1563,良渚文化村矿坑公园Liangzhu Wenhua Cun Kuangkeng Park,0,0.0,,,120.007211,30.357745,0,0.0,良渚文化村矿坑公园,LiangzhuWenhuaCunKuangkengPark
+1564,余杭共青团历史纪念馆Yuhang Gongqingtuan Lishi Memorial Hall,0,0.0,,,119.725794,30.438107,0,0.0,余杭共青团历史纪念馆,YuhangGongqingtuanLishiMemorialHall
+1565,新桥基督教堂Xinqiao Christ Church,0,0.0,,,120.151,30.46,0,0.0,新桥基督教堂,XinqiaoChristChurch
+1566,鸭兰村基督教堂Yalancun Christ Church,0,0.0,,,120.145,30.425,0,0.0,鸭兰村基督教堂,YalancunChristChurch
+1567,杭州名人纪念馆Hangzhoumingren Memorial Hall,0,0.0,,,120.151,30.2344,0,0.0,杭州名人纪念馆,HangzhoumingrenMemorialHall
+1568,会师亭Huishi Pavilion,0,0.0,,,119.108,30.3009,0,0.0,会师亭,HuishiPavilion
+1569,晶港公园Jinggang Park,0,0.0,,,120.516,30.2276,0,0.0,晶港公园,JinggangPark
+1570,江一公园Jiangyi Park,0,0.0,,,120.214742,30.20215,0,0.0,江一公园,JiangyiPark
+1571,抽油机景点,0,0.0,,,120.127,30.2684,0,0.0,抽油机景点,
+1572,蟠龙寺庙Panlong Temple,0,0.0,,,119.629,30.3072,0,0.0,蟠龙寺庙,PanlongTemple
+1573,浪山寺Lang Mountain Temple,0,0.0,,,119.631,30.2866,0,0.0,浪山寺,LangMountainTemple
+1574,幻住庵Huanzhu Nunnery,0,0.0,,,119.448088,30.34573,0,0.0,幻住庵,HuanzhuNunnery
+1575,紫荆花公园Zijinghua Park,0,88.0,,,120.098494,30.287468,6,0.0,紫荆花公园,ZijinghuaPark
+1576,寝殿遗址Qindian Ruins,0,0.0,,,120.142,30.259,0,0.0,寝殿遗址,QindianRuins
+1577,凉堂Lian Hall,0,0.0,,,120.147,30.2569,0,0.0,凉堂,LianHall
+1578,张静江故居Zhangjingjiang Former Residence,0,0.0,,,120.1528075639,30.2645274022,0,0.0,张静江故居,ZhangjingjiangFormerResidence
+1579,昆山片玉中国古代陶瓷陈列,0,0.0,,,120.15,30.2573,0,0.0,昆山片玉中国古代陶瓷陈列,
+1580,万事利丝绸下沙工业博物馆Wanshili Sichou Xiasha Gongye Museum,0,0.0,,,120.337099,30.297737,0,0.0,万事利丝绸下沙工业博物馆,WanshiliSichouXiashaGongyeMuseum
+1581,杭州白塔林上栖云寺Hangzhou Baitalin Shang Qiyun Temple,0,0.0,,,120.166,30.2221,0,0.0,杭州白塔林上栖云寺,HangzhouBaitalinShangQiyunTemple
+1582,Ghost Park-杭州店,0,0.0,,,120.176,30.2325,0,0.0,杭州店,GhostPark
+1583,大成殿Dacheng Palace,0,80.0,,,120.166708,30.231873,1,0.0,大成殿,DachengPalace
+1584,黄山庙Huangshan Temple,0,0.0,,,120.4175768248,30.2873123301,0,0.0,黄山庙,HuangshanTemple
+1585,青纱公园公共自行车租赁点,0,0.0,,,120.146,30.3118,0,0.0,青纱公园公共自行车租赁点,
+1586,黎明公园Liming Park,0,0.0,,,120.2310447819,30.3135500183,0,0.0,黎明公园,LimingPark
+1587,廉政文化园Clean Government Culture Park,0,0.0,,,120.2221297102,30.333940445,0,0.0,廉政文化园,CleanGovernmentCulturePark
+1588,自行车租赁点,0,0.0,,,120.206,30.2382,0,0.0,自行车租赁点,
+1589,荣华茶园遗址Ronghuachayuan Ruins,0,0.0,,,120.1466934342,30.3232772399,0,0.0,荣华茶园遗址,RonghuachayuanRuins
+1590,五堡中心公园Wubao Center Park,0,0.0,,,120.247,30.2902,0,0.0,五堡中心公园,WubaoCenterPark
+1591,施家桥Shijia Bridge,0,0.0,,,120.18,30.2843,0,0.0,施家桥,ShijiaBridge
+1592,蔡汝揆纪念馆Cairukui Memorial Hall,0,0.0,,,120.22,30.3182,0,0.0,蔡汝揆纪念馆,CairukuiMemorialHall
+1593,上游桥教会Shangyouqiao Church,0,0.0,,,120.274,30.304,0,0.0,上游桥教会,ShangyouqiaoChurch
+1594,同心文体中心公园Tongxinwenti Center Park,0,0.0,,,120.237,30.3251,0,0.0,同心文体中心公园,TongxinwentiCenterPark
+1595,浙工新村小游园,0,0.0,,,120.173,30.295,0,0.0,浙工新村小游园,
+1596,远洋心里-中央公园Yuanyang Xinli-Zhongyang Park,0,86.0,,,120.251,30.314,0,0.0,远洋心里中央公园,YuanyangXinliZhongyangPark
+1597,水田畈遗址雕塑Sculpture of Shuitianfan Relics,0,0.0,,,120.184727323,30.2957369329,0,0.0,水田畈遗址雕塑,SculptureofShuitianfanRelics
+1598,黄家村文体公园Huangjiacun Wenti Park,0,0.0,,,120.2469334525,30.3248347505,0,0.0,黄家村文体公园,HuangjiacunWentiPark
+1599,德力西电气产业杭州展示厅,0,0.0,,,120.137,30.2792,0,0.0,德力西电气产业杭州展示厅,
+1600,杭州大河造船厂建筑群,0,0.0,,,120.144,30.3315,0,0.0,杭州大河造船厂建筑群,
+1601,龙凤和睦园,0,0.0,,,120.185,30.2775,0,0.0,龙凤和睦园,
+1602,七古登小公园Qigudengxiao Park,0,0.0,,,120.16,30.3203,0,0.0,七古登小公园,QigudengxiaoPark
+1603,君昂童子军,0,0.0,,,120.158,30.3106,0,0.0,君昂童子军,
+1604,刘公馆Liu's Mansion,0,0.0,,,119.283,29.478,0,0.0,刘公馆,LiusMansion
+1605,杭州服装文化博物馆Hangzhoufuzhuang Culture Museum,0,0.0,,,120.309328,30.390739,0,0.0,杭州服装文化博物馆,HangzhoufuzhuangCultureMuseum
+1606,班荆馆遗址Banjingguan Ruins,0,0.0,,,120.257,30.3978,0,0.0,班荆馆遗址,BanjingguanRuins
+1607,茶花庙Chahua Temple,0,0.0,,,120.235,30.3428,0,0.0,茶花庙,ChahuaTemple
+1608,恩嘉儿童游乐园,0,0.0,,,120.253,30.3963,0,0.0,恩嘉儿童游乐园,
+1609,乐淘淘儿童乐园,0,0.0,,,120.239,30.3648,0,0.0,乐淘淘儿童乐园,
+1610,月老祠堂Yuelao Ancestral Hall,0,0.0,,,120.112448,30.310022,0,0.0,月老祠堂,YuelaoAncestralHall
+1611,华夏紫砂博物馆Huaxiazisha Museum,0,0.0,,,120.167,30.263,0,0.0,华夏紫砂博物馆,HuaxiazishaMuseum
+1612,神气活现,0,0.0,,,120.115,30.3066,0,0.0,神气活现,
+1613,西溪酿酒文化交流中心Xixi Niangjiu Wenhua Jiaoliu Center,0,0.0,,,120.079,30.2787,0,0.0,西溪酿酒文化交流中心,XixiNiangjiuWenhuaJiaoliuCenter
+1614,向阳文体公园Xiangyangwenti Park,0,0.0,,,120.1718029663,30.3879046666,0,0.0,向阳文体公园,XiangyangwentiPark
+1615,游乐设施,0,0.0,,,120.101,30.3471,0,0.0,游乐设施,
+1616,新刚公园Xingang Park,0,100.0,,,120.298,30.4354,0,0.0,新刚公园,XingangPark
+1617,福星观Fuxing Temple,0,100.0,,,120.1518645228,30.2204672373,0,0.0,福星观,FuxingTemple
+1618,滨江区健康主题公园Binjiang Park,0,94.0,,,120.205037,30.215591,12,0.0,滨江区健康主题公园,BinjiangPark
+1619,江二公园Jiang'er Park,0,0.0,,,120.2014685038,30.2085863817,0,0.0,江二公园,JiangerPark
+1620,李家祠堂Lijia Ancestral Hall,0,0.0,,,120.028,30.3083,0,0.0,李家祠堂,LijiaAncestralHall
+1621,萧山龙虎高家祠堂Xiao Shan Longhu Gaojia Ancestral Hall,0,0.0,,,120.422382,30.288759,0,0.0,萧山龙虎高家祠堂,XiaoShanLonghuGaojiaAncestralHall
+1622,浙江省博物馆青瓷撷英Zhejiang Museum Qingci Xieying,0,100.0,,,120.150144,30.257407,1,0.0,浙江省博物馆青瓷撷英,ZhejiangMuseumQingciXieying
+1623,松下友好公园Songxiayouhao Park,0,80.0,,,120.372166,30.331715,2,0.0,松下友好公园,SongxiayouhaoPark
+1624,赵之谦墓址Tomb of Zhao Zhiqian,0,0.0,,,120.138,30.2453,0,0.0,赵之谦墓址,TombofZhaoZhiqian
+1625,下沙河道中心公园Xiashahedao Center Park,0,0.0,,,120.367395,30.305373,0,0.0,下沙河道中心公园,XiashahedaoCenterPark
+1626,梓府Zifu Mansion,0,0.0,,,120.176598,30.235176,0,0.0,梓府,ZifuMansion
+1627,石王庙Shiwang Temple,0,0.0,,,120.27174,30.332103,0,0.0,石王庙,ShiwangTemple
+1628,皋亭积雪,0,0.0,,,120.1449973364,30.3371101903,0,0.0,皋亭积雪,
+1629,欧三公园Ouya Park,0,0.0,,,120.167252,30.283038,0,0.0,欧三公园,OuyaPark
+1630,五福亭,0,0.0,,,120.253,30.2896,0,0.0,五福亭,
+1631,竹海水韵荷塘轩Bamboo Sea Rhyme Lotus Pond,0,0.0,,,119.985,30.2446,0,0.0,竹海水韵荷塘轩,BambooSeaRhymeLotusPond
+1632,悠游堂(运河上街店),0,0.0,,,120.152,30.3251,0,0.0,悠游堂运河上街店,
+1633,徐海福沙场,0,0.0,,,120.147,30.3474,0,0.0,徐海福沙场,
+1634,神博乐园萧山办事处,0,0.0,,,120.273,30.1693,0,0.0,神博乐园萧山办事处,
+1635,王道公园(临平)Wangdao Park (linping),0,98.0,,,120.309487,30.406877,2,0.0,王道公园临平,WangdaoParklinping
+1636,独托庙Dutuo Temple,0,0.0,,,120.275,30.407,0,0.0,独托庙,DutuoTemple
+1637,珠珠庵Zhuzhu Nunnery,0,0.0,,,120.0848818334,30.3176116967,0,0.0,珠珠庵,ZhuzhuNunnery
+1638,菩昙禅寺Putanchan Temple,0,0.0,,,120.300369,30.395829,0,0.0,菩昙禅寺,PutanchanTemple
+1639,乔司耶稣堂Qiaosi Jesus Church,0,0.0,,,120.290034,30.365934,0,0.0,乔司耶稣堂,QiaosiJesusChurch
+1640,德清县徐家庄教堂Deqingxian Xujiazhuang Church,0,0.0,,,120.258,30.5196,0,0.0,德清县徐家庄教堂,DeqingxianXujiazhuangChurch
+1641,海会寺遗址Haihui Temple Ruins,0,0.0,,,120.176,30.244,0,0.0,海会寺遗址,HaihuiTempleRuins
+1642,徐青甫故居Xuqingfu Former Residence,0,0.0,,,120.17,30.2629,0,0.0,徐青甫故居,XuqingfuFormerResidence
+1643,红果果,0,0.0,,,120.238,30.359,0,0.0,红果果,
+1644,EXIT-CLUBEXIT-CLUB,0,0.0,,,120.179,30.2628,0,0.0,,EXITCLUBEXITCLUB
+1645,古荡街道杭帮菜博物馆Gudangjie Daohangbangcai Museum,0,0.0,,,120.123,30.28,0,0.0,古荡街道杭帮菜博物馆,GudangjieDaohangbangcaiMuseum
+1646,五常基督教堂Wuchang Christ Church,0,0.0,,,120.0548778904,30.2947431355,0,0.0,五常基督教堂,WuchangChristChurch
+1647,杭州江南明清古建筑博物馆Hangzhou Jiangnan Mingqing Gujianzhu Museum,0,0.0,,,120.054091,30.272661,0,0.0,杭州江南明清古建筑博物馆,HangzhouJiangnanMingqingGujianzhuMuseum
+1648,芳华亭Fanghua Pavilion,0,86.0,,,120.161509,30.246904,1,0.0,芳华亭,FanghuaPavilion
+1649,汪王庙遗址Wangwangmiao Ruins,0,0.0,,,120.172,30.2385,0,0.0,汪王庙遗址,WangwangmiaoRuins
+1650,共青团生态林,0,0.0,,,120.179,30.3637,0,0.0,共青团生态林,
+1651,问津亭Wenjin Pavilion,0,0.0,,,120.209,30.3659,0,0.0,问津亭,WenjinPavilion
+1652,香生活博物馆Xiangshenghuo Museum,0,0.0,,,120.035,30.3738,0,0.0,香生活博物馆,XiangshenghuoMuseum
+1653,兴安里历史地段,0,0.0,,,120.174,30.253,0,0.0,兴安里历史地段,
+1654,谢尚书庙Temple of Minister Xie,0,0.0,,,120.13361877,30.3489113726,0,0.0,谢尚书庙,TempleofMinisterXie
+1655,中共西镇区委旧址Zhonggong Xizhen Quwei Site,0,0.0,,,120.129,30.4058,0,0.0,中共西镇区委旧址,ZhonggongXizhenQuweiSite
+1656,塘山遗址Tang Mountain Ruins,0,0.0,,,119.9795306293,30.4178860204,0,0.0,塘山遗址,TangMountainRuins
+1657,飞悦儿童乐园,0,0.0,,,120.311,30.4262,0,0.0,飞悦儿童乐园,
+1658,冯家溇教会Fengjialou Church,0,0.0,,,120.529790544,30.2922924319,0,0.0,冯家溇教会,FengjialouChurch
+1659,昭明寺下院Lower Yard of Zhaoming Temple,0,0.0,,,119.522316,30.33581,0,0.0,昭明寺下院,LowerYardofZhaomingTemple
+1660,闺贞庵Guizhen Nunnery,0,0.0,,,120.41,30.2636,0,0.0,闺贞庵,GuizhenNunnery
+1661,杭州市萧山区天福龟鳖博物馆Hangzhoushi Xiao Shan Qutianfuguibie Museum,0,0.0,,,120.291,30.2015,0,0.0,杭州市萧山区天福龟鳖博物馆,HangzhoushiXiaoShanQutianfuguibieMuseum
+1662,浙江文化精品体验馆Zhejiang Wenhua Jingpin Experience Hall,0,0.0,,,120.166,30.2151,0,0.0,浙江文化精品体验馆,ZhejiangWenhuaJingpinExperienceHall
+1663,开心乐园-儿童游乐园,0,0.0,,,120.245,30.2878,0,0.0,开心乐园儿童游乐园,
+1664,杭州世博历史文化博物馆Hangzhou Shibo Lishi Culture Museum,0,0.0,,,120.30647,30.272036,0,0.0,杭州世博历史文化博物馆,HangzhouShiboLishiCultureMuseum
+1665,浙江大学(华家池校区)-植物园Zhejiangdaxue (huajiachixiaoqu) - Botanical Garden,0,92.0,,,120.198649,30.276772,14,0.0,浙江大学华家池校区植物园,ZhejiangdaxuehuajiachixiaoquBotanicalGarden
+1666,万向公园-自行车租赁点Wanxiang Park Bicycle Zulindian,0,0.0,,,120.164,30.2767,0,0.0,万向公园自行车租赁点,WanxiangParkBicycleZulindian
+1667,江南锡器博物馆Jiangnanxiqi Museum,0,0.0,,,120.228,30.3243,0,0.0,江南锡器博物馆,JiangnanxiqiMuseum
+1668,青年广场Qingnian Square,0,0.0,,,120.258,30.4718,0,0.0,青年广场,QingnianSquare
+1669,德胜坝遗址Deshengba Ruins,0,0.0,,,120.159,30.2963,0,0.0,德胜坝遗址,DeshengbaRuins
+1670,杭州基督教会-拱宸堂,0,0.0,,,120.161,30.3267,0,0.0,杭州基督教会拱宸堂,
+1671,小黑屋桌面游戏吧,0,0.0,,,120.149,30.3004,0,0.0,小黑屋桌面游戏吧,
+1672,宝贝天地,0,0.0,,,120.189,30.3251,0,0.0,宝贝天地,
+1673,陈从周故居遗址Chencongzhou Former Residence Ruins,0,0.0,,,120.156,30.2999,0,0.0,陈从周故居遗址,ChencongzhouFormerResidenceRuins
+1674,桧楫亭,0,0.0,,,120.084,30.2701,0,0.0,桧楫亭,
+1675,感恩堂Appreciation Church,0,0.0,,,120.027,30.2369,0,0.0,感恩堂,AppreciationChurch
+1676,绍鲁公园Shaolu Park,0,80.0,,,119.4371106759,30.2341585867,1,0.0,绍鲁公园,ShaoluPark
+1677,杭州主爱堂,0,0.0,,,119.6220777991,30.2401945132,0,0.0,杭州主爱堂,
+1678,小蚂蚁,0,0.0,,,120.275,30.1768,0,0.0,小蚂蚁,
+1679,知章公园-华云寺Zhi Zhang Gongyuan-Huayun Temple,0,0.0,,,120.285,30.1464,0,0.0,知章公园华云寺,ZhiZhangGongyuanHuayunTemple
+1680,傅楼中心公园Fulou Center Park,0,0.0,,,120.344,30.1565,0,0.0,傅楼中心公园,FulouCenterPark
+1681,万翔公园Wanxiang Park,0,0.0,,,120.337414736,30.1732873063,0,0.0,万翔公园,WanxiangPark
+1682,北干山贺知章像Statue of He Zhizhang in Beigan Mountain,0,94.0,,,120.286512,30.178394,0,0.0,北干山贺知章像,StatueofHeZhizhanginBeiganMountain
+1683,瑞峰禅寺Ruifengchan Temple,0,0.0,,,120.2916697855,30.1803429769,0,0.0,瑞峰禅寺,RuifengchanTemple
+1684,长虹公园Changhong Park,0,90.0,,,120.1814875842,30.1798696072,2,0.0,长虹公园,ChanghongPark
+1685,游乐设施,0,0.0,,,120.258,30.1892,0,0.0,游乐设施,
+1686,漂流河,0,0.0,,,120.253117,30.167085,0,0.0,漂流河,
+1687,杨家村银杏公园Yangjiacun Yinxing Park,0,94.0,,,119.490347,30.112622,1,0.0,杨家村银杏公园,YangjiacunYinxingPark
+1688,金桥北路公园西路口,0,0.0,,,119.94,30.0693,0,0.0,金桥北路公园西路口,
+1689,基督教虹赤堂,0,0.0,,,120.075,29.9221,0,0.0,基督教虹赤堂,
+1690,景福寺Jingfu Temple,0,0.0,,,119.872,29.9584,0,0.0,景福寺,JingfuTemple
+1691,北支江公园Beizhijiang Park,0,0.0,,,120.007499,30.078499,0,0.0,北支江公园,BeizhijiangPark
+1692,杭州清凉寺Hangzhouqingliang Temple,0,100.0,,,120.146152,30.035971,1,0.0,杭州清凉寺,HangzhouqingliangTemple
+1693,春秋园,0,0.0,,,119.95,30.052,0,0.0,春秋园,
+1694,福星阁Fuxing Pavilion,0,0.0,,,120.103,30.2448,0,0.0,福星阁,FuxingPavilion
+1695,福庆寺Fuqing Temple,0,0.0,,,120.338347,30.190264,0,0.0,福庆寺,FuqingTemple
+1696,五联村玉龙公园Wulian Cunyulong Park,0,0.0,,,120.334359,30.169625,0,0.0,五联村玉龙公园,WulianCunyulongPark
+1697,咪哒,0,0.0,,,120.274,30.177,0,0.0,咪哒,
+1698,福建聚友植物园Fujianjuyou Botanical Garden,0,0.0,,,120.342,30.184,0,0.0,福建聚友植物园,FujianjuyouBotanicalGarden
+1699,朱凤标故居Zhufengbiao Former Residence,0,0.0,,,120.34,30.1654,0,0.0,朱凤标故居,ZhufengbiaoFormerResidence
+1700,长巷庙Changxiang Temple,0,0.0,,,120.444,30.1637,0,0.0,长巷庙,ChangxiangTemple
+1701,城南公园Chengnan Park,0,0.0,,,120.464,30.1733,0,0.0,城南公园,ChengnanPark
+1702,螺山禅寺Luoshanchan Temple,0,0.0,,,120.346,30.1524,0,0.0,螺山禅寺,LuoshanchanTemple
+1703,土榖神祠Earth Temple,0,0.0,,,120.241,30.1637,0,0.0,土榖神祠,EarthTemple
+1704,敦颐亭,0,0.0,,,120.235,30.1548,0,0.0,敦颐亭,
+1705,陈河庙,0,0.0,,,120.262,30.1938,0,0.0,陈河庙,
+1706,王道公园（西子优迈）Wangdao Park (xiziyoumai),0,0.0,,,120.188,30.1896,0,0.0,王道公园西子优迈,WangdaoParkxiziyoumai
+1707,赵松庭纪念馆Zhaosongting Memorial Hall,0,0.0,,,120.162,30.1808,0,0.0,赵松庭纪念馆,ZhaosongtingMemorialHall
+1708,豪华转马,0,0.0,,,119.989,30.1585,0,0.0,豪华转马,
+1709,龙坞基督教会Longwu Christ Church,0,0.0,,,120.0575167527,30.1894188204,0,0.0,龙坞基督教会,LongwuChristChurch
+1710,天下无双大牌坊Unparalleled Archway,0,0.0,,,120.198,30.1059,0,0.0,天下无双大牌坊,UnparalleledArchway
+1711,南村世纪公园Nancunshiji Park,0,0.0,,,120.109264679,30.1310762639,0,0.0,南村世纪公园,NancunshijiPark
+1712,集庆禅寺Jiqingchan Temple,0,0.0,,,119.8623410893,29.9864818409,0,0.0,集庆禅寺,JiqingchanTemple
+1713,百步禅寺Baibuchan Temple,0,0.0,,,120.234,30.1012,0,0.0,百步禅寺,BaibuchanTemple
+1714,文教北路公园西路口,0,0.0,,,119.945,30.0695,0,0.0,文教北路公园西路口,
+1715,萧山抗战纪念馆Xiaoshankangzhan Memorial Hall,0,0.0,,,120.166272,29.95128,0,0.0,萧山抗战纪念馆,XiaoshankangzhanMemorialHall
+1716,玉屏寺Yuping Temple,0,0.0,,,120.104,30.0512,0,0.0,玉屏寺,YupingTemple
+1717,蚕花寺Canhua Temple,0,0.0,,,120.186,30.0577,0,0.0,蚕花寺,CanhuaTemple
+1718,民族英雄葛云飞故里Hometown of National Hero Ge Yunfei,0,100.0,,,120.314,30.0171,0,0.0,民族英雄葛云飞故里,HometownofNationalHeroGeYunfei
+1719,如松庙Rusong Temple,0,0.0,,,120.1014570074,30.2999120493,0,0.0,如松庙,RusongTemple
+1720,成天思藻,0,0.0,,,120.159,30.2651,0,0.0,成天思藻,
+1721,吴郭庙,0,0.0,,,120.314,30.3793,0,0.0,吴郭庙,
+1722,法昌禅寺Fachangchan Temple,0,0.0,,,120.068501,30.296698,0,0.0,法昌禅寺,FachangchanTemple
+1723,哈贝熊儿童游乐园,0,0.0,,,120.246,30.3569,0,0.0,哈贝熊儿童游乐园,
+1724,法性寺Faxing Temple,0,0.0,,,120.0654065699,30.3213469366,0,0.0,法性寺,FaxingTemple
+1725,钱塘望族-杭州洪氏家族文化展,0,0.0,,,120.054,30.2717,0,0.0,钱塘望族杭州洪氏家族文化展,
+1726,师姑庵遗址Shigu'an Ruins,0,0.0,,,120.232,30.3868,0,0.0,师姑庵遗址,ShiguanRuins
+1727,龙居禅寺Longjuchan Temple,0,0.0,,,120.2396395711,30.3924978678,0,0.0,龙居禅寺,LongjuchanTemple
+1728,鲁村庙Lucun Temple,0,0.0,,,120.208769,30.353785,0,0.0,鲁村庙,LucunTemple
+1729,宋宫倾城实景穿越剧,0,90.0,,,120.178,30.2436,0,0.0,宋宫倾城实景穿越剧,
+1730,水田畈新石器时代遗址Shuitian Fan Xinshiqi Shidai Ruins,0,0.0,,,120.169,30.3457,0,0.0,水田畈新石器时代遗址,ShuitianFanXinshiqiShidaiRuins
+1731,云居山摩崖石刻群Yunjushan Cliffside Stone Carvings,0,100.0,,,120.171816,30.236808,1,0.0,云居山摩崖石刻群,YunjushanCliffsideStoneCarvings
+1732,瑞石山石摩崖石刻群Ruishi Mountain Inscriptions on Precipices,0,100.0,,,120.173,30.2393,0,0.0,瑞石山石摩崖石刻群,RuishiMountainInscriptionsonPrecipices
+1733,独城生态公园Ducheng Ecology Park,0,0.0,,,120.161707,30.364469,0,0.0,独城生态公园,DuchengEcologyPark
+1734,自在公园Zizai Park,0,0.0,,,120.081,30.3427,0,0.0,自在公园,ZizaiPark
+1735,汤浦庙Tangpu Temple,0,0.0,,,120.319,30.4426,0,0.0,汤浦庙,TangpuTemple
+1736,泰欣农业植物园Taixinnongye Botanical Garden,0,0.0,,,120.327,30.4347,0,0.0,泰欣农业植物园,TaixinnongyeBotanicalGarden
+1737,滨河公园Meiyanbinhe Park,0,0.0,,,120.3149267355,30.4316804655,0,0.0,滨河公园,MeiyanbinhePark
+1738,哆来咪,0,0.0,,,120.305,30.4208,0,0.0,哆来咪,
+1739,余杭抗日战争纪念馆Yuhang Kangrizhanzheng Memorial Hall,0,0.0,,,119.74901,30.42181,0,0.0,余杭抗日战争纪念馆,YuhangKangrizhanzhengMemorialHall
+1740,欢乐城堡小豌豆主题乐园,0,0.0,,,120.283,30.4332,0,0.0,欢乐城堡小豌豆主题乐园,
+1741,包公殿Baogong Palace,0,0.0,,,119.7236165946,30.4368112478,0,0.0,包公殿,BaogongPalace
+1742,欧美金融城公园Europe and America Finance City Park,0,0.0,,,120.010697,30.287634,0,0.0,欧美金融城公园,EuropeandAmericaFinanceCityPark
+1743,数峰阁遗址Shufengge Ruins,0,0.0,,,120.147,30.257,0,0.0,数峰阁遗址,ShufenggeRuins
+1744,清代文人雅居陈列,0,100.0,,,120.149346,30.257208,0,0.0,清代文人雅居陈列,
+1745,罗汉堂,0,0.0,,,120.149,30.257,0,0.0,罗汉堂,
+1746,法治公园Fazhi Park,0,0.0,,,120.185,30.2251,0,0.0,法治公园,FazhiPark
+1747,御道皇城遗址Yudaohuangcheng Ruins,0,0.0,,,120.177,30.2353,0,0.0,御道皇城遗址,YudaohuangchengRuins
+1748,王道公园(泰美)Wangdao Park (taimei),0,0.0,,,120.324,30.3163,0,0.0,王道公园泰美,WangdaoParktaimei
+1749,东部国际商务中心西峰大堂,0,0.0,,,120.329,30.3181,0,0.0,东部国际商务中心西峰大堂,
+1750,三将庙,0,0.0,,,120.283,30.3348,0,0.0,三将庙,
+1751,高氏宗祠Ancestral Hall of Family Gao,0,0.0,,,120.422,30.2888,0,0.0,高氏宗祠,AncestralHallofFamilyGao
+1752,浙江大学(华家池校区)-农耕文化陈列室,0,0.0,,,120.199,30.2782,0,0.0,浙江大学华家池校区农耕文化陈列室,
+1753,新普福公园Xinpufu Park,0,0.0,,,120.256,30.3146,0,0.0,新普福公园,XinpufuPark
+1754,杭州市基督教东茂聚会点,0,0.0,,,120.198,30.287,0,0.0,杭州市基督教东茂聚会点,
+1755,闸弄口街道街巷文化展示中心Zhalongkou Jie Dao Jie Xiang Wenhua Zhanshi Center,0,0.0,,,120.196,30.2854,0,0.0,闸弄口街道街巷文化展示中心,ZhalongkouJieDaoJieXiangWenhuaZhanshiCenter
+1756,第1现场,0,0.0,,,120.152,30.3252,0,0.0,第现场,
+1757,董家社区人口文化园,0,0.0,,,120.192,30.294,0,0.0,董家社区人口文化园,
+1758,兰千沙场,0,0.0,,,120.118,30.1242,0,0.0,兰千沙场,
+1759,银水沙场,0,0.0,,,120.314,30.142,0,0.0,银水沙场,
+1760,风篁岭,0,0.0,,,120.12,30.2292,0,0.0,风篁岭,
+1761,徽杭古道文化园Huihang Ancient Path Cultural Park,0,0.0,,,119.7331440228,30.2656730256,0,0.0,徽杭古道文化园,HuihangAncientPathCulturalPark
+1762,中山寺Zhong Mountain Temple,0,0.0,,,119.575,30.2531,0,0.0,中山寺,ZhongMountainTemple
+1763,东关荷塘Dongguan Lotus Pond,0,80.0,,,120.055,30.2679,2,0.0,东关荷塘,DongguanLotusPond
+1764,临安区庐山寺Lin'anshilu Mountain Temple,0,0.0,,,119.8320969561,30.2040771196,0,0.0,临安区庐山寺,LinanshiluMountainTemple
+1765,圆通宝殿Yuantong Palace,0,0.0,,,120.111261,30.243377,0,0.0,圆通宝殿,YuantongPalace
+1766,萧山区城市文化公园Xiaoshanqu Chengshi Culture Park,0,0.0,,,120.272507,30.166171,0,0.0,萧山区城市文化公园,XiaoshanquChengshiCulturePark
+1767,基督之家,0,0.0,,,120.224,30.1795,0,0.0,基督之家,
+1768,余暨公园Yuji Park,0,0.0,,,120.2892991502,30.1876372016,0,0.0,余暨公园,YujiPark
+1769,绿沙庙Lvshamiao,0,0.0,,,120.252334,30.185854,0,0.0,绿沙庙,Lvshamiao
+1770,范蠡庙Fan Li Temple,0,0.0,,,120.252,30.1675,0,0.0,范蠡庙,FanLiTemple
+1771,财神殿God of Fortune Palace,0,0.0,,,120.253,30.1682,0,0.0,财神殿,GodofFortunePalace
+1772,杨家墩公园Yangjiadun Park,0,0.0,,,120.1580147714,30.1725745067,0,0.0,杨家墩公园,YangjiadunPark
+1773,陈三立墓Chen Sanli’s Tomb,0,0.0,,,120.119786,30.200034,0,0.0,陈三立墓,ChenSanlisTomb
+1774,丹顶鹤放飞Release of Red-crowned Crane,0,0.0,,,119.991,30.1553,0,0.0,丹顶鹤放飞,ReleaseofRedcrownedCrane
+1775,中通公园Zhongtong Park,0,0.0,,,119.701648,29.79176,0,0.0,中通公园,ZhongtongPark
+1776,桐庐县宁国寺Tongluxian Ningguo Temple,0,0.0,,,119.634,29.8035,0,0.0,桐庐县宁国寺,TongluxianNingguoTemple
+1777,恩门堂Enmen Hall,0,0.0,,,119.953,29.9004,0,0.0,恩门堂,EnmenHall
+1778,东林寺Donglin Temple,0,0.0,,,119.261,29.4284,0,0.0,东林寺,DonglinTemple
+1779,中共建德小组纪念馆Zhonggong Jiande Xiaozu Memorial Hall,0,0.0,,,119.511047,29.547369,0,0.0,中共建德小组纪念馆,ZhonggongJiandeXiaozuMemorialHall
+1780,东湖East Lake,0,0.0,,,119.513,29.5456,0,0.0,东湖,EastLake
+1781,桐庐县文化创意产品陈列馆Tongluxian Wenhua Chuangyi Chanpin Exhibition Hall,0,0.0,,,119.694,29.8005,0,0.0,桐庐县文化创意产品陈列馆,TongluxianWenhuaChuangyiChanpinExhibitionHall
+1782,公园山路2幢,0,0.0,,,119.679,29.8038,0,0.0,公园山路幢,
+1783,滨江生态公园Binjiang Ecology Park,0,100.0,,,119.698145,29.810392,0,0.0,滨江生态公园,BinjiangEcologyPark
+1784,雅憩园Yaqi Garden,0,0.0,,,119.783,29.8158,0,0.0,雅憩园,YaqiGarden
+1785,华林寺Hualin Temple,0,0.0,,,119.787,29.8076,0,0.0,华林寺,HualinTemple
+1786,桐庐县基督教城关教堂Tongluxian Jidu Jiao Chengguan Church,0,0.0,,,119.686,29.8118,0,0.0,桐庐县基督教城关教堂,TongluxianJiduJiaoChengguanChurch
+1787,荣神堂Rongshen Hall,0,0.0,,,119.828,29.8918,0,0.0,荣神堂,RongshenHall
+1788,基督教岭源堂,0,0.0,,,119.289,29.9199,0,0.0,基督教岭源堂,
+1789,状元祠Memorial Temple of Number One Scholar,0,0.0,,,119.008,29.6166,0,0.0,状元祠,MemorialTempleofNumberOneScholar
+1790,竹林寺Zhulin Temple,0,0.0,,,120.281349,30.166819,0,0.0,竹林寺,ZhulinTemple
+1791,中舟健康乐园,0,0.0,,,120.178,30.3074,0,0.0,中舟健康乐园,
+1792,东新园小区-人口文化园Dongxinyuan Community—Population Culture Park,0,0.0,,,120.1859826152,30.3162730825,0,0.0,东新园小区人口文化园,DongxinyuanCommunityPopulationCulturePark
+1793,徐志摩纪念馆Xuzhimo Memorial Hall,0,90.0,,,120.175719,30.285997,14,0.0,徐志摩纪念馆,XuzhimoMemorialHall
+1794,第1现场,0,0.0,,,120.158,30.3106,0,0.0,第现场,
+1795,樱花公园Yinghua Park,0,80.0,,,120.1506705849,30.326315161,0,0.0,樱花公园,YinghuaPark
+1796,杭州水文水资源科普展厅Hangzhou Science Exhibition Hall of Hydrology and Water Resources,0,0.0,,,120.145,30.3232,0,0.0,杭州水文水资源科普展厅,HangzhouScienceExhibitionHallofHydrologyandWaterResources
+1797,足球博物馆Zuqiu Museum,0,0.0,,,120.179,30.3045,0,0.0,足球博物馆,ZuqiuMuseum
+1798,浙江和中移民,0,0.0,,,120.17,30.2831,0,0.0,浙江和中移民,
+1799,鸣翠桃园,0,0.0,,,119.938,30.0361,0,0.0,鸣翠桃园,
+1800,关帝庙Emperor Guan Temple,0,0.0,,,119.261,29.4531,0,0.0,关帝庙,EmperorGuanTemple
+1801,灵隐洞Fuyangqu Lingyin Temple,0,0.0,,,119.522521,30.102416,0,0.0,灵隐洞,FuyangquLingyinTemple
+1802,章村庙Zhangcun Temple,0,0.0,,,120.265,30.1142,0,0.0,章村庙,ZhangcunTemple
+1803,新四军伤员急救站旧址Xinsijun Shangyuan Jijiuzhan Site,0,0.0,,,119.79,30.1682,0,0.0,新四军伤员急救站旧址,XinsijunShangyuanJijiuzhanSite
+1804,杨氏宗祠Ancestral Temple of the Yang Clan,0,0.0,,,120.055486,30.076694,0,0.0,杨氏宗祠,AncestralTempleoftheYangClan
+1805,葛云飞纪念馆Geyunfei Memorial Hall,0,100.0,,,120.31816,30.018352,0,0.0,葛云飞纪念馆,GeyunfeiMemorialHall
+1806,开帝庙Kaidi Temple,0,0.0,,,120.26,30.0549,0,0.0,开帝庙,KaidiTemple
+1807,创想童年,0,0.0,,,120.056,30.2529,0,0.0,创想童年,
+1808,军乐真人CS(杭州新沙岛景区),0,0.0,,,120.004,30.0533,0,0.0,军乐真人杭州新沙岛景区,CS
+1809,"富阳市中庸书院Zhongyong Academy, Fuyang City",0,0.0,,,119.937,30.0532,0,0.0,富阳市中庸书院,ZhongyongAcademyFuyangCity
+1810,伽蓝殿Qielan Hall,0,0.0,,,120.108,30.2473,0,0.0,伽蓝殿,QielanHall
+1811,乾隆与茶文化陈列室,0,0.0,,,120.12,30.2299,0,0.0,乾隆与茶文化陈列室,
+1812,临安市天井山生态农业园,0,0.0,,,119.794,30.2109,0,0.0,临安市天井山生态农业园,
+1813,生态墓区,0,0.0,,,119.177,30.2308,0,0.0,生态墓区,
+1814,临安市普陀寺Lin'anshi Putuo Temple,0,0.0,,,119.682686,30.252839,0,0.0,临安市普陀寺,LinanshiPutuoTemple
+1815,海会寺Haihui Temple,0,0.0,,,119.698963,30.254751,0,0.0,海会寺,HaihuiTemple
+1816,仙岩公园Xianyan Park,0,0.0,,,120.11,29.8931,0,0.0,仙岩公园,XianyanPark
+1817,真神堂Zhenshen Hall,0,0.0,,,119.775332116,29.8638742247,0,0.0,真神堂,ZhenshenHall
+1818,莲花公园Lianhua Park,0,0.0,,,119.319,29.5747,0,0.0,莲花公园,LianhuaPark
+1819,西村公园Xicun Park,0,0.0,,,118.581,29.4476,0,0.0,西村公园,XicunPark
+1820,主恩堂Lord's Grace Church,0,96.0,,,119.058234,29.620322,1,0.0,主恩堂,LordsGraceChurch
+1821,荷花塘公园Hehuatang Park,0,0.0,,,119.2713967386,29.4265524415,0,0.0,荷花塘公园,HehuatangPark
+1822,观音阁Guanyin Pavilion,0,0.0,,,119.161,29.5257,0,0.0,观音阁,GuanyinPavilion
+1823,富溪石林景区Fuxishilin Sceneic Area,0,0.0,,,119.0939933479,29.4755519978,0,0.0,富溪石林景区,FuxishilinSceneicArea
+1824,阵河庙Zhenhe Temple,0,0.0,,,120.262,30.1939,0,0.0,阵河庙,ZhenheTemple
+1825,莲华寺Lianhuagu Temple,0,80.0,,,120.206207,30.137439,0,0.0,莲华寺,LianhuaguTemple
+1826,王道公园Wangdao Park,0,0.0,,,120.187661,30.190223,0,0.0,王道公园,WangdaoPark
+1827,静梵禅寺Jingfanchan Temple,0,0.0,,,119.687262,30.176894,0,0.0,静梵禅寺,JingfanchanTemple
+1828,灵仙庵Lingxian Buddhist Convent,0,0.0,,,120.045,30.1235,0,0.0,灵仙庵,LingxianBuddhistConvent
+1829,东洲公园Dongzhou Park,0,60.0,,,120.008,30.0786,1,0.0,东洲公园,DongzhouPark
+1830,圆明园遗址Yuanmingyuan Ruins,0,0.0,,,119.644109,30.018991,0,0.0,圆明园遗址,YuanmingyuanRuins
+1831,爱e乐儿童乐园,0,0.0,,,119.939,30.0546,0,0.0,爱乐儿童乐园,e
+1832,凤鸣基督教堂Fengming Christ Church,0,0.0,,,119.8264607012,29.8509758297,0,0.0,凤鸣基督教堂,FengmingChristChurch
+1833,五龙岛Wulong Island,0,0.0,,,119.038,29.6387,0,0.0,五龙岛,WulongIsland
+1834,木连遗址Mulian Ruins,0,0.0,,,118.505,29.4245,0,0.0,木连遗址,MulianRuins
+1835,赤子,0,0.0,,,120.283,30.3197,0,0.0,赤子,
+1836,易学堂,0,0.0,,,120.205,30.283,0,0.0,易学堂,
+1837,灵竺精舍,0,0.0,,,120.112,30.2456,0,0.0,灵竺精舍,
+1838,崇宁府Chongning Mansion,0,0.0,,,120.151,30.2728,0,0.0,崇宁府,ChongningMansion
+1839,花·院Flower · Courtyard,0,0.0,,,119.947,30.0614,0,0.0,花院,FlowerCourtyard
+1840,祖师爷,0,0.0,,,120.105,30.2886,0,0.0,祖师爷,
+1841,蔡记杭帮菜,0,0.0,,,120.171,30.2541,0,0.0,蔡记杭帮菜,
+1842,北纬30度,0,0.0,,,120.12,30.2862,0,0.0,北纬度,
+1843,"和仙谷聚仙堂Juxian Hall, Hexian Valley",0,100.0,,,119.871,30.0228,0,0.0,和仙谷聚仙堂,JuxianHallHexianValley
+1844,闻翠居杭帮菜,0,0.0,,,120.132,30.289,0,0.0,闻翠居杭帮菜,
+1845,龙王庙Dragon King Temple,0,0.0,,,120.276465,30.192631,0,0.0,龙王庙,DragonKingTemple
+1846,雷锋广场Leifeng Square,0,0.0,,,120.228,30.2028,0,0.0,雷锋广场,LeifengSquare
+1847,杭州西湖风景名胜区天龙寺造像Statue of Tianlong Temple in Hangzhou West Lake Scenic Spot,0,0.0,,,120.154,30.2171,0,0.0,杭州西湖风景名胜区天龙寺造像,StatueofTianlongTempleinHangzhouWestLakeScenicSpot
+1848,羡山半岛Xianshan Peninsula,0,100.0,,,119.1288381695,29.5539022854,1,0.0,羡山半岛,XianshanPeninsula
+1849,菩提寺路Putici Road,0,0.0,,,120.172,30.2627,0,0.0,菩提寺路,PuticiRoad
+1850,浙越古戏台Zheyue Ancient Stage,0,0.0,,,120.170198,30.282842,0,0.0,浙越古戏台,ZheyueAncientStage
+1851,回龙寺Huilong Temple,0,0.0,,,118.919,30.2386,0,0.0,回龙寺,HuilongTemple
+1852,嘉瑞广场Jiarui Square,0,0.0,,,120.291,30.1853,0,0.0,嘉瑞广场,JiaruiSquare
+1853,红石广场Hongshi Square,0,0.0,,,120.17,29.9452,0,0.0,红石广场,HongshiSquare
+1854,鹤庙Hemiao,0,0.0,,,120.073,30.4368,0,0.0,鹤庙,Hemiao
+1855,于子三烈士之墓Martyr Yu Zisan’s Tomb,0,100.0,,,120.167513,30.232116,0,0.0,于子三烈士之墓,MartyrYuZisansTomb
+1856,蒲田公园Putian Park,0,100.0,,,119.584,29.7136,2,0.0,蒲田公园,PutianPark
+1857,华联公园Hualian Park,0,0.0,,,120.0467291815,30.3516253906,0,0.0,华联公园,HualianPark
+1858,招贤寺旧址Zhaoxiansi Former Site,0,0.0,,,120.149,30.2616,0,0.0,招贤寺旧址,ZhaoxiansiFormerSite
+1859,德胜公园Desheng Park,0,0.0,,,120.168,30.3032,0,0.0,德胜公园,DeshengPark
