@@ -1,977 +1,118 @@
-sid,景点名称,攻略数量,评分,景区介绍,景点排名,经度,纬度,评论数量,旅游率,图片url
-7564992,上海迪士尼度假区Shanghai Disney Resort,73,94.0,中国大陆首座迪士尼度假区，身临其境地感受神奇王国。,1.0,121.671964,31.148267,33375,0.03,https://img1.qunarzz.com/travel/d2/1712/be/6742be0b91cad2b5.jpg_r_480x360x95_e84ae9ca.jpg
-716538,上海海洋水族馆Shanghai Ocean Aquarium,17,92.0,观赏各种海洋生物，漫步海底隧道，感受五彩缤纷的海底世界。,1.0,121.508642,31.246459,5244,0.03,https://img1.qunarzz.com/travel/poi/1505/12/779dbf4a16e528.jpg_r_480x360x95_fe73fa68.jpg
-20030793,上海海昌海洋公园Shanghai Haichang Ocean Park,0,92.0,,,121.910782,30.920947,1944,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/eb9b01011627e755d166917c2b22ee1a.jpg_r_480x360x95_efa372ac.jpg
-710448,长兴岛Changxing Island,1,84.0,,151.0,121.740589,31.385953,134,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/f56ee7a860e97e38d4a15e29b37d32f0.jpg_r_480x360x95_8bf8b485.jpg
-5740224,武康路Wukang Road,30,94.0,14处优秀历史建筑，电影《色戒》中王佳芝与易先生最后幽会的地点。,55.0,121.4463595607,31.213621164,439,0.01,https://img1.qunarzz.com/travel/d4/1706/c7/691e26b6dc4a9fb5.jpg_r_480x360x95_62b2febb.jpg
-716344,朱家角古镇景区Zhujiajiao Ancient Town Scenic Area,9,88.0,上海周边游览古镇的首选之地，在青砖白墙间感受水乡的静谧。,1.0,121.0603616306,31.1159338962,2447,0.02,https://img1.qunarzz.com/travel/d2/1807/cd/910b1ea6e4f0f9b5.jpg_r_480x360x95_80f9a148.jpg
-712404,外滩The Bund,466,96.0,身倚浦西漫步十里洋场，隔江对望浦东繁华陆家嘴。,2.0,121.4987359133,31.2391219237,49000,0.52,https://img1.qunarzz.com/travel/d2/1803/dd/6b7cf911dc59bab5.jpg_r_480x360x95_5ee6e448.jpg
-703850,太阳岛旅游度假区Sun Island,1,88.0,,11.0,121.079387,31.043011,136,0.0,https://img1.qunarzz.com/travel/d1/1707/f9/7bd73f96a12266b5.jpg_r_480x360x95_a300673c.jpg
-33486326,蔡浜村Caibang Village,0,80.0,,,120.953336,31.122277,0,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/607dd4efcce0d5e5c7c0e666ce6f1761.jpg_r_480x360x95_04158905.jpg
-708751,横沙岛Hengsha Island,1,92.0,,647.0,121.860605,31.342956,80,0.0,https://img1.qunarzz.com/travel/d8/1507/33/e4cbdd0d0f2fe9.jpg_r_480x360x95_da3e0418.jpg
-10012279,广富林文化遗址Guangfulin Relics Park,2,92.0,,32.0,121.2037403917,31.0689421665,522,0.0,https://tr-osdcp.qunarzz.com/tr-osd-vs-dapp-ugc/img/d64b42beabe6653381e67209474fbb3f.jpg_r_480x360x95_fceb3fa8.jpg
-709275,东方明珠Oriental Pearl Radio & Television Tower,222,92.0,在259米高的全透明观光廊上，360度欣赏申城夜景。,1.0,121.5064146572,31.2453018761,47360,0.29,https://img1.qunarzz.com/travel/d6/201404/14/a26378c6f178737addb12cfb.jpg_r_480x360x95_4635a210.jpg
-722972,田子坊Tianzifang,216,88.0,穿梭在上海小弄堂里，逛逛复古小店和文人工作室。,3.0,121.474974,31.214113,3414,0.29,https://img1.qunarzz.com/travel/d7/1707/b5/e1a43331761a0b5.jpg_r_480x360x95_6c784a95.jpg
-7469007,上海海湾国家森林公园Shanghai Haiwan National Forest Park,2,88.0,烧烤、骑马、骑单车，赏梅赏荷观鸟好去处。,249.0,121.6970688369,30.867699394,1128,0.0,https://img1.qunarzz.com/travel/poi/1507/be/78528e5d201e92.jpg_r_480x360x95_bf42a7ef.jpg
-708030,上海城隍庙道观City God Temple of Shanghai,217,92.0,位于市中心的著名道观，是历史悠久的祈福胜地。,4.0,121.499034,31.231472,2101,0.37,https://tr-osdcp.qunarzz.com/tr-osd-tr-touch/img/f57ced84882555124be8ea65a6033b98.jpeg_r_480x360x95_362d7ec3.jpeg
-716525,上海野生动物园Shanghai Wild Animal Park,7,94.0,与世界各地的动物亲密接触，体验亲手投食给羊驼的乐趣。,9.0,121.727995,31.06138,23138,0.0,https://img1.qunarzz.com/travel/d0/1501/8b/06304e231ac1c4.jpg_r_480x360x95_fa6ef4d6.jpg
-703906,静安寺Jing'an Temple,26,90.0,东部地区少见的融入藏式建筑风格的寺庙，闹市中的有名古刹。,38.0,121.451595,31.229947,889,0.05,https://img1.qunarzz.com/travel/d4/201405/02/a15f8e561862ed7dddb12cfb.jpg_r_480x360x95_44ed61f5.jpg
-705355,金山城市沙滩Jinshan City Beach,2,86.0,上海市内为数不多的海滨沙滩之一，玩沙子、海里游泳，尽情在海边撒欢。,73.0,121.355903,30.714121,590,0.0,https://img1.qunarzz.com/travel/d6/1503/df/63c479abfb49af.jpg_r_480x360x95_6452200e.jpg
-5475551,泰晤士小镇Thames Town,5,90.0,教堂、城堡、桥廊，充斥着英伦风情，婚纱写真取景胜地。,1.0,121.204571,31.040178,989,0.01,https://img1.qunarzz.com/travel/d7/1709/ec/adf4efc1508803b5.jpg_r_480x360x95_bc449451.jpg
-716265,上海博物馆Shanghai Museum,50,92.0,观赏西周大克鼎、唐朝《高逸图》，还有众多青铜陶瓷和书画。,14.0,121.482358,31.234149,2402,0.11,https://img1.qunarzz.com/travel/poi/1409/22/a438e22e3f0d0e68ffffffffc8d65eac.jpg_r_480x360x95_0cd26a1f.jpg
-32345830,中新泾公园Zhongxinjing Park,0,88.0,,,121.372442,31.208113,25,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/41e66cacbaad7f4e6b53246033d4c1a3.jpg_r_480x360x95_98d9ab8d.jpg
-705830,上海共青森林公园Gongqing National Forest Park,4,92.0,离市区最近的森林公园，踏青秋游、烧烤野营、骑马射箭好去处。,244.0,121.557183,31.325266,972,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/70369457a9ab5e0f902ea1897b2e9edd.jpeg_r_480x360x95_5efae3aa.jpeg
-3710932,1933老场坊1933 Old Millfun,47,90.0,由宰牲场改造的创意园区，时尚餐厅、奢牌秀场汇聚于此。,17.0,121.49833,31.260148,848,0.04,https://img1.qunarzz.com/travel/d5/1507/ea/da0c1467d222d6.jpg_r_480x360x95_69796842.jpg
-35198621,上海天文馆Shanghai Planetarium,0,84.0,,,121.932414,30.918563,2,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-711011,豫园Yu Garden,183,94.0,市区留存完好的江南古典园林，亭台楼阁雕梁画栋。,7.0,121.49909,31.232431,10378,0.33,https://img1.qunarzz.com/travel/d7/1501/1a/8b78689f24bdeb.jpg_r_480x360x95_657c5a8f.jpg
-702215,上海科技馆Shanghai Science and Technology Museum,31,94.0,上海最大的科普教育殿堂，体验各种模拟项目，感受科幻场景。,6.0,121.547781,31.224611,6813,0.04,https://img1.qunarzz.com/travel/d9/1509/10/9c8d705b83b50f.jpg_r_480x360x95_57322115.jpg
-710832,上海环球金融中心Shanghai World Financial Center,48,94.0,登474米高的透明观光厅，平视东方明珠的尖顶、俯瞰全上海。,8.0,121.51346,31.239657,5334,0.12,https://img1.qunarzz.com/travel/d4/1803/49/cac8412a8ea6aeb5.jpg_r_480x360x95_fc1df7c0.jpg
-702212,上海自然博物馆Shanghai Natural History Museum,14,96.0,展品十分丰富，“黄河古象”“马门溪龙”是镇馆之宝。,12.0,121.469143,31.241221,2153,0.01,https://img1.qunarzz.com/travel/d8/1703/4f/dd1d1db3b834f8b5.jpg_r_480x360x95_f84969dd.jpg
-7475055,金山嘴渔村Jinshanzui Fishing Village,1,86.0,,2742.0,121.382644,30.738368,210,0.0,https://img1.qunarzz.com/p/tts6/1807/96/2698928401d45c02.jpg_r_480x360x95_6bb6e496.jpg
-18700129,南京路步行街Nanjing Road Pedestrian Street,0,94.0,现代建筑夹杂着欧式老楼，竖挂的店铺灯箱连绵不绝。,,121.4907,31.243231,12223,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/9ef791a30bb31ecd37d9632ca288392e.jpg_r_480x360x95_27bd6bde.jpg
-705785,枫泾古镇Fengjing Ancient Town,9,86.0,被誉为“吴越名镇”，游览水乡风貌，欣赏乡村农民画作。,42.0,121.022096,30.893168,821,0.0,https://img1.qunarzz.com/travel/d2/1608/57/69b2742e514f6cb5.jpg_r_480x360x95_8466c8a1.jpg
-10071115,上海之巅观光厅Top of Shanghai Observatory,1,94.0,上海最高的观光厅，360度全视角欣赏上海魅力全景，实乃上海之巅。,70.0,121.512114,31.239112,1228,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/24430bb3e819e3f9c0849d92cddd7b35.jpg_r_480x360x95_e5d801ad.jpg
-715570,东平国家森林公园Dongping National Forest Park,2,90.0,去环园骑行、滑草、露营，在森林中自助烧烤也很有野趣。,2.0,121.486723,31.689489,1513,0.0,https://img1.qunarzz.com/travel/d4/1505/4f/5749590812ff50.jpg_r_480x360x95_95bf12eb.jpg
-707403,淀山湖风景区Dianshan Lake Scenic Spot,1,86.0,上海最大的天然淡水湖泊，也是母亲河黄浦江的源头，风光秀丽。,246.0,121.019202,31.135379,213,0.0,https://img1.qunarzz.com/travel/d1/1508/d7/1cc18fed31d847.jpg_r_480x360x95_d2539be8.jpg
-9598891,青西郊野公园Qingxi Country Park,1,86.0,,2383.0,121.014809,31.064508,107,0.0,https://img1.qunarzz.com/travel/poi/1703/7a/9b12e20ffee2af37.jpg_r_480x360x95_d3fe28da.jpg
-38933387,湖心岛公园,0,0.0,,,121.506256,30.938015,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-7481829,崇明岛国家地质公园Chongming Island National Geopark,2,94.0,赏日出日落、观候鸟，是上海城郊环境优美的度假之处。,39.0,121.237953,31.732695,220,0.0,https://img1.qunarzz.com/travel/d7/1506/d6/70209bcad0a718.jpg_r_480x360x95_2e3ca9ea.jpg
-7587279,滴水湖Dishui Lake,9,88.0,俯瞰像一个圆形水滴的人工湖，适合上海及周边游客周末自驾。,111.0,121.9482005048,30.8986923401,498,0.0,https://img1.qunarzz.com/travel/d9/1506/49/531d950ee198ca.jpg_r_480x360x95_94d8c27d.jpg
-702646,东滩湿地公园Dongtan Wetland Park,6,84.0,漫步于植被丰富的湿地栈道，是观日出和自然摄影的胜地。,1.0,121.955977,31.52401,521,0.0,https://img1.qunarzz.com/travel/poi/1409/04/e77dd433df95bfa0ffffffffc8d65eac.jpg_r_480x360x95_b06f1732.jpg
-9149096,上海中心大厦Shanghai Tower,8,94.0,中国第一、世界第二高楼，在118层观光厅欣赏上海城市美景。,9.0,121.512,31.239168,559,0.0,https://img1.qunarzz.com/travel/d8/1706/15/0342523f761befb5.jpg_r_480x360x95_8bb2ff3a.jpg
-712879,上海汽车博物馆Shanghai Automobile Museum,4,94.0,观赏各种品牌的古董车，了解汽车发展史，体验模拟驾驶。,28.0,121.1766998633,31.2846949817,857,0.0,https://img1.qunarzz.com/travel/d9/1608/a9/ad9088fe0595a6b5.jpg_r_480x360x95_444e28fd.jpg
-709914,上海影视乐园Shanghai Film Park,3,88.0,老上海影视拍摄地，坐有轨电车或黄包车，体验时光倒流。,2.0,121.319246,31.016544,1907,0.01,https://img1.qunarzz.com/travel/d8/1801/63/891dd4c6ac4312b5.jpg_r_480x360x95_7503b8be.jpg
-702096,马勒别墅Hengshan Moller Villa Hotel,14,92.0,浪漫华丽的挪威城堡式建筑，室内装修却又不失中国风情。,18.0,121.462784,31.229144,673,0.03,https://img1.qunarzz.com/travel/d2/1705/ae/4e3a0d51adb898b5.jpg_r_480x360x95_fca95297.jpg
-711098,东方绿舟Oriental Land,1,92.0,适合休闲郊游、素质拓展的大型公园。,578.0,121.017139,31.114697,1110,0.0,https://img1.qunarzz.com/travel/poi/1803/ce/5ecf0ea135bf7437.jpg_r_480x360x95_e7b8f28a.jpg
-25507694,魔都矩阵Magic Jungle,0,88.0,,,121.504804,31.252651,18,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-10011924,新天地Xintiandi,3,92.0,上海新地标之一，夜晚穿梭于各个露天酒吧，体验夜上海生活。,59.0,121.4812442093,31.2271646118,1409,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/bd2744c7eaa3cc4b869e182670a49c5c.jpg_r_480x360x95_6d50cd08.jpg
-19575647,南汇新城海滩Nanhuixincheng Beach,0,88.0,,,121.945726,30.871676,9,0.0,https://flight-feed.qunarzz.com/as3/225/image/2020/9/55d5116c-8275-45b7-8132-02cc12910e0a.jpeg_480x360_dfa02f31.jpeg_480x360_ed250b5a.jpeg
-10077184,淀山湖大道风景区Dianshanhu Dadao Sceneic Area,0,86.0,,844.0,121.0558151016,31.1348304595,7,0.0,https://img1.qunarzz.com/travel/poi/1803/71/dabf9bcb3f59037.jpg_r_480x360x95_fda5cb4f.jpg
-7588186,周浦花海Zhoupu Sea of Flowers,1,86.0,不用远赴海外，在沪上就能观赏到异国花海。,397.0,121.650622,31.125903,329,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/58bcad4492041ca80ad45e663c0929f5.jpg_r_480x360x95_ac589933.jpg
-23884270,1192弄老上海风情街1192 Nong Laoshanghai Fengqing Street,0,92.0,,,121.532799,31.234083,134,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/9dcf38699ae7bdabd005d8182f3a3a77.jpg_r_480x360x95_cb4f05a3.jpg
-9479936,前滩休闲公园Qiantan Leisure Park,0,92.0,,2415.0,121.471909,31.156611,53,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-706140,七宝古镇Qibao Ancient Town,19,88.0,,13.0,121.361199,31.158938,375,0.05,https://img1.qunarzz.com/travel/d9/1701/6a/434aa6c7c10fb8b5.jpg_r_480x360x95_8e4557e7.jpg
-8305002,南汇嘴观海公园Nanhuizui Guanhai Park,4,86.0,,116.0,121.978055,30.886412,127,0.0,https://img1.qunarzz.com/travel/d8/1701/10/9f4aa3bdc896e2b5.jpg_r_480x360x95_a0c45ffc.jpg
-7481732,中华艺术宫China Art Museum,51,90.0,原上海世博会中国国家馆，观赏镇馆之宝——多媒体版《清明上河图》。,33.0,121.501334,31.189988,880,0.01,https://img1.qunarzz.com/travel/poi/1410/14/b5666bd76cd11a7ffffffffc8d65eac.jpg_r_480x360x95_7179139a.jpg
-7588879,召稼楼Zhaojialou Ancient Town,2,88.0,坐摇橹船游水巷，去礼园解读召稼楼历史文化。,75.0,121.555614,31.080923,622,0.0,https://img1.qunarzz.com/travel/d5/1605/98/3cbdbd836c2d2cf7.jpg_r_480x360x95_8d5bd66a.jpg
-5740222,思南路Sinan Road,24,92.0,漫步思南路，细赏风格迥异的花园洋房，感受老上海的悠悠历史。,88.0,121.476539,31.216219,399,0.02,https://img1.qunarzz.com/travel/d7/1703/ad/272e4326e60bcfb5.jpg_r_480x360x95_e878bf46.jpg
-10069476,上海薰衣草公园Momchilovtsi Herb Garden,1,94.0,,1741.0,121.681945,31.147702,294,0.0,https://img1.qunarzz.com/piao/fusion/2106/61/a931bbabecbeb902.jpg_r_480x360x95_14b6c5ce.jpg
-9209339,迪士尼小镇Disneytown,20,94.0,美食、购物一应俱全，华特迪士尼大剧院坐落于此。,2.0,121.668349,31.145926,1173,0.0,https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/fusion/20222/79611e3aad5722e615fb2ed5139011ed.jpg_r_480x360x95_5face256.jpg
-9479232,息焉堂,0,90.0,,199.0,121.373575,31.210573,8,0.0,https://flight-feed.qunarzz.com/as3/180/image/poi_vishnu/81629bdc-aead-4be5-8836-732a46cd101a.jpg_480x360_b9d2a6ac.jpg_480x360_5c250bf4.jpg
-9485893,长兴岛郊野公园Changxing Island Country Park,1,84.0,,5.0,121.720774,31.406121,135,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/a167278b52ce2526690fee637b18b92f.jpg_r_480x360x95_3aa4951b.jpg
-5475533,佘山国家森林公园Sheshan National Forest Park,2,90.0,上海高峰所在地，佘山天文台是看天文奇观的好去处。,5.0,121.201907,31.100768,489,0.0,https://img1.qunarzz.com/travel/poi/1803/9f/481ea5f2bac3e637.jpg_r_480x360x95_638b02d8.jpg
-10011300,奉贤渔人码头Fisherman's Wharf,1,84.0,,267.0,121.526715,30.819689,21,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-touch/img/b101e62b340b317d6a0a8f70a2c2e7e5.jpg_r_480x360x95_3cda0d66.jpg
-5475547,西沙明珠湖景区Xisha Mingzhu Lake Park,2,90.0,,6.0,121.2634927397,31.7438824857,237,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/ca18543fe0584a9a4e4265206858ca90.jpg_r_480x360x95_0ca28944.jpg
-716400,碧海金沙Bihai Jinsha Beach,1,90.0,上海最大的“人造”沙滩，沙子细软，不出上海也能与大海亲密接触！,51.0,121.582948,30.831425,689,0.0,https://mp-commentcp.qunarzz.com/mp_comment_mp_comment/1562039052271100j15000000yr0hd795F_D_640_10000.jpg_r_480x360x95_36cfcaee.jpg
-22978726,威尼斯小镇Venice Town,0,94.0,,,121.3840526447,31.2364402715,20,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/ca3625a9655a4ebbe4dcff8d6a6ba741.jpg_r_480x360x95_17970f37.jpg
-704158,人民广场People's Square,88,94.0,名副其实的上海地标和交通枢纽，在广场上喂鸽子看喷泉。,26.0,121.481144,31.235297,1903,0.13,https://img1.qunarzz.com/travel/d4/1712/e0/33a7807bf36a04b5.jpg_r_480x360x95_603b821b.jpg
-5740178,州桥老街Zhouqiao Old Street,1,90.0,,680.0,121.257881,31.389981,167,0.0,https://img1.qunarzz.com/travel/d2/1803/7b/38bc783afea08ab5.jpg_r_480x360x95_0d5a429b.jpg
-7481788,上海当代艺术博物馆Power Station of Art,8,90.0,发电厂房改造的博物馆，也是上海双年展的主场馆。可参观各种前卫艺术品。,98.0,121.505082,31.206746,246,0.0,https://img1.qunarzz.com/travel/d4/1801/6d/603ad1b452096bb5.jpg_r_480x360x95_944ac0fb.jpg
-10007865,老上海1930风情街Laoshanghai 1930 Fengqing Street,2,84.0,,44.0,121.482317,31.237426,211,0.0,https://img1.qunarzz.com/travel/d5/1802/32/ca21f81bcfe2a6b5.jpg_r_480x360x95_d659507e.jpg
-7481664,陆家嘴Lujiazui,86,94.0,举世闻名的金融中心，乐园和大型商场众多。,15.0,121.508984,31.243812,1300,0.02,https://tr-osdcp.qunarzz.com/tr-osd-tr-touch/img/d59c5355024ad0c918bbfb7949e861e6.jpeg_r_480x360x95_aa7452df.jpeg
-10032815,青浦岑卜村Cenbocun,0,92.0,,1798.0,120.949015,31.06539,3,0.0,https://img1.qunarzz.com/travel/poi/1712/9f/ff08b71b642fde37.jpg_r_480x360x95_0aaa8bbe.jpg
-37183602,金山公园,0,0.0,,,121.168962672,30.8979034763,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-702956,上海老街Shanghai Old Street,38,92.0,一条汇集了上海最早的钱庄、金店、银楼、茶馆、戏楼等的老街。,10.0,121.503455,31.231018,734,0.18,https://img1.qunarzz.com/travel/d3/1611/ea/f7b77eaabbe75fb5.jpg_r_480x360x95_c81b434a.jpg
-5740177,外白渡桥Garden Bridge,69,92.0,上海标志性建筑之一，老上海题材影视剧取景地。,35.0,121.49699,31.24957,1334,0.11,https://img1.qunarzz.com/travel/d9/1611/d9/8ca7570cd52938b5.jpg_r_480x360x95_f89bd5fe.jpg
-704937,上海滨江森林公园Binjiang Forest Park,2,94.0,观江景、看夕阳，或是在林中漫步，春季赏杜鹃花，夏季可欣赏湿地植物。,569.0,121.534393,31.38897,368,0.0,https://img1.qunarzz.com/piao/fusion/2004/25/40e2e0f31ae3a202.jpg_r_480x360x95_7530d7c7.jpg
-18718663,花开海上生态园Huakai Haishang Ecological Park,0,92.0,,,121.122985,30.891863,160,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/2fd3db02027c15194a62e388674daf34.jpg_r_480x360x95_d50694a2.jpg
-18700121,钟书阁(松江泰晤士小镇店)Zhongshuge Bookstore,0,94.0,坐落在泰晤士小镇的“最美书店”，对书情有独钟。,,121.201441,31.040223,193,0.0,https://flight-feed.qunarzz.com/as3/180/image/poi_vishnu/0dbcd60a-5e66-4a3c-bd0a-6faf8bd638f9.jpg_480x360_e6866bfc.jpg_480x360_72ff7233.jpg
-9778756,七宝老街Qibao Old Street,4,86.0,参观民俗景点，品尝各色小吃，坐船泛舟水巷，品味古镇风情。,176.0,121.361133,31.157839,1366,0.0,https://img1.qunarzz.com/travel/poi/1708/5e/402d38dfefa4db37.jpg_r_480x360x95_b2267c2c.jpg
-704241,古猗园Guyi Garden,11,92.0,上海最大的园林，吸引无数摄影爱好者，园内上海古猗园餐厅能吃到正宗南翔小笼。,166.0,121.3229,31.297989,1279,0.0,https://img1.qunarzz.com/travel/d1/1701/2b/8a3e4d9586b12b5.jpg_r_480x360x95_7b1e2612.jpg
-704220,上海动物园Shanghai Zoo,5,94.0,中国第二大城市动物园，观察珍稀动物，体验亲手喂食。,23.0,121.3694183532,31.1986780408,3129,0.0,https://img1.qunarzz.com/travel/d5/1511/d3/b00407097f93cbf7.jpg_r_480x360x95_e96cc691.jpg
-5475534,上海辰山植物园Shanghai Chenshan Botanical Garden,2,94.0,在矿井花园看瀑布，冬天在展馆温室观赏各类珍稀植物。,3.0,121.189078,31.081652,1500,0.0,https://img1.qunarzz.com/travel/d7/1506/c7/ab8591892881e9.jpg_r_480x360x95_50087abd.jpg
-703210,新场古镇Xinchang Ancient Town,7,88.0,品味明清老建筑、参观历史陈列馆。电影《色戒》曾在此取景。,85.0,121.652503,31.031093,505,0.0,https://img1.qunarzz.com/travel/d4/1506/7f/984a24f516c027.jpg_r_480x360x95_335d8a83.jpg
-20922352,崇明长江三角洲国家地质公园Chongming Yangtze River Delta National Geopark,0,0.0,,,121.237948,31.732706,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-10011287,陕西南路Shaanxi South Road,2,92.0,,2185.0,121.463239,31.22917,56,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/13ea15da51925ebdff6ffb99faa64550.jpg_r_480x360x95_67a7a92c.jpg
-7469103,上海电影博物馆Shanghai Film Museum,3,94.0,观赏各种电影海报和拍摄道具，体验有趣的电影后期制作过程。,43.0,121.444536,31.192501,683,0.0,https://img1.qunarzz.com/travel/d5/1709/8a/edd78927938943b5.jpg_r_480x360x95_00519132.jpg
-716105,上海植物园Shanghai Botanical Garden,8,90.0,上海市区的大花园，四季植被茂盛，是散步健身、花卉摄影的好去处。,46.0,121.450949,31.153874,1438,0.0,https://img1.qunarzz.com/travel/d5/1605/9b/a2668d973d8950f7.jpg_r_480x360x95_9a9a3c7c.jpg
-7642185,东海大桥Donghai Bridge,4,90.0,,689.0,121.9855053326,30.7265644073,52,0.0,https://img1.qunarzz.com/travel/poi/1503/cf/aa91e7a0d6e8c2.jpg_r_480x360x95_72c0ead8.jpg
-25921337,哥伦比亚公园,0,40.0,魔都新晋的摩洛哥风公园，度假感十足,,121.433423,31.216059,2,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-mapi/img/86b5f9c8a5b27ba4bfe9180abc364fe8.jpg_r_480x360x95_f5b6988e.jpg
-10066237,黄浦江Huangpu River,58,94.0,上海的地标河流，夜晚在江边散步或坐游船看两岸灯火。,101.0,121.4996049926,31.2441202296,1008,0.0,https://img1.qunarzz.com/travel/d6/1803/ec/281f1e8e2c56a3b5.jpg_r_480x360x95_32707022.jpg
-9558121,奉浦四季生态园Fengpu Four Seasons Ecological Garden (West Gate),0,90.0,,2386.0,121.476611,30.941056,81,0.0,https://img1.qunarzz.com/travel/poi/1701/ee/a093de37ed338237.jpg_r_480x360x95_88218cb8.jpg
-9184490,思南公馆Sinan Mansions,11,94.0,欣赏成片的花园洋房，感受老上海的洋气。,47.0,121.475006,31.220366,343,0.0,https://img1.qunarzz.com/travel/d5/1701/bc/2b1fb9a24c7fa2b5.jpg_r_480x360x95_ec8efd7e.jpg
-7469052,上海邮政博物馆Shanghai Postal Museum,4,92.0,历史悠久的邮政大楼，了解中国邮政发展史，参观有趣的邮政工具和邮票珍品。,83.0,121.491381,31.25014,445,0.0,https://img1.qunarzz.com/travel/poi/1408/26/822a752314160e48ffffffffc8d65eac.jpg_r_480x360x95_5d6af785.jpg
-704314,淮海路Huaihai Road,26,90.0,在淮海路商业街疯狂购物，夜晚感受霓虹灯下的浪漫情调。,41.0,121.476199,31.224781,610,0.1,https://img1.qunarzz.com/travel/d8/1703/a1/58cd9eb9c00a3bb5.jpg_r_480x360x95_8b66f28c.jpg
-714081,上海大观园Shanghai Grand View Garden,4,90.0,漫步大型仿古建筑群，置身《红楼梦》的仿真场景之中。,72.0,120.916634,31.079238,739,0.0,https://img1.qunarzz.com/travel/d2/1709/e3/1c51f06452620ab5.jpg_r_480x360x95_07da6db4.jpg
-7475130,广富林遗址文化公园,3,88.0,"不远的将来, 追寻上海历史之根,探究海派文化之源,品味自然生态的“广富林文化遗址公园”,将成为上海市民人文旅游的重头戏。",156.0,121.204525,31.068189,16,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-mapi/img/dd91b118711071b6fffd2fd0b5fd8ca4.jpg_r_480x360x95_e814c777.jpg
-10000374,大淀湖Dadian Lake,1,88.0,,15.0,121.0602410824,31.1238212585,46,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/826a156281de62e3d2dc0df287efc970.jpg_r_480x360x95_ca3c0669.jpg
-10011360,商榻古镇Shangta Ancient Town,1,88.0,,2158.0,120.9303197004,31.1211662292,10,0.0,https://img1.qunarzz.com/travel/poi/1712/e1/a8e00b7dfdc78e37.jpg_r_480x360x95_fe96c8dc.jpg
-713203,徐家汇天主教堂St. Ignatius Cathedral,8,90.0,上海最大的天主教堂，欣赏中世纪哥特式建筑和内部精美的装饰。,50.0,121.442629,31.1975,464,0.09,https://img1.qunarzz.com/travel/d8/1608/91/34c5caf923b0c3b5.jpg_r_480x360x95_cb57d158.jpg
-704127,南翔古镇Nanxiang Ancient Town,8,88.0,看白墙黑瓦江南水乡，逛上海最大的江南园林古猗园。,62.0,121.313593,31.297143,704,0.0,https://img1.qunarzz.com/travel/d0/1510/16/1a78db866ff53f7.jpg_r_480x360x95_841365fb.jpg
-3540209,静安别墅Jing'an Villa,1,92.0,上海最大的新式里弄住宅群，曾有很多名门望族居住于此。,580.0,121.464448,31.233855,326,0.0,https://img1.qunarzz.com/travel/poi/1510/fc/a6612a7e55c676.jpg_r_480x360x95_3a0b97b8.jpg
-712749,海上花岛生态度假村Qianwei Ecological Village,1,76.0,,2.0,121.516457,31.723174,111,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/a8ea7bd75dea815326f17ab00d1cd483.jpeg_r_480x360x95_d7ed7557.jpeg
-7643882,上海玻璃博物馆Shanghai Museum of Glass,1,88.0,玻璃窑炉车间改建的博物馆，可见各种精美的玻璃艺术品，观看玻璃制作过程。,89.0,121.478542,31.349786,504,0.0,https://img1.qunarzz.com/travel/d5/1801/17/9395cb4d009562b5.jpg_r_480x360x95_c2e47bc9.jpg
-19530306,长江第一滩First Beach of Yangtze River,0,76.0,,,121.797531,31.352119,7,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/260fd1f0ea4493bbfa5f14cdaf603599.jpg_r_480x360x95_0227e87e.jpg
-9722452,上海外滩星空艺术馆Starry Gallery of Shanghai,1,84.0,,170.0,121.50497,31.233565,250,0.0,https://img1.qunarzz.com/travel/d6/1603/82/d9861d1adeb0bdf7.jpg_r_480x360x95_4718f770.jpg
-9487279,愚园路历史风貌保护区Yuyuan Road,3,94.0,繁华中的幽静，凝聚了诸多老上海故事的低调马路。,2393.0,121.444871,31.227868,315,0.0,https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/fusion/202010/614bab0d4ceef18fb1aa8e4e58721050.jpg_r_480x360x95_df2217e0.jpg
-7475116,东林寺Donglin Temple,1,94.0,七百年来香火长旺，有亚洲最高的室内千手观音圣像。,611.0,121.1723895212,30.9003183241,213,0.0,https://img1.qunarzz.com/travel/d4/1608/9c/b3fa2f70124722b5.jpg_r_480x360x95_3ab5172e.jpg
-26577267,广富林郊野公园Guangfulin Jiaoye Park,0,88.0,,,121.186543,31.074869,24,0.0,https://tr-osdcp.qunarzz.com/tr-osd-vs-dapp-ugc/img/5b5678140abbde4043f2d346709d8bda.jpg_r_480x360x95_c903130f.jpg
-710405,多伦路文化名人街Duolun Road Cultural Street,23,88.0,参观鲁迅、茅盾、郭沫若等名人故居，在复古的洋楼老街散步拍照。,29.0,121.4883520019,31.2680882848,535,0.1,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/36ac1bc4256d7d871854289a967a390e.jpg_r_480x360x95_1fd0598a.jpg
-5475557,甜爱路Tian'ai Road,40,88.0,上海最浪漫的马路，在爱心邮筒给你的TA寄出盖有爱心邮戳的信函。,22.0,121.490625,31.274099,536,0.07,https://img1.qunarzz.com/travel/d2/1611/b3/70a6a7f3f680f4b5.jpg_r_480x360x95_542877b8.jpg
-708035,上海长风海洋世界Changfeng Ocean World,2,86.0,观看大型海洋动物的表演。,5.0,121.403475,31.230932,2334,0.0,https://img1.qunarzz.com/travel/poi/1505/2f/5d8979395f1105.jpg_r_480x360x95_5be114a4.jpg
-717617,课植园Kezhi Garden,3,88.0,朱家角的园林胜景，漫步于曲径或小憩于水榭，在园林小景中享受恬静惬意。,8.0,121.059973,31.11952,210,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/8038728526dca30e7f8badaecb7ee277.jpg_r_480x360x95_d7710385.jpg
-704769,方塔园Songjiang Square Pagoda,2,90.0,环境优雅的园林，可见宋代方塔、明代砖雕照壁、清代天妃宫等景点。,10.0,121.253011,31.010392,331,0.0,https://flight-feed.qunarzz.com/as3/180/image/poi_vishnu/04ca1353-ab20-4e90-b448-717bbcc3d852.jpg_480x360_6dd4874c.jpg_480x360_1797ece8.jpg
-30011590,EPSON teamLab 无界美术馆EPSON teamLab: teamLab Borderless Shanghai,0,94.0,,,121.504015597,31.2074602994,35,0.0,https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/fusion/202010/9a4d23a83ca57dcb58fd0f0c98a923b8.jpg_r_480x360x95_5cb2be50.jpg
-10074948,玉佛功德园Yufogong Deyuan,0,0.0,,1378.0,120.9885896123,31.0962598617,0,0.0,https://img1.qunarzz.com/travel/poi/1803/d2/a2c0d6351e1e637.jpg_r_480x360x95_d49ba6f9.jpg
-10068563,太阳岛沙滩Sun Island Beach,0,88.0,,494.0,121.0893764751,31.0374584198,1,0.0,https://img1.qunarzz.com/travel/poi/1712/43/54f72c2142d41537.jpg_r_480x360x95_b2019fdf.jpg
-10032000,国家会展中心National Exhibition and Convention Center,1,92.0,,269.0,121.3085816472,31.196214201,261,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-10011925,城隍庙旅游区Shanghai City God Temple Tourist Area,61,92.0,参观豫园和老城隍庙，品地道上海小吃和本帮菜。,143.0,121.497994,31.232396,5649,0.0,https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/fusion/202110/316d8b6a6e6ccf02bab2864af71fed3f.jpg_r_480x360x95_8dfcf86b.jpg
-10000319,醉白池Zuibaichi Park,2,90.0,上海最古老的园林，参观经典明清建筑，欣赏各种名人石刻。,47.0,121.237508,31.007731,356,0.0,https://flight-feed.qunarzz.com/as3/180/image/poi_vishnu/20254b82-986a-47c5-842a-a4b3e56237f5.jpg_480x360_068de01e.jpg_480x360_51588aee.jpg
-9528113,月湖雕塑公园Shanghai Sculpture Park,1,88.0,在错落着艺术雕塑的月湖畔散步，拥有大面积果岭草地，上海的溜宠胜地。,64.0,121.211287,31.107223,474,0.0,https://img1.qunarzz.com/travel/d1/1705/3f/334aed2ef1c830b5.jpg_r_480x360x95_7e846152.jpg
-7628129,步高里Bugaoli Scenic Resort,6,86.0,,76.0,121.4691216454,31.2129802704,121,0.0,https://img1.qunarzz.com/travel/poi/1612/52/6fc398ffedb7dc37.jpg_r_480x360x95_f5c51e90.jpg
-704880,金茂大厦Jinmao Building,39,94.0,上海第三高楼，著名地标之一，在88层观光厅俯瞰上海城市风光。,24.0,121.512255,31.241027,2672,0.13,https://img1.qunarzz.com/travel/d7/1802/fe/ea4fcecb1e58c0b5.jpg_r_480x360x95_a58efb31.jpg
-705184,黄浦江观光区Huangpu River,14,90.0,黄浦江是上海的地标河流，荟萃了上海城市夜景的精华，乘船夜游的好去处。,56.0,121.4992519294,31.2387436143,50,0.04,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/b621d6fd4bd651bbf95d56e267902e10.jpg_r_480x360x95_eb81900a.jpg
-7481649,复旦大学Fudan University,23,94.0,访百年名校复旦大学，仰望光华楼，感受沪上知名学府的人文情怀。,20.0,121.511012,31.301524,698,0.02,https://img1.qunarzz.com/travel/d2/1703/61/47211079c7286ab5.jpg_r_480x360x95_6c3d01ed.jpg
-706279,周公馆Former Residence of Zhou Enlai in Shanghai,2,92.0,保存完好的西班牙式花园洋楼，伟人们在沪展开革命之地。,112.0,121.474868,31.22029,143,0.01,https://img1.qunarzz.com/travel/d4/1506/75/f5b752a0435665.jpg_r_480x360x95_c34d0acc.jpg
-707249,上海鲜花港Shanghai Flower Port,2,88.0,3月底-5月中旬可赏郁金香，姹紫嫣红的花海极美。,558.0,121.909087,30.950741,361,0.0,https://img1.qunarzz.com/travel/d7/1704/d0/3aee7f1eab7478b5.jpg_r_480x360x95_872f1fdd.jpg
-702507,长风公园Changfeng Park,3,90.0,“勇敢者道路”很受青少年喜爱；长风海洋世界在园内。,93.0,121.406081,31.230871,919,0.0,https://img1.qunarzz.com/travel/d0/1512/f0/ab9a4f4dd00fb0f7.jpg_r_480x360x95_2f001425.jpg
-7481933,武康大楼Wukang Mansion,12,92.0,形似熨斗的上海著名建筑大楼，诸多名人曾入住于此。,133.0,121.44472,31.210733,297,0.0,https://img1.qunarzz.com/travel/poi/1803/dd/05e5222f11f3dd37.jpg_r_480x360x95_ace72fc5.jpg
-7469012,江南三民文化村Jiangnan Sanmin Culture Village,0,84.0,富有民俗特色的文化村，踩高跷推铁环玩童年游戏。,3.0,121.5057,31.724771,59,0.0,https://img1.qunarzz.com/travel/poi/1408/26/b5acf2028eee80b6ffffffffc8d65eac.jpg_r_480x360x95_603539ae.jpg
-38135879,遇见博物馆·上海静安馆,0,88.0,,,121.449386,31.297082,1,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-23344367,米域•有光MIXPACE,0,86.0,,,121.461038,31.233274,7,0.0,https://flight-feed.qunarzz.com/as3/180/image/poi_vishnu/c0017c06-61be-4d28-a5df-7730cce630b9.jpg_480x360_94efeb51.jpg_480x360_1f9c61b9.jpg
-10012218,奉贤博物馆Fengxian Museum,1,88.0,,2081.0,121.509324,30.939284,74,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/289735b36b36989905a146e681687635.jpg_r_480x360x95_1172daa5.jpg
-10009573,巴金故居Former Residence of Ba Jin,2,90.0,参观巴金生前起居、写作的房间。,2211.0,121.447147,31.215026,228,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/f8ffab8344c6ea1111d3f0eef1e58f4a.jpg_r_480x360x95_705bdd37.jpg
-9789450,金茂大厦88层观光厅Jinmao Tower Observation Deck,1,94.0,上海著名观景平台，能在高空俯瞰繁华的魔都。,142.0,121.512231,31.241024,1802,0.0,https://img1.qunarzz.com/piao/fusion/2011/97/ba4075d9e0031e02.jpg_r_480x360x95_835295bc.jpg
-3711080,衡复历史文化风貌区Hengshan Leisure Street,16,90.0,,32.0,121.449293,31.206121,320,0.02,https://img1.qunarzz.com/travel/d3/1412/5a/5a71ebdcdb009e8cdb.jpg_r_480x360x95_0d56956e.jpg
-7481910,徐家汇源,1,100.0,​徐家汇源景区位于上海都市旅游中心圈徐家汇，主要由历史景观风貌、时尚活力购物和绿色休闲娱乐三大板块组成。,608.0,121.443043,31.197086,4,0.0,https://img1.qunarzz.com/travel/d3/1611/f7/d1d4ba7499b16b5.jpg_r_480x360x95_154c66e7.jpg
-20971171,上海寻梦源梦水乡Xunmengyuan Herb Farm,0,84.0,,,121.097122,31.047402,17,0.0,https://img1.qunarzz.com/piao/fusion/2110/a9/965e5c595f6adf02.jpg_r_480x360x95_8233b4a0.jpg
-7481870,大宁灵石公园Daning Park,4,92.0,不用远赴海外，就能感受到荷兰赏花胜地“库肯霍夫花园”的郁金风情。,121.0,121.45316,31.284678,957,0.0,https://img1.qunarzz.com/travel/d3/1506/bc/214f37245c3240.jpg_r_480x360x95_b28b7f62.jpg
-5291267,喜玛拉雅美术馆Shanghai Himalayas Museum,1,88.0,,15.0,121.568386,31.215181,83,0.0,https://img1.qunarzz.com/p/tts5/1807/16/2d820bbca0dc9002.jpg_r_480x360x95_55b07abb.jpg
-3709379,上海外滩美术馆Rockbund Art Museum,2,94.0,欣赏各种现代艺术作品，在楼顶露台享受咖啡与美景。,63.0,121.494113,31.246931,399,0.0,https://img1.qunarzz.com/travel/d5/1604/3b/33d8c53b6d27f5f7.jpg_r_480x360x95_de70cde0.jpg
-713934,上海马戏城Shanghai Circus World,1,90.0,中国马戏第一城，有适合小朋友观看的《欢乐马戏》，也有享誉海外的《ERA时空之旅》。,8.0,121.457945,31.284439,897,0.0,https://img1.qunarzz.com/travel/d1/1408/22/1083893885de811dffffffffc8d65eac.jpg_r_480x360x95_c46c6a9d.jpg
-707178,上海儿童博物馆Shanghai Children's Museum,2,90.0,寓教于乐的知识殿堂，儿童可在此得到丰富的科普启蒙。,36.0,121.419405,31.199852,161,0.0,https://img1.qunarzz.com/travel/poi/1807/7b/4bb0055432556837.jpg_r_480x360x95_8059ecae.jpg
-701652,寒山寺,17,88.0,寒山寺已有近374年历史。明朝天启四年，杨军门夫人朱氏自苏州驾小船来到崇明。朱氏在岛上削发为尼，法名颠修，建寺名寒山寺，供寒山拾得二像。原寒山寺北至护城河（现崇明中学马路），南至人民路，西至护城河沿界（农业大楼），东至旧大校场（现向…,77.0,121.4080510142,31.6304013168,6,0.0,https://img1.qunarzz.com/wugc/p221/201206/18/81a415228067d0bb93835fbb.jpg_r_480x360x95_e50dfa5e.jpg
-7481874,龙美术馆西岸馆Long Museum (West Bund),2,92.0,室内与室外完美结合的开放式美术馆，让艺术更加亲民。,193.0,121.471366,31.190301,239,0.0,https://tr-osdcp.qunarzz.com/tr-osd-vs-dapp-ugc/img/e930da98f3df3e74895a55242cc11061.jpg_r_480x360x95_9f772934.jpg
-714143,孔庙Confucian Temple,3,94.0,,636.0,121.4945430417,31.2232846425,31,0.0,https://img1.qunarzz.com/piao/fusion/2109/cc/430109e8620c8e02.jpg_r_480x360x95_bb9d6972.jpg
-36404178,青溪老街,0,84.0,,,121.5891641954,30.9296540962,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-32562008,小灶村体验农场Xiaozaocun Tiyan Farm,0,76.0,,,121.284467,31.395217,5,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/a58d3248cf35b8e0293806bfc01f7186.jpg_r_480x360x95_8ca608af.jpg
-27337794,油罐艺术中心Youguan Art Center,0,86.0,,,121.469743,31.171002,21,0.0,https://flight-feed.qunarzz.com/as3/180/image/poi_vishnu/45be6597-cd0b-4b36-8c66-93cdc01cb309.jpg_480x360_2094b996.jpg_480x360_efc30f2e.jpg
-24393525,大莲湖湿地Dalianhu Wetland,0,88.0,,,121.003177,31.069671,9,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/5401752258095de058f8d28fd54cfc52.jpg_r_480x360x95_169c28eb.jpg
-20978005,浦江郊野公园奇迹花园Pujiang Jiaoye Gongyuan Qiji Garden,0,88.0,,,121.514217,31.060286,175,0.0,https://img1.qunarzz.com/piao/fusion/2110/7e/2573187d59471402.jpg_r_480x360x95_1ea13c04.jpg
-10019035,中国兵器博览馆China Ordnance Expo,0,94.0,,1958.0,121.024908,31.109638,23,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/bca39aaee47ee5d1ea4cf6887ddace0b.jpg_r_480x360x95_1d49a178.jpg
-10018074,富民路Fumin Road,1,84.0,,2014.0,121.4572330595,31.2260704041,15,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-9479485,风车湾Windmill Bay,1,100.0,,2493.0,121.916124,30.860425,2,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/1f594a8eeddb49f192f4d65c7c8094d5.jpg_r_480x360x95_d6b9c9fd.jpg
-9479175,古藤园Guteng Garden (East Gate),1,92.0,,2667.0,121.393967,31.007918,62,0.0,https://tr-osdcp.qunarzz.com/tr-osd-vs-dapp-ugc/img/40991fe839d61ce42a4be90c4f12eac3.jpg_r_480x360x95_08370ea2.jpg
-8450503,新虹桥中心花园Xinhongqiao Center Park,0,92.0,,2722.0,121.411023,31.20618,68,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/aa27d34e2740276a6114c0868793ae86.jpg_r_480x360x95_b8de4379.jpg
-7474645,古华公园Guhua Park,1,90.0,,2748.0,121.471003,30.923862,256,0.0,https://img1.qunarzz.com/travel/poi/1507/c2/5c7d8f9c81c4d.jpg_r_480x360x95_a857267d.jpg
-712307,上海宋庆龄故居纪念馆Soong Ching Ling Memorial Residence,1,92.0,繁华淮海路上闹中取静的一处，西式建筑风格优雅别致。,87.0,121.445413,31.210427,243,0.01,https://img1.qunarzz.com/travel/d7/1506/5e/a1d9eff2100f54.jpg_r_480x360x95_4954fb0a.jpg
-9785231,朱家角北大街,0,0.0,"北大街，又称""一线街""，是上海市郊保存得最完整的明清建筑第一街，全长两里多路，其东起放生桥，西至美周弄的三百多米，是最富有代表性的明清建筑精华所在。这里，旧式民宅鳞次栉比，粉墙灰瓦错落有致，窄窄通道曲径通幽，石板条路逶迤不断，老店名…",7.0,121.062171,31.11673,1,0.0,https://img1.qunarzz.com/travel/poi/1708/d4/22217bacc134b337.jpg_r_480x360x95_d6f13fb9.jpg
-713908,世纪公园Century Park,11,96.0,上海市内最大的生态公园，树木花草众多，休闲漫步的好去处。,64.0,121.558238,31.221747,2173,0.01,https://img1.qunarzz.com/travel/d6/1506/24/dd73aa2b96c5d1.jpg_r_480x360x95_dbb50fe2.jpg
-7475128,紫藤园Jiading Wistaria Garden,4,92.0,,392.0,121.265131,31.384864,265,0.0,https://img1.qunarzz.com/travel/d2/1704/15/63c1617d3b0893b5.jpg_r_480x360x95_27b34d0c.jpg
-7481633,上海交通大学Shanghai Jiao Tong University,20,92.0,文化底蕴深厚、办学传统悠久的全国重点大学，中西合璧的校园建筑和各式博物馆都值得参观拜访。,73.0,121.439021,31.205559,494,0.01,https://img1.qunarzz.com/travel/d8/1510/24/88e8bdb75eb603.jpg_r_480x360x95_246e77df.jpg
-3540029,南京西路West Nanjing Road,12,94.0,,23.0,121.4598485479,31.2330771947,38,0.0,https://img1.qunarzz.com/piao/fusion/1502/10/415ac57b06838c.jpg_r_480x360x95_20e0a356.jpg
-7481898,上海琉璃艺术博物馆Liuli China Museum,5,90.0,中国甚至亚洲第一个展示琉璃艺术的博物馆，能欣赏古代中国到现代世界的琉璃大作。,51.0,121.476866,31.213867,314,0.0,https://img1.qunarzz.com/travel/d7/1704/fe/379dffc2a8741ab5.jpg_r_480x360x95_2842886e.jpg
-7469001,中国航海博物馆China Maritime Museum,2,94.0,国内首座航海专题博物馆，看各种仿真模型和航海设备实物。,61.0,121.926006,30.902445,713,0.0,https://img1.qunarzz.com/travel/poi/1408/26/fd9af6fa96bb92c7ffffffffc8d65eac.jpg_r_480x360x95_a576902e.jpg
-37166239,汤连得·多喜温泉（闵行店）,0,82.0,,,121.375454,31.146,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-36458598,渔港公园,0,0.0,,,121.794606,31.356716,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-35217216,上海之鱼,0,90.0,,,121.505745,30.938155,4,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-32561454,绿之丘Green Valley,0,90.0,,,121.545418,31.260861,20,0.0,https://flight-feed.qunarzz.com/as3/180/image/poi_vishnu/fadf152b-d43d-47b2-b4c2-8231f57644e7.jpg_480x360_e9b9af54.jpg_480x360_b8a27add.jpg
-26969828,Sky Park 高登公园Sky Park,0,88.0,,,121.402661,31.22908,27,0.0,https://flight-feed.qunarzz.com/as3/180/image/poi_vishnu/039e9180-0edd-4cfe-9347-331d44f2c002.jpg_480x360_7896e963.jpg_480x360_2a926200.jpg
-23031834,南极企鹅馆Antarctic Penguin Encounter,0,94.0,与萌萌哒企鹅亲密接触,,121.911276,30.919863,26,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/a0c4e6384a68e5218c6bba13657e9c7d.jpg_r_480x360x95_09dc8ed1.jpg
-10066367,涌泉坊Bubbling Well Lane,0,94.0,,1763.0,121.447498,31.228503,19,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-10066295,永福路Yongfu Road,0,96.0,,1779.0,121.4491560182,31.214613935,23,0.0,https://flight-feed.qunarzz.com/as3/411/image/poi_vishnu/ed8b4bdd-6012-437d-88fc-8bdb1f91ed48.jpg_480x360_633a67f6.jpg_480x360_7436de7f.jpg
-10042644,崇明荷花博览园Lotus Expo Park,1,88.0,,12.0,121.246813,31.735561,38,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/86efd0fd8418aeb6e1dd1997fc071eff.jpg_r_480x360x95_a6605123.jpg
-10011469,东海观音寺Donghai Guanyin Temple,0,86.0,,2137.0,121.5211799615,30.8215503693,12,0.0,https://img1.qunarzz.com/travel/poi/1712/b7/4305c0195481c037.jpg_r_480x360x95_2ce772c3.jpg
-10000367,报国寺Qingpu Baoguo Temple,1,78.0,,20.0,120.987832,31.095958,38,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-9771333,东方明珠259米全透明悬空观光廊Oriental Pearl Transparent Observatory,1,94.0,全球唯一的360度全透明观光廊，以空中漫步的独特方式欣赏申城全景。,119.0,121.5064136561,31.245303876,291,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/7f217d7a6ca8d478bdd85ab993744d32.jpg_r_480x360x95_c543caed.jpg
-9479243,龙音寺Longyin Temple,0,90.0,,2610.0,121.4372784431,31.0091696319,22,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/0ea99e63f6b64c75b36dec0d47b915fc.jpg_r_480x360x95_41e4ba22.jpg
-6747483,长乐路Changle Road,6,92.0,赶不完的时髦，逛不完的个性创意小店，上海时尚潮流的聚集地。,16.0,121.459751,31.224334,237,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/ebddccdec38f72f0ec49055d05df35c3.jpg_r_480x360x95_67564ef0.jpg
-714732,崇明学宫Chongming Academy,1,86.0,上海著名的孔庙旧址，领略崇明岛民俗风情与历史文化。,17.0,121.408385,31.624979,75,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/856c5279eeccdeb153343c49aa7e663f.jpg_r_480x360x95_e57cf4a8.jpg
-5129137,M50创意园M50 Creative Park,7,90.0,去M50看苏州河畔的艺术，感受浓厚的文化气息。,104.0,121.455795,31.254456,293,0.01,https://img1.qunarzz.com/travel/d4/1612/44/cfc17714eaaa0ab5.jpg_r_480x360x95_5770d50f.jpg
-712688,上海工艺美术博物馆Shanghai Arts and Crafts Museum,1,90.0,被称为“小白宫”，可以参观雕刻、刺绣等民间艺术制作。,125.0,121.460803,31.216576,173,0.0,https://img1.qunarzz.com/travel/d5/1504/d7/ace7b96a98bfb1.jpg_r_480x360x95_c714f30e.jpg
-20973819,交响音乐博物馆Shanghai Jiaoxiangyinyue Museum,0,96.0,,,121.456346,31.218164,19,0.0,https://flight-feed.qunarzz.com/as3/288/image/poi_vishnu/3b8c44a9-fb19-4b89-8900-af9fe2a86fcd.jpg_480x360_80fb5def.jpg_480x360_99f5aba3.jpg
-716890,田子坊石库门Shikumen,24,92.0,,31.0,121.475066,31.214837,128,0.06,https://img1.qunarzz.com/travel/d1/1607/aa/2e60f1dd915a4eb6.jpg_r_480x360x95_f9760516.jpg
-708392,张爱玲故居Zhang'ailing Former Residence,3,88.0,,53.0,121.45402,31.2311,194,0.02,https://img1.qunarzz.com/travel/poi/1605/fe/89bcfb5ab99933f7.jpg_r_480x360x95_bdd1f8dd.jpg
-715463,中山公园Zhongshan Park,14,90.0,,65.0,121.425578,31.227355,635,0.0,https://img1.qunarzz.com/travel/d1/1606/43/e7a881620321c0f7.jpg_r_480x360x95_d8a5f9e9.jpg
-707203,鲁迅公园Lu Xun Park,18,90.0,鲁迅先生曾经常来此散步，瞻仰鲁迅先生之墓，了解他的生平。,69.0,121.489991,31.277458,617,0.01,https://img1.qunarzz.com/travel/d7/1703/84/20d9ebea2b75f4b5.jpg_r_480x360x95_d7be14e5.jpg
-703515,龙华寺Longhua Temple,1,90.0,上海历史最久、规模最大的古刹，祈福十分灵验，还能品尝寺内正宗素斋面。,141.0,121.45827,31.181625,414,0.0,https://img1.qunarzz.com/travel/d3/1503/cd/3affe0cc49d1c0.jpg_r_480x360x95_c7c91fd7.jpg
-3707033,梅赛德斯-奔驰文化中心Mercedes-Benz Arena,4,92.0,国内第一个可变容量的大型室内场馆，形似飞碟，曾举办过超大型演唱会和国际重要赛事。,49.0,121.499864,31.194369,299,0.0,https://img1.qunarzz.com/travel/d5/1703/ab/b5b69e49032575b5.jpg_r_480x360x95_79ad69b0.jpg
-5740176,外滩情人墙Bund Lover’s Wall,1,90.0,,124.0,121.4971,31.24456,352,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/54616fa779279a32c0ddfe43faaafd57.jpg_r_480x360x95_48456d7a.jpg
-7587261,金罗店美兰湖景区Meilan Lake Scenic Area,2,90.0,,144.0,121.361919,31.405386,120,0.0,https://img1.qunarzz.com/travel/poi/1808/28/ce4205e2d29b9f37.jpg_r_480x360x95_b5accb74.jpg
-7481655,静安公园Jing'an Sculputure Park,2,90.0,,175.0,121.453099,31.228472,362,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/f58714927bdbf16bf386f412b2fbe8ab.jpg_r_480x360x95_70c44145.jpg
-706839,泖塔Mao Tower,1,100.0,,624.0,121.09107,31.036254,3,0.0,https://flight-feed.qunarzz.com/as3/203/image/poi_vishnu/de8096e3-ed65-4692-916f-0146460ee35a.jpg_480x360_4c38c650.jpg_480x360_526d5b64.jpg
-7475176,瀛洲公园Yingzhou Park (North Gate),1,86.0,赏丰富多彩的植物造景，漫步江边欣赏落日。,8.0,121.408771,31.622923,83,0.0,https://img1.qunarzz.com/travel/poi/1409/05/2d42cb53446e645bffffffffc8d65eac.jpg_r_480x360x95_a707128d.jpg
-38339823,文广中心-图书馆,0,0.0,,,121.2826417008,31.1812773945,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38337247,太浦河白渔荡湿地,0,100.0,,,120.9792952317,31.0273133328,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38000149,逸景冲浪水上嘉年华,0,20.0,,,121.948757,30.912826,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-37805819,临港星空之境海绵公园,0,90.0,,,121.938646,30.920956,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-36920067,MR.ZOO小小动物元（上海崇明万达广场店）,0,0.0,,,121.42439,31.631969,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-36402645,淮海中路弄堂,0,90.0,,,121.4425418516,31.2088745125,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-36156652,衍庆里,0,86.0,,,121.480221,31.245677,1,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-35832313,上海西郊淀山湖湿地Shanghai Xijiaodian Shan Hu Wetland,0,86.0,,,121.013213,31.076586,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-35433194,毛桥村,0,0.0,,,31.4724195568,31.4724809359,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-35214774,临港当代美术馆Lingang Contemporary Art Museum,0,100.0,,,121.932167,30.902013,1,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-35198066,韩国街Hanguo Street,0,90.0,,,121.379539,31.174823,13,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-34276259,宝龙艺术中心Baolong Art Center,0,94.0,,,121.3634105115,31.1635764563,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-27373604,东华大学(松江校区)Donghua University (songjiangxiaoqu),0,0.0,,,121.219569,31.061819,2,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/63902942f75cdca762190ce5b8664664.jpg_r_480x360x95_0592b55b.jpg
-23352440,松南郊野公园Songnanjiaoye Park,0,90.0,,,121.2429980307,30.9836361235,9,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-touch/img/41c7a4406bb33deab0101fee2b07eed3.jpeg_r_480x360x95_338fef21.jpeg
-23031839,火山鲨鱼馆Volcano Whale & Shark Pavilion,0,94.0,与拥有“星空之背”的庞大鲸鲨奇妙邂逅,,121.915004,30.91788,20,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/9dac969e6c19c1247280331b7af2fbcc.jpg_r_480x360x95_71035c5f.jpg
-20054435,江南造船厂博物馆Jiangnan Zaochuanchang Museum,0,76.0,,,121.76,31.3598,4,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/6812dd6671448b81f203b76f6be2ebb9.jpg_r_480x360x95_4b1c756d.jpg
-20052525,LIFE PARTYING广场Life Partying Square,0,0.0,,,121.536,31.2267,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-20051680,城市公园Chengshi Park,0,90.0,,,121.930468,30.894452,3,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/faaeebc9eedcc35c549996b87437adf6.jpg_r_480x360x95_1cd2f895.jpg
-20036395,营房村社区活动中心文化广场Yingfangcun Shequ Culture Square,0,0.0,,,121.7396362201,31.2157541492,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-20031532,罗泾水源涵养林Luojing Water Conservation Forest,0,96.0,,,121.368544,31.487105,3,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-18718609,远香湖Yuanxiang Lake,0,90.0,,,121.273869,31.360426,27,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/94e10eba96b86ace18806350c72f1aa9.jpg_r_480x360x95_ac1161ed.jpg
-18717853,"上海百鸟湖Bainiao Lake, Shanghai",0,90.0,,,121.689706,30.865672,3,0.0,https://img1.qunarzz.com/travel/poi/1803/4c/c29af7f5a4e9b837.jpg_r_480x360x95_85622e5b.jpg
-18717072,肇周路Zhaozhou Road,0,88.0,,,121.4875332464,31.2203578949,42,0.0,https://flight-feed.qunarzz.com/as3/180/image/poi_vishnu/85bb6018-0fe1-46a1-8f49-b2182b0a9957.jpg_480x360_4831cef4.jpg_480x360_00aa7224.jpg
-10095045,浦江郊野公园Pujiang Country Park,1,88.0,,226.0,121.514275,31.054805,157,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/1055244ab455b871a75d799c3c039c76.jpg_r_480x360x95_c7f39c39.jpg
-10077455,艺仓美术馆Yicang Gallery,3,92.0,,783.0,121.5189942894,31.2221834718,57,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/47a100cf385f037dfb070d6881ad7dde.jpg_r_480x360x95_4ca90dc0.jpg
-10076754,北水湾体育公园Beishuiwan Tiyu Park,0,88.0,,1010.0,121.24914,31.408359,2,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/f82f284b696c263c9b2d614b42490496.jpg_r_480x360x95_ec89e433.jpg
-10076617,南翔老街Nanxiang Old Street,1,88.0,,1036.0,121.314868,31.296946,71,0.0,https://flight-feed.qunarzz.com/as3/180/image/poi_vishnu/0b482497-00a0-4e5e-a57d-a52b40df8d07.jpg_480x360_1c9c8f69.jpg_480x360_8f134a40.jpg
-10073584,奉贤海滩Fengxin Beach,0,84.0,,1681.0,121.527668,30.818991,5,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-mapi/img/23e503baa149d91424bae2ed353da23f.jpg_r_480x360x95_658f8d17.jpg
-10066381,罗密欧阳台Romeo Terrace,2,78.0,,1760.0,121.4469859816,31.215745888,7,0.0,https://img1.qunarzz.com/travel/d5/1810/f3/87afef37b89a61b5.jpg_r_480x360x95_b51341e3.jpg
-10023206,枫叶岛Maple Island,0,84.0,,1826.0,121.181984,30.782364,43,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/31f04390ed709d29d7172a170ef66fe9.jpg_r_480x360x95_46cf6e3b.jpg
-9785324,明清民居,0,0.0,石板老街、黛瓦民宅、深巷幽弄……无不展现朱家角典型的江南民居风貌。,27.0,121.062171,31.11673,0,0.0,https://img1.qunarzz.com/travel/poi/1708/17/e8a363026b458337.jpg_r_480x360x95_170476bf.jpg
-9497855,上海理工大学,1,90.0,源于1906年创办的沪江大学和1907年创办的德文医工学堂，临江而立，浦江美景尽收眼底。,447.0,121.558505,31.29627,2,0.0,https://img1.qunarzz.com/travel/poi/1607/e7/8ea0a704d555cdbb.jpg_r_480x360x95_10add575.jpg
-9486171,长江第一滩,1,0.0,“长江第一滩”位于长兴横沙渔港综合功能区东端，与东岸800米的横沙休闲旅游岛隔江相望，与30公里处的浦东迪斯尼乐园遥相呼应。,2397.0,121.697932,31.397428,0,0.0,https://img1.qunarzz.com/travel/poi/1607/4f/c8c837c4454d9adb.jpg_r_480x360x95_6a3edcef.jpg
-9199897,震旦博物馆Aurora Museum,1,94.0,,409.0,121.506401,31.240127,223,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/776f96fd5fadb246883245cad13fb838.jpg_r_480x360x95_cbec063c.jpg
-7474942,桥乡金泽Jinze Ancient Town,1,88.0,,391.0,120.928882,31.041805,71,0.0,https://img1.qunarzz.com/piao/fusion/1412/42/42ef8e4dfdd5af29cdb.jpg_r_480x360x95_a245a8ad.jpg
-704185,上海展览中心Shanghai Exhibition Center,3,92.0,上海最早的会展场，建筑宏伟华丽，经常举办各种大型展览。,198.0,121.459249,31.230961,442,0.02,https://img1.qunarzz.com/travel/d0/1508/38/02601153d28287.jpg_r_480x360x95_eb3c2151.jpg
-706091,中国共产党第一次全国代表大会会址The site of the first CPC National Congress,3,92.0,中国共产党的诞生地。,86.0,121.481627,31.22608,309,0.01,https://img1.qunarzz.com/travel/d3/1711/a2/0306ef824c6b8bb5.jpg_r_480x360x95_56e8b4c2.jpg
-715628,南浦大桥Nanpu Bridge,10,92.0,,554.0,121.514786,31.210031,131,0.01,https://img1.qunarzz.com/travel/d7/1803/3f/ab1d08693a9cb2b5.jpg_r_480x360x95_7607328b.jpg
-706550,圣母大堂Notre Dame Church,1,88.0,,555.0,121.461843,31.223707,109,0.01,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/a5d1ccc14b42ebb304f6b5267771096a.jpg_r_480x360x95_3e4102b9.jpg
-711910,上海总会,1,96.0,"上海总会（Shanghai Club）又称英国总会，建筑外观呈晚期文艺复兴式，外墙除勒脚、柱为石料外，均为水泥仿石墙面。入口处有塔司干（TUSCAN）立柱，二、三层中部五间有贯通两层的爱奥尼克式的古典立柱。一些局部处理带有巴洛克特征。
-这座建筑室内设…",382.0,121.4978339581,31.2396091486,6,0.01,https://tr-osdcp.qunarzz.com/tr-osd-tr-mapi/img/e2f5803dbfcb34e75144f7fa533481c9.jpg_r_480x360x95_6357d9ea.jpg
-706259,复兴公园Fuxing Park,2,92.0,,237.0,121.475647,31.222986,366,0.0,https://tr-osdcp.qunarzz.com/tr-osd-vs-dapp-ugc/img/53d5987e9c0c804443590b3ad891517a.jpg_r_480x360x95_0a39a78f.jpg
-704895,孙中山故居纪念馆Former Residence of Sun Yat-sen,6,92.0,孙中山和宋庆龄唯一共同的住所，老上海小洋房十分精致。,297.0,121.474213,31.222108,235,0.0,https://mp-commentcp.qunarzz.com/mp_comment_mp_comment/1559244797459100t14000000x1pyzA317_D_640_10000.jpg_r_480x360x95_bed75ffa.jpg
-704326,豫园点春堂Shanghai Dianchun Hall,3,92.0,,560.0,121.499093,31.2332,85,0.0,https://img1.qunarzz.com/travel/d5/1705/7c/4a819ff953453cb5.jpg_r_480x360x95_617aac44.jpg
-716231,上海市历史博物馆Shanghai History Museum (People's Square),4,94.0,,71.0,121.47734738,31.2370712547,230,0.0,https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/fusion/20208/3c4a554c4d2eeb1480b1b26bf246bfd4.jpg_r_480x360x95_24eb76e9.jpg
-5475532,鲁迅纪念馆Lu Xun Memorial Hall,7,90.0,参观鲁迅先生生前的衣物、生活用品、手稿书信等珍贵藏品。,562.0,121.490446,31.275502,190,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/e804e5f529fb5bd36c699e26b06fe3ad.jpg_r_480x360x95_98c6a9e5.jpg
-713571,丁香花园Shanghai Lilac Garden,1,90.0,晚清北洋大臣李鸿章的私家花园，在上海极负盛名，保存完好。,563.0,121.445551,31.218712,183,0.0,https://img1.qunarzz.com/travel/d5/1803/4b/e127f3bcf65378b5.jpg_r_480x360x95_08d68e72.jpg
-702841,亚细亚大楼Asia Building,1,92.0,,565.0,121.497823,31.239123,84,0.0,https://flight-feed.qunarzz.com/as3/180/image/poi_vishnu/4e7b9685-fcc5-49cf-ac65-fe9bad666ffa.jpg_480x360_05f9ded6.jpg_480x360_233a3099.jpg
-7481658,同济大学Tongji University,12,94.0,上海百年名校，也是著名的赏樱胜地。,78.0,121.5078955868,31.2885097222,355,0.0,https://img1.qunarzz.com/travel/d2/1705/c3/40b3efc30db2a5b5.jpg_r_480x360x95_8a3719ea.jpg
-706664,上海大自然野生昆虫馆Shanghai Natural Wild Insect Kingdom,2,90.0,国内首批活体昆虫展示馆之一，投食喂锦鲤，观赏蝴蝶标本。,68.0,121.504313,31.246055,907,0.0,https://img1.qunarzz.com/travel/d1/1408/22/f154375d3d0dcaf9ffffffffc8d65eac.jpg_r_480x360x95_8408eae0.jpg
-713256,上海古城墙Shanghai Ancient City Wall,3,92.0,,178.0,121.4899188071,31.2302614115,68,0.0,https://img1.qunarzz.com/travel/d5/1508/3f/25d13c61d088e9.jpg_r_480x360x95_a4ddf64f.jpg
-5377695,猫的天空之城概念书店(新天地店)Mo Mi Cafe (Xintiandi),3,92.0,上海十大清新书店之一，可以寄明信片给未来的自己。,219.0,121.481888,31.223776,89,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/3902233a6ce79c404da07c540f7f21d1.jpg_r_480x360x95_76617838.jpg
-706617,毛泽东旧居Former Residence of Mao Zedong,1,92.0,毛泽东同志在上海居住过的地方。,235.0,121.466975,31.23244,134,0.0,https://img1.qunarzz.com/travel/poi/201303/14/c11feb7474093858ddb12cfb.jpg_r_480x360x95_379c3ed1.jpg
-711675,佘山天主教堂Sheshan Basilica,3,90.0,欣赏山顶的巴洛克教堂建筑，感受不对称的设计美感。,12.0,121.198899,31.100616,118,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/d4dcd4d67b7cc217ba65fa435f15288f.jpg_r_480x360x95_56f1f24f.jpg
-706526,吴江路Wujiang Road,1,88.0,,377.0,121.467871,31.236492,391,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/49aff44bbfeb61fbfcab9f7501bbb05a.jpg_r_480x360x95_5a8f4c34.jpg
-710535,上海图书馆Shanghai Library,1,92.0,,146.0,121.451117,31.213841,468,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/f70be864195aa2438087270222232af7.jpg_r_480x360x95_f620685c.jpg
-3713024,老码头The Cool Docks,3,88.0,南外滩时尚新地标，将废弃厂房改造成创意工坊，酒吧、餐厅一应俱全。,209.0,121.512289,31.225078,367,0.0,https://img1.qunarzz.com/travel/d2/1712/a7/3988f073435632b5.jpg_r_480x360x95_8a72f345.jpg
-7481920,大清邮局Zhujiajiao Post Office,2,84.0,,4.0,121.060143,31.113177,143,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/ed0a289e4eaa56701af99425d5b9374f.jpg_r_480x360x95_d7e5f1a5.jpg
-712762,上海天文博物馆Shanghai Astronomical Museum,1,90.0,了解神奇奥妙的天文知识，体验身临其境漫游宇宙的感觉。,13.0,121.199571,31.100782,73,0.0,https://img1.qunarzz.com/travel/d4/1610/30/72b2f7eb66a3fbb5.jpg_r_480x360x95_58f1b459.jpg
-7642179,韩湘水博园Shanghai Hanxiang Water Garden,2,88.0,,274.0,121.3357853989,30.9903439499,248,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-mapi/img/88dacf443d8b02c3b0a505675550f7f4.jpg_r_480x360x95_31ec74bd.jpg
-711002,珠溪园Zhuxi Park,1,86.0,,9.0,121.06774,31.115957,42,0.0,https://img1.qunarzz.com/travel/poi/1803/b4/bd5f00b30e662f37.jpg_r_480x360x95_d7902ce3.jpg
-7481855,古城公园Gucheng Park,2,90.0,,584.0,121.500454,31.234126,179,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/33ad2409c2ac86b91c55dbd11c24a5a4.jpg_r_480x360x95_279966fb.jpg
-712305,上海徐光启墓Shanghai Xu Guangqi Tomb,3,88.0,,352.0,121.4413592147,31.1954590074,128,0.0,https://img1.qunarzz.com/travel/d2/1802/af/7a5356af9c2c2ab5.jpg_r_480x360x95_1bd56f72.jpg
-713371,大境阁Old City Wall at Dajing Road (Dajing Ge),1,90.0,登上仅存的明代城墙和城楼，感受都市中不可多得的历史气息。,328.0,121.489917,31.230343,170,0.0,https://img1.qunarzz.com/travel/d4/1803/6e/b98da63b025e7cb5.jpg_r_480x360x95_4ba4ba67.jpg
-3706978,民生现代美术馆Minsheng Art Museum,1,92.0,,215.0,121.451661,31.297551,50,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/da92a4cceab94bf4cd7c2eabf66e339e.jpg_r_480x360x95_16382cca.jpg
-719540,天马山公园Tianmashan Park,2,90.0,比佘山更清净，可登高远眺周边地貌，参观著名北宋斜塔。,4.0,121.15945,31.081471,140,0.0,https://img1.qunarzz.com/travel/poi/1409/05/bd85d799089878c8ffffffffc8d65eac.jpg_r_480x360x95_49593af2.jpg
-5280497,金山嘴老街Jinshanzui Old Street,1,88.0,,271.0,121.3827293227,30.738410375,28,0.0,https://img1.qunarzz.com/travel/d9/1702/71/25c7f28515166db5.jpg_r_480x360x95_0e9cfbd4.jpg
-5164804,狮语画廊Shiyu Gallery,1,92.0,,619.0,121.445823,31.2131,17,0.0,https://flight-feed.qunarzz.com/as3/180/image/poi_vishnu/6f7ea300-cd69-4d9a-88a1-b1ad45f0c110.jpg_480x360_1815a3ee.jpg_480x360_3885258f.jpg
-702867,桂林公园Guilin Park,2,90.0,,312.0,121.424381,31.171495,497,0.0,https://flight-feed.qunarzz.com/as3/180/image/poi_vishnu/9aa17390-f66e-4e16-a21f-ca8a4176ed6b.jpg_480x360_d16a7d1f.jpg_480x360_61acfc1d.jpg
-708263,上海民族文化村Shanghai National Culture Village,3,78.0,,652.0,120.9184220314,31.0788458395,28,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/36a68135b7b3c29e1a4dd683131a2bf7.jpg_r_480x360x95_1d374192.jpg
-708586,二严寺Er Yan Temple,1,84.0,,655.0,121.458649,30.941132,68,0.0,https://img1.qunarzz.com/travel/d7/1801/5e/33457969fed370b5.jpg_r_480x360x95_c495f14e.jpg
-716168,陈化成纪念馆Chen Huacheng Memorial,1,94.0,,657.0,121.500428,31.415458,18,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/5d9c0ec5f2792705d0cfad9bc571390a.jpg_r_480x360x95_4873c9a6.jpg
-703568,黄炎培故居Huang Yanpei's Former Residence,2,86.0,,308.0,121.7114581862,31.2013378143,63,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/397db892f27fc7e2d31a1f8af9130b05.jpeg_r_480x360x95_4036905c.jpeg
-707960,上海太平天国烈士墓Shanghai Taiping Martyrs Tombs,2,0.0,,661.0,121.5714785776,31.356817013,0,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/f8428df9532aa41e672d494ebed50ec4.jpg_r_480x360x95_1bdcd5a8.jpg
-3706839,上海四行仓库抗战纪念馆Sihang Warehouse Battle Memorial,1,94.0,,129.0,121.477852,31.246263,78,0.0,https://img1.qunarzz.com/travel/poi/1808/c0/90068bf59400db37.jpg_r_480x360x95_0e73abbb.jpg
-715775,上海青青旅游世界Qingqing Tourism World,1,90.0,,678.0,121.2613883444,31.0735846536,4,0.0,https://img1.qunarzz.com/travel/d8/1508/a5/fad958f0046010.jpg_r_480x360x95_5b0d6eba.jpg
-704501,陈化成雕像,1,100.0,抗英民族英雄陈化成的雕像竖立在临江公园里。鸦片战争时，1842年6月英舰进犯吴淞口，陈化成的上司两江总督牛鉴欲向英军求和，陈化成当时任江南提督，铸铜炮、筑炮台、造火药练士兵，在吴淞口积极设防，坚决反对求和。英军来犯，陈化成以67岁高龄率…,691.0,121.4988246918,31.4152256461,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-7469073,圆津禅院Yuanjin Buddhist Temple,1,80.0,,10.0,121.061302,31.116426,69,0.0,https://img1.qunarzz.com/travel/poi/1408/26/4299fee64c587bf3ffffffffc8d65eac.jpg_r_480x360x95_651dcff5.jpg
-7469079,上海手工艺朱家角展示馆Shanghai Handicraft Zhujiajiao Exhibition Hall,1,84.0,,11.0,121.061274,31.115426,11,0.0,https://img1.qunarzz.com/travel/poi/1408/26/c70924529b56aaf2ffffffffc8d65eac.jpg_r_480x360x95_f6596314.jpg
-39154647,上海王小慧艺术馆,0,100.0,,,121.391153,31.220062,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38933309,随塘河公园,0,0.0,,,121.348226,30.717408,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38674579,前卫1966郊野公园,0,0.0,,,121.7105530118,31.4152189956,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339518,潮帆皮划艇水上运动俱乐部,0,100.0,,,120.957206,31.057324,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38337141,元荡湖,0,0.0,,,120.9121911149,31.0839707451,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38336633,藕遇公园,0,60.0,,,121.4015551923,30.8327454126,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38335486,年丰公园,0,0.0,,,121.501756,30.936297,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38007919,顾村镇菊泉文化街,0,80.0,,,121.375101,31.363165,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38006704,C3M北外滩艺术馆,0,66.0,,,121.513881,31.258328,1,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-37806967,兰香湖,0,90.0,,,121.4782141354,31.0291584658,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-37806391,枫泾路周末步行街,0,0.0,,,121.5046982777,31.2322652352,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-37192948,宝钢动物园,0,88.0,,,121.4554359822,31.4447909318,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-37182772,星火公园,0,0.0,,,121.5702200661,30.8601397536,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-36680054,上海京剧传习馆,0,94.0,,,121.458781,31.211644,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-36451543,横沙垂钓中心,0,0.0,,,121.8256755625,31.3320868749,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-36407266,南汇新城主题公园,0,0.0,,,121.928723,30.909275,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-36255882,Kalidico奇幻研究所,0,86.0,,,121.505711,31.254969,1,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-35913517,静修寺Jingxiu Temple,0,0.0,,,121.8332627421,31.3578275454,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-35893743,魔都1号天台摄影基地Magic City No.1 Rooftop,0,100.0,,,121.4978437277,31.2343329436,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-35307427,上海海事大学海馨广场,0,100.0,,,121.9082010033,30.8815138164,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-35216153,春花秋色滨水活力区,0,90.0,,,121.957929,30.88961,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-35216140,金庭动物园Jinting Zoo,0,96.0,,,121.3628750316,31.2102528425,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-35215774,松江大学城Songjiang University Town,0,98.0,,,121.202954,31.055879,1,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-34270110,金刚博物馆Shanghaijingang Museum,0,60.0,,,121.730706,31.0269,1,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-mapi/img/4405db225c92f3b43868b43dda04c884.jpg_r_480x360x95_cbb0a3de.jpg
-34104211,南汇新城芦潮港公园Luchaogang Park,0,94.0,,,121.869364,30.874107,8,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/a9c7353d64495a163331122bb96f8e96.jpg_r_480x360x95_1c315d5a.jpg
-32763132,菊泉故里Hometown of Ju Spring,0,78.0,,,121.3811434216,31.3649209518,9,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/0e517173e2cc06369b13a2881456d9f6.jpg_r_480x360x95_dc7f2958.jpg
-29663084,泡泡公园Paopao Park,0,88.0,,,121.507093,30.931542,10,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/b8f6a7d33e76ddcd971aafe230f0f5f3.jpg_r_480x360x95_e422ab0a.jpg
-28708334,火山漂流Huo Mountain Drifting,0,94.0,,,121.913909,30.917198,5,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-27374024,亚马逊公园 萌宠乐园,0,0.0,与可爱的小动物们零距离亲密互动,,121.394009,31.1129,1,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/4db31fe4dc209b24679fc77caff5e7fe.jpg_r_480x360x95_39be6c78.jpg
-25919136,比斯特上海购物村Shanghai Village,0,92.0,,,121.686884,31.145974,46,0.0,https://flight-feed.qunarzz.com/as3/180/image/poi_vishnu/e339fe65-c3bd-473e-adfb-044ff12ac494.jpg_480x360_a41e5ecf.jpg_480x360_297b9684.jpg
-24438451,上海美食街MeiShiJie,0,88.0,,,121.390934,31.261715,6,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/b2dfbf9e2491d5d769dd3dd345fa799f.jpg_r_480x360x95_475b4b7d.jpg
-24411010,佘山国家旅游度假区Sheshan National Tourism Resort,0,88.0,,,121.205001,31.096463,3,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/eae83b66dda768253acb61ae4cbfa33a.jpg_r_480x360x95_544e5b6c.jpg
-23352447,赛梦·微缩世界（陆家嘴正大店）Saimeng Miniature World · Century Bund,0,88.0,,,121.505934,31.242497,46,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/52e018b9e2eb8cac936e428d7784e796.jpg_r_480x360x95_498b448c.jpg
-23344729,明珠美术馆Mingzhu Gallery,0,94.0,,,121.379722,31.179901,23,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/df388d0c9fe4fd8f2b4a79f85d0d41b9.jpg_r_480x360x95_cfbfb45a.jpg
-23343260,泰平桥Taiping Bridge,0,90.0,,,121.025842,30.89263,1,0.0,https://flight-feed.qunarzz.com/as3/180/image/poi_vishnu/993331be-1823-45c7-ae8a-036b1d9fe0b7.jpg_480x360_19f82a01.jpg_480x360_3cafd7ae.jpg
-23341860,华东师范大学East China Normal University,0,94.0,,,121.411329,31.233563,30,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/82ba25fce5637132d8e669f17fd5e0ce.jpg_r_480x360x95_87236fbb.jpg
-23031836,海底世界馆Undersea World Pavilion,0,92.0,一个充满童趣和梦幻色彩的未来世界,,121.913352,30.917797,12,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/9e42f26aaaaae9c6e2e3d69079545d5d.jpg_r_480x360x95_9c81b8d3.jpg
-22982104,粉黛乱子草Hairawn Muhly,0,86.0,,,121.2902746577,30.8487306316,7,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/6f1fc4d86c7153d09c5f1540fc39ab04.jpg_r_480x360x95_fd335f41.jpg
-22764743,崇明东滩鸟类国家级自然保护区Chongming Dongtan Birds National Nature Reserve,0,98.0,,,121.97099,31.514882,3,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/023144b47276602d79e6fcf8901deaa5.jpg_r_480x360x95_89e73742.jpg
-20979428,宝山滨江公园Baoshan Riverside Park,0,92.0,,,121.502787,31.416768,18,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/5b4441f01380efaa9692c7a8900e3b30.jpg_r_480x360x95_824993e4.jpg
-20976870,浦东机场博物馆(浦东机场T2店)Museum of Pudong Airport(Pudong Airport Terminal 2),0,90.0,,,121.8184337997,31.1529857631,36,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/50c76a8c06a39dfa6cb7f695f29229ba.jpg_r_480x360x95_3d4bcf1d.jpg
-20973902,国际乒联博物馆和中国乒乓球博物馆Zhongguo Pingpangqiu Museum,0,94.0,,,121.487789,31.198924,29,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/91125649438c0b6a54657b0d829c0a65.jpg_r_480x360x95_58c1b9e6.jpg
-20053973,阳豆豆亲子乐园,0,0.0,,,121.458,31.3172,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-20051050,芙罗拉教堂Fuluola Church,0,0.0,,,121.515742,31.060538,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-20050770,乐贝尼主题乐园,0,0.0,,,121.66,31.2727,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-20047946,南门广场Nanmen Square,0,100.0,,,121.401,31.6236,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-20044076,"上海滨江森林公园湿生植物观赏区-观景台Observation Deck, Hygrophyte Viewing Area, Shanghai Binjiang Forest Park",0,0.0,,,121.529,31.3909,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-20043859,荷花池,0,92.0,,,121.4488579604,31.2809228413,11,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/88fee4e923a846854542e220dcfb0ffd.jpg_r_480x360x95_be01cec2.jpg
-20036571,英国领事馆及领事官邸England Consulate and Consular Mansion,0,96.0,,,121.495384,31.24793,5,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/8657f2bf2fe54b0c967144d554fdcc46.jpg_r_480x360x95_7ffbd753.jpg
-20031709,崇明县义务植树基地Chongmingxian Yiwu Zhishu Base,0,0.0,,,121.482713,31.688666,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-20031665,水禽栖息地-休息处,0,0.0,,,121.958,31.5238,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-20030894,"上海市静安区万灵谷Wanling Valley, Jing'an District, Shanghai",0,0.0,,,121.45,31.291,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-20018233,天天开心乐园,0,0.0,,,121.37,31.4493,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-19974271,徐泾广场Xujing Square,0,80.0,,,121.285,31.1739,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-19972400,财府管理处展览厅,0,100.0,,,121.061,31.1154,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-19574601,言几又(宝龙城概念店)Yan Ji You (Qibao Baolong Store),0,94.0,,,121.3614638187,31.1630697095,15,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/d958d1c791ad7ab4c00bd3552eb08d32.jpg_r_480x360x95_180917e6.jpg
-18715673,上海海洋大学Shanghai Ocean University,0,92.0,,,121.9063910972,30.8920383453,28,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/19fa4d62407153b0d58b5bc6c38a4e15.jpg_r_480x360x95_0a0c6e1a.jpg
-18715672,上海海事大学Shanghai Maritime University,0,96.0,,,121.9118579181,30.8810195923,33,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/b4e196cd3e2490f07887788af381deb7.jpg_r_480x360x95_7dc9cd19.jpg
-10092669,光明生态园Guangming Ecological Park,0,94.0,,553.0,121.677506,31.153317,42,0.0,https://img1.qunarzz.com/piao/fusion/1805/f3/88e55bb68a065702.jpg_r_480x360x95_fadd5ecc.jpg
-10083644,华亭湖Huating Lake,0,92.0,,17.0,121.2083530093,31.0390828754,29,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-10077321,横沔古镇Hengmian Ancient Town,0,86.0,,817.0,121.6460647355,31.1573159583,1,0.0,https://img1.qunarzz.com/travel/poi/1712/71/bb63903b6b03b237.jpg_r_480x360x95_8c581e56.jpg
-10076655,滴水湖壹号码头Dishuihu No.1 Pier,0,86.0,,1029.0,121.93794801,30.9119596999,12,0.0,https://img1.qunarzz.com/travel/poi/1803/78/13e64e9ee0964637.jpg_r_480x360x95_f2a8f42e.jpg
-10076176,四海汝窑艺术馆Sihairuyao Art Museum,0,100.0,,1103.0,121.696504,30.869093,1,0.0,https://img1.qunarzz.com/travel/poi/1803/81/94c271c4bbfb2137.jpg_r_480x360x95_d9bca8db.jpg
-10076088,鸢尾园Iris Garden,0,92.0,,1129.0,121.192755,31.077749,4,0.0,https://img1.qunarzz.com/travel/poi/1803/f8/81c63173e112f037.jpg_r_480x360x95_c15cac54.jpg
-10075792,海.渔文化馆Sea · Fishing Culture Museum,0,86.0,,1192.0,121.377944145,30.7412491372,2,0.0,https://img1.qunarzz.com/travel/poi/1712/17/8a72b4afa9720a37.jpg_r_480x360x95_ad5a78cb.jpg
-10075025,大邱泾Daqiujing,0,98.0,,1345.0,121.23421,31.051878,10,0.0,https://img1.qunarzz.com/travel/poi/1803/1f/8a3e9e69ac51d137.jpg_r_480x360x95_9843752e.jpg
-10074950,章士钊旧居Former Residence of Zhang Shizhao,0,94.0,,1376.0,121.466793,31.230421,6,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-10073971,江湾古镇Jiangwan Ancient Town,0,82.0,,1536.0,121.479832,31.310833,44,0.0,https://flight-feed.qunarzz.com/as3/180/image/poi_vishnu/7ab51f6b-69a5-46a4-a177-7deacc5affcb.jpg_480x360_cafe5463.jpg_480x360_5a2c9fb5.jpg
-10071239,荷兰风情小镇Dutch Town,1,88.0,,1724.0,121.585285615,31.3440100003,42,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/56bad4ca2b94573735a4af974d1e13eb.jpg_r_480x360x95_6a6e9d1e.jpg
-10069876,闵行滨江湿地公园Minxingbinjiang Wetland Park,0,84.0,,1738.0,121.473817,31.020371,13,0.0,https://flight-feed.qunarzz.com/as3/288/image/poi_vishnu/51152c9a-b62b-4a71-8417-a30b911b7f96.jpg_480x360_7387efa2.jpg_480x360_addf211d.jpg
-10066221,G+玻璃主题园G+ Glass Theme Park,0,98.0,,241.0,121.4791646732,31.3496990204,13,0.0,https://flight-feed.qunarzz.com/as3/288/image/poi_vishnu/a002c15c-8cd1-420f-b69e-802d5ffc4d7e.jpg_480x360_ad06271f.jpg_480x360_49b40053.jpg
-10019552,上海隧道科技馆Shanghai Tunnel Science and Technology Museum,0,88.0,,1941.0,121.506146,31.22704,83,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-10018245,青浦任屯血防陈列馆ShangHaiShi QingPu RenTun XueFang ChenLieGuan,0,80.0,,1999.0,120.9796916051,31.0519887917,2,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/bbe73448efe787a4150e2df0b5ad575e.jpg_r_480x360x95_3e38879e.jpg
-10012270,黄渡公园Huangdu Park,0,86.0,,2041.0,121.222911,31.274678,51,0.0,https://img1.qunarzz.com/travel/poi/1712/a2/e0453702641f6937.jpg_r_480x360x95_bab17f06.jpg
-10012200,隆昌公寓Longchang Apartment,1,84.0,,473.0,121.552735,31.277779,51,0.0,https://img1.qunarzz.com/travel/d4/1803/c1/bd4b714b71b70ab5.jpg_r_480x360x95_5bd5c9fe.jpg
-10012168,浦东新区陆家嘴图书馆Pudongdiyi Library,0,94.0,,2118.0,121.525469,31.247749,2846,0.0,https://img1.qunarzz.com/travel/poi/1712/54/7ccc749cb4685937.jpg_r_480x360x95_9649860a.jpg
-10011788,西林禅寺Xilinchan Temple,0,90.0,,40.0,121.230679,31.013226,51,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-10011488,高桥古镇Gaoqiao Ancient Town,1,84.0,,2136.0,121.58662,31.345033,117,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/05f318857d36c891460e1d2948a1eee6.jpeg_r_480x360x95_e38efbcd.jpeg
-10011451,东岳庙YueMiao ShangYeJie,0,86.0,,42.0,121.2398755973,31.0139584781,32,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/675d85ca5fcdbf1c7093012cc55df5c3.jpg_r_480x360x95_1b26d6c8.jpg
-10011414,山阴路Shanyin Road,3,90.0,,102.0,121.491612,31.274034,81,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/ac0ee2e85de0a40f631e905711f02448.jpg_r_480x360x95_7ffc81da.jpg
-10011391,下沙老街Xiasha Old Street,0,80.0,,315.0,121.5941909559,31.0567626953,29,0.0,https://img1.qunarzz.com/travel/poi/1712/7f/b541055296ef2437.jpg_r_480x360x95_b020e146.jpg
-10011380,蟠龙古镇Panlong Ancient Town,0,84.0,,2157.0,121.281756,31.194511,51,0.0,https://flight-feed.qunarzz.com/as3/180/image/poi_vishnu/56d9f088-76d4-42ef-8dde-2785ce94fff4.jpg_480x360_03c53faa.jpg_480x360_63540704.jpg
-10011321,进贤路Jinxian Road,2,88.0,,2174.0,121.4653116587,31.227596283,26,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/08f381282f2a3ee8bae130550813282e.jpg_r_480x360x95_5cdfb784.jpg
-10011319,永康路Yongkang Road,1,92.0,,2176.0,121.462711,31.216452,46,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-10011285,泗泾古镇Sijing Ancient Town,1,82.0,,44.0,121.281511,31.116793,91,0.0,https://flight-feed.qunarzz.com/as3/363/image/poi_vishnu/dfb9179d-a450-4390-8531-cf7ccfabccdf.jpg_480x360_82fe8ffc.jpg_480x360_c779b27d.jpg
-10011284,闻道园Wendao Park,0,84.0,,2187.0,121.359567,31.44298,96,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-10011259,外滩3号The Bund No.3,1,92.0,,2188.0,121.497388,31.239806,163,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/b712a002a0bdea1464e040e5071fc81f.jpg_r_480x360x95_cef4b1f7.jpg
-10011232,宋子文私宅Song Ziwen Villa,1,94.0,,283.0,121.4559871118,31.2147227585,37,0.0,https://img1.qunarzz.com/travel/d2/1803/ae/cf6c9f0c6453a8b5.jpg_r_480x360x95_4c2a5545.jpg
-10009609,南翔檀园Nanxiang Tan Garden,1,92.0,,2210.0,121.314677266,31.297586441,256,0.0,https://mp-commentcp.qunarzz.com/mp_comment_mp_comment/1559330404941100h14000000wyw41F4BD_D_640_10000.jpg_r_480x360x95_0cbc8b96.jpg
-10006596,蓬莱公园Penglai Park,0,88.0,,2217.0,121.4981139505,31.2119693756,251,0.0,https://img1.qunarzz.com/piao/fusion/1508/4d/9eadd5a5f6390a.jpg_r_480x360x95_79f478de.jpg
-10006306,上海当代艺术馆Shanghai Museum of Contemporary Art,1,90.0,文艺青年喜爱的小众艺术馆，展出当代潮流艺术作品。,232.0,121.479416,31.23735,194,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/ae5406da7485649ffb1bbfd48be6998a.jpg_r_480x360x95_61446708.jpg
-10005817,东华大学Donghua University(Yanan Road Campus),1,90.0,,2232.0,121.4210549335,31.2095241547,235,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-10001626,川沙古城墙Chuansha Ancient City Wall Park,1,84.0,,2246.0,121.713411,31.200676,116,0.0,https://img1.qunarzz.com/piao/fusion/1509/dd/919b34c168b6a4.jpg_r_480x360x95_db7a95a3.jpg
-9785292,朱家角古弄,0,0.0,古弄的神奇，神妙，不到古镇亲临其镜，是谁也体会不到的。,28.0,121.063209,31.11665,0,0.0,https://img1.qunarzz.com/travel/poi/1708/a9/093a5624aa7b5e37.jpg_r_480x360x95_0c0eb9dd.jpg
-9776304,艾伦岛,0,0.0,,54.0,121.208857,31.038025,0,0.0,https://img1.qunarzz.com/travel/poi/1707/a5/368fc73cad686e37.jpg_r_480x360x95_0d905087.jpg
-9776231,大卫德堡,0,0.0,,55.0,121.208883,31.038543,0,0.0,https://img1.qunarzz.com/travel/poi/1707/e8/77efe8ff5c186937.jpg_r_480x360x95_82ee7338.jpg
-9776230,手划船码头,0,0.0,,56.0,121.207763,31.04041,0,0.0,https://img1.qunarzz.com/travel/poi/1707/c4/0448f3a89bd25637.jpg_r_480x360x95_015fd7c0.jpg
-9487166,东平路Dongping Road,2,94.0,,2394.0,121.456259,31.21492,32,0.0,https://img1.qunarzz.com/travel/poi/1607/fe/1a5c730df5637db.jpg_r_480x360x95_32bcd40a.jpg
-9485421,西岸艺术中心West Bund Artistic Center,3,88.0,,167.0,121.4692664533,31.1737088543,59,0.0,https://img1.qunarzz.com/travel/d6/1708/49/7f7b9b60bff9f5b5.jpg_r_480x360x95_8cb72422.jpg
-9479973,乍浦路桥Zhapulu Bridge,1,92.0,,2410.0,121.4941470748,31.2494979191,22,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/04c47cf3152873ddcd91f69b003a6ed1.jpg_r_480x360x95_19d9eba4.jpg
-9479726,上海观复博物馆Shanghai Guanfu Museum,3,94.0,,145.0,121.512317,31.239248,223,0.0,https://img1.qunarzz.com/travel/d8/1702/2a/2711b57717206fb5.jpg_r_480x360x95_f65dd966.jpg
-9479642,衡山坊Hengshan Lane,1,94.0,,325.0,121.446377,31.202579,81,0.0,https://img1.qunarzz.com/travel/d6/1611/f6/d3e265dd90fac4b5.jpg_r_480x360x95_b2e3aae8.jpg
-9479599,银杏公园Yinxing Park,0,94.0,,2443.0,121.417654,31.016918,14,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/8f67c68f4a626081eb00fd27ab9e7322.jpg_r_480x360x95_c6012e9a.jpg
-9479576,儿童动物园Children Zoo,0,92.0,,427.0,121.369499,31.199674,16,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/b933a78a9114fb52493fa69f8832dc6d.jpg_r_480x360x95_40f2329c.jpg
-9479415,苏州河景观步廊Suzhou River Landscape Galley,1,92.0,,2515.0,121.399449,31.223618,79,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/6ed824bec91ea12bb817273b3e2c1b05.jpg_r_480x360x95_15fb13f6.jpg
-9479238,宝山寺Baoshan Temple,0,88.0,,2615.0,121.350799,31.42497,64,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-9479221,四平科技公园Siping Science and Technology Park,0,88.0,,2625.0,121.512754,31.29311,75,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/caa838caaa3c4a02cf0d14d1c31694d6.jpg_r_480x360x95_4c7a27ee.jpg
-9209334,星愿公园Xingyuan Park,7,94.0,,3.0,121.66966,31.14241,160,0.0,https://img1.qunarzz.com/travel/d8/1605/72/ea7be48d084744f7.jpg_r_480x360x95_3925bf32.jpg
-9036836,上海世博园Shanghai Expo Park,10,90.0,参观后世博时代的世博园区，中华艺术宫看动态“清明上河图”，梅赛德斯奔驰文化中心看大型演唱会。,25.0,121.492949,31.193041,806,0.0,https://img1.qunarzz.com/travel/d3/1701/d4/e3af638331360eb5.jpg_r_480x360x95_f8f273cc.jpg
-8680244,上海戏剧学院,1,90.0,中国表演艺术摇篮之地。,54.0,121.437258,31.217903,9,0.0,https://img1.qunarzz.com/travel/d7/1703/8b/773998891ab391b5.jpg_r_480x360x95_6b800310.jpg
-8458233,苏州河Suzhou Creek,7,92.0,承载着老上海人诸多回忆的河流，可以夜游苏州河欣赏两岸诸多标志性景点。,132.0,121.493465,31.249829,474,0.0,https://img1.qunarzz.com/travel/d3/1603/78/98cd3e13528576f7.jpg_r_480x360x95_253ec1c9.jpg
-8455765,北京东路Beijing East Road,30,88.0,,21.0,121.489885,31.246405,88,0.0,https://img1.qunarzz.com/travel/d1/1708/2f/52f03520716bf6b5.jpg_r_480x360x95_80ef45b5.jpg
-7646864,3D幻视艺术馆3D Huanshi Art Museum,0,94.0,,2265.0,121.0639885476,31.1145935059,5,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-7642428,九曲桥Jiuqu Bridge,3,92.0,,177.0,121.498444,31.232402,580,0.0,https://img1.qunarzz.com/travel/poi/1503/f0/032f00a93aef75.jpg_r_480x360x95_a19837cf.jpg
-7475071,中国农民画村Chinese Folk Art Village,0,78.0,,2741.0,121.021866,30.927123,93,0.0,https://mp-commentcp.qunarzz.com/mp_comment_mp_comment/1562526457712100s16000000z9hmmF354_D_640_10000.jpg_r_480x360x95_2f9bc3fe.jpg
-7475056,胜强影视基地Shengqiangyingshi Base,1,86.0,,9.0,121.222795,30.997654,12,0.0,https://img1.qunarzz.com/travel/poi/1803/18/fc58bef6b423b37.jpg_r_480x360x95_62edd617.jpg
-7474792,练塘古镇Liantang Ancient Town,2,88.0,,2744.0,121.051569,31.013573,46,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/66e6baed74b8b8fb80851a06a9a362d4.jpg_r_480x360x95_b8fd47d2.jpg
-712199,澹园,3,60.0,澹园是崇明唯一仿古园林佳景，既有传统的花居形式，又有古色古香的苏州园林佳景，有宝岛明珠微型公园之称。园外封闭围墙，飞檐群瓦，朱汀金猷铜环。东西两侧的丰乐楼，重檐八角，一派古风。园内星湖碧水荡漾，宁静堂、卧波榭、清穆轩、映月桥、憩甘…,2752.0,121.4090929343,31.6323763117,1,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-714619,外滩观光隧道Bund Sightseeing Tunnel,15,78.0,我国第一条越江行人隧道，坐观光车厢“穿越地球”。,11.0,121.497875,31.245464,1777,0.05,https://img1.qunarzz.com/piao/fusion/2111/96/8a299d0913e15b02.jpg_r_480x360x95_ecdb2234.jpg
-701574,陆家嘴中心绿地Lujiazui Central Greenland,4,94.0,,373.0,121.5125350266,31.2435188293,3956,0.03,https://img1.qunarzz.com/travel/d2/1509/63/62f4568d9de2f9.jpg_r_480x360x95_e9d2fc00.jpg
-714392,上海世纪大道Century Avenue,19,92.0,,135.0,121.5294112518,31.2365398407,596,0.01,https://img1.qunarzz.com/travel/poi/201211/19/9d5c8d95c74f81a0ddb12cfb.jpg_r_480x360x95_4ad8691a.jpg
-704564,人民公园Shanghai People's Park,10,90.0,,164.0,121.479656,31.238252,665,0.01,https://img1.qunarzz.com/travel/d1/1803/77/5572f55ee4551cb5.jpg_r_480x360x95_73f9d077.jpg
-701932,鲁迅故居Former Residence of Lu Xun in Shanghai,4,88.0,鲁迅先生生前最后的居所，陈列着许多先生用过的生活用品与写作用具。,128.0,121.491223,31.27179,231,0.01,https://tr-osdcp.qunarzz.com/tr-osd-tr-mapi/img/9721ba90e472cb3c8e86d46eeb38e152.jpg_r_480x360x95_a6b5150d.jpg
-716133,福州路文化街Shanghai Fuzhou Road Cultural Street,1,90.0,,110.0,121.4890665263,31.2396125793,283,0.01,https://img1.qunarzz.com/travel/d3/1605/8e/be1081bf0a1bd9f7.jpg_r_480x360x95_f5a8af39.jpg
-702776,大韩民国临时政府旧址Shanghai Former Provisional Government Site of the Republic of Korea,1,92.0,,556.0,121.481214,31.223223,32,0.01,https://img1.qunarzz.com/travel/d7/1702/b7/be47ae01eded44b5.jpg_r_480x360x95_42e92c89.jpg
-712898,上海城市规划展示馆Shanghai Urban Planning Exhibition Hall,1,92.0,观市区全景模型，赏360度环幕动画，让你迅速了解上海的建设历程与未来规划。,210.0,121.482137,31.237364,444,0.0,https://mp-commentcp.qunarzz.com/mp_comment_mp_comment/1563131456119100r16000000zdm910A42_D_640_10000.jpg_r_480x360x95_2244597e.jpg
-7469066,顾村公园Gucun Park,7,92.0,花木茂盛的公园，每到春天樱花季赏樱游人络绎不绝。,134.0,121.374831,31.344263,1699,0.0,https://img1.qunarzz.com/travel/d4/1506/93/29f212661b2458.jpg_r_480x360x95_35e919ad.jpg
-705752,放生桥Fangsheng Bridge,5,88.0,朱家角古镇的标志性景观，站在桥上可将水乡全貌尽收眼底，是摄影好去处。,6.0,121.062459,31.117792,248,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/bfdaf64f5c8796ee887085b51a579351.jpg_r_480x360x95_d25af66f.jpg
-715379,杨浦大桥Yangpu Bridge,1,94.0,,557.0,121.5522003738,31.261331496,66,0.0,https://img1.qunarzz.com/wugc/p142/201208/23/befee7e3db2ddb9e93835fbb.jpg_r_480x360x95_1139dd1d.jpg
-702653,上海新国际博览中心Shanghai New International Expo Centre,3,88.0,,118.0,121.574486,31.216684,306,0.0,https://img1.qunarzz.com/travel/d2/201212/12/6220413734138c51ddb12cfb.jpg_r_480x360x95_1f64795f.jpg
-711223,外滩气象信号台,2,82.0,气象信号台是外滩标志性建筑之一，列入全国重点保护的建筑物。1884年，法国天主教会创建的徐家汇天文台，在“洋泾浜”外滩（今延安东路外滩）设立气象信号台，信号台是直竖地上的一根长木杆，根据天文台传来的气象信息。1907年，重建圆柱形的气象信…,559.0,121.4953631453,31.2462578744,7,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/d67c4155a066dc9062a1cca0a7ad41d4.jpg_r_480x360x95_4bb0ea45.jpg
-703261,陈毅广场Chenyi Square,1,92.0,瞻仰上海第一任市长陈毅塑像，是上海市民热爱的城市广场。,561.0,121.497007,31.244737,346,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/48a6c0dcaf6ba1b0edd27a0a92817169.jpeg_r_480x360x95_0722faed.jpeg
-714870,巴金寓所,1,94.0,"著名作家巴金在这幢房子三楼，从1937年起生活了18年，在这里完成了他的代表作《激流》三部曲的后二部《春》、《秋》和名著《寒夜》的写作 。解放后 , 又写出了《我们会见了彭德怀司令员》一文，编写了《英雄的故事》 小说集等。",384.0,121.4663165851,31.2231835472,10,0.0,https://img1.qunarzz.com/travel/d7/1702/88/d070fe39258a8fb5.jpg_r_480x360x95_146b13c6.jpg
-705768,上海图书馆徐家汇藏书楼Shanghai Xujiahui Library,1,90.0,,564.0,121.444168,31.198475,100,0.0,https://img1.qunarzz.com/travel/d4/1612/44/658f46d14cd350b5.jpg_r_480x360x95_c8aef748.jpg
-713445,日清大楼Shanghai Riqing Building,1,92.0,,566.0,121.4971696033,31.2401371002,145,0.0,https://img1.qunarzz.com/travel/poi/1803/d4/4fdf23fc28dfa937.jpg_r_480x360x95_96a03a15.jpg
-705414,普济桥Shanghai Puji Bridge,1,82.0,,567.0,120.9282699834,31.0412964406,37,0.0,https://img1.qunarzz.com/travel/poi/1803/86/aff028b7c0258637.jpg_r_480x360x95_f71a38e2.jpg
-702730,迎祥桥Yingxiang Bridge,1,90.0,,374.0,120.9266950146,31.0371784722,4,0.0,https://flight-feed.qunarzz.com/as3/180/image/poi_vishnu/089473b2-07b3-4145-a525-d8682e17875b.jpg_480x360_9a0c7434.jpg_480x360_734f1ea2.jpg
-3709167,多伦现代美术馆,1,100.0,,234.0,121.488541063,31.2697849021,1,0.0,https://img1.qunarzz.com/travel/d6/1703/d1/c7283b78cbc9d2b5.jpg_r_480x360x95_56c1f605.jpg
-702658,胡适故居Hushi Former Residence,3,88.0,,568.0,121.447788,31.232842,75,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/43c54fa84c66f03ba3666b6f5591102e.jpg_r_480x360x95_fba8be5a.jpg
-710350,基督教国际礼拜堂International Cathedral,1,90.0,在礼拜日时可入内参观，聆听唱诗班的天籁之音。,299.0,121.4544500021,31.2125738989,123,0.0,https://img1.qunarzz.com/p/tts6/1901/dc/fabacc64bdfcf002.jpg_r_480x360x95_d6af53f0.jpg
-7646865,上海犹太难民纪念馆Shanghai Jewish Refugees Museum,2,92.0,国内唯一反映二战时期犹太难民生活的历史遗迹。,95.0,121.515776,31.259707,347,0.0,https://mp-commentcp.qunarzz.com/mp_comment_mp_comment/1547492602115100w10000000ovzm216EE_D_640_10000.jpg_r_480x360x95_378983ea.jpg
-706537,上海基督教沐恩堂Mu'en Church,1,90.0,红色哥特式建筑十分显眼，是上海著名基督教堂。,378.0,121.482437,31.239196,174,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/73d81900dbc131e50af58683dc6cbb4f.jpg_r_480x360x95_5b059b35.jpg
-703526,圣三一堂Shanghai Shengsanyi Church,1,92.0,,571.0,121.492776,31.242438,159,0.0,https://img1.qunarzz.com/travel/d5/1505/dd/20a96dac3b927e.jpg_r_480x360x95_4895dc56.jpg
-703067,黄浦公园Huangpu Park,1,90.0,,572.0,121.497587,31.247448,286,0.0,https://img1.qunarzz.com/travel/d8/1510/df/47217037e3ae6df7.jpg_r_480x360x95_10206ae1.jpg
-707789,上海文庙Confucian Temple of Shanghai,1,88.0,漫步在上海市区唯一的孔庙，感受儒家气息。周日旧书市场能让你淘到爱书。,573.0,121.494489,31.223736,293,0.0,https://img1.qunarzz.com/travel/poi/1808/a0/18071050cd04c337.jpg_r_480x360x95_29536cb6.jpg
-7481737,上海世博展览馆Shanghai World Expo Exhibition and Convention Center,4,90.0,,180.0,121.496501,31.188398,71,0.0,https://img1.qunarzz.com/travel/d1/1505/dc/d60a8601cfd9f5.jpg_r_480x360x95_c444c201.jpg
-709700,卢浦大桥Lupu Bridge,1,90.0,,575.0,121.487986,31.193908,213,0.0,https://flight-feed.qunarzz.com/as3/180/image/poi_vishnu/6c7cacd0-fddb-4fdf-aa21-2b2c11991af4.jpg_480x360_29c371f4.jpg_480x360_05681889.jpg
-709139,秋霞圃Qiuxia Garden,3,90.0,由三座明代私家园林和邑庙合并而成的经典园林，是上海难得的赏枫胜地。,380.0,121.259405,31.392447,247,0.0,https://img1.qunarzz.com/travel/d3/1506/77/22c99ffc612844.jpg_r_480x360x95_15d74574.jpg
-5243232,上海国际时尚中心,2,94.0,,278.0,121.563656178,31.2778581028,8,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-mapi/img/2fbb45dc2c9c89edf5e097a02e275a6f.jpg_r_480x360x95_3bd6e711.jpg
-709188,雁荡路步行休闲街,1,88.0,雁荡路步行休闲街人称“淮海路后花园”，位于上海市卢湾区北部，北起淮海中路，向南经兴安路、南昌路，与复兴公园大道连通，雁荡路北段路面铺设彩色路面砖，两侧现植棕榈树；南段现位于复兴公园内，单侧植梧桐树。是条24小时全天候的步行街。是淮海…,577.0,121.4762702383,31.2253658999,4,0.0,https://img1.qunarzz.com/travel/d6/1702/33/be58b32d9a655b5.jpg_r_480x360x95_ff8987e1.jpg
-717343,北大街North Street,1,86.0,,579.0,121.062325,31.117235,96,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-709449,玉佛禅寺Shanghai Jade Buddha Temple,3,92.0,欣赏慧根法师从缅甸请回的两尊玉佛，烧香祈福十分灵验。,82.0,121.451529,31.247785,279,0.0,https://img1.qunarzz.com/travel/d3/1705/e8/6408ebe5789c43b5.jpg_r_480x360x95_2b5ffda0.jpg
-701931,鲁迅墓Tomb of Lu Xun,1,92.0,,581.0,121.489056,31.27768,54,0.0,https://img1.qunarzz.com/piao/fusion/1610/85/5d49df3779638702.jpg_r_480x360x95_1595b7f5.jpg
-705234,张学良寓所,1,100.0,张学良将军在1934年、1935年期间，与赵四小姐曾在此居住。1935年在此秘密会晤东北义勇军将领李杜，委托其与中共联系联合抗日。张学良将军在1934年、1935年期间，与赵四小姐曾在此居住。1935年在此秘密会晤东北义勇军将领李杜，委托其与中共联系联合…,376.0,121.4708394354,31.2222254685,0,0.0,https://img1.qunarzz.com/travel/d9/1701/12/e53e1948e4f41db5.jpg_r_480x360x95_d081d6bf.jpg
-5740225,绍兴路Shaoxing Road,1,92.0,上海最具书香气息的马路，遍布众多知名杂志社和安静神秘的画廊。,187.0,121.470586,31.215514,93,0.0,https://img1.qunarzz.com/travel/d8/1712/6d/414b8b37f4e25fb5.jpg_r_480x360x95_99ed40ce.jpg
-7481743,上海城市历史发展陈列馆Shanghai History Museum (Pudong),8,92.0,穿越700年寻觅老上海历史风情,90.0,121.506458,31.245391,933,0.0,https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/fusion/20221/273fd69b88c01cb7078c86f07325bb20.jpg_r_480x360x95_b6aa9c17.jpg
-705748,怀恩堂Huai'en Christian Church Shanghai,1,88.0,,582.0,121.4596252799,31.2355060577,16,0.0,https://flight-feed.qunarzz.com/as3/180/image/poi_vishnu/dd7effd7-115f-48ba-ad69-22e1cccd9d14.jpg_480x360_7115c3a6.jpg_480x360_67868216.jpg
-703561,沉香阁Chenxiang Pavilion,3,94.0,上海最大的、最有特色的比丘尼寺院。,583.0,121.4973907044,31.2306979104,237,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-touch/img/3b02953e7dee0d6e92fa1cc081351a9a.jpg_r_480x360x95_a9208d03.jpg
-7470997,公元2050/2500未来生活体验馆Red Star Macalline 2050 Future Cosmos,0,90.0,,143.0,121.391403,31.243667,32,0.0,https://img1.qunarzz.com/travel/poi/1505/ec/0b12c3e3716a81.jpg_r_480x360x95_3fda728a.jpg
-708002,上海蔡元培故居Former Residence of Cai Yuanpei,1,90.0,安静的英式花园洋房，完整保留了蔡元培先生生前居住的陈设。,182.0,121.454125,31.225207,193,0.0,https://img1.qunarzz.com/travel/d5/1802/64/27338abedb037cb5.jpg_r_480x360x95_4b6ed424.jpg
-7481750,上海外国语大学Shanghai International Studies University(Shongjiang Campus),2,94.0,,395.0,121.2313169632,31.0527267456,78,0.0,https://flight-feed.qunarzz.com/as3/180/image/poi_vishnu/3c94c7b7-2536-4289-8030-d1d179f3ddc7.jpg_480x360_bf098b07.jpg_480x360_071b9026.jpg
-7528439,月星环球港演艺空间Global Harbor,3,92.0,,55.0,121.4184586133,31.238861084,90,0.0,https://img1.qunarzz.com/travel/d7/1508/de/f084b15640c2fd.jpg_r_480x360x95_05abc69f.jpg
-708506,上海徐浦大桥Shanghai Xupu Bridge,1,90.0,,593.0,121.4658348434,31.1305261289,14,0.0,https://img1.qunarzz.com/travel/poi/201303/14/c389fc2f6c95d978ddb12cfb.jpg_r_480x360x95_d8807c5f.jpg
-7469047,上海滨海森林公园Shanghai Binhai Forest Park,0,82.0,,594.0,121.917909,30.969464,136,0.0,https://img1.qunarzz.com/travel/poi/1408/26/532963c7c1525044ffffffffc8d65eac.jpg_r_480x360x95_dd63f5c4.jpg
-706163,鹤鸣楼Heming Tower,1,82.0,,245.0,121.707411,31.197442,111,0.0,https://img1.qunarzz.com/piao/fusion/1509/24/e1ab6b4d69e176.jpg_r_480x360x95_6e8c49bf.jpg
-702585,四明公所遗址Siminggongsuo Ruins,1,98.0,,595.0,121.489242,31.231192,11,0.0,https://flight-feed.qunarzz.com/as3/288/image/poi_vishnu/aad8533f-66e3-42ca-9cff-96441641f14e.jpg_480x360_a697f371.jpg_480x360_c8a0700d.jpg
-710204,法华塔Fahuata,2,88.0,,596.0,121.257698,31.389335,155,0.0,https://img1.qunarzz.com/travel/poi/1409/04/ecdb7f01e08227b9ffffffffc8d65eac.jpg_r_480x360x95_a3edddec.jpg
-5740226,巨鹿路Julu Road,5,92.0,汇集诸多潮流时尚店铺，陈冠希也将自己的潮牌Juice开在这里，是大陆首家。,109.0,121.456432,31.225679,98,0.0,https://img1.qunarzz.com/travel/d2/1802/c1/f3c14463e8803b5.jpg_r_480x360x95_73cc8c52.jpg
-702310,古北新区,2,100.0,"上海市外籍人士高档居住区,东起姚虹路，西至虹许路，南临古羊路，北连虹桥路，紧靠虹桥开发区，於1984年经上海市政府批准开发，如今已发展成一个开发建设成为大型综合型居住区。
-古北新区占地136.6公顷，总建筑面积300万平方米，分三个区、24个街坊…",597.0,121.399080393,31.2005462421,0,0.0,https://img1.qunarzz.com/travel/d8/1501/ab/7f8cdf50147dd4.jpg_r_480x360x95_44ff5dd1.jpg
-708399,华夏文化旅游区,1,0.0,位于浦东新区东南部，规划面积7.5平方公里，分东西两部分。西部位于川沙镇西，面积2.3平方公里，主要作为文化、居住、娱乐、商业开发区域。位于区域内的华夏文化公园已竣工开放，园内有吴昌硕纪念馆、浦东名人馆、华夏英语角等文化项目。东部为海滨…,598.0,121.6854017072,31.2049255146,1,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-709337,刘海粟旧居Shanghai Liu Haisu Former Residence,1,86.0,,609.0,121.4779773684,31.2217429038,28,0.0,https://flight-feed.qunarzz.com/as3/180/image/poi_vishnu/521723bf-4389-4c4c-b9aa-1416d96e4b05.jpg_480x360_e221c8d4.jpg_480x360_3dcdaede.jpg
-701900,罗店古镇Luodian Ancient Town,1,76.0,,610.0,121.346929,31.417176,53,0.0,https://img1.qunarzz.com/travel/d8/1802/35/12b05b93647249b5.jpg_r_480x360x95_d2017033.jpg
-712126,松江西林塔Songjiang Xilin Tower,1,94.0,,14.0,121.4732124317,31.2302822157,10,0.0,https://flight-feed.qunarzz.com/as3/180/image/poi_vishnu/f2955420-87a7-4fd3-aa7d-592b7b7533c7.jpg_480x360_1c8338f7.jpg_480x360_a026bcf0.jpg
-714271,上海东海影视乐园Shanghai Donghai Film Park,8,74.0,,103.0,121.9138297738,30.9579219818,6,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/5bd24e4dde30a143440f272c1353e6b8.jpg_r_480x360x95_855cd481.jpg
-706688,孙桥现代农业开发区,2,86.0,上海孙桥现代农业开发区建于1994年9月6日，是继浦东新区陆家嘴贸易区、外高桥保税区、金桥出口加工区、张江高科技园区后成立的第五个功能开发区，是国内第一个现代农业开发区，也是12个市级现代农业园区的领头羊。开发区的建立旨在加速浦东一流农业…,612.0,121.6368660536,31.1763972716,4,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-703173,江湾体育乐园,1,100.0,"位于上海市淞沪路245号，是一个设施齐全，新颖别致的大型娱乐场所。
-整座乐园与江湾体育场溶为一体，面积25.4公顷。园内有游乐项目20多种。其中有目前国内规模最大的“造波环流游泳池”，每场可容纳4000人。有从日本引进的大型三环滑车和沪港合营的…",149.0,121.5183803066,31.3116832311,3,0.0,https://img1.qunarzz.com/travel/d5/1805/f1/f806567921e182b5.jpg_r_480x360x95_d5a9241c.jpg
-705126,三山会馆San Mountain Association,1,88.0,,613.0,121.50218,31.21097,85,0.0,https://img1.qunarzz.com/travel/d2/1802/8d/f80df8bf51fa5eb5.jpg_r_480x360x95_819b45c6.jpg
-714349,唐代陀罗尼经幢,1,80.0,松江唐代陀罗尼经幢建于唐大中十三年（公元859年），是国内现存最古的石经幢。经幢现存21级，高9.3米，幢身八角形，刻有《佛顶尊胜陀罗尼经》全文，并有题记。其余各级如托座、东腰、华盖等部分，均有精致的雕刻，内容为泳龙、卷云、蹲狮宝相莲花、…,615.0,121.2474157828,31.0134315007,1,0.0,https://img1.qunarzz.com/travel/d4/1509/e8/5019302aab21b.jpg_r_480x360x95_b5aeac42.jpg
-710164,南汇桃花村Nanhui Peach Blossom Village,1,86.0,,616.0,121.7587,31.066637,154,0.0,https://img1.qunarzz.com/travel/poi/1411/52/52844d045d39b8e9213a9cdb.jpg_r_480x360x95_8a87b549.jpg
-709146,龙华烈士陵园Longhua Revolutionary Martyrs' Cemetary,2,90.0,,381.0,121.455712,31.181942,146,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-708111,上海龙华塔Shanghai Longhua Tower,1,88.0,,617.0,121.4580142427,31.1800942064,115,0.0,https://flight-feed.qunarzz.com/as3/180/image/poi_vishnu/f46c34e3-3586-43a4-98ff-af2b6606a802.jpg_480x360_0b0dd246.jpg_480x360_14c2fe34.jpg
-703118,李白烈士故居Li Bai Martyr's Former Residence,3,90.0,,341.0,121.487999,31.273669,54,0.0,https://img1.qunarzz.com/travel/d9/1712/aa/d381fed97671d4b5.jpg_r_480x360x95_6a32aa53.jpg
-3710973,新华路Xinhua Road,3,94.0,长宁区的“万国弄堂”，在梧桐树下漫步上海优秀历史建筑。,618.0,121.430411,31.210265,88,0.0,https://img1.qunarzz.com/travel/d9/1606/5d/83607c8c0600999a.jpg_r_480x360x95_e1bd3e75.jpg
-7628133,太敬机器人科技文化体验馆Taijing Robotics Technology and Culture Experience Center,0,88.0,,89.0,121.38302,31.283953,44,0.0,https://img1.qunarzz.com/travel/poi/1501/d8/d0a4e864b4d487.jpg_r_480x360x95_7475260b.jpg
-5274483,世博中心,2,80.0,,388.0,121.476079496,31.1816028719,6,0.0,https://img1.qunarzz.com/travel/d2/1605/3e/ff88d56905be95f7.jpg_r_480x360x95_1b4c05fe.jpg
-7481739,上海中医药大学Shanghai University of Traditional Chinese Medicine,1,100.0,创立于1956年的上海中医药大学，是新中国诞生后国家首批建立的四所中医药高等院校之一，也是上海市属高校中唯一的一所医科类重点特色院校。,394.0,121.603337,31.200275,2,0.0,https://img1.qunarzz.com/travel/poi/1410/14/4e62b952b9a0b274ffffffffc8d65eac.jpg_r_480x360x95_89c0e440.jpg
-707409,松江明刻照壁Songjiang Ming Carved Wall,1,94.0,,620.0,121.2526742274,31.011384577,1,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-703599,中央公园,1,0.0,位于浦东花木分区，规划轴线大道的终端。被列为市重点工程。浦东中央公园规划用地规模140.3公顷。公园采纳英国LUC公司的总体规划方案。由上海市浦东土地发展（控股）公司与同济大学、园林、市政、水利、等设计单位组成的联合设计组进行施工设计。公…,242.0,121.4896013952,31.2433402112,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-7481882,黄母祠Huangmu Ancestral Temple,1,86.0,,621.0,121.455309,31.156855,21,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/f8e117b960ef53fe7fd99d09a99390d7.jpg_r_480x360x95_15adb81c.jpg
-705530,清真女寺Qingzhennv Temple,1,90.0,,622.0,121.496065,31.226981,23,0.0,https://img1.qunarzz.com/travel/d3/1712/e6/2235d6566c9c90b5.jpg_r_480x360x95_01714702.jpg
-702805,上海中共二大和平民女校旧址Site of the Second National Congress of Communist Party of China,2,90.0,,623.0,121.473176,31.230304,27,0.0,https://img1.qunarzz.com/piao/fusion/1808/23/dcee59cf1ec3b802.jpg_r_480x360x95_12797803.jpg
-715178,嘉定千年银杏Jiading Millenary Ancient Ginkgo Tree,2,96.0,,625.0,121.252043,31.321569,24,0.0,https://img1.qunarzz.com/travel/poi/201303/14/a51172cf0cdf693bddb12cfb.jpg_r_480x360x95_c927a430.jpg
-7528425,上海旗忠森林网球中心Shanghai Qizhong Forest Sports City Tennis Center,1,100.0,旗忠森林体育城位于上海市西南的马桥镇，用地面积约为508亩，前往观众将有幸在现代化的赛场中欣赏世界顶尖选手的优美泳姿和精湛技术，体验激动人心的现场气氛。,626.0,121.3729118607,31.0499961423,4,0.0,https://img1.qunarzz.com/travel/poi/1411/5e/5ecae6afd831378e213a9cdb.jpg_r_480x360x95_d40e0aa2.jpg
-5279783,汤姆熊欢乐世界(新世界店),1,80.0,,248.0,121.480066007,31.2406378575,2,0.0,https://img1.qunarzz.com/travel/d4/1605/d6/50203c31a65c92f7.jpg_r_480x360x95_9016dac0.jpg
-714001,乾隆古道Qianlong Ancient Path,2,90.0,,627.0,121.207911,31.099817,14,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-707523,洗心泉,1,0.0,"该泉位于东佘山西坡下，相传由北宋太平天国三年聪道人所凿。此泉相传由北宋兴国三年聪通人所凿，泉农出于佛教“无我”之说，据说，进入佛门必须达到“无我”境界，而要达此境界，必先行。洗心，方可抛弃世间一切俗念而使六根清静，喝了""洗心泉""，便…",629.0,120.4974280396,31.299339318,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-7646001,上海七宝周氏微雕馆QiBao ZhouShi WeiDiao Guan,1,86.0,,630.0,121.361232127,31.1571251833,18,0.0,https://img1.qunarzz.com/travel/poi/1708/c6/5415ac9724509c37.jpg_r_480x360x95_500a3e15.jpg
-714602,上海董家渡天主堂Dongjiadu Catholic Church,1,86.0,,631.0,121.511115,31.220315,32,0.0,https://flight-feed.qunarzz.com/as3/180/image/poi_vishnu/2489ac81-b641-4d72-8d29-042b97d6bbdf.jpg_480x360_fe6b39b0.jpg_480x360_aced81f3.jpg
-713668,上海嘉定叶池Shanghai Jiading Yechi Pond,1,86.0,,632.0,121.2461363515,31.3783912659,11,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-706559,戚家墩古文化遗址Qijiadun Ancient Cultural Sites,0,78.0,,633.0,121.3626984662,30.7244567871,50,0.0,https://img1.qunarzz.com/travel/poi/1803/1f/448ec27b06308537.jpg_r_480x360x95_d50f2e6b.jpg
-712590,宋教仁墓Song Jiaoren Tomb,1,88.0,,634.0,121.464435,31.275711,44,0.0,https://flight-feed.qunarzz.com/as3/180/image/poi_vishnu/d8d694a3-b7ef-4da9-909c-91d6b3c96396.jpg_480x360_24ac9594.jpg_480x360_0654bc20.jpg
-705060,张闻天故居Former Residence of Zhang Wentian in Shanghai,1,88.0,,243.0,121.769333,31.137576,41,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/dcf6167a5c8f19fe1f915fd00a617528.jpg_r_480x360x95_cfdac478.jpg
-707761,秀道者古塔Xiudaozhe Guta,3,82.0,,11.0,121.2027693219,31.1016983547,26,0.0,https://img1.qunarzz.com/travel/d8/1712/d5/f73d16d10f592fb5.jpg_r_480x360x95_8c26e439.jpg
-716134,中国左翼作家联盟成立大会会址纪念馆Site of the Inaugural Meeting of the Chinese League of Left-Wing Writers,4,86.0,,635.0,121.487562,31.269353,29,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/39fbda5e69bfac5739ecb0f6bf66fcde.jpg_r_480x360x95_de712a37.jpg
-703147,中国社会主义青年团中央机关旧址纪念馆Communist Youth League Central Authority Site Memorial Hall,1,80.0,,637.0,121.474835,31.226445,30,0.0,https://img1.qunarzz.com/travel/d6/1712/26/14a8425d074bcfb5.jpg_r_480x360x95_71820d3b.jpg
-703512,汇龙潭,1,80.0,汇龙潭于明代万历十六年（1588）所建，自北向南有五条河流汇集而成，应奎山坐落潭中，绿水怀抱，宛如一颗明珠，自古有五龙抢珠之称，汇龙潭因此而得名。,638.0,121.2598063773,31.3887066441,2,0.0,https://img1.qunarzz.com/travel/d2/1707/34/8b20f3e8ac5658b5.jpg_r_480x360x95_3f64041b.jpg
-7587994,上海意大利中心Shanghai Italy Center,1,90.0,,639.0,121.482349,31.189736,146,0.0,https://img1.qunarzz.com/travel/poi/1412/2e/2eba7fd5c82368fbcdb.jpg_r_480x360x95_edd694d3.jpg
-3539983,上海文化广场Shangqi·shanghai Culture Square,1,92.0,,318.0,121.4687641757,31.218038559,143,0.0,https://img1.qunarzz.com/travel/poi/1607/51/a9ec337a8a12b0db.jpg_r_480x360x95_5f5050f4.jpg
-709915,沈尹默故居Shenyinmo Former Residence (South Gate),1,82.0,,641.0,121.493991,31.264282,20,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/e44f28ad111626f98a349457ef3131c5.jpg_r_480x360x95_b2000805.jpg
-3534050,永新坊(天钥桥路店)Yongxin Square,1,86.0,,319.0,121.4487543858,31.1984534106,41,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/1ff50e51fd7cb8bfa2465c7f6dcfc5e2.jpg_r_480x360x95_f13d4ab8.jpg
-713140,黄道婆墓与祠,1,0.0,黄道婆又名黄婆、黄四娘、巧姑。生于宋末元初，乌泥泾镇人。早年家境贫困，她十二三岁时，为生活所迫做了童养媳，后又流落在凉州（海南岛）。黄道婆在那里度过了几十个春秋，从黎族民间学会了植棉纺织的技能，晚年返回故乡后她积极从事棉织工业的生…,644.0,121.4546581013,31.131587516,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-716486,虎树亭,1,0.0,西佘山东麓、秀道者塔旁有一凉亭，名曰虎树亭。据《松江府志》载：宋代有名叫聪道人的苦行僧，苏州人氏，七岁时去杭州出家修行。宋太平兴国二年路经佘山，感到佘山林密山幽，就在此结一草庐住下。他为人善良，医术高明，专为当地人行医治病。相传当…,645.0,121.2031041786,31.1014742365,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-702359,中国福利会少年宫(上海小伙伴剧场售票处)Chinese Welfare Association Children's Palace,2,90.0,,646.0,121.450516644,31.2279283269,104,0.0,https://img1.qunarzz.com/travel/d1/1511/3a/156e4b498d6c8bf7.jpg_r_480x360x95_4947e00b.jpg
-702737,崧泽古文化遗址Songze Cultural Ruins,3,86.0,,649.0,121.1712055743,31.1520065958,41,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-710147,芦潮港Luchao Port,1,82.0,,651.0,121.926135,30.904155,87,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-714424,吴淞古炮台Shanghai Wusong Ancient Fort,1,94.0,,329.0,121.5003659899,31.414668512,25,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-720031,东佘山景区,1,100.0,"东佘山，海拔72.4米，占地850亩，林木葱郁，景冠九峰。
-东佘山园主要景点有：眉公钓鱼矶、狮子岩、骑龙堰、森林浴场等；坐落在南高峰的观光嘹望塔，塔身高22.4米，是游客品茗小憩、登高观景的绝佳之处。
-山上动植物资源丰富。野生梅花鹿、穿山甲及…",653.0,121.2079875283,31.1027663859,3,0.0,https://img1.qunarzz.com/travel/d2/1712/44/ba4b0bceddd758b5.jpg_r_480x360x95_b17705cf.jpg
-706258,寿安寺Shou'an Temple,1,86.0,,7.0,121.4279830659,31.620973587,28,0.0,https://img1.qunarzz.com/travel/poi/1803/c5/14a374c32d77cd37.jpg_r_480x360x95_98cb4b8c.jpg
-713907,景德镇陶瓷上海艺术中心Jingdezhen Ceramics Shanghai Art Center,2,92.0,,654.0,121.4030987004,31.2432183774,5,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/bc1e3f90d70dd893bca7a6f2a27746ab.jpg_r_480x360x95_fa942712.jpg
-710118,青龙塔,1,0.0,青龙塔位于青浦区白鹤乡青龙村，又名青龙寺塔、青龙雁塔。此处原为古青龙镇，是唐宋时期对外贸易港，有“小杭州”之称。唐天宝二年间（743）建报德寺；唐长庆元年（821）改名隆福寺，建塔，北宋庆历年间（1041―1048）重建。清康熙帝南巡，赐名吉云…,656.0,121.1804797853,31.245392708,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-703583,上海相东佛像艺术馆Shanghai Xiangdong Buddhist Art Museum,1,86.0,,658.0,121.233263,31.375765,28,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/2d9ba561738f05527cf6ee9bc89d3334.jpg_r_480x360x95_17c05841.jpg
-704363,马桥遗址Maqiao Relic Site,1,20.0,,659.0,121.3894382041,31.0408573832,1,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-5167454,上海市群众艺术馆ShangHaiShi QunZhong YiShuGuan,1,90.0,,238.0,121.4311278351,31.1920612765,67,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/d7d04130519fb9a27ab3aff968c43613.jpg_r_480x360x95_a9d8e22c.jpg
-714595,福泉山古文化遗址,1,50.0,上海福泉山古文化遗址位于青浦县重固乡钱家经村．虽称之为山，其实是4000余年前人工堆成的一个带椭圆形的土台，高7．5米，东西长94米，南北宽84米。土墩形似覆船，故又名覆船山。1979年来，先后3次发掘，面积约 2150平方米。经清理，在灰黑色土层中…,662.0,121.1823994064,31.2207954164,2,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-7481704,「 HOME + HOUSE 」2014上海展,0,0.0,颠覆以往设计展概念，选择科技环保、人文、建筑穿插在家的主题，以此构建创新的设计展，籍以推动本土设计走向国际。,663.0,121.504302,31.345916,0,0.0,https://img1.qunarzz.com/travel/poi/1410/14/4e82b71d9e088965ffffffffc8d65eac.jpg_r_480x360x95_a65a90f1.jpg
-7481857,复旦大学江湾校区Fudan University(Jiangwan New Campus),1,94.0,,665.0,121.513724,31.34272,32,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/0ff122700ac0613f8f647c7b8e80c723.jpg_r_480x360x95_16b1f554.jpg
-715340,金色滩涂,1,100.0,"崇明岛地处江海交界之处，长江下泄泥沙在岛周围形成了巨大的滩涂,此为崇明得天独厚之处。1956到1984年崇明岛共围垦土地612560.7亩。1984年，高度在0米以上的滩涂有42万余亩，其中在吴淞标高2米以上的20.55万亩，标高3.2米以上的13.6万亩，标高3.6米…",666.0,121.5628729233,30.8233645763,1,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-705825,永乐御碑Yongle Imperial Stele,1,86.0,,667.0,121.588616,31.354417,1,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-702035,金鏊山,1,0.0,在清康熙七年（1668年）时重建，在城东约2.5公里的寿安寺之北。山有九峰，中峰为最高，山下凿玉莲池，砌清远堂等。山上建塔一座，意制止海塌，故名“镇海塔”。在塔之东、南、西三壁分书“安”、“静”、“定”三字以示镇海。1933年，在山旁建筑抗…,668.0,121.4267999181,31.6219943214,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-5265200,光明瑞华果园Bright Ruihua Orchard,1,86.0,,240.0,121.3359027102,31.8181591034,43,0.0,https://img1.qunarzz.com/travel/poi/1409/04/8957b332a0dc04a8ffffffffc8d65eac.jpg_r_480x360x95_b2a47456.jpg
-715668,华严塔Jinshan Huayan Tower,1,100.0,,669.0,121.251641408,30.9071294068,1,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/7ca2a7f2e5a93bcb49dc6aff5d2ab9a4.jpg_r_480x360x95_625e8330.jpg
-7588891,华鑫中心Huaxin Business Center,0,0.0,华鑫中心丰盛多彩，是看的见感受的到的自然空间场，把充满自然元素的景观和建筑融为一体，实现了景观建筑的设计构想。,398.0,121.422498,31.179285,0,0.0,https://img1.qunarzz.com/travel/poi/1501/6f/5b9621d8dc8782.jpg_r_480x360x95_08add9a6.jpg
-703603,唐一岑墓祠,1,0.0,县级保护文物。唐一岑系明嘉靖年间崇明县知县，嘉靖三十三年（1554年），知县唐一岑率军民浴血抵抗犯崇倭寇，以身殉国。为表彰其功绩，明嘉靖帝敕赠唐一岑为光禄寺丞，并筑墓建祠以祀之。初建唐一岑墓祠于平洋沙旧城西南隅。1731年（清雍正九年）迁…,670.0,121.4046505531,31.6339619378,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-708223,书隐楼Shuyin Building,1,90.0,,671.0,121.503007,31.224853,49,0.0,https://flight-feed.qunarzz.com/as3/180/image/poi_vishnu/17ad9261-741c-4052-980f-d16db65411c0.jpg_480x360_2cb77220.jpg_480x360_bcc91efb.jpg
-7528464,汪公馆Wang Mansion,1,94.0,,672.0,121.4336930787,31.2260103526,22,0.0,https://img1.qunarzz.com/travel/poi/1411/3d/3d5621bd2c9fb04b213a9cdb.jpg_r_480x360x95_89733ef9.jpg
-712600,潮音庵ChaoYnnAn Buddhist Nunnery,2,86.0,,673.0,121.673731,31.294718,53,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-705886,吴昌硕纪念馆Wuchangshuo Memorial Hall,1,92.0,,282.0,121.5135857233,31.2423540733,461,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/1253a8cc403630c9c4c04ddb665b804a.jpg_r_480x360x95_459335f9.jpg
-709385,松郡九峰,0,0.0,"九峰均在海拔100米以下，呈西南---东北走向，逶迤13.2公里，山地面积共约2.35平方公里。依次名为小昆山、横山、机山、天马山、辰山、佘山、薛山、厍公山、凤凰山。
-山体表面林木深秀，森林覆盖率达86%以上。据旧府县志所载，每座山峰均有""八景""、""…",674.0,121.1675933416,31.0802681254,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-704676,黄浦大境关帝庙Huangpu Dajing Guandi Temple,2,92.0,,290.0,121.4919261535,31.2308825622,36,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-702484,昭庆禅寺,1,0.0,在东佘山骑龙堰侧。原名为慈云昭庆禅寺，宋绍兴二年（公元1132年）建，元时毁。明洪武24年，僧德智重建，永乐十二年再建观音藏殿，并西廊，募铸三口钟。是当年名倾江南的寺院。繁盛时，拥有一千多间寺舍禅房。香火鼎盛，显赫一时。寺内有金沙地、芥…,676.0,121.2031041786,31.1014742365,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-711567,护珠塔Songjiang Huzhu Tower,1,88.0,,16.0,121.1569083104,31.0799362865,22,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/39473bc610c2b022ac02ce853bc1be13.jpg_r_480x360x95_b0b3038e.jpg
-705258,万寿塔Shanghai Wanshou Tower,0,90.0,,690.0,121.1210704618,31.1474788468,21,0.0,https://img1.qunarzz.com/travel/poi/1803/52/8d500aa746188037.jpg_r_480x360x95_12361264.jpg
-7469090,上海动漫博物馆Shanghai Museum of Animation,1,86.0,,692.0,121.618432,31.217965,80,0.0,https://img1.qunarzz.com/travel/poi/1806/37/9fbb2506988bff37.jpg_r_480x360x95_e20e4a4d.jpg
-702773,吴兴寺Wuxing Temple,1,82.0,,327.0,121.1835108897,31.3695986276,38,0.0,https://img1.qunarzz.com/wugc/p177/201206/15/263bd0b990d07b5c93835fbb.jpg_r_480x360x95_42df0f3b.jpg
-7471010,廊下郊野公园Langxia Ecological Park,0,80.0,,272.0,121.164712,30.792426,83,0.0,https://img1.qunarzz.com/travel/poi/1409/02/d5dbce65f322bbadffffffffc8d65eac.jpg_r_480x360x95_28a82235.jpg
-3531256,同乐坊Tongle Lane,0,86.0,,42.0,121.4499936881,31.2431067883,153,0.0,https://img1.qunarzz.com/travel/d1/1601/21/a45184839054d5f7.jpg_r_480x360x95_84fec81d.jpg
-7475133,上海荟萃园,1,80.0,荟萃园的南边建有亭廊组合体，园西北是梅山及三友亭，山上广植松、竹、梅岁寒三友。荷花池中小岛上建笠亭，池北建三曲平桥，池内及四周植物按春、夏、秋三季配置。,695.0,121.346595,30.716763,2,0.0,https://img1.qunarzz.com/travel/poi/1409/04/7e9176d3680926afffffffffc8d65eac.jpg_r_480x360x95_0e1f3c93.jpg
-39314882,上海国际越野赛车场,0,0.0,,,121.527492,30.830403,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-39175804,季高兔窝窝PANCOAT乐园,0,0.0,,,121.214247,31.106415,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-39172905,戈登路巡捕房旧址,0,0.0,,,121.4575001086,31.2419815728,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-39171967,魔都悬空玻璃剧场,0,0.0,,,121.474166,31.213146,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-39160312,笔墨宫坊,0,0.0,,,121.55704,31.311592,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-39160202,上海对外经贸大学博物馆,0,0.0,,,121.40586,31.213581,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-39133144,苗棚影视基地,0,0.0,,,121.240712,31.001402,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-39057063,静安新业坊,0,80.0,,,121.4500534877,31.2967256539,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-39037371,黄浦区图书馆,0,100.0,,,121.4852474035,31.2380588397,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-39032291,M+马利,0,80.0,,,121.4503329023,31.2444382781,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-39005974,南胜村,0,0.0,,,121.486779,30.864527,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38971105,长寿路桥,0,0.0,,,121.453263,31.251149,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38964259,奉贤生态园,0,0.0,,,121.5644113891,30.8244992426,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38964241,丰收村,0,0.0,,,121.4969894256,31.0666102269,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38962407,丰翔绿地,0,0.0,,,121.3660027208,31.3118114177,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38961141,Lutra Gallery 獭獭画廊,0,86.0,,,121.492056,31.248163,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38950664,集装箱创客部落,0,0.0,,,121.441534,31.3493,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38948195,联合村,0,100.0,,,121.329427,31.412036,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38944871,滨江森林公园二期,0,0.0,,,121.534391,31.388978,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38942015,曹村源园,0,0.0,,,121.4136196153,31.2446771537,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38941973,闵行区民防科普馆,0,0.0,,,121.3643593232,31.1685800912,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38939322,闵行区民法典主题公园,0,0.0,,,121.502981,31.084477,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38937499,讴思园,0,0.0,,,121.200572,31.334111,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38937495,嘉定青少年活动中心 (清河路),0,0.0,,,121.24685,31.38691,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38937484,复华公园,0,0.0,,,121.281233,31.388407,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38937467,汇源公园,0,0.0,,,121.213516,31.421874,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38937403,唐家湾公园,0,0.0,,,121.282451,31.414557,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38937402,松茸园,0,0.0,,,121.295021,31.339347,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38937067,东礁公园,0,0.0,,,121.348039,30.729243,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38936224,永源浜花园,0,0.0,,,121.4483470482,31.2273199119,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38936216,绿洲公园,0,0.0,,,121.6043058243,31.3325745084,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38936215,重固体育公园,0,0.0,,,121.1956215166,31.2088266056,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38936207,明珠广场,0,0.0,,,121.50793743,31.2430149874,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38936206,Realpark king sports体育公园,0,0.0,,,121.4110860324,31.0971582124,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38936195,艾青旧居,0,0.0,,,121.479336217,31.2236696164,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38936194,花神广场,0,0.0,,,121.3533337906,31.4205685591,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38936188,徐家汇圣依纳爵主教座堂Xujiahui Saint Ignatius Cathedral,0,0.0,,,121.442633,31.197464,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38936183,桥头广场,0,0.0,,,121.4807294711,31.1354451115,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38936177,马鞭草园,0,0.0,,,121.364151331,31.4893487374,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38936173,上海市民体育公园足球公园,0,0.0,,,121.2465605879,31.3303621704,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38936171,花漾园,0,0.0,,,121.4995403162,31.221087745,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38936170,终点广场,0,0.0,,,121.4791990362,31.1367373911,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38936167,唐镇公园,0,0.0,,,121.6520368268,31.216268464,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38936162,陈春路口袋公园,0,0.0,,,121.3215905597,31.0746106121,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38936161,高东生态园-高东体育主题公园,0,0.0,,,121.6438433484,31.3108983199,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38936157,联民文化广场,0,0.0,,,121.4973843212,31.0466324287,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38936156,方松体育公园,0,0.0,,,121.23844907,31.0473853284,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38936147,新顾城体育公园,0,0.0,,,121.3564901452,31.3495922561,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38936146,桂湖园,0,0.0,,,121.2881137075,31.4217001636,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38936129,口袋公园,0,0.0,,,121.4649278101,31.2153871254,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38936123,薇花园,0,0.0,,,121.4686956472,31.2226931933,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38936112,体汇+名都体育公园,0,0.0,,,121.4054142539,31.19517399,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38936094,江湾体育场后花园,0,0.0,,,121.523202699,31.3133484668,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38936088,上海少年村旧址,0,0.0,,,121.4356901819,31.3071862506,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38936087,口袋公园,0,0.0,,,121.4370916832,31.2195307838,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38936085,陈坊公园,0,0.0,,,121.1910522623,31.1045387097,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38936078,青春小游园,0,0.0,,,121.389871143,31.2016021721,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38936077,星空公园,0,0.0,,,121.5186817004,30.9318896688,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38936058,上海公共体育场旧址,0,0.0,,,121.4894585534,31.2186014066,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38936057,新会花园,0,0.0,,,121.4424414997,31.2430950822,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38936046,上善广场,0,0.0,,,121.1198480261,31.1695228886,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38936041,海霞公园,0,0.0,,,121.7541779183,31.1776544439,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38936019,娄塘公园,0,0.0,,,121.2207664138,31.4312611988,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38936018,孔详熙故居,0,0.0,,,121.4469542609,31.2288617815,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38936004,丹巴花园,0,0.0,,,121.3910294372,31.2378745007,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38935993,世纪同框广场,0,60.0,,,121.4959618988,31.249804246,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38935992,御桥广场,0,0.0,,,121.5758501482,31.1598257857,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38935991,祁云绿地街心花园,0,0.0,,,121.3719899851,31.2365481499,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38935990,开新文体公园,0,0.0,,,121.6525635936,31.0235075342,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38935982,上海玫瑰花园,0,0.0,,,121.4574975742,31.2325078605,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38935981,上海杨林寺,0,0.0,,,121.253879566,31.2619727071,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38935970,茶陵绿地,0,0.0,,,121.4715397999,31.2038305076,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38935969,同福花园,0,0.0,,,121.4678906297,31.2369243617,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38935968,金竹休闲绿地,0,0.0,,,121.3941201221,31.0984057884,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38935961,昌新花园,0,0.0,,,121.4617960265,31.2395338989,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38935960,银杏广场,0,0.0,,,121.3925781234,31.2284231236,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38935959,阅读花园,0,0.0,,,121.4683407465,31.2222212695,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38935947,中房洛克公园,0,0.0,,,121.5194627783,31.14884161,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38935946,音花园,0,0.0,,,121.4447567227,31.2433835763,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38935945,南园公园,0,0.0,,,121.4816767135,31.1974856127,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38935938,黄渡文化广场,0,0.0,,,121.224003127,31.2702183714,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38935936,彩丘园绿地,0,80.0,,,121.3998532287,31.2879050224,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38935924,车墩人口文化广场,0,0.0,,,121.3214888944,31.0204873991,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38933492,奉贤区市民公园,0,0.0,,,121.491465,30.918421,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38933490,锦逸园,0,0.0,,,121.504075,31.084008,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38933474,南闸公园,0,0.0,,,121.538214,30.827467,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38933473,青年艺术公园,0,0.0,,,121.512081,30.93905,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38933448,上海九棵树艺术公园,0,0.0,,,121.509759,30.923778,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38933431,九华路公园,0,0.0,,,121.463175,30.937022,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38933424,锦怡园,0,0.0,,,121.513635,31.076494,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38933399,锦园,0,0.0,,,121.504428,31.079402,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38933398,和合社区公园,0,0.0,,,121.492578,30.926185,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38933374,人民桥公园,0,0.0,,,121.534779,30.933102,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38933371,如心公园,0,0.0,,,121.110738,31.149062,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38933364,四团幸福公园,0,0.0,,,121.74553,30.940372,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38933362,柘林公园,0,0.0,,,121.473343,30.875752,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38933293,浦南运河北岸公园,0,0.0,,,121.534779,30.933102,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38933250,光明公园,0,0.0,,,121.533781,30.894339,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38933222,青溪法治公园,0,0.0,,,121.587038,30.933109,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38933215,红叶公园,0,0.0,,,121.48006,30.906808,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38933204,美树里,0,0.0,,,121.498834,31.088694,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38933203,山阳广场,0,0.0,,,121.358569,30.734249,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38933180,锦溪园,0,0.0,,,121.517439,31.069058,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38933131,江玮绿地,0,0.0,,,121.540504,31.066712,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38933130,锦心园,0,0.0,,,121.504237,31.084893,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38933122,锦绣园,0,0.0,,,121.499131,31.074252,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38933119,锦和园,0,0.0,,,121.501982,31.087216,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38933116,香雪公园,0,0.0,,,121.113286,31.145534,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38933106,正阳中央景观公园,0,0.0,,,121.484237,30.91737,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38933073,景谷园,0,0.0,,,121.407021,31.01908,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38933048,晨兴公园,0,0.0,,,121.109576,31.148282,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38932870,上海市嘉朱生态桂花园,0,0.0,,,121.167669,31.425689,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38932084,华城广场,0,0.0,,,121.4967256068,31.1687508091,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38932062,花木玉兰广场,0,0.0,,,121.5540645374,31.2131986849,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38932045,新桥镇文化休闲广场,0,0.0,,,121.3207577083,31.0691102787,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38930995,上海电气都市工业园区,0,0.0,,,121.553493,31.303092,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38927980,上海贝嘉葆STEAM儿童主题体验中心,0,0.0,,,121.683641,31.286844,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38927967,爱普香料植物园,0,0.0,,,121.2748251916,31.4471948011,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38907777,百草园,0,0.0,,,121.495301,31.265879,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38887897,离(余庆路店)Lí Gallery,0,0.0,,,121.445376,31.208918,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38876763,LXcamping（宠物露营地）,0,0.0,,,121.165243,30.790792,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38876491,康健绿苑,0,0.0,,,121.4269184653,31.1597774023,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38860800,五里桥街道图书馆,0,0.0,,,121.482335932,31.1997521954,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38860759,联想未来中心,0,0.0,,,121.5923018825,31.2082597628,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38860719,沪乡记忆馆,0,0.0,,,121.8010133188,31.0296160675,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38854155,中共中央秘书处机关旧址,0,0.0,,,121.455744,31.243942,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38843458,傅雷旧居,0,0.0,,,121.585924,31.124558,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38842819,奇幻颠倒馆(莘庄维璟印象城店),0,0.0,,,121.3707126539,31.1369156027,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38842676,红十字文化广场,0,0.0,,,121.3862529321,31.233660882,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38818142,吕巷水果公园,0,90.0,,,121.220725,30.84005,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38818016,玉海棠左岸,0,0.0,,,121.335523,31.770268,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38807825,土拨鼠俱乐部(世茂广场店),0,0.0,,,121.4825649032,31.2402489285,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38807665,罗店老镇历史风貌区,0,0.0,,,121.3470251429,31.4179422129,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38807296,玉海棠棠果乐园,0,0.0,,,121.338381,31.770505,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38807274,玉海棠海棠湖景区,0,0.0,,,121.325181,31.760828,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38804502,廿肆传艺社,0,0.0,,,121.4989450603,31.2310992839,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38804490,水岸汇(春申港站店),0,0.0,,,121.4611497566,31.1474591089,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38803754,南码头路街道图书馆,0,80.0,,,121.5151213574,31.2016712883,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38803638,M50民防文化艺术创意馆,0,20.0,,,121.4557950349,31.2544559044,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38802196,上海Meland Club(虹桥万象城店),0,0.0,,,121.374166,31.175523,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38801947,大镜堂,0,0.0,,,121.2923413406,30.8069030675,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38801924,锦囊妙馆,0,0.0,,,121.315732,31.21537,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38800837,水库村,0,80.0,,,121.4030170709,30.8301683714,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38798072,人文松江活动中心展示厅,0,0.0,,,121.2356394115,31.0062538789,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38798071,FIRST POINT元点,0,0.0,,,121.4511515601,31.2554778959,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38798050,浦东新区群众文化艺术馆,0,100.0,,,121.54692,31.195732,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38798024,上海Meland Club(南翔嘉定印象城),0,0.0,,,121.313638,31.310937,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38798018,云间会堂文化艺术中心,0,0.0,,,121.2370789331,31.0063136501,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38797970,龙华民俗传承馆,0,0.0,,,121.4575153316,31.1819516468,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38749035,徐家汇体育公园,0,100.0,,,121.446061,31.186889,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38691932,漕泾郊野公园,0,0.0,,,121.403236,30.833389,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38691917,米奥艺术中心,0,90.0,,,121.403105,31.077656,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38688395,康桥生态园沿北绿地,0,100.0,,,121.599141,31.149043,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38687465,高东镇社区文化活动中心,0,0.0,,,121.6285493859,31.3315485533,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38687368,海关学院图书馆,0,0.0,,,121.5834469997,31.174080226,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38687052,顾村镇图书馆,0,86.0,,,121.417245,31.362762,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38686975,W&S Art SpaceW&S Art Space,0,0.0,,,121.376555,31.178649,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38684103,浦东新区青少年活动中心,0,0.0,,,121.5895881222,31.2543416328,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38683924,罗店镇图书馆,0,0.0,,,121.3670805651,31.4107545021,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38678578,安亭新镇奥林匹克体育公园,0,0.0,,,121.1718222815,31.2768829152,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38678435,gallery All,0,100.0,,,121.4497209509,31.2428306202,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38678389,锦尊湿地公园,0,86.0,,,121.539924,31.183872,1,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38678229,海事塔广场,0,0.0,,,121.4688268006,31.1837119533,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38677632,Xspace,0,0.0,,,121.4816058684,31.2180795049,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38676720,天时632艺术空间,0,100.0,,,121.511999,31.239185,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38676578,邹容墓,0,0.0,,,121.451938,31.124893,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38674644,YellowKorner(西岸店),0,0.0,,,121.4661226393,31.1698066076,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38674544,知美居CharmyArt,0,0.0,,,121.4553677904,31.2542480995,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38673010,Choc Choco巧克巧蔻博物馆,0,96.0,,,121.4975142292,31.2323821879,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38672648,漕河泾街道图书馆,0,0.0,,,121.432018,31.17176,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38672559,山海艺术馆,0,0.0,,,121.4188307181,31.304000329,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38672452,洞泾镇社区文化活动中心,0,0.0,,,121.2776879696,31.0886747399,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38672377,塘桥社区活动中心图书馆,0,86.0,,,121.535602,31.217465,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38672251,七宝镇图书馆,0,0.0,,,121.3496436174,31.158572088,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38672189,北新泾街道图书馆,0,0.0,,,121.375699737,31.2241096411,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38672188,黄浦区工人文化宫,0,0.0,,,121.5024910549,31.2133348609,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38671491,共和新路街道社区文化活动中心,0,0.0,,,121.4524024915,31.2732289789,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38671482,上海国际农展中心,0,0.0,,,121.3820483658,31.1968768806,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38671417,南翔图书馆,0,0.0,,,121.3161347043,31.3044210448,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38671416,春申文化广场,0,0.0,,,121.3955940487,31.1113812948,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38671259,高行镇图书馆,0,0.0,,,121.6180474044,31.3020471532,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38669772,大桥街道图书馆,0,0.0,,,121.548449468,31.2736446166,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38669185,曹路镇图书馆,0,0.0,,,121.676505279,31.2806636605,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38669031,周浦镇文化中心图书馆,0,86.0,,,121.5957315243,31.1169149218,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38668368,新川沙图书馆少年儿童图书馆,0,0.0,,,121.7019278452,31.1983993248,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38667956,安亭镇图书馆,0,0.0,,,121.1708710164,31.3022535201,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38667955,江湾镇社区文化活动中心,0,86.0,,,121.4866836155,31.3104117044,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38667265,徐汇区文化馆,0,0.0,,,121.443096,31.140713,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38667180,浦兴路街道图书馆,0,92.0,,,121.607698581,31.2775269187,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38667083,南京西路街道图书馆,0,86.0,,,121.4665652947,31.2312884683,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38653990,飞天自控翼龙,0,0.0,,,121.378774,31.347848,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38636837,苏州河华政段,0,0.0,,,121.4267506612,31.2310905401,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38636831,中国航海博物馆(上海浦东机场),0,0.0,,,121.8108432802,31.1576268027,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38636349,广福讲寺,0,0.0,,,121.7578229807,31.5242812932,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38635756,沪东来客厅,0,0.0,,,121.5876393071,31.2802553406,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38634406,薛公馆,0,0.0,,,121.4888709607,31.2681702972,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38634389,华藏禅寺,0,0.0,,,121.2617245387,31.4629510066,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38634305,拉普达艺术中心,0,0.0,,,121.4520533984,31.2249497553,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38634293,虹桥基金小镇,0,0.0,,,121.3953383596,31.1886355254,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38632092,长风冰雪嘉年华,0,0.0,,,121.4018532556,31.2283967499,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38632078,樱花岛,0,0.0,,,121.5601169387,31.221518955,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38631978,城市不眠书店(杨高中路店),0,86.0,,,121.5634946519,31.2385263274,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38631443,静安区图书艺术分馆文献中心,0,0.0,,,121.4517935537,31.2979068801,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38627467,与点YUDIAN,0,0.0,,,121.4555182999,31.222553618,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38627464,上海市浦东新区青少年活动中心,0,0.0,,,121.5494564164,31.196322375,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38627421,法华禅寺,0,0.0,,,121.3718743985,31.2098765636,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38625468,洛克公园(安亭店),0,0.0,,,121.1703732553,31.3109286677,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38624228,宝山生态园林区公共运动场,0,0.0,,,121.3754176475,31.3388186137,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38624080,Voyage UCCA LabVoyage UCCA Lab,0,100.0,,,121.4612,31.234634,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38623283,PEARLONA COMMON ROOM大客厅,0,0.0,,,121.4557256145,31.2542219758,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38621290,崇庆教寺观音禅院,0,0.0,,,121.5785556978,31.1908148255,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38621279,洛克公园(马陆店),0,0.0,,,121.2836617178,31.325754557,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38621136,申园,0,94.0,,,121.4887939659,31.1888350416,1,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38620769,市北绿地,0,0.0,,,121.4634478337,31.3054185264,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38619409,地藏古寺,0,60.0,,,121.2751031295,31.0139235597,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38619402,嘉禧国际艺术中心(JIAXI),0,0.0,,,121.4951669172,31.2462760842,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38616180,活力森林区,0,0.0,,,121.5112994113,31.0653462615,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38615219,Rink on the Bund | BFC外滩冰之梦,0,80.0,,,121.5040929599,31.2324115805,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38613955,木文化博物馆,0,0.0,,,121.4518269771,31.2548266661,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38612217,五维空间W-SPACE,0,0.0,,,121.5540069675,31.3144634729,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38611639,苏州河十八湾,0,100.0,,,121.3859815098,31.2258914061,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38611630,宝山万达金街,0,0.0,,,121.4523113297,31.3301781028,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38611500,南翔污水厂公园,0,0.0,,,121.3408284162,31.3366050925,1,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38611490,世界港口小镇,0,80.0,,,121.4191073749,31.2392653641,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38608027,林峰国际象棋图书馆,0,0.0,,,121.5269562818,31.2405275315,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38607376,洛克公园(梅州路店),0,0.0,,,121.4110146457,31.0974859663,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38606109,闵行市民文化广场,0,0.0,,,121.3808728904,31.110800976,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38605395,默空间,0,0.0,,,121.4417210354,31.2288028977,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38605386,5号望江驿,0,0.0,,,121.510921,31.249425,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38602026,徐汇区爱国主义教育基地,0,0.0,,,121.4538607776,31.2165201702,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38600598,舢板船博物馆,0,0.0,,,121.3804890425,30.7366180126,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38599711,广富林水下博物馆,0,94.0,,,121.204593,31.068654,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38599699,浦东新区六一主题园,0,0.0,,,121.6429795865,31.1758351461,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38599695,丁家花园,0,0.0,,,121.7106628834,31.2010079462,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38599691,虹溪公园,0,0.0,,,121.3940688374,31.1811797963,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38599552,康桥生态园汤巷绿地,0,100.0,,,121.6061209565,31.14987576,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38597368,海派艺术馆,0,0.0,,,121.36478112,31.1664110411,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38596330,青浦区青少年活动中心(公园路店),0,0.0,,,121.1319280051,31.1562902409,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38596065,M50创意园(武威东路店),0,0.0,,,121.3861103866,31.2832169978,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38596060,孙科故宅,0,100.0,,,121.4334946412,31.2161712578,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38596046,东方尚博时尚园区,0,0.0,,,121.5185221379,31.1945468607,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38591383,珀德画廊BirdGallery,0,100.0,,,121.4561295311,31.254251302,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38591368,星空梦幻展(豫园店),0,0.0,,,121.4976949863,31.2341524216,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38591359,月浦镇图书馆,0,0.0,,,121.4333765029,31.4163867183,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38591355,我嘉书房(双创街店),0,0.0,,,121.2478362898,31.3988410335,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38591353,张江科学城书房,0,0.0,,,121.6350026218,31.2258751822,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38591341,粲画廊,0,0.0,,,121.444724844,31.2114472036,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38591335,艺博画廊,0,100.0,,,121.5091408028,31.2397635473,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38591308,我嘉书房(外冈邻里中心店),0,0.0,,,121.1839094667,31.3591387636,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38591292,航头镇文化中心图书馆,0,100.0,,,121.5939995875,31.0356758238,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38591284,上海原色艺术空间,0,0.0,,,121.4555471503,31.2542955346,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38591267,世博会展中心,0,0.0,,,121.4801985831,31.1883629607,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38591248,厘米空间CM space,0,100.0,,,121.4554481318,31.2540474502,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38591242,光明田原生态农业园,0,0.0,,,121.4017756321,31.7549210986,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38591240,魔脱喜剧脱口秀(上海广场店),0,0.0,,,121.4844052329,31.2312512432,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38591212,艺space空间,0,0.0,,,121.448494609,31.1986646888,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38591139,三茶蝴蝶屋,0,0.0,,,121.6830909286,31.145293754,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38591131,Gallery Func,0,86.0,,,121.4574612807,31.2244633741,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38591129,一见图书馆(碧云馆),0,0.0,,,121.5895587401,31.2457187396,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38591123,华泾镇图书馆,0,0.0,,,121.4604326537,31.1256603418,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38591116,九亭图书馆,0,0.0,,,121.3392569374,31.1233617527,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38591110,多伦文化艺术空间,0,0.0,,,121.4880838978,31.2701369019,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38591102,五峰书院(大道潍坊店),0,0.0,,,121.5277151914,31.2295968467,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38591051,我嘉书房(安亭新镇店),0,0.0,,,121.1779103773,31.2748408909,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38591042,静安文化馆尚·空间艺术展厅,0,0.0,,,121.4501192544,31.2252156889,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38591041,赵巷镇图书馆,0,0.0,,,121.2032369379,31.1576325927,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38591026,四方俱乐部,0,80.0,,,121.4621620158,31.2283804829,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38591025,龙马跃影 SIMON MA马兴文艺术作品巡回展,0,0.0,,,121.5184186138,31.2481520665,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38591018,上海档案馆新馆,0,0.0,,,121.5630474903,31.2060089497,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38591006,颛桥图书馆,0,0.0,,,121.4114207182,31.0757174834,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38590990,马陆镇图书馆,0,0.0,,,121.2890177269,31.3369559962,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38590988,悠贝亲子图书馆,0,0.0,,,121.6616756262,31.2204627799,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38590984,五峰书院(海科路店),0,0.0,,,121.6160364459,31.1883863033,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38590954,闵行区图书馆,0,88.0,,,121.3956917543,31.1110611271,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38590944,新虹图书馆,0,0.0,,,121.3164341682,31.2158466141,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38590414,北外滩街道图书馆,0,0.0,,,121.5092631102,31.262416877,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38590301,顾村镇图书馆,0,0.0,,,121.4313039445,31.3521514475,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38590224,静安图书馆(闻喜分馆),0,0.0,,,121.4568085873,31.3146857986,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38590164,张堰镇图书馆,0,80.0,,,121.2933551455,30.8120536058,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38590161,大场体育中心图书馆,0,80.0,,,121.4184584502,31.303759218,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38590139,虹口区图书馆(乍浦分馆),0,0.0,,,121.4936156501,31.254545128,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38590095,上海市崇明区图书馆,0,0.0,,,121.434848,31.625456,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38590070,陆家嘴社区图书馆,0,0.0,,,121.5273232421,31.2410262364,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38359323,曹炳麟旧居,0,90.0,,,121.4056125451,31.630106744,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38346858,叠翠公园,0,86.0,,,121.4157556719,31.1233068482,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38341117,Mao Space,0,0.0,,,121.4707540227,31.2149828685,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38341081,惠董艺术馆,0,0.0,,,121.4635588316,31.2115410082,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38340883,上海科普公园,0,0.0,,,121.4421582494,31.3523911352,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38340782,金矿镇,0,80.0,,,121.22094049,31.1016122936,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38340773,江湾民间文化陈列馆,0,0.0,,,121.4890000093,31.3030050931,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38340659,大方禅院,0,0.0,,,121.0556624767,30.9136482139,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38340595,又新印刷所旧址,0,0.0,,,121.4845427905,31.2223787346,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38340551,白林寺,0,0.0,,,121.5513682815,31.2797308871,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38340450,世博文化公园,0,80.0,,,121.483719,31.187285,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38340284,长美绿地,0,90.0,,,121.64797,31.172478,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38340254,古美路街道图书馆,0,0.0,,,121.411901,31.148137,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38340223,金山图书馆,0,0.0,,,121.3460659055,30.7481601206,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38340222,佳能影像乐天地,0,0.0,,,121.486264469,31.2316576212,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38340211,高境镇图书馆,0,0.0,,,121.4807796828,31.3288062129,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38340209,五角场镇图书馆,0,0.0,,,121.54220209,31.3119276211,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38340191,百禧公园,0,88.0,,,121.4181129154,31.2472790294,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38340177,星云文教馆,0,80.0,,,121.3392920551,31.1688706724,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38340176,浩清图书馆,0,0.0,,,121.431441559,31.1786400108,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38340136,上钢图书馆,0,0.0,,,121.4993674828,31.1814933828,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38340133,江浦社区图书馆,0,98.0,,,121.5238156809,31.272136888,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38340123,北蔡图书馆,0,100.0,,,121.561817122,31.1799763833,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38340122,新江湾城街道图书馆,0,0.0,,,121.5164547239,31.339706326,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38340121,沙生植物馆,0,0.0,,,121.1952092409,31.0851854052,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38340112,延吉新村街道图书馆,0,0.0,,,121.5430896749,31.2950702646,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38340104,江桥镇图书馆,0,0.0,,,121.3486205587,31.2590682359,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38340103,主恩堂,0,0.0,,,121.5930204382,31.2859581559,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38340098,殷行街道图书馆,0,0.0,,,121.5466110798,31.3259238645,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38340071,长征镇图书馆,0,0.0,,,121.3892827611,31.2471575215,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38340054,洋泾社区图书室,0,0.0,,,121.5634175507,31.2507538004,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38340053,淮海中路街道图书馆,0,80.0,,,121.4821438957,31.219699848,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38340052,曹家渡街道图书馆,0,0.0,,,121.4409841884,31.2395085121,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38340050,四平路街道图书馆,0,0.0,,,121.517169723,31.2842721258,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38340024,金杨社区图书馆,0,90.0,,,121.5790133263,31.2541874125,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38340013,主恩堂,0,0.0,,,121.275866,31.17276,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38340010,五角场镇图书馆(长海路街道店),0,92.0,,,121.5224440683,31.3151829051,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38340009,大宁路街道图书馆,0,90.0,,,121.4604146925,31.2761423854,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38340005,广中路街道图书馆,0,86.0,,,121.4841688881,31.2838908925,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38340004,半淞园路街道图书馆,0,0.0,,,121.4933740005,31.2126560066,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339984,凡音音乐减压小站·团建·培训,0,0.0,,,121.4354526615,31.2397064331,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339983,宝山纺织工业文明展示馆,0,0.0,,,121.4918814966,31.37143626,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339964,礼巴堂艺术空间,0,100.0,,,121.4517349211,31.2166558754,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339960,四川北路文化中心图书馆,0,100.0,,,121.4936659209,31.2639741246,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339958,樊登书店·咖啡·团建,0,0.0,,,121.613485369,31.2085883102,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339940,莫胖图书馆,0,0.0,,,121.6165872726,31.2500927513,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339909,虹桥街道图书馆,0,0.0,,,121.4172538991,31.2036638793,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339905,landblink可见光,0,90.0,,,121.4697867879,31.215016128,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339904,ART SPACE,0,0.0,,,121.4562245501,31.2543071689,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339896,悠贝亲子图书馆(乐荟天地馆),0,0.0,,,121.5150113968,31.1913871126,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339893,得到图书馆,0,0.0,,,121.3327575578,31.2004868375,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339853,fibre,0,0.0,,,121.4487343146,31.2349646373,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339852,T·HOUSE艺术空间,0,0.0,,,121.4058798967,31.1702123816,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339851,纽约视觉艺术学院艺术中心snap,0,0.0,,,121.4961119589,31.2387740736,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339849,叶美术YE·Fine·Art,0,0.0,,,121.4697763262,31.2156744745,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339835,华泾社区文化活动中心,0,0.0,,,121.4606132161,31.125718027,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339832,嘉兴路街道图书馆,0,0.0,,,121.4996956132,31.267768433,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339827,竹园艺术中心,0,0.0,,,121.5397902202,31.2272242035,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339825,上海路路壹号路亚俱乐部,0,100.0,,,121.5835683908,30.9595985112,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339807,好好笑HaoHaoLaugh,0,100.0,,,121.4489988055,31.2348875235,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339796,学悦风咏书社,0,100.0,,,121.515099555,31.3139343217,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339795,杨浦区城市规划展览馆,0,0.0,,,121.5307945198,31.2710729546,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339787,别克艺术空间,0,0.0,,,121.4786065333,31.2355124258,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339785,彭浦新村街道图书馆,0,100.0,,,121.4577182093,31.3137172768,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339743,浦江镇图书馆,0,0.0,,,121.5186413466,31.0391379934,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339704,茅台文化体验馆,0,0.0,,,121.475036632,31.221221575,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339671,吴昌硕文化中心,0,0.0,,,121.3154937825,31.2163454826,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339654,我嘉书房(嘉定宝龙广场),0,0.0,,,121.2665120221,31.351860133,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339651,永福柒拾,0,0.0,,,121.4499417786,31.2165146697,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339650,Longlati Foundation,0,100.0,,,121.4921875969,31.2484121942,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339649,高行文化活动中心,0,0.0,,,121.6182354889,31.3021823594,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339647,界界乐（上海）文化艺术中心,0,0.0,,,121.2330988948,31.1549277238,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339645,小灯塔儿童俱乐部LittleLighthouse,0,0.0,,,121.3082831989,31.2780576613,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339610,凌云路街道图书馆,0,0.0,,,121.4406412281,31.1367011556,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339607,役家兵站文化馆,0,0.0,,,121.5000561611,31.3420034974,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339601,里美艺术空间Limmi Artspace,0,0.0,,,121.4960307506,31.2387518813,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339597,J&J原版少儿图书馆,0,0.0,,,121.4910515028,31.3004079012,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339577,微爱公益空间,0,0.0,,,121.4498158003,31.2458139872,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339576,金桥镇图书馆,0,0.0,,,121.6167725851,31.2739590719,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339573,华漕国际社区文化活动中心,0,100.0,,,121.2952121506,31.2158958981,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339570,美兰西湖文化活动中心,0,0.0,,,121.357715,31.392103,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339542,六合IN巷,0,0.0,,,121.4912255504,31.2432365721,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339541,吉利工坊,0,0.0,,,121.4891929888,31.267949,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339521,iag艺术院线,0,0.0,,,121.4749936319,31.2266072798,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339519,张庙社区文化活动中心,0,0.0,,,121.4506723121,31.3449514895,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339490,漆栖文化体验馆,0,0.0,,,121.4901436909,31.0693341327,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339488,坐忘书房(金科路店),0,0.0,,,121.6077872347,31.20930632,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339482,K线股道书屋,0,0.0,,,121.4309309594,31.6816405566,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339481,爱上海忆生活改革开放四十年主题展,0,0.0,,,121.4817295414,31.2412711642,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339479,云堡未来市RABORNOVA,0,0.0,,,121.2386018718,31.0960059246,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339471,宋庆龄文化展示中心,0,0.0,,,121.7105740774,31.2010707565,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339462,复旦图书馆,0,0.0,,,121.509390103,31.3029749178,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339461,马桥镇文体中心,0,0.0,,,121.3724059025,31.0375340641,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339456,上海电力学院图书馆(长阳路校区),0,0.0,,,121.5537901633,31.2813823239,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339446,杨行镇社区图书馆,0,0.0,,,121.4529989789,31.3847902969,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339438,凉城新村街道图书馆,0,0.0,,,121.4774169566,31.3041677237,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339434,张江图书馆,0,0.0,,,121.6359535059,31.195316687,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339361,香江画廊(香江画廊),0,0.0,,,121.3763894915,31.1789832917,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339357,Oniment,0,0.0,,,121.4691093617,31.2222806222,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339354,知阅书房,0,0.0,,,121.4401996696,31.3515099293,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339353,好久不读long time no read,0,96.0,,,121.5683568665,31.2156061176,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339351,上海市飞镖运动协会(天钥桥路),0,0.0,,,121.4480450505,31.1937793504,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339349,长风新村街道图书馆,0,0.0,,,121.4057700843,31.2401107268,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339348,康乐书院,0,0.0,,,121.4193706231,31.1578981305,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339345,JUZE Gallery,0,0.0,,,121.3951589702,31.2197979216,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339343,虹园新虹法制文化主题公园,0,0.0,,,121.3184170361,31.2179121491,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339287,彭浦新村58号社区文化活动中心,0,0.0,,,121.4577956124,31.3139545042,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339275,龙华街道图书馆,0,0.0,,,121.4560198195,31.1745631373,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339274,神兽之间(博荟店),0,0.0,,,121.486618,31.202719,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339273,罗泾农家风情展示馆,0,100.0,,,121.3258842525,31.4974750738,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339272,城事机密魔术馆,0,0.0,,,121.6121482556,31.2667650399,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38339166,杉达学院图书馆,0,0.0,,,121.6643167004,31.2751068009,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38338825,李政道图书馆,0,0.0,,,121.4327444376,31.0316253885,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38338604,通河新村街道图书馆,0,0.0,,,121.4504701001,31.3449563196,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38338564,程家桥街道图书馆,0,76.0,,,121.3750557775,31.200402741,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38338511,外滩街道图书馆,0,0.0,,,121.4907077618,31.2461265889,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38338306,黄炎培职业教育展示馆,0,0.0,,,121.5552047385,31.0785549036,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38338299,枫林路街道图书馆,0,0.0,,,121.4554301769,31.1867701279,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38338287,仙霞新村街道图书馆,0,0.0,,,121.3998790545,31.2119832293,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38338238,沪杏科技图书馆,0,0.0,,,121.3856523598,31.1984604718,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38338228,周家桥街道图书馆,0,0.0,,,121.4141410231,31.2251468005,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38338058,东一美术馆,0,70.0,,,121.497985,31.239217,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38338028,新梦舞厅,0,0.0,,,121.4619967078,31.2743448057,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38337930,控江路街道图书馆,0,80.0,,,121.5289373884,31.284241932,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38337901,长白新村街道图书馆,0,0.0,,,121.5500857029,31.3012463936,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38337806,定海路街道图书馆,0,0.0,,,121.5556219177,31.2845409875,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38337804,江苏路街道图书馆,0,0.0,,,121.4321818998,31.2259755635,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38337785,涵芬楼阅读体验中心,0,0.0,,,121.4566680474,31.0416814393,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38337773,包玉刚图书馆,0,94.0,,,121.4365103098,31.0281588908,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38337613,桃花岛,0,0.0,,,121.1949854371,31.0646399851,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38337584,上海广富林奇石馆,0,0.0,,,121.1876558752,31.0700998229,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38337426,广良寺,0,0.0,,,121.843426,31.546765,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38337319,新桥公园,0,60.0,,,121.3196826062,31.0660743587,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38337254,雕塑艺术公园,0,0.0,,,121.50985,30.935161,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38337252,植根花实艺术空间,0,0.0,,,121.4526821346,31.1851383147,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38337193,新泰仓库,0,0.0,,,121.486957,31.247394,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38337142,马桥森林体育公园,0,0.0,,,121.3539614655,31.0356084598,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38337078,康乐汇口袋公园,0,0.0,,,121.4194731382,31.157884075,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38337071,张家浜休闲绿道,0,0.0,,,121.5820748597,31.2321012523,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38336992,中共中央军委机关旧址纪念馆,0,0.0,,,121.4689680178,31.2435193064,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38336958,灰仓艺术空间,0,0.0,,,121.5659762842,31.2755142927,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38336834,上海淞南寺,0,0.0,,,121.4985208495,31.3525566202,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38336635,沪南钱业公所,0,0.0,,,121.4994134177,31.2340300279,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38336577,唐家塔口袋公园,0,0.0,,,121.5370049971,31.2845768687,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38336545,上海少年儿童图书馆新馆,0,100.0,,,121.404594,31.226849,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38336453,莲花寺,0,0.0,,,121.0799513414,30.9925863764,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38336451,南大公园,0,0.0,,,121.3776280068,31.3118787788,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38336308,生香阁美术馆,0,0.0,,,121.0207418709,30.855597347,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38336265,淳之当代瓷器博物馆,0,0.0,,,121.4890650936,31.0014730165,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38336264,我的亲宠乐园,0,0.0,,,121.1632576362,30.7913534899,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38336136,外滩一号艺术中心,0,0.0,,,121.4978751286,31.2391439341,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38336128,Bluerider Art,0,80.0,,,121.4954499985,31.2403157047,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38336015,颠倒艺术馆(上海旗舰店),0,100.0,,,121.5054236603,31.2425078698,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38335367,中医药文化园,0,0.0,,,121.6024342258,31.2026480896,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38335365,崇明美术馆,0,0.0,,,121.434619129,31.6258630087,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38335264,百荟园,0,0.0,,,121.0989130811,30.9348642021,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38335071,中环绿地,0,0.0,,,121.4590789787,31.2996981447,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38335020,CUBEWORK闵行园区,0,0.0,,,121.4209605888,31.0425132203,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38334897,美兰湖水上运动中心,0,0.0,,,121.3614581505,31.4063632777,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38334894,上海工艺美术工厂,0,0.0,,,121.4365283381,31.176856737,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38334545,江阴街,0,80.0,,,121.49477,31.218389,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38259720,古美公园,0,92.0,,,121.399492,31.14749,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38256817,塘下公路,0,0.0,,,121.885327,31.011607,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38252295,武夷MIX320,0,80.0,,,121.430301,31.219201,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38242518,今潮8弄,0,86.0,,,121.490565,31.257046,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38162032,小芳廷西洋博物馆,0,100.0,,,121.438385,31.244741,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38145305,杨浦滨江人民城市建设规划展示馆,0,0.0,,,121.5439876543,31.2594885312,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38145238,芦潮港海滩,0,0.0,,,121.8634170436,30.8535294615,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38145197,零食博物馆,0,0.0,,,121.3242769089,31.1060579166,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
-38145184,想巷街,0,0.0,,,121.4896872959,31.2967904899,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif
+sid,景点名称,攻略数量,评分,景区介绍,景点排名,经度,纬度,评论数量,旅游率,图片url,price
+7564992,上海迪士尼度假区Shanghai Disney Resort,73,94.0,中国大陆首座迪士尼度假区，身临其境地感受神奇王国。,1.0,121.671964,31.148267,33322,0.03,https://img1.qunarzz.com/travel/d2/1712/be/6742be0b91cad2b5.jpg_r_480x360x95_e84ae9ca.jpg,¥402.9
+716538,上海海洋水族馆Shanghai Ocean Aquarium,17,92.0,观赏各种海洋生物，漫步海底隧道，感受五彩缤纷的海底世界。,1.0,121.508642,31.246459,5241,0.03,https://img1.qunarzz.com/travel/poi/1505/12/779dbf4a16e528.jpg_r_480x360x95_fe73fa68.jpg,¥155
+20030793,上海海昌海洋公园Shanghai Haichang Ocean Park,0,92.0,,,121.910782,30.920947,1938,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/eb9b01011627e755d166917c2b22ee1a.jpg_r_480x360x95_efa372ac.jpg,¥229
+710448,长兴岛Changxing Island,1,84.0,,151.0,121.740589,31.385953,132,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/f56ee7a860e97e38d4a15e29b37d32f0.jpg_r_480x360x95_8bf8b485.jpg,¥99
+5740224,武康路Wukang Road,30,94.0,14处优秀历史建筑，电影《色戒》中王佳芝与易先生最后幽会的地点。,55.0,121.4463595607,31.213621164,430,0.01,https://img1.qunarzz.com/travel/d4/1706/c7/691e26b6dc4a9fb5.jpg_r_480x360x95_62b2febb.jpg,¥139
+716344,朱家角古镇景区Zhujiajiao Ancient Town Scenic Area,9,88.0,上海周边游览古镇的首选之地，在青砖白墙间感受水乡的静谧。,1.0,121.0603616306,31.1159338962,2430,0.02,https://img1.qunarzz.com/travel/d2/1807/cd/910b1ea6e4f0f9b5.jpg_r_480x360x95_80f9a148.jpg,¥38
+712404,外滩The Bund,466,96.0,身倚浦西漫步十里洋场，隔江对望浦东繁华陆家嘴。,2.0,121.4987359133,31.2391219237,48662,0.52,https://img1.qunarzz.com/travel/d2/1803/dd/6b7cf911dc59bab5.jpg_r_480x360x95_5ee6e448.jpg,¥378
+703850,太阳岛旅游度假区Sun Island,1,88.0,,11.0,121.079387,31.043011,133,0.0,https://img1.qunarzz.com/travel/d1/1707/f9/7bd73f96a12266b5.jpg_r_480x360x95_a300673c.jpg,¥30
+708751,横沙岛Hengsha Island,1,92.0,,647.0,121.860605,31.342956,79,0.0,https://img1.qunarzz.com/travel/d8/1507/33/e4cbdd0d0f2fe9.jpg_r_480x360x95_da3e0418.jpg,¥99
+10012279,广富林文化遗址Guangfulin Relics Park,2,92.0,,32.0,121.2037403917,31.0689421665,513,0.0,https://tr-osdcp.qunarzz.com/tr-osd-vs-dapp-ugc/img/d64b42beabe6653381e67209474fbb3f.jpg_r_480x360x95_fceb3fa8.jpg,¥29.9
+709275,东方明珠Oriental Pearl Radio & Television Tower,222,92.0,在259米高的全透明观光廊上，360度欣赏申城夜景。,1.0,121.5064146572,31.2453018761,47216,0.29,https://img1.qunarzz.com/travel/d6/201404/14/a26378c6f178737addb12cfb.jpg_r_480x360x95_4635a210.jpg,¥189
+722972,田子坊Tianzifang,216,88.0,穿梭在上海小弄堂里，逛逛复古小店和文人工作室。,3.0,121.474974,31.214113,3397,0.29,https://img1.qunarzz.com/travel/d7/1707/b5/e1a43331761a0b5.jpg_r_480x360x95_6c784a95.jpg,¥35
+7469007,上海海湾国家森林公园Shanghai Haiwan National Forest Park,2,88.0,烧烤、骑马、骑单车，赏梅赏荷观鸟好去处。,249.0,121.6970688369,30.867699394,1125,0.0,https://img1.qunarzz.com/travel/poi/1507/be/78528e5d201e92.jpg_r_480x360x95_bf42a7ef.jpg,¥54.3
+716525,上海野生动物园Shanghai Wild Animal Park,7,94.0,与世界各地的动物亲密接触，体验亲手投食给羊驼的乐趣。,9.0,121.727995,31.06138,23113,0.0,https://img1.qunarzz.com/travel/d0/1501/8b/06304e231ac1c4.jpg_r_480x360x95_fa6ef4d6.jpg,¥258
+703906,静安寺Jing'an Temple,26,90.0,东部地区少见的融入藏式建筑风格的寺庙，闹市中的有名古刹。,38.0,121.451595,31.229947,882,0.05,https://img1.qunarzz.com/travel/d4/201405/02/a15f8e561862ed7dddb12cfb.jpg_r_480x360x95_44ed61f5.jpg,¥5
+705355,金山城市沙滩Jinshan City Beach,2,86.0,上海市内为数不多的海滨沙滩之一，玩沙子、海里游泳，尽情在海边撒欢。,73.0,121.355903,30.714121,589,0.0,https://img1.qunarzz.com/travel/d6/1503/df/63c479abfb49af.jpg_r_480x360x95_6452200e.jpg,¥1.1
+5475551,泰晤士小镇Thames Town,5,90.0,教堂、城堡、桥廊，充斥着英伦风情，婚纱写真取景胜地。,1.0,121.204571,31.040178,984,0.01,https://img1.qunarzz.com/travel/d7/1709/ec/adf4efc1508803b5.jpg_r_480x360x95_bc449451.jpg,¥6
+716265,上海博物馆Shanghai Museum,50,92.0,观赏西周大克鼎、唐朝《高逸图》，还有众多青铜陶瓷和书画。,14.0,121.482358,31.234149,2387,0.11,https://img1.qunarzz.com/travel/poi/1409/22/a438e22e3f0d0e68ffffffffc8d65eac.jpg_r_480x360x95_0cd26a1f.jpg,¥796
+705830,上海共青森林公园Gongqing National Forest Park,4,92.0,离市区最近的森林公园，踏青秋游、烧烤野营、骑马射箭好去处。,244.0,121.557183,31.325266,958,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/70369457a9ab5e0f902ea1897b2e9edd.jpeg_r_480x360x95_5efae3aa.jpeg,¥258
+711011,豫园Yu Garden,183,94.0,市区留存完好的江南古典园林，亭台楼阁雕梁画栋。,7.0,121.49909,31.232431,10344,0.33,https://img1.qunarzz.com/travel/d7/1501/1a/8b78689f24bdeb.jpg_r_480x360x95_657c5a8f.jpg,¥30
+702215,上海科技馆Shanghai Science and Technology Museum,31,94.0,上海最大的科普教育殿堂，体验各种模拟项目，感受科幻场景。,6.0,121.547781,31.224611,6759,0.04,https://img1.qunarzz.com/travel/d9/1509/10/9c8d705b83b50f.jpg_r_480x360x95_57322115.jpg,¥88
+702212,上海自然博物馆Shanghai Natural History Museum,14,96.0,展品十分丰富，“黄河古象”“马门溪龙”是镇馆之宝。,12.0,121.469143,31.241221,2151,0.01,https://img1.qunarzz.com/travel/d8/1703/4f/dd1d1db3b834f8b5.jpg_r_480x360x95_f84969dd.jpg,¥49.8
+7475055,金山嘴渔村Jinshanzui Fishing Village,1,86.0,,2742.0,121.382644,30.738368,207,0.0,https://img1.qunarzz.com/p/tts6/1807/96/2698928401d45c02.jpg_r_480x360x95_6bb6e496.jpg,¥32
+18700129,南京路步行街Nanjing Road Pedestrian Street,0,94.0,现代建筑夹杂着欧式老楼，竖挂的店铺灯箱连绵不绝。,,121.4907,31.243231,12166,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/9ef791a30bb31ecd37d9632ca288392e.jpg_r_480x360x95_27bd6bde.jpg,¥49.9
+705785,枫泾古镇Fengjing Ancient Town,9,86.0,被誉为“吴越名镇”，游览水乡风貌，欣赏乡村农民画作。,42.0,121.022096,30.893168,809,0.0,https://img1.qunarzz.com/travel/d2/1608/57/69b2742e514f6cb5.jpg_r_480x360x95_8466c8a1.jpg,¥37.5
+10071115,上海之巅观光厅Top of Shanghai Observatory,1,94.0,上海最高的观光厅，360度全视角欣赏上海魅力全景，实乃上海之巅。,70.0,121.512114,31.239112,1217,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/24430bb3e819e3f9c0849d92cddd7b35.jpg_r_480x360x95_e5d801ad.jpg,¥159
+715570,东平国家森林公园Dongping National Forest Park,2,90.0,去环园骑行、滑草、露营，在森林中自助烧烤也很有野趣。,2.0,121.486723,31.689489,1508,0.0,https://img1.qunarzz.com/travel/d4/1505/4f/5749590812ff50.jpg_r_480x360x95_95bf12eb.jpg,¥45
+707403,淀山湖风景区Dianshan Lake Scenic Spot,1,86.0,上海最大的天然淡水湖泊，也是母亲河黄浦江的源头，风光秀丽。,246.0,121.019202,31.135379,213,0.0,https://img1.qunarzz.com/travel/d1/1508/d7/1cc18fed31d847.jpg_r_480x360x95_d2539be8.jpg,¥750
+702646,东滩湿地公园Dongtan Wetland Park,6,84.0,漫步于植被丰富的湿地栈道，是观日出和自然摄影的胜地。,1.0,121.955977,31.52401,519,0.0,https://img1.qunarzz.com/travel/poi/1409/04/e77dd433df95bfa0ffffffffc8d65eac.jpg_r_480x360x95_b06f1732.jpg,¥36
+712879,上海汽车博物馆Shanghai Automobile Museum,4,94.0,观赏各种品牌的古董车，了解汽车发展史，体验模拟驾驶。,28.0,121.1766998633,31.2846949817,857,0.0,https://img1.qunarzz.com/travel/d9/1608/a9/ad9088fe0595a6b5.jpg_r_480x360x95_444e28fd.jpg,¥55
+709914,上海影视乐园Shanghai Film Park,3,88.0,老上海影视拍摄地，坐有轨电车或黄包车，体验时光倒流。,2.0,121.319246,31.016544,1906,0.01,https://img1.qunarzz.com/travel/d8/1801/63/891dd4c6ac4312b5.jpg_r_480x360x95_7503b8be.jpg,¥66
+711098,东方绿舟Oriental Land,1,92.0,适合休闲郊游、素质拓展的大型公园。,578.0,121.017139,31.114697,1095,0.0,https://img1.qunarzz.com/travel/poi/1803/ce/5ecf0ea135bf7437.jpg_r_480x360x95_e7b8f28a.jpg,¥42.6
+25507694,魔都矩阵Magic Jungle,0,88.0,,,121.504804,31.252651,18,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif,¥90
+10011924,新天地Xintiandi,3,92.0,上海新地标之一，夜晚穿梭于各个露天酒吧，体验夜上海生活。,59.0,121.4812442093,31.2271646118,1398,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/bd2744c7eaa3cc4b869e182670a49c5c.jpg_r_480x360x95_6d50cd08.jpg,¥228
+7588186,周浦花海Zhoupu Sea of Flowers,1,86.0,不用远赴海外，在沪上就能观赏到异国花海。,397.0,121.650622,31.125903,327,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/58bcad4492041ca80ad45e663c0929f5.jpg_r_480x360x95_ac589933.jpg,¥30
+706140,七宝古镇Qibao Ancient Town,19,88.0,,13.0,121.361199,31.158938,366,0.05,https://img1.qunarzz.com/travel/d9/1701/6a/434aa6c7c10fb8b5.jpg_r_480x360x95_8e4557e7.jpg,¥6
+10069476,上海薰衣草公园Momchilovtsi Herb Garden,1,94.0,,1741.0,121.681945,31.147702,293,0.0,https://img1.qunarzz.com/piao/fusion/2106/61/a931bbabecbeb902.jpg_r_480x360x95_14b6c5ce.jpg,¥98
+9209339,迪士尼小镇Disneytown,20,94.0,美食、购物一应俱全，华特迪士尼大剧院坐落于此。,2.0,121.668349,31.145926,1173,0.0,https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/fusion/20222/79611e3aad5722e615fb2ed5139011ed.jpg_r_480x360x95_5face256.jpg,¥402.9
+9485893,长兴岛郊野公园Changxing Island Country Park,1,84.0,,5.0,121.720774,31.406121,134,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/a167278b52ce2526690fee637b18b92f.jpg_r_480x360x95_3aa4951b.jpg,¥10
+5475533,佘山国家森林公园Sheshan National Forest Park,2,90.0,上海高峰所在地，佘山天文台是看天文奇观的好去处。,5.0,121.201907,31.100768,486,0.0,https://img1.qunarzz.com/travel/poi/1803/9f/481ea5f2bac3e637.jpg_r_480x360x95_638b02d8.jpg,¥6
+5475547,西沙明珠湖景区Xisha Mingzhu Lake Park,2,90.0,,6.0,121.2634927397,31.7438824857,235,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/ca18543fe0584a9a4e4265206858ca90.jpg_r_480x360x95_0ca28944.jpg,¥6
+716400,碧海金沙Bihai Jinsha Beach,1,90.0,上海最大的“人造”沙滩，沙子细软，不出上海也能与大海亲密接触！,51.0,121.582948,30.831425,689,0.0,https://mp-commentcp.qunarzz.com/mp_comment_mp_comment/1562039052271100j15000000yr0hd795F_D_640_10000.jpg_r_480x360x95_36cfcaee.jpg,¥2099
+704158,人民广场People's Square,88,94.0,名副其实的上海地标和交通枢纽，在广场上喂鸽子看喷泉。,26.0,121.481144,31.235297,1877,0.13,https://img1.qunarzz.com/travel/d4/1712/e0/33a7807bf36a04b5.jpg_r_480x360x95_603b821b.jpg,¥96.8
+7481664,陆家嘴Lujiazui,86,94.0,举世闻名的金融中心，乐园和大型商场众多。,15.0,121.508984,31.243812,1283,0.02,https://tr-osdcp.qunarzz.com/tr-osd-tr-touch/img/d59c5355024ad0c918bbfb7949e861e6.jpeg_r_480x360x95_aa7452df.jpeg,¥97
+704937,上海滨江森林公园Binjiang Forest Park,2,94.0,观江景、看夕阳，或是在林中漫步，春季赏杜鹃花，夏季可欣赏湿地植物。,569.0,121.534393,31.38897,366,0.0,https://img1.qunarzz.com/piao/fusion/2004/25/40e2e0f31ae3a202.jpg_r_480x360x95_7530d7c7.jpg,¥7
+18718663,花开海上生态园Huakai Haishang Ecological Park,0,92.0,,,121.122985,30.891863,160,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/2fd3db02027c15194a62e388674daf34.jpg_r_480x360x95_d50694a2.jpg,¥28
+704241,古猗园Guyi Garden,11,92.0,上海最大的园林，吸引无数摄影爱好者，园内上海古猗园餐厅能吃到正宗南翔小笼。,166.0,121.3229,31.297989,1275,0.0,https://img1.qunarzz.com/travel/d1/1701/2b/8a3e4d9586b12b5.jpg_r_480x360x95_7b1e2612.jpg,¥0.5
+704220,上海动物园Shanghai Zoo,5,94.0,中国第二大城市动物园，观察珍稀动物，体验亲手喂食。,23.0,121.3694183532,31.1986780408,3123,0.0,https://img1.qunarzz.com/travel/d5/1511/d3/b00407097f93cbf7.jpg_r_480x360x95_e96cc691.jpg,¥40
+5475534,上海辰山植物园Shanghai Chenshan Botanical Garden,2,94.0,在矿井花园看瀑布，冬天在展馆温室观赏各类珍稀植物。,3.0,121.189078,31.081652,1497,0.0,https://img1.qunarzz.com/travel/d7/1506/c7/ab8591892881e9.jpg_r_480x360x95_50087abd.jpg,¥60
+7469103,上海电影博物馆Shanghai Film Museum,3,94.0,观赏各种电影海报和拍摄道具，体验有趣的电影后期制作过程。,43.0,121.444536,31.192501,682,0.0,https://img1.qunarzz.com/travel/d5/1709/8a/edd78927938943b5.jpg_r_480x360x95_00519132.jpg,¥54
+716105,上海植物园Shanghai Botanical Garden,8,90.0,上海市区的大花园，四季植被茂盛，是散步健身、花卉摄影的好去处。,46.0,121.450949,31.153874,1436,0.0,https://img1.qunarzz.com/travel/d5/1605/9b/a2668d973d8950f7.jpg_r_480x360x95_9a9a3c7c.jpg,¥15
+714081,上海大观园Shanghai Grand View Garden,4,90.0,漫步大型仿古建筑群，置身《红楼梦》的仿真场景之中。,72.0,120.916634,31.079238,736,0.0,https://img1.qunarzz.com/travel/d2/1709/e3/1c51f06452620ab5.jpg_r_480x360x95_07da6db4.jpg,¥48
+704127,南翔古镇Nanxiang Ancient Town,8,88.0,看白墙黑瓦江南水乡，逛上海最大的江南园林古猗园。,62.0,121.313593,31.297143,701,0.0,https://img1.qunarzz.com/travel/d0/1510/16/1a78db866ff53f7.jpg_r_480x360x95_841365fb.jpg,¥35
+7643882,上海玻璃博物馆Shanghai Museum of Glass,1,88.0,玻璃窑炉车间改建的博物馆，可见各种精美的玻璃艺术品，观看玻璃制作过程。,89.0,121.478542,31.349786,503,0.0,https://img1.qunarzz.com/travel/d5/1801/17/9395cb4d009562b5.jpg_r_480x360x95_c2e47bc9.jpg,¥80
+9722452,上海外滩星空艺术馆Starry Gallery of Shanghai,1,84.0,,170.0,121.50497,31.233565,250,0.0,https://img1.qunarzz.com/travel/d6/1603/82/d9861d1adeb0bdf7.jpg_r_480x360x95_4718f770.jpg,¥68
+9487279,愚园路历史风貌保护区Yuyuan Road,3,94.0,繁华中的幽静，凝聚了诸多老上海故事的低调马路。,2393.0,121.444871,31.227868,313,0.0,https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/fusion/202010/614bab0d4ceef18fb1aa8e4e58721050.jpg_r_480x360x95_df2217e0.jpg,¥138
+708035,上海长风海洋世界Changfeng Ocean World,2,86.0,观看大型海洋动物的表演。,5.0,121.403475,31.230932,2334,0.0,https://img1.qunarzz.com/travel/poi/1505/2f/5d8979395f1105.jpg_r_480x360x95_5be114a4.jpg,¥170
+704769,方塔园Songjiang Square Pagoda,2,90.0,环境优雅的园林，可见宋代方塔、明代砖雕照壁、清代天妃宫等景点。,10.0,121.253011,31.010392,331,0.0,https://flight-feed.qunarzz.com/as3/180/image/poi_vishnu/04ca1353-ab20-4e90-b448-717bbcc3d852.jpg_480x360_6dd4874c.jpg_480x360_1797ece8.jpg,¥80
+30011590,EPSON teamLab 无界美术馆EPSON teamLab: teamLab Borderless Shanghai,0,94.0,,,121.504015597,31.2074602994,35,0.0,https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/fusion/202010/9a4d23a83ca57dcb58fd0f0c98a923b8.jpg_r_480x360x95_5cb2be50.jpg,¥209
+10011925,城隍庙旅游区Shanghai City God Temple Tourist Area,61,92.0,参观豫园和老城隍庙，品地道上海小吃和本帮菜。,143.0,121.497994,31.232396,5642,0.0,https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/fusion/202110/316d8b6a6e6ccf02bab2864af71fed3f.jpg_r_480x360x95_8dfcf86b.jpg,¥30
+10000319,醉白池Zuibaichi Park,2,90.0,上海最古老的园林，参观经典明清建筑，欣赏各种名人石刻。,47.0,121.237508,31.007731,355,0.0,https://flight-feed.qunarzz.com/as3/180/image/poi_vishnu/20254b82-986a-47c5-842a-a4b3e56237f5.jpg_480x360_068de01e.jpg_480x360_51588aee.jpg,¥12
+9528113,月湖雕塑公园Shanghai Sculpture Park,1,88.0,在错落着艺术雕塑的月湖畔散步，拥有大面积果岭草地，上海的溜宠胜地。,64.0,121.211287,31.107223,474,0.0,https://img1.qunarzz.com/travel/d1/1705/3f/334aed2ef1c830b5.jpg_r_480x360x95_7e846152.jpg,¥98.7
+706279,周公馆Former Residence of Zhou Enlai in Shanghai,2,92.0,保存完好的西班牙式花园洋楼，伟人们在沪展开革命之地。,112.0,121.474868,31.22029,131,0.01,https://img1.qunarzz.com/travel/d4/1506/75/f5b752a0435665.jpg_r_480x360x95_c34d0acc.jpg,¥78
+702507,长风公园Changfeng Park,3,90.0,“勇敢者道路”很受青少年喜爱；长风海洋世界在园内。,93.0,121.406081,31.230871,909,0.0,https://img1.qunarzz.com/travel/d0/1512/f0/ab9a4f4dd00fb0f7.jpg_r_480x360x95_2f001425.jpg,¥170
+7481933,武康大楼Wukang Mansion,12,92.0,形似熨斗的上海著名建筑大楼，诸多名人曾入住于此。,133.0,121.44472,31.210733,288,0.0,https://img1.qunarzz.com/travel/poi/1803/dd/05e5222f11f3dd37.jpg_r_480x360x95_ace72fc5.jpg,¥89
+7469012,江南三民文化村Jiangnan Sanmin Culture Village,0,84.0,富有民俗特色的文化村，踩高跷推铁环玩童年游戏。,3.0,121.5057,31.724771,59,0.0,https://img1.qunarzz.com/travel/poi/1408/26/b5acf2028eee80b6ffffffffc8d65eac.jpg_r_480x360x95_603539ae.jpg,¥30
+9789450,金茂大厦88层观光厅Jinmao Tower Observation Deck,1,94.0,上海著名观景平台，能在高空俯瞰繁华的魔都。,142.0,121.512231,31.241024,1798,0.0,https://img1.qunarzz.com/piao/fusion/2011/97/ba4075d9e0031e02.jpg_r_480x360x95_835295bc.jpg,¥76
+20971171,上海寻梦源梦水乡Xunmengyuan Herb Farm,0,84.0,,,121.097122,31.047402,17,0.0,https://img1.qunarzz.com/piao/fusion/2110/a9/965e5c595f6adf02.jpg_r_480x360x95_8233b4a0.jpg,¥45
+7481870,大宁灵石公园Daning Park,4,92.0,不用远赴海外，就能感受到荷兰赏花胜地“库肯霍夫花园”的郁金风情。,121.0,121.45316,31.284678,954,0.0,https://img1.qunarzz.com/travel/d3/1506/bc/214f37245c3240.jpg_r_480x360x95_b28b7f62.jpg,¥6
+5291267,喜玛拉雅美术馆Shanghai Himalayas Museum,1,88.0,,15.0,121.568386,31.215181,83,0.0,https://img1.qunarzz.com/p/tts5/1807/16/2d820bbca0dc9002.jpg_r_480x360x95_55b07abb.jpg,¥60
+713934,上海马戏城Shanghai Circus World,1,90.0,中国马戏第一城，有适合小朋友观看的《欢乐马戏》，也有享誉海外的《ERA时空之旅》。,8.0,121.457945,31.284439,886,0.0,https://img1.qunarzz.com/travel/d1/1408/22/1083893885de811dffffffffc8d65eac.jpg_r_480x360x95_c46c6a9d.jpg,¥361
+32562008,小灶村体验农场Xiaozaocun Tiyan Farm,0,76.0,,,121.284467,31.395217,5,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/a58d3248cf35b8e0293806bfc01f7186.jpg_r_480x360x95_8ca608af.jpg,¥58
+20978005,浦江郊野公园奇迹花园Pujiang Jiaoye Gongyuan Qiji Garden,0,88.0,,,121.514217,31.060286,175,0.0,https://img1.qunarzz.com/piao/fusion/2110/7e/2573187d59471402.jpg_r_480x360x95_1ea13c04.jpg,¥49
+7474645,古华公园Guhua Park,1,90.0,,2748.0,121.471003,30.923862,254,0.0,https://img1.qunarzz.com/travel/poi/1507/c2/5c7d8f9c81c4d.jpg_r_480x360x95_a857267d.jpg,¥7
+712307,上海宋庆龄故居纪念馆Soong Ching Ling Memorial Residence,1,92.0,繁华淮海路上闹中取静的一处，西式建筑风格优雅别致。,87.0,121.445413,31.210427,215,0.01,https://img1.qunarzz.com/travel/d7/1506/5e/a1d9eff2100f54.jpg_r_480x360x95_4954fb0a.jpg,¥468
+713908,世纪公园Century Park,11,96.0,上海市内最大的生态公园，树木花草众多，休闲漫步的好去处。,64.0,121.558238,31.221747,2167,0.01,https://img1.qunarzz.com/travel/d6/1506/24/dd73aa2b96c5d1.jpg_r_480x360x95_dbb50fe2.jpg,¥15
+3540029,南京西路West Nanjing Road,12,94.0,,23.0,121.4598485479,31.2330771947,36,0.0,https://img1.qunarzz.com/piao/fusion/1502/10/415ac57b06838c.jpg_r_480x360x95_20e0a356.jpg,¥96.8
+7481898,上海琉璃艺术博物馆Liuli China Museum,5,90.0,中国甚至亚洲第一个展示琉璃艺术的博物馆，能欣赏古代中国到现代世界的琉璃大作。,51.0,121.476866,31.213867,314,0.0,https://img1.qunarzz.com/travel/d7/1704/fe/379dffc2a8741ab5.jpg_r_480x360x95_2842886e.jpg,¥54
+7469001,中国航海博物馆China Maritime Museum,2,94.0,国内首座航海专题博物馆，看各种仿真模型和航海设备实物。,61.0,121.926006,30.902445,706,0.0,https://img1.qunarzz.com/travel/poi/1408/26/fd9af6fa96bb92c7ffffffffc8d65eac.jpg_r_480x360x95_a576902e.jpg,¥27
+37166239,汤连得·多喜温泉（闵行店）,0,82.0,,,121.375454,31.146,0,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif,¥88
+10042644,崇明荷花博览园Lotus Expo Park,1,88.0,,12.0,121.246813,31.735561,38,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/86efd0fd8418aeb6e1dd1997fc071eff.jpg_r_480x360x95_a6605123.jpg,¥9.9
+5129137,M50创意园M50 Creative Park,7,90.0,去M50看苏州河畔的艺术，感受浓厚的文化气息。,104.0,121.455795,31.254456,292,0.01,https://img1.qunarzz.com/travel/d4/1612/44/cfc17714eaaa0ab5.jpg_r_480x360x95_5770d50f.jpg,¥6
+712688,上海工艺美术博物馆Shanghai Arts and Crafts Museum,1,90.0,被称为“小白宫”，可以参观雕刻、刺绣等民间艺术制作。,125.0,121.460803,31.216576,170,0.0,https://img1.qunarzz.com/travel/d5/1504/d7/ace7b96a98bfb1.jpg_r_480x360x95_c714f30e.jpg,¥6
+707203,鲁迅公园Lu Xun Park,18,90.0,鲁迅先生曾经常来此散步，瞻仰鲁迅先生之墓，了解他的生平。,69.0,121.489991,31.277458,604,0.01,https://img1.qunarzz.com/travel/d7/1703/84/20d9ebea2b75f4b5.jpg_r_480x360x95_d7be14e5.jpg,¥7
+703515,龙华寺Longhua Temple,1,90.0,上海历史最久、规模最大的古刹，祈福十分灵验，还能品尝寺内正宗素斋面。,141.0,121.45827,31.181625,409,0.0,https://img1.qunarzz.com/travel/d3/1503/cd/3affe0cc49d1c0.jpg_r_480x360x95_c7c91fd7.jpg,¥1330
+5740176,外滩情人墙Bund Lover’s Wall,1,90.0,,124.0,121.4971,31.24456,352,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/54616fa779279a32c0ddfe43faaafd57.jpg_r_480x360x95_48456d7a.jpg,¥234
+10095045,浦江郊野公园Pujiang Country Park,1,88.0,,226.0,121.514275,31.054805,152,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/1055244ab455b871a75d799c3c039c76.jpg_r_480x360x95_c7f39c39.jpg,¥49
+10077455,艺仓美术馆Yicang Gallery,3,92.0,,783.0,121.5189942894,31.2221834718,57,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/47a100cf385f037dfb070d6881ad7dde.jpg_r_480x360x95_4ca90dc0.jpg,¥100
+9199897,震旦博物馆Aurora Museum,1,94.0,,409.0,121.506401,31.240127,223,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/776f96fd5fadb246883245cad13fb838.jpg_r_480x360x95_cbec063c.jpg,¥60
+7474942,桥乡金泽Jinze Ancient Town,1,88.0,,391.0,120.928882,31.041805,71,0.0,https://img1.qunarzz.com/piao/fusion/1412/42/42ef8e4dfdd5af29cdb.jpg_r_480x360x95_a245a8ad.jpg,¥99
+706091,中国共产党第一次全国代表大会会址The site of the first CPC National Congress,3,92.0,中国共产党的诞生地。,86.0,121.481627,31.22608,263,0.01,https://img1.qunarzz.com/travel/d3/1711/a2/0306ef824c6b8bb5.jpg_r_480x360x95_56e8b4c2.jpg,¥10
+704895,孙中山故居纪念馆Former Residence of Sun Yat-sen,6,92.0,孙中山和宋庆龄唯一共同的住所，老上海小洋房十分精致。,297.0,121.474213,31.222108,217,0.0,https://mp-commentcp.qunarzz.com/mp_comment_mp_comment/1559244797459100t14000000x1pyzA317_D_640_10000.jpg_r_480x360x95_bed75ffa.jpg,¥568
+716231,上海市历史博物馆Shanghai History Museum (People's Square),4,94.0,,71.0,121.47734738,31.2370712547,226,0.0,https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/fusion/20208/3c4a554c4d2eeb1480b1b26bf246bfd4.jpg_r_480x360x95_24eb76e9.jpg,¥139
+7481658,同济大学Tongji University,12,94.0,上海百年名校，也是著名的赏樱胜地。,78.0,121.5078955868,31.2885097222,348,0.0,https://img1.qunarzz.com/travel/d2/1705/c3/40b3efc30db2a5b5.jpg_r_480x360x95_8a3719ea.jpg,¥6
+706664,上海大自然野生昆虫馆Shanghai Natural Wild Insect Kingdom,2,90.0,国内首批活体昆虫展示馆之一，投食喂锦鲤，观赏蝴蝶标本。,68.0,121.504313,31.246055,906,0.0,https://img1.qunarzz.com/travel/d1/1408/22/f154375d3d0dcaf9ffffffffc8d65eac.jpg_r_480x360x95_8408eae0.jpg,¥62
+7642179,韩湘水博园Shanghai Hanxiang Water Garden,2,88.0,,274.0,121.3357853989,30.9903439499,243,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-mapi/img/88dacf443d8b02c3b0a505675550f7f4.jpg_r_480x360x95_31ec74bd.jpg,¥6
+719540,天马山公园Tianmashan Park,2,90.0,比佘山更清净，可登高远眺周边地貌，参观著名北宋斜塔。,4.0,121.15945,31.081471,140,0.0,https://img1.qunarzz.com/travel/poi/1409/05/bd85d799089878c8ffffffffc8d65eac.jpg_r_480x360x95_49593af2.jpg,¥10
+3706839,上海四行仓库抗战纪念馆Sihang Warehouse Battle Memorial,1,94.0,,129.0,121.477852,31.246263,63,0.0,https://img1.qunarzz.com/travel/poi/1808/c0/90068bf59400db37.jpg_r_480x360x95_0e73abbb.jpg,¥94
+25919136,比斯特上海购物村Shanghai Village,0,92.0,,,121.686884,31.145974,45,0.0,https://flight-feed.qunarzz.com/as3/180/image/poi_vishnu/e339fe65-c3bd-473e-adfb-044ff12ac494.jpg_480x360_a41e5ecf.jpg_480x360_297b9684.jpg,¥339
+23352447,赛梦·微缩世界（陆家嘴正大店）Saimeng Miniature World · Century Bund,0,88.0,,,121.505934,31.242497,46,0.0,https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/52e018b9e2eb8cac936e428d7784e796.jpg_r_480x360x95_498b448c.jpg,¥86.7
+10092669,光明生态园Guangming Ecological Park,0,94.0,,553.0,121.677506,31.153317,41,0.0,https://img1.qunarzz.com/piao/fusion/1805/f3/88e55bb68a065702.jpg_r_480x360x95_fadd5ecc.jpg,¥150
+10076655,滴水湖壹号码头Dishuihu No.1 Pier,0,86.0,,1029.0,121.93794801,30.9119596999,12,0.0,https://img1.qunarzz.com/travel/poi/1803/78/13e64e9ee0964637.jpg_r_480x360x95_f2a8f42e.jpg,¥298
+10009609,南翔檀园Nanxiang Tan Garden,1,92.0,,2210.0,121.314677266,31.297586441,256,0.0,https://mp-commentcp.qunarzz.com/mp_comment_mp_comment/1559330404941100h14000000wyw41F4BD_D_640_10000.jpg_r_480x360x95_0cbc8b96.jpg,¥35
+9479726,上海观复博物馆Shanghai Guanfu Museum,3,94.0,,145.0,121.512317,31.239248,223,0.0,https://img1.qunarzz.com/travel/d8/1702/2a/2711b57717206fb5.jpg_r_480x360x95_f65dd966.jpg,¥88
+7475071,中国农民画村Chinese Folk Art Village,0,78.0,,2741.0,121.021866,30.927123,93,0.0,https://mp-commentcp.qunarzz.com/mp_comment_mp_comment/1562526457712100s16000000z9hmmF354_D_640_10000.jpg_r_480x360x95_2f9bc3fe.jpg,¥25
+714619,外滩观光隧道Bund Sightseeing Tunnel,15,78.0,我国第一条越江行人隧道，坐观光车厢“穿越地球”。,11.0,121.497875,31.245464,1770,0.05,https://img1.qunarzz.com/piao/fusion/2111/96/8a299d0913e15b02.jpg_r_480x360x95_ecdb2234.jpg,¥60
+701574,陆家嘴中心绿地Lujiazui Central Greenland,4,94.0,,373.0,121.5125350266,31.2435188293,3944,0.03,https://img1.qunarzz.com/travel/d2/1509/63/62f4568d9de2f9.jpg_r_480x360x95_e9d2fc00.jpg,¥90
+7469066,顾村公园Gucun Park,7,92.0,花木茂盛的公园，每到春天樱花季赏樱游人络绎不绝。,134.0,121.374831,31.344263,1690,0.0,https://img1.qunarzz.com/travel/d4/1506/93/29f212661b2458.jpg_r_480x360x95_35e919ad.jpg,¥49.9
+7646865,上海犹太难民纪念馆Shanghai Jewish Refugees Museum,2,92.0,国内唯一反映二战时期犹太难民生活的历史遗迹。,95.0,121.515776,31.259707,306,0.0,https://mp-commentcp.qunarzz.com/mp_comment_mp_comment/1547492602115100w10000000ovzm216EE_D_640_10000.jpg_r_480x360x95_378983ea.jpg,¥20
+709139,秋霞圃Qiuxia Garden,3,90.0,由三座明代私家园林和邑庙合并而成的经典园林，是上海难得的赏枫胜地。,380.0,121.259405,31.392447,247,0.0,https://img1.qunarzz.com/travel/d3/1506/77/22c99ffc612844.jpg_r_480x360x95_15d74574.jpg,¥7
+7481743,上海城市历史发展陈列馆Shanghai History Museum (Pudong),8,92.0,穿越700年寻觅老上海历史风情,90.0,121.506458,31.245391,929,0.0,https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/fusion/20221/273fd69b88c01cb7078c86f07325bb20.jpg_r_480x360x95_b6aa9c17.jpg,¥220
+705126,三山会馆San Mountain Association,1,88.0,,613.0,121.50218,31.21097,80,0.0,https://img1.qunarzz.com/travel/d2/1802/8d/f80df8bf51fa5eb5.jpg_r_480x360x95_819b45c6.jpg,¥5
+706258,寿安寺Shou'an Temple,1,86.0,,7.0,121.4279830659,31.620973587,28,0.0,https://img1.qunarzz.com/travel/poi/1803/c5/14a374c32d77cd37.jpg_r_480x360x95_98cb4b8c.jpg,¥6
+5265200,光明瑞华果园Bright Ruihua Orchard,1,86.0,,240.0,121.3359027102,31.8181591034,43,0.0,https://img1.qunarzz.com/travel/poi/1409/04/8957b332a0dc04a8ffffffffc8d65eac.jpg_r_480x360x95_b2a47456.jpg,¥7
+708223,书隐楼Shuyin Building,1,90.0,,671.0,121.503007,31.224853,49,0.0,https://flight-feed.qunarzz.com/as3/180/image/poi_vishnu/17ad9261-741c-4052-980f-d16db65411c0.jpg_480x360_2cb77220.jpg_480x360_bcc91efb.jpg,¥6
+712600,潮音庵ChaoYnnAn Buddhist Nunnery,2,86.0,,673.0,121.673731,31.294718,53,0.0,https://img1.qunarzz.com/travel/poi/201408/06/7dc8cc10cb6b007cc8d65eac.gif_r_480x360x95_08d929d7.gif,¥5
+7471010,廊下郊野公园Langxia Ecological Park,0,80.0,,272.0,121.164712,30.792426,83,0.0,https://img1.qunarzz.com/travel/poi/1409/02/d5dbce65f322bbadffffffffc8d65eac.jpg_r_480x360x95_28a82235.jpg,¥5

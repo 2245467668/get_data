@@ -9,13 +9,13 @@ import pandas as pd
 def get_url(n):
     lst = []
     for i in range(n):
-        ui = "https://travel.qunar.com/p-cs299861-nanjing-jingdian-1-{}".format(i + 1)
+        ui = "https://travel.qunar.com/p-cs300085-chengdu-jingdian-1-{}".format(i + 1)
         lst.append(ui)
     return lst
 
 
 def get_data(ui, d_h, d_c):
-    global dic, dls
+
     ri = requests.get(ui, headers=dic_heders, cookies=dic_cookies)
     time.sleep(1)
     soup_i = BeautifulSoup(ri.text, 'lxml')
@@ -25,10 +25,10 @@ def get_data(ui, d_h, d_c):
     lst = []
 
     for li in lis:
-        time.sleep(2)
+        time.sleep(1)
         dic = {}
         dic['sid'] = re.findall(r"\d+\.?\d*", li.find('a', class_="imglink")['href'])[0]  # sid 从url中提取数字作为id
-        print(re.findall(r"\d+\.?\d*", li.find('a', class_="imglink")['href'])[0])
+        # print(re.findall(r"\d+\.?\d*", li.find('a', class_="imglink")['href'])[0])
         dic['景点名称'] = li.find('span', class_="cn_tit").text
         dic['攻略数量'] = li.find('div', class_="strategy_sum").text
         dic['评分'] = li.find('span', class_="total_star").span['style']
@@ -41,15 +41,20 @@ def get_data(ui, d_h, d_c):
         dic['图片url'] = li.find('a', class_="imglink").img['src']
         url = requests.get(li.find('a', class_="imglink")['href'], headers=dic_heders, cookies=dic_cookies)
 
-        soup = BeautifulSoup(url.text, 'lxml')
-        div = soup.find("div", class_="e_ticket_info")
-        dls = div.find_all('dl')
-        for dl in dls:
-            # price=.text
-            # print(price)
-         dic['价格'] = dl.find('dd', class_="e_now_price").span.text
+        try:
+          time.sleep(1.5)
+          soup = BeautifulSoup(url.text, 'lxml')
+          div = soup.find("div", class_="e_ticket_info")
+          dl=div.find('dl')
+          price=dl.find("dd",class_="e_now_price").span.text
+          dic['price']=price
+          print(price)
+        except:
+            continue
+
+
         lst.append(dic)
-    print(lst)
+    # print(lst)
 
     return lst
     # 获取价格
@@ -66,26 +71,24 @@ if __name__ == "__main__":
     cookies_lst = cookies.split("; ")
     for i in cookies_lst:
         dic_cookies[i.split("=")[0]] = i.split("=")[1]
-
     datalst = []
     errorlst = []
-    for u in get_url(1):
+    for u in get_url(100):
         try:
             datalst.extend(get_data(u, dic_heders, dic_cookies))
-
             print('数据采集成功，共采集数据{}条'.format(len(datalst)))
         except:
             errorlst.append(u)
             print('数据采集失败，网址为：', u)
 
         df = pd.DataFrame(datalst)
-
+        print(df)
         df['经度'] = df['经度'].astype('float')
         df['纬度'] = df['纬度'].astype('float')
-        df['评论数量'] = df['评论数量'].astype('int')
-        df['攻略数量'] = df['攻略数量'].astype('int')
-        df['评分'] = df['评分'].str.split(":").str[-1].str.replace("%", "").astype("float")
-        df['旅游率'] = df['旅游率'].str.replace("%", "").astype('float') / 100
-        df['景点排名'] = df[df['景点排名'] != ""]['景点排名'].str.split("第").str[-1].astype('int')
+        df['评论数量'] = df['评论数量'].astype('int')  #rating_num
+        df['攻略数量'] = df['攻略数量'].astype('int')  #strategy_num
+        df['评分'] = df['评分'].str.split(":").str[-1].str.replace("%", "").astype("float") #rating
+        df['旅游率'] = df['旅游率'].str.replace("%", "").astype('float') / 100              # tourist_ratio
+        df['景点排名'] = df[df['景点排名'] != ""]['景点排名'].str.split("第").str[-1].astype('int')  # rank
 
-        df.to_csv('nanjing_data.csv', index=False)
+        df.to_csv('chengdu_data.csv', index=False)

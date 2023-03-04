@@ -1,4 +1,4 @@
-sid,景点名称,攻略数量,评分,景区介绍,景点排名,经度,纬度,评论数量,旅游率,图片url,经纬度
+sid,Scene_name,strategy_num,rating,introduce,rank,longitude,latitude,rating_num,tourist_ratio,img_url,longAndlat
 710603,故宫,166,96.0,世界五大宫之首，是中国明清两代的皇家宫殿。,1.0,116.403414,39.924091,31850,0.52,https://tr-osdcp.qunarzz.com/tr-osd-vs-dapp-ugc/img/8441a219c051913d1aae63e7bbc1c8bb.jpg_r_480x360x95_96a61045.jpg,[116.403414  39.924091]
 715545,清凉谷风景区,1,82.0,在茂密树木和溪流瀑布间登山漫步，夏日体验众多的水上娱乐项目。,13.0,116.760481,40.639741,197,0.0,https://img1.qunarzz.com/travel/d3/1510/e5/eb805a38a5d1f6.jpg_r_480x360x95_072bf910.jpg,[116.760481  40.639741]
 7469087,古北水镇,33,92.0,京郊少见的北方水镇，建筑古韵十足，泡温泉、登长城。,1.0,117.284632,40.661046,3474,0.01,https://img1.qunarzz.com/travel/d5/1612/e5/3b9c55d7d1953b5.jpg_r_480x360x95_a4e04438.jpg,[117.284632  40.661046]

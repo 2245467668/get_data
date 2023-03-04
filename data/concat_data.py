@@ -11,14 +11,19 @@ pd.set_option("display.unicode.east_asian_width", True)
 pd.set_option("display.width", None)
 def main():
    beijing = pd.read_csv('../beijing_data.csv')
+   beijing['address']='北京'
    shanghai = pd.read_csv('../shanghai_data.csv')
+   shanghai['address']='上海'
    chengdu = pd.read_csv('../chengdu_data.csv')
+   chengdu['address'] = '成都'
    hanzhou = pd.read_csv('../hangzhou_data.csv')
+   hanzhou['address'] = '杭州'
    xiamen = pd.read_csv('../xiamen_data.csv')
+   xiamen['address'] = '厦门'
    nanjing = pd.read_csv('../nanjing_data.csv')
-
+   nanjing['address'] = '南京'
    # 合并数据
-   new_data = pd.concat([beijing, shanghai, nanjing, hanzhou, xiamen, chengdu], ignore_index=True)
+   new_data = pd.concat([beijing, shanghai, nanjing,  xiamen,chengdu,hanzhou], ignore_index=True)
    # new_data['人气']=new_data['评论数量']+new_data['攻略数量']
    # 合并经纬度
    new_data['经纬度']=new_data[['经度','纬度']].apply(lambda x: pd.Series([x.values]),axis=1)
@@ -35,9 +40,12 @@ def main():
 
    data=new_data.pop("景点名称")
    new_data.insert(1,"景点名称",data)
-
-
-   new_data.to_csv("../Scene_data/total_data.csv",index=False)
+   new_data['price']=new_data['price'].str.replace("¥","")
+   new_data.rename(
+      columns={"景点名称": "Scene_name", "攻略数量": "strategy_num", "评分": "rating", "景区介绍": "introduce", "景点排名": "rank",
+               "经度": "longitude", "纬度": "latitude", "旅游率": "tourist_ratio", "评论数量": "rating_num", "图片url": "img_url",
+               "经纬度": "longAndlat"}, inplace=True)
+   new_data.to_csv("../Scene_data/total_price_data.csv",index=False)
 
 
 

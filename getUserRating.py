@@ -1,6 +1,6 @@
 import re
 import time
-
+from itertools  import islice
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
@@ -9,47 +9,46 @@ import pandas as pd
 def get_url(n):
     lst = []
     for i in range(n):
-        ui = "https://travel.qunar.com/p-cs299878-shanghai-jingdian-1-{}".format(i + 1)
+        ui = "https://travel.qunar.com/p-cs300195-hangzhou-jingdian-1-{}".format(i + 1)
         lst.append(ui)
     return lst
 
 
 def get_detail_raing(url, dic_heders, dic_cookies):
-
+    time.sleep(1)
     ri = requests.get(url, headers=dic_heders, cookies=dic_cookies)
     result = ri.content.decode()
-    time.sleep(1)
+
     soup = BeautifulSoup(ri.text, 'lxml')
     # print(soup.find(id="js_replace_box").text)
-
 
     ul = soup.find(id="comment_box")  # 获取评论区标签 //问题
     CommentList = ul.find_all('li')  # 评论列表 由li组成
 
     list = []
-    dic = {}
-
-    for item in CommentList:
-        time.sleep(0.5)
+               # islice(list,10)  切片选取前10个数据
+    for item in CommentList[:100]:  #切片限制10条评论
+        dic = {}
+        time.sleep(1)
         # item 表示一条评论 li
-        for x in item.find_all('div', class_="e_comment_usr_name"):
 
+        for x in item.find_all('div', class_="e_comment_usr_name"):
+            time.sleep(1.5)
             items = x.select('a')[0]  # uid
             uid = re.findall(r"\d+\.?\d*", items.get('href'))[0]  # uid
-
             dic['sid'] = re.findall(r"\d+\.?\d*", url)[0]
             dic['uid'] = uid
 
         # print(re.findall(r"\d+\.?\d*", soup.find_all('div', class_="e_comment_usr_name")[0].select('a')[0].get('href'))[0])
         for y in item.find_all('span',class_="total_star"): #找到 class=total_star 的span标签
+            time.sleep(1.5)
             span=y.select('span')[0]      #找到下一个span标签
             starRating = re.findall(r"\d+\.?\d*", str(span))[0]  #筛选出评分数字
             dic['score'] = int(starRating)
 
-
+            list.append(dic)
             print(dic)
 
-            list.append(dic)
     print(list)
     return list
 
@@ -66,7 +65,6 @@ def get_data(ui, dic_heders, dic_cookies):
     except:
         print("错误")
         pass
-
 
     lst = []
     DetailUrl = []  # 详情页连接
@@ -92,17 +90,16 @@ if __name__ == "__main__":
         dic_cookies[i.split("=")[0]] = i.split("=")[1]
 
     dataset = []
-    for u in get_url(50):
-
+    for u in get_url(7):
         for url in get_data(u, dic_heders, dic_cookies):  # 遍历url列
             try:
                 dataset.extend(get_detail_raing(url, dic_heders, dic_cookies))  # 获取详情页评分数据
                 print('数据采集成功，共采集数据{}条'.format(len(url)))
+
             except:
-                pass
+                continue
                 print('数据采集失败，网址为：', url)
 
-        df = pd.DataFrame(dataset)
-    #
-    #
-        df.to_csv('rating/shanghai_rating.csv', index=False)
+            df = pd.DataFrame(dataset)
+            df.to_csv('rating/hangzhou_rating.csv', index=False)
+            print("写入成功")

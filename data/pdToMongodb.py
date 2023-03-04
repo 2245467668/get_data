@@ -26,7 +26,7 @@ class MongoBase:
 
 if __name__ == '__main__':
     mongo = MongoBase('Scene') #定义collection表名
-    dicts =pd.read_csv('../Scene_data/total_data.csv')
+    dicts =pd.read_csv('../Scene_data/total_price_data.csv')
     dicts.loc[ : , ~dicts.columns.str.contains("^Unnamed")]
     df = pd.DataFrame(dicts)
     mongo.collection.insert(json.loads(df.T.to_json()).values())
